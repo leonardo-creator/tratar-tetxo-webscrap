@@ -1,0 +1,1051 @@
+1
+Q3597925
+Língua Portuguesa Equivalência e substituição de palavras, locuções, expressões e trechos.
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Gestor de Apoio - Área: Fisioterapeuta - 2025
+Texto associado
+Julgue os itens que se seguem, relativos a aspectos linguísticos do texto CB1A1.
+Texto CB1A1
+
+O renomado linguista e filósofo Noam Chomsky e outros dois especialistas em linguística, Ian Roberts e Jeffrey Watumull, escreveram um artigo para o jornal The New York Times, em março de 2023, compartilhando sua visão sobre os avanços que vêm ocorrendo no campo da inteligência artificial (IA).
+Para os intelectuais, os avanços “supostamente revolucionários” apresentados pelos desenvolvedores da IA são motivo “tanto para otimismo como para preocupação”.
+No primeiro caso, porque as ferramentas de IA podem ser úteis para resolver certas problemáticas, ao passo que, no segundo, “tememos que a variedade mais popular e em voga da inteligência artificial (aprendizado automático) degrade nossa ciência e deprecie nossa ética ao incorporar à tecnologia uma concepção fundamentalmente errônea da linguagem e do conhecimento”.
+Embora os linguistas reconheçam que as IA são eficazes na tarefa de armazenar imensas quantidades de informação, que não necessariamente são verídicas, elas não possuem uma “inteligência” como a das pessoas. “Por mais úteis que esses programas possam ser em alguns campos específicos (como na programação de computadores, por exemplo, ou na sugestão de rimas para versos rápidos), sabemos, pela ciência da língua e pela filosofia do conhecimento, que diferem profundamente do modo como os seres humanos raciocinam e utilizam a linguagem”, alertaram. “Essas diferenças impõem limitações significativas ao que podem fazer, que pode ser codificado com falhas inerradicáveis”.
+Nesse sentido, os autores detalharam que, diferentemente de mecanismos de aplicativos como o ChatGPT, que operam com base na coleta de inúmeros dados, a mente humana pode funcionar com pequenas quantidades de informação, por meio das quais “não busca inferir correlações abruptas entre pontos (...), mas, sim, criar explicações”.
+Nessa linha, manifestam que esses aplicativos não são realmente “inteligentes”, pois carecem de capacidade crítica. Embora possam descrever e prever “o que é”, “o que foi” e “o que será”, não são capazes de explicar “o que não é” e “o que não poderia ser”.
+
+Internet: <ihu.unisinos.br> (com adaptações).
+
+A correção e a coerência do texto seriam mantidas caso a forma verbal “compartilhando” (primeiro parágrafo) fosse substituída por a fim de compartilharem.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+70.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+N
+Nathalia
+27 de janeiro de 2025 às 11:20
+Correção gramatical ➪ Mantida ✔️ 
+Coerência do texto ➪ Mantida ✔️ 
+Sentido do texto ➪ Alterado ⓧ
+"Compartilhando" traz a ideia de ação contínua e certa que, no caso, já foi "concluída".
+Já o "a fim de compartilharem" traz a ideia de finalidade, algo que não é totalmente certo.
+
+Como a questão NÃO questionou acerca dos sentidos do texto, gabarito correto
+
+FONTE: Comentário do Sargento Federal no QC
+Reportar abuso
+Ajudou (15) Não ajudou
+Danilo Marcos Abreu Da Silva
+22 de janeiro de 2025 às 00:16
+Não apareceu texto, poxa tenho notado várias questões com problemas parecidos.
+Reportar abuso
+Ajudou (3) Não ajudou
+GM
+Gilvan Morais Neto Lira
+21 de janeiro de 2025 às 18:52
+Não faz sentido, pois compartilhando da forma usada no texto indica que a ação já ocorreu e com o termo a fim de compartilhar indicaria que a ação ainda iria ocorrer
+Reportar abuso
+Ajudou (1) Não ajudou
+Thiago
+19 de janeiro de 2025 às 16:13
+Cade o texto?
+Reportar abuso
+Ajudou (0) Não ajudou
+Lucas Lima
+17 de janeiro de 2025 às 15:46
+Como que o gabarito desta questão está CERTO???? Que absurdo...
+Reportar abuso
+Ajudou (0) Não ajudou
+2
+Q3598535
+Raciocínio Lógico
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Gestor de Apoio - Área: Fisioterapeuta - 2025
+Texto associado
+Duas equipes serão formadas para atuarem em frentes diferentes na investigação de um crime. A primeira equipe terá seis integrantes: dois peritos criminais, um papiloscopista e três agentes de polícia. A segunda equipe terá também seis integrantes: um delegado, três agentes de polícia e dois escrivães. Para a formação das equipes, existem disponíveis 40 delegados (entre esses, exatamente 12 são mulheres), 110 agentes de polícia (entre esses, exatamente 25 são mulheres), 30 escrivães (entre esses, exatamente 9 são mulheres), 15 peritos criminais (todos são homens) e 10 papiloscopistas (todos são homens). A partir dessas informações, julgue os itens seguintes.
+O número de maneiras de se formar a segunda equipe com pelo menos uma escrivã é inferior a 300 milhões.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+52.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Mim
+22 de janeiro de 2025 às 19:25
+Vamos ver o passo a passo conceitual.
+
+Identificar os Grupos Disponíveis:
+Temos 40 delegados.
+Temos 110 agentes de polícia.
+Temos 30 escrivães.
+Temos 15 peritos criminais.
+Temos 10 papiloscopistas.
+Note que todos os peritos criminais e papiloscopistas são homens, então focaremos nos delegados, agentes de polícia e escrivães.
+Entender a Composição da Segunda Equipe:
+1 delegado.
+3 agentes de polícia.
+2 escrivães.
+Foco no Requisito de Escrivães:
+Precisamos ter pelo menos uma mulher entre os escrivães.
+Há 30 escrivães no total, sendo 9 mulheres.
+
+Análise Sem Cálculos Detalhados:
+Se fossemos formar uma equipe qualquer de 6 pessoas, apenas contando o total de formas de escolha:
+Escolher 1 delegado entre 40 disponíveis.
+Escolher 3 agentes entre 110 disponíveis.
+Escolher 2 escrivães entre 30 disponíveis.
+
+No entanto, queremos garantir que pelo menos uma das duas escrivãs escolhidas seja mulher.
+Usar o Complemento:
+Para garantir pelo menos uma mulher entre os escrivães, podemos imaginar todas as formas possíveis e subtrair os casos em que não há nenhuma mulher.
+Se não tivéssemos nenhuma mulher escrivã, estaríamos escolhendo entre 21 homens. Como queremos pelo menos uma mulher, subtraímos esses casos do total.
+
+Conclusão Conceitual:
+
+Existem muitas maneiras de formar a equipe, e a condição de ter pelo menos uma mulher escrivã só reduz um pouco o número total de combinações.
+Portanto, o número total de combinações ainda será muito grande, bem superior a 300 milhões.
+
+
+C40,1
+40
+
+C110,3
+110/3 x 109/2 x 108/1
+3x2=6
+108/6= 18
+
+110x109x18
+
+[C 30,2 - C21,2]
+
+[30/2 X 29/1 - 21/2 X20/1]
+[15X29 - 20/2X21]
+[15x29 - 10x21]
+[435-210]
+
+
+40x110x109x18x[435-210]
+40 x 110x109x18x225
+1.942.380.000
+Um bilhão, novecentos e quarenta e dois milhões, trezentos e oitenta mil.
+
+Mais o menos assim não sei com exatidão se é o valor certo mais qualquer valor vai ser superior a 300 milhões por isso a questão estar errada
+
+
+Reportar abuso
+Ajudou (9) Não ajudou
+Gabriela Tavares Mendonca Aragao Cutrim
+23 de janeiro de 2025 às 16:04
+A Maia deu uma viajada boa aí nessa questão
+Reportar abuso
+Ajudou (4) Não ajudou
+Filipe
+21 de janeiro de 2025 às 18:03
+Resposta 388.476.000 É maior que 300 milhões.
+Reportar abuso
+Ajudou (0) Não ajudou
+3
+Q3640054
+Raciocínio Lógico
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade Medicina (Cardiologia) - 2025
+Texto associado
+Em uma reunião na qual se discutia a distribuição de recursos financeiros para diferentes setores de um tribunal, João propôs que o setor jurídico deveria receber a maior parte dos recursos, argumentando o seguinte:
+— O setor jurídico é o mais importante do tribunal, pois lida diretamente com as decisões judiciais. Sem recursos adequados, não poderemos garantir a eficiência e a qualidade dessas decisões. Logo, é essencial priorizar esse setor em detrimento dos demais.
+Maria, porém, contra-argumentou:
+— Mas João, priorizar o setor jurídico sem considerar as demandas operacionais dos outros setores pode prejudicar o funcionamento do tribunal como um todo. Precisamos de dados e de critérios objetivos para tomar essa decisão.
+
+Considerando o diálogo hipotético precedente, julgue os seguintes itens, relativos a raciocínio analítico e argumentação.
+Maria utiliza o senso crítico ao sugerir a inclusão de critérios objetivos na tomada de decisão.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+90.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daniel Silva
+12 de fevereiro de 2025 às 21:54
+portugues
+Reportar abuso
+Ajudou (0) Não ajudou
+4
+Q3597922
+Língua Portuguesa Reorganização e reescrita de orações e períodos
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Gestor de Apoio - Área: Fisioterapeuta - 2025
+Texto associado
+Julgue os itens que se seguem, relativos a aspectos linguísticos do texto CB1A1.
+Texto CB1A1
+O renomado linguista e filósofo Noam Chomsky e outros dois especialistas em linguística, Ian Roberts e Jeffrey Watumull, escreveram um artigo para o jornal The New York Times, em março de 2023, compartilhando sua visão sobre os avanços que vêm ocorrendo no campo da inteligência artificial (IA).
+Para os intelectuais, os avanços “supostamente revolucionários” apresentados pelos desenvolvedores da IA são motivo “tanto para otimismo como para preocupação”.
+No primeiro caso, porque as ferramentas de IA podem ser úteis para resolver certas problemáticas, ao passo que, no segundo, “tememos que a variedade mais popular e em voga da inteligência artificial (aprendizado automático) degrade nossa ciência e deprecie nossa ética ao incorporar à tecnologia uma concepção fundamentalmente errônea da linguagem e do conhecimento”.
+Embora os linguistas reconheçam que as IA são eficazes na tarefa de armazenar imensas quantidades de informação, que não necessariamente são verídicas, elas não possuem uma “inteligência” como a das pessoas. “Por mais úteis que esses programas possam ser em alguns campos específicos (como na programação de computadores, por exemplo, ou na sugestão de rimas para versos rápidos), sabemos, pela ciência da língua e pela filosofia do conhecimento, que diferem profundamente do modo como os seres humanos raciocinam e utilizam a linguagem”, alertaram. “Essas diferenças impõem limitações significativas ao que podem fazer, que pode ser codificado com falhas inerradicáveis”.
+Nesse sentido, os autores detalharam que, diferentemente de mecanismos de aplicativos como o ChatGPT, que operam com base na coleta de inúmeros dados, a mente humana pode funcionar com pequenas quantidades de informação, por meio das quais “não busca inferir correlações abruptas entre pontos (...), mas, sim, criar explicações”.
+Nessa linha, manifestam que esses aplicativos não são realmente “inteligentes”, pois carecem de capacidade crítica. Embora possam descrever e prever “o que é”, “o que foi” e “o que será”, não são capazes de explicar “o que não é” e “o que não poderia ser”.
+Internet: <ihu.unisinos.br> (com adaptações).
+
+
+O trecho “diferentemente de mecanismos de aplicativos como o ChatGPT, que operam com base na coleta de inúmeros dados, a mente humana pode funcionar com pequenas quantidades de informação” (quinto parágrafo) poderia ser reescrito, sem prejuízo dos sentidos e da correção do texto, da seguinte forma: ao contrário de mecanismos de aplicativos que operam com base na coleta de inúmeros dados, como o ChatGPT, a mente humana funciona com pequenas quantidades de informação.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+69.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Israel
+22 de janeiro de 2025 às 14:02
+Certo
+Vamos analisar mais detalhadamente.
+Na versão original, a frase começa com "diferentemente de mecanismos de aplicativos como o ChatGPT...", colocando o ChatGPT como um exemplo dentro do contexto geral de mecanismos de aplicativos. Essa construção ajuda a associar diretamente o ChatGPT aos mecanismos de aplicativos mencionados.
+Ao reescrever como “ao contrário de mecanismos de aplicativos que operam com base na coleta de inúmeros dados, como o ChatGPT", o sentido pode se perder. Isso ocorre porque, ao usar a expressão "ao contrário de", a reescrita sugere que o ChatGPT está sendo comparado diretamente com os mecanismos de aplicativos em geral, o que pode causar uma confusão, já que o ChatGPT é apenas um exemplo desses mecanismos.
+Portanto, a reescrita não mantém o mesmo sentido da frase original e a alternativa é errada.
+Reportar abuso
+Ajudou (6) Não ajudou
+Vinicius De Moura Pacheco
+21 de janeiro de 2025 às 17:02
+Na reescrita, o trecho deixa de ser oração subordinada adjetiva explicativa e passa a ser O.S.Adj. Restritiva. Portanto, o sentido foi prejudicado.
+Reportar abuso
+Ajudou (4) Não ajudou
+MB
+Mateus Bezerra Fernandes
+12 de fevereiro de 2025 às 14:54
+ERRADO.
+Texto original: a mente humana PODE FUNCIONAR (não é algo afirmativo, e sim hipotético).
+Texto reescrito: a mente humana FUNCIONA (algo afirmativo, e não hipotético).
+Reportar abuso
+Ajudou (1) Não ajudou
+5
+Q3596168
+Língua Portuguesa Sujeito
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Anos Iniciais - Área: Educação Física - 2025
+Texto associado
+Na base da estratificação social, como a camada mais explorada, sem qualquer representação ou direito, ficava a grande massa escrava de trabalhadores das minas, das lavouras e dos transportes. Todo o aparato ostensivo de repressão vigiava, em cada vila, a esses miseráveis, para prevenir as fugas, a vadiagem e, sobretudo, as rebeliões. A insurreição surge, porém, na classe alta, de que se destaca uma elite letrada, que se propõe formular um projeto alternativo ao colonial de reordenação da sociedade. Trata-se do mais ousado dos projetos libertários da história colonial brasileira, uma vez que previa estruturar uma república de molde norte-americano, que aboliria a escravidão, decretaria a liberdade de comércio e promoveria a industrialização. A eclosão da mal chamada Inconfidência Mineira deveria ter lugar em 1789. Presos por denúncia, todos os inconfidentes foram desterrados para a África, onde morreram, exceto Tiradentes, a figura principal da conspiração, enforcado após três anos de cárcere e, depois, esquartejado e exposto nos lugares onde antes conspirara, para escarmento da população.
+
+Darcy Ribeiro. O povo brasileiro. A formação e o sentido do Brasil. São Paulo: Global, 2013, p. 278-279 (com adaptações).
+
+Julgue os próximos itens, em relação às ideias e a aspectos linguísticos do texto precedente.
+No quarto período do texto, a flexão da forma verbal “Trata-se” na terceira pessoa do singular justifica-se por sua concordância com o segmento posposto “do mais ousado dos projetos libertários da história colonial brasileira”, que é o sujeito da oração.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+76.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Vitor Marques Santos Barbosa
+26 de janeiro de 2025 às 23:27
+TRATA-SE na 1º P+"se" é PIS( pronome indeterminador de sujeito) por isso a resposta que " do mais ousado...." é o sujeito, está errado.
+Reportar abuso
+Ajudou (14) Não ajudou
+Inacio Luiz
+30 de janeiro de 2025 às 17:59
+questão relativamente fácil, visto que o sujeito não pode ser preposicionado, consoante afirma o comanda questão.
+Reportar abuso
+Ajudou (10) Não ajudou
+José Diego
+28 de janeiro de 2025 às 16:31
+sujeito indeterminado
+Reportar abuso
+Ajudou (4) Não ajudou
+Alvaro Lincoln
+23 de janeiro de 2025 às 14:19
+O sujeito da frase seria "A INSURREIÇÃO"
+Reportar abuso
+Ajudou (3) Não ajudou
+Gedson
+2 de fevereiro de 2025 às 08:48
+A frase  “do mais ousado dos projetos libertários da história colonial brasileira”, contém a preposição ''de''. Logo, o sujeito não pode ser preposicionado.
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+6
+Q3596203
+Direito Constitucional Da educação (artigos 205 a 214 da CF)
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Anos Iniciais - Área: Educação Física - 2025
+Texto associado
+Com base nas disposições da Constituição Federal de 1988 pertinentes à educação, julgue os próximos itens.
+É vedado aos estabelecimentos de ensino público superior contratar professores e técnicos que não sejam brasileiros natos ou naturalizados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+94.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lovin
+20 de janeiro de 2025 às 18:08
+Boa tarde.
+Gabarito: ERRADO. O erro está em afirmar que é "VEDADO".
+
+CF, art. 207, § 1º É facultado às universidades admitir professores, técnicos e cientistas estrangeiros, na forma da lei.
+Reportar abuso
+Ajudou (58) Não ajudou
+Questão
+11 de fevereiro de 2025 às 10:55
+Errado
+A Constituição Federal não veda a contratação de professores e técnicos estrangeiros por universidades públicas. A legislação infraconstitucional estabelece a nacionalidade brasileira como requisito para cargos efetivos, mas permite a contratação de estrangeiros em casos específicos.
+Reportar abuso
+Ajudou (1) Não ajudou
+7
+Q3663264
+Raciocínio Lógico Número de Linhas de uma Tabela-Verdade ( número de valorações)
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração - 2025
+Texto associado
+Considerando a proposição P: “Não prometo que você voltará, e, se voltar, não será o mesmo.”, julgue os itens seguintes, em relação a aspectos da lógica sentencial dessa proposição.
+A tabela-verdade referente à proposição P possui mais de 15 linhas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+79.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+I
+Israel
+27 de fevereiro de 2025 às 15:59
+A proposição dada é:
+"Não prometo que você voltará, e, se voltar, não será o mesmo."
+Definindo variáveis proposicionais:
+p: "Prometo que você voltará."
+q: "Você voltará."
+r: "Você será o mesmo."
+A proposição pode ser expressa como:
+não p e (se q então não r)
+Como há três variáveis proposicionais, a tabela-verdade terá:
+2³ = 8 linhas.
+Portanto, a afirmação de que a tabela possui mais de 15 linhas está errada.
+Reportar abuso
+Ajudou (1) Não ajudou
+8
+Q3595322
+Administração Geral Planejamento Tático
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista Administrativo - Área Comunicação - 2025
+Texto associado
+Acerca de processos administrativos, julgue os itens a seguir.
+No nível de planejamento tático, definem-se quais recursos são necessários para a execução das atividades na organização.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+58.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Marla
+25 de janeiro de 2025 às 09:16
+É no nível de planejamento estratégico que se definem quais recursos são necessários para a execução das atividades na organização. No planejamento tático ocorre a alocação desses recursos para atingir os objetivos estratégicos.  
+Reportar abuso
+Ajudou (60) Não ajudou
+Ronaldo Gomes
+5 de fevereiro de 2025 às 14:36
+GABARITO: ERRADO
+
+Planejamento Estratégico
+Foco: É voltado para a organização como um todo.
+Objetivo: Define a missão, visão e valores da instituição, além de traçar diretrizes de longo prazo.
+Horizonte de Tempo: Geralmente, abrange um período mais extenso, como 3 a 5 anos ou mais.
+Responsáveis: Normalmente, é elaborado pela alta administração e envolve a participação de diversos setores.
+Planejamento Tático
+Foco: Concentra-se em como cada área ou departamento contribuirá para alcançar os objetivos estratégicos.
+Objetivo: Traduz as diretrizes do planejamento estratégico em ações específicas e metas a serem alcançadas em um período médio.
+Horizonte de Tempo: Geralmente, abrange um período de 1 a 3 anos.
+Responsáveis: É elaborado por gerentes e chefias de setores, que definem como implementar as estratégias.
+Planejamento Operacional
+Foco: É o nível mais detalhado e específico, focando nas operações do dia a dia.
+Objetivo: Define as ações e metas concretas que devem ser realizadas para atingir os objetivos táticos.
+Horizonte de Tempo: Normalmente, é de curto prazo, abrangendo períodos de semanas a meses.
+Responsáveis: É elaborado por equipes operacionais e supervisores, que implementam as atividades diárias.
+
+Resumo das Diferenças Tipo de Planejamento Foco Objetivo Horizonte de Tempo Responsáveis Estratégico Organização como um todo Definir missão, visão e diretrizes 3 a 5 anos Alta administração Tático Departamentos Traduzir estratégias em ações 1 a 3 anos Gerentes e chefias Operacional Operações diárias Definir ações concretas Semanas a meses Equipes operacionais Essas diferenças são essenciais para garantir que a Administração Pública funcione de maneira eficiente e eficaz.
+Reportar abuso
+Ajudou (9) Não ajudou
+9
+Q3597323
+Língua Portuguesa Uso da Vírgula
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Gestor de Apoio - Área: Analista de Informática Rede de Computadores - 2025
+Texto associado
+Texto CB1A1
+
+O renomado linguista e filósofo Noam Chomsky e outros dois especialistas em linguística, Ian Roberts e Jeffrey Watumull, escreveram um artigo para o jornal The New York Times, em março de 2023, compartilhando sua visão sobre os avanços que vêm ocorrendo no campo da inteligência artificial (IA).
+Para os intelectuais, os avanços “supostamente revolucionários” apresentados pelos desenvolvedores da IA são motivo “tanto para otimismo como para preocupação”.
+No primeiro caso, porque as ferramentas de IA podem ser úteis para resolver certas problemáticas, ao passo que, no segundo, “tememos que a variedade mais popular e em voga da inteligência artificial (aprendizado automático) degrade nossa ciência e deprecie nossa ética ao incorporar à tecnologia uma concepção fundamentalmente errônea da linguagem e do conhecimento”.
+Embora os linguistas reconheçam que as IA são eficazes na tarefa de armazenar imensas quantidades de informação, que não necessariamente são verídicas, elas não possuem uma “inteligência” como a das pessoas. “Por mais úteis que esses programas possam ser em alguns campos específicos (como na programação de computadores, por exemplo, ou na sugestão de rimas para versos rápidos), sabemos, pela ciência da língua e pela filosofia do conhecimento, que diferem profundamente do modo como os seres humanos raciocinam e utilizam a linguagem”, alertaram. “Essas diferenças impõem limitações significativas ao que podem fazer, que pode ser codificado com falhas inerradicáveis”.
+Nesse sentido, os autores detalharam que, diferentemente de mecanismos de aplicativos como o ChatGPT, que operam com base na coleta de inúmeros dados, a mente humana pode funcionar com pequenas quantidades de informação, por meio das quais “não busca inferir correlações abruptas entre pontos (...), mas, sim, criar explicações”.
+Nessa linha, manifestam que esses aplicativos não são realmente “inteligentes”, pois carecem de capacidade crítica. Embora possam descrever e prever “o que é”, “o que foi” e “o que será”, não são capazes de explicar “o que não é” e “o que não poderia ser”.
+
+Internet: <ihu.unisinos.br> (com adaptações).
+
+Julgue os itens que se seguem, relativos a aspectos linguísticos do texto CB1A1.
+No último período do texto, o emprego de vírgula após os segmentos ‘o que é’ e ‘o que será’ justifica-se por separar elementos em uma enumeração.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+59.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Marina Barros
+25 de janeiro de 2025 às 12:48
+Justificativa do CESPE: Errado. No período em questão, somente a primeira vírgula separa termos enumerados. A vírgula empregada após o segundo elemento citado no item justifica-se por separar a oração adverbial antecipada à principal.
+Reportar abuso
+Ajudou (21) Não ajudou
+Joane Dos Santos Bezerra
+17 de janeiro de 2025 às 17:12
+Questão mal elaborada, não explora o conhecimento do aluno e simplesmente tira ponto de forma injusta e covarde. Cabe recurso para ela ser anuladaa!
+Reportar abuso
+Ajudou (16) Não ajudou
+Breno
+31 de janeiro de 2025 às 20:33
+Somente a primeira.
+Reportar abuso
+Ajudou (3) Não ajudou
+Israel
+7 de fevereiro de 2025 às 20:07
+Errado. ❌
+A vírgula depois de "o que será" não faz parte da enumeração, pois marca a transição entre duas partes distintas do período.
+Explicação:
+No trecho “o que é, o que foi e o que será”, as vírgulas realmente separam elementos de uma enumeração.
+Porém, após "o que será", a vírgula introduz um contraste com a segunda parte do período ("não são capazes de explicar..."), funcionando mais como uma pausa estrutural do que como parte da enumeração.
+Portanto, a justificativa apresentada na questão está incorreta. O gabarito correto é Errado. ✅
+Reportar abuso
+Ajudou (2) Não ajudou
+Wesley Silva De Jesus
+27 de janeiro de 2025 às 20:37
+Oração Principal fechando o período. Vírgula obrigatória
+Reportar abuso
+Ajudou (0) Não ajudou
+10
+Q3595451
+Administração de Recursos Materiais Tipos de Demanda
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Patrimônio - 2025
+Texto associado
+Acerca da administração de recursos materiais e patrimoniais, julgue os itens a seguir.
+No sistema de reposição contínua, considera-se variável a demanda do item, ajustando-se o ponto de pedido de acordo com flutuações na necessidade de consumo, para evitar rupturas de estoque.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 31/01/2025:
+Errada
+i
+26.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Bianca Brignoni
+30 de janeiro de 2025 às 09:36
+A demanda do item não é considerada como variável no sentido de ajustar o ponto de pedido a cada flutuação. O sistema de reposição contínua é ativado quando o estoque chega a um ponto predefinido, que é calculado com base no consumo médio, no tempo de reposição e no estoque mínimo. Uma vez que o estoque atinge esse ponto, um novo pedido é gerado, com a quantidade igual ao lote econômico
+Fonte: QConcursos
+Reportar abuso
+Ajudou (37) Não ajudou
+Marcos P. F. S.
+24 de janeiro de 2025 às 14:02
+Chat GPT:
+Sim, está correta.
+No sistema de reposição contínua, também conhecido como sistema de revisão contínua ou sistema de ponto de pedido, a demanda do item é considerada variável.
+
+O ponto de pedido é ajustado de acordo com as flutuações na necessidade de consumo para evitar rupturas de estoque. Esse sistema monitora continuamente o nível de estoque e, quando atinge um ponto de pedido pré-determinado, uma nova ordem de reposição é acionada.
+
+Isso ajuda a garantir que o estoque seja reabastecido antes que se esgote, mantendo a disponibilidade dos itens e evitando interrupções no fornecimento.
+Reportar abuso
+Ajudou (7) Não ajudou
+ER
+Edgar Rodrigues De Oliveira Filho
+14 de fevereiro de 2025 às 09:29
+Se trocarmos a expressão final "evitar rupturas de estoque" por "evitar o uso do estoque de segurança/mínimo", a questão ficaria correta.
+Reportar abuso
+Ajudou (5) Não ajudou
+Lucas
+7 de fevereiro de 2025 às 21:56
+Gabarito oficial da banca é ERRADO, agora saber porque só com muita investigação
+Reportar abuso
+Ajudou (5) Não ajudou
+Daiane Guedes
+15 de fevereiro de 2025 às 15:50
+Se o gabarito oficial considera o item errado, é possível que a questão esteja abordando uma definição mais rigorosa do sistema de reposição contínua.
+
+O sistema de reposição contínua envolve a reposição do estoque de forma automática e em intervalos regulares, e não ajusta o ponto de pedido de acordo com flutuações na demanda. Em vez disso, o ponto de pedido é fixo, sendo determinado com base na média da demanda e no tempo de reposição. O ajuste da reposição, quando necessário, ocorre por meio de revisões periódicas, como no sistema de reposição por revisão periódica.
+
+Portanto, o sistema de reposição contínua não altera o ponto de pedido com base em flutuações na demanda, o que pode justificar a resposta erra
+da.
+Fonte: Chatgpt
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+11
+Q3597493
+Matemática Juros Simples
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Gestor de Apoio - Área: Nutricionista - 2025
+Texto associado
+Em 1.º/2/2024, João tinha uma determinada dívida e possuía R$ 3.000 em uma aplicação financeira a uma taxa de juros compostos de 1,5% ao mês. Ele resolveu pagar a dívida apenas 10 meses depois e, nesse momento, verificou que o valor da dívida era igual a R$ 3.600.
+
+Tendo como base a situação apresentada e assumindo que 1,0155 = 1,08, julgue os itens subsequentes.
+Considere que sobre a dívida de João não incidissem juros, mas fosse cobrado, mensalmente, um acréscimo, com valor fixo. Nessa situação, se, em 1.º/7/2024, o valor da dívida de João era de R$ 3.436, então o valor inicial da dívida, isto é, em 1.º/2/2024 era superior a R$ 3.200.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+56.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lucas
+2 de fevereiro de 2025 às 12:40
+Qu questão complicada
+Reportar abuso
+Ajudou (3) Não ajudou
+Bruno
+11 de fevereiro de 2025 às 19:55
+Devemos comparar o valor do mês 7 com o valor do mês 12. O valor do mês 12 está na primeira parte do enunciado e é 3600. Essa diferença também é referente a 5 meses.
+Reportar abuso
+Ajudou (0) Não ajudou
+MS
+Marcelo Santos De Oliveira
+9 de fevereiro de 2025 às 16:52
+Fiz assim, a diferença entre 3.436,00 e 3.200,00 é de 236,00, pega esse valor e divide por 5 meses que é diferença entre Julho e Fevereiro, encontra o valor de 46,00, que é o valor fixo cobrado todos os meses.
+Reportar abuso
+Ajudou (0) Não ajudou
+Ester Meccaa
+27 de janeiro de 2025 às 19:59
+Certo
+Reportar abuso
+Ajudou (0) Não ajudou
+12
+Q3597481
+Matemática Igualdades Numéricas
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Gestor de Apoio - Área: Nutricionista - 2025
+Texto associado
+Julgue os seguintes itens, relativos a razão e proporção e a fatoração algébrica.
+Se uma senha numérica usada por um hacker foi identificada por um algoritmo para análise criptográfica como sendo
+x−y
+x
+4
+−y
+4
+, em que os valores de x e y são números naturais distintos e positivos, então, nesse caso, essa senha pode ser escrita como o produto de dois números naturais maiores que 2.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Leiliane
+4 de fevereiro de 2025 às 13:48
+JUSTIFICATIVA - Certo.
+(x 4 − y4) =
+(x − y)
+
+(x2 − y2) × (x2 + y2)=
+(x − y)
+
+(x − y) × (x + y) × (x2 + y2) =
+(x − y)
+
+(x + y) × (x2 + y2)
+Reportar abuso
+Ajudou (0) Não ajudou
+13
+Q3597470
+Raciocínio Lógico Questões com frações
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Gestor de Apoio - Área: Nutricionista - 2025
+Texto associado
+Julgue os itens que se seguem, considerando que 25 novos computadores tenham sido distribuídos pela Secretaria de Segurança Pública do DF para três de suas delegacias.
+Se cada uma das delegacias recebeu uma quantidade de computadores diretamente proporcional às frações 1/3, 1/5 e 3/10, então a maior quantidade de computadores que uma delegacia recebeu foi igual a 9.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+74.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+WL
+Wallace Lucas Teixeira Da Silva
+27 de janeiro de 2025 às 21:06
+As frações fornecidas são: 1/3, 1/5 e 3/10. Para trabalharmos com elas precisamos igualar o denominador. Tirando o mmc temos: 10/30, 6/30 e 9/30 Somando os valores: 10+6+9=25 A primeira delegacia recebeu 10 pcs. Logo, a questão está errada.
+Reportar abuso
+Ajudou (16) Não ajudou
+14
+Q3597348
+Raciocínio Lógico Proposições Particulares Negativas
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Gestor de Apoio - Área: Analista de Informática Rede de Computadores - 2025
+Texto associado
+Duas equipes serão formadas para atuarem em frentes diferentes na investigação de um crime. A primeira equipe terá seis integrantes: dois peritos criminais, um papiloscopista e três agentes de polícia. A segunda equipe terá também seis integrantes: um delegado, três agentes de polícia e dois escrivães. Para a formação das equipes, existem disponíveis 40 delegados (entre esses, exatamente 12 são mulheres), 110 agentes de polícia (entre esses, exatamente 25 são mulheres), 30 escrivães (entre esses, exatamente 9 são mulheres), 15 peritos criminais (todos são homens) e 10 papiloscopistas (todos são homens).
+
+A partir dessas informações, julgue os itens seguintes.
+O número de maneiras de se formar a primeira equipe é inferior a 20 milhões.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+52.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+FG
+Fábio Gabriel Oliveira Leandro
+16 de janeiro de 2025 às 16:50
+(2 pc) + (1 papilo) + (3 ap) = 6 integrantes
+Questão de análise combinatória
+(15.14) . (10) . (110.109.108) = 2719332000
+Quase 3 bilhões de possibilidades
+Reportar abuso
+Ajudou (15) Não ajudou
+Natanael Pereira De Almeida
+30 de janeiro de 2025 às 11:05
+C15,2=105
+C10,1=10
+C110,3=110X109X18
+MULTIPLICA TUDO...
+Reportar abuso
+Ajudou (4) Não ajudou
+Flavio Santos
+22 de janeiro de 2025 às 14:42
+Número Total de combinações:
+(2 PC) + (1 PA) + (3AP) = (15*14)*(10)*(110*109*108)
+Para fazer rápido, usar ordem de grandeza:
+(15*14)*(10)*(110*109*108) > (10*10)*(10)*(100*100*100) = 10^9 = 1000*10^6 = 1000 milhões > 20 milhões
+Logo, está errado!
+Reportar abuso
+Ajudou (4) Não ajudou
+15
+Q3605654
+Língua Portuguesa Pressupostos e subentendidos
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+Texto CB1A1
+Embora as instituições nacionais ligadas à soberania venham atuando nas últimas décadas em suporte às políticas ambientais brasileiras, a relação entre as duas esferas nem sempre se deu em bases cooperativas. Partindo-se de uma compreensão estreita da segurança, a preservação do meio ambiente foi vista, durante certo tempo, não como uma precondição para se garantir a segurança nacional e humana, mas como uma ameaça à integridade territorial e aos interesses nacionais brasileiros. Temia-se, nesse sentido, que as inestimáveis riquezas naturais do Brasil despertassem a cobiça internacional, de forma a representar riscos às fronteiras nacionais e ao direito soberano do país de gerenciar seus recursos naturais de maneira autônoma, em busca do desenvolvimento.
+Vigorava, portanto, a compreensão de que assumir compromissos de cooperação na arena ambiental implicaria o decréscimo da soberania nacional. O posicionamento defendido pela delegação brasileira durante a Conferência das Nações Unidas sobre Meio Ambiente Humano (CNUMAH), realizada em Estocolmo em 1972, seria sintomático desse entendimento: “Na área do aproveitamento de recursos naturais, os interesses nacionais, em termos econômicos e de segurança, são de tal monta, que qualquer fórmula que, sob o pretexto ecológico, impusesse uma sistemática de consulta para projetos de desenvolvimento seria simplesmente inaceitável para o Brasil.”
+Nas décadas posteriores, as interpretações relativas às preocupações ambientais foram gradualmente transformadas, tanto no âmbito da sociedade quanto em meio às instituições de defesa. O processo de redemocratização, o fortalecimento de organizações da sociedade civil, o avanço dos estudos científicos e a consolidação de uma estrutura federal de governança ambiental favoreceram essas novas percepções e, sobretudo, a aproximação desses dois setores.
+Internet: <soberaniaeclima.org.br> (com adaptações).
+A respeito das ideias veiculadas no texto CB1A1, julgue os itens a seguir.
+Conclui-se do último parágrafo do texto que processos positivos para o país, como o fortalecimento de organizações da sociedade civil e o avanço dos estudos científicos, resultaram da mudança de interpretação quanto às questões ambientais.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+27.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jean David Monteiro Badji
+22 de janeiro de 2025 às 17:13
+Foi o contrário, as mudanças de interpretações que geraram processos positivos para o país.
+
+As mudanças de interpretações são uma consequência, não uma causa.
+Reportar abuso
+Ajudou (49) Não ajudou
+MH
+Mattheus Henrique Medeiros Da Silva
+30 de janeiro de 2025 às 12:28
+Ao contrario galera, na realidade essas positiva ações foi que resultaram na transformação da interpretação.
+PF, pertenceremos!
+Reportar abuso
+Ajudou (10) Não ajudou
+Isaac
+1 de fevereiro de 2025 às 08:20
+Foi a mudança de interpretação quanto às questões ambientais, que resultaram nos processos positivos para o país, como o fortalecimento de organizações da sociedade civil e o avanço dos estudos científicos.
+Reportar abuso
+Ajudou (4) Não ajudou
+16
+Q3605847
+Administração de Recursos Materiais Classificação ABC
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+A respeito da curva ABC na gestão de materiais, julgue os próximos itens.
+A curva ABC, quando utilizada na gestão de estoques, contribui para a definição de políticas de vendas, para o estabelecimento de prioridades e para a programação da produção.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 31/01/2025:
+Certa
+i
+84.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Karla
+24 de janeiro de 2025 às 22:10
+RESPOSTA CERTA: A Curva ABC é uma ferramenta gerencial utilizada para controlar estoques e tomar decisões em negócios diversos. Ela classifica e ordena informações quanto ao grau de importância, facilitando a análise e a tomada de decisões. 
+Reportar abuso
+Ajudou (20) Não ajudou
+André
+30 de janeiro de 2025 às 14:58
+Política de vendas? Não seria política de compras?
+Reportar abuso
+Ajudou (6) Não ajudou
+Nathan Assuncao Zacarias
+10 de fevereiro de 2025 às 14:58
+Respondendo o André. Pense no estoque de uma loja, através da curva ABC nós como vendedores podemos focar em vender mais os produtos que dão mais retorno financeiro do que aqueles que dão menos. A cultura da ancoragem de preços é uma excelente representação desse modelo. Quando vamos no cinema e temos 3 pipocas com o preço muito parecido e pensamos: vale mais a pena comprarmos a maior é pq a empresa com base na curva ABC decidiu priorizar a venda das pipocas maiores (que geram mais lucro) utilizando pra isso no exemplo dado, as pipocas médias e pequenas apenas como ancoragem.
+Reportar abuso
+Ajudou (5) Não ajudou
+17
+Q3597494
+Matemática Juros Simples
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Gestor de Apoio - Área: Farmacêutico - 2025
+Texto associado
+Em 1.º/2/2024, João tinha uma determinada dívida e possuía R$ 3.000 em uma aplicação financeira a uma taxa de juros compostos de 1,5% ao mês. Ele resolveu pagar a dívida apenas 10 meses depois e, nesse momento, verificou que o valor da dívida era igual a R$ 3.600.
+
+Tendo como base a situação apresentada e assumindo que 1,0155 = 1,08, julgue os itens subsequentes.
+O valor da aplicação financeira de João, após os 10 meses, seria suficiente para o pagamento da dívida.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+70.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Vitor Duarte Coutinho
+11 de fevereiro de 2025 às 15:07
+https://m.youtube.com/shorts/UZPpRihQd10
+Reportar abuso
+Ajudou (1) Não ajudou
+Mariana Batista Dos Santos
+18 de fevereiro de 2025 às 20:54
+C: Capital
+i: taxa
+n(t) : tempo
+M: Montante
+
+Formula Básica Achar Juro Simples: J = C * i* n
+J: 3.000 * 0,015. 10 = 450,00 REAIS
+
+
+Formula Básica achar Montante : M = C + J
+M = 3000 + 450 = 3450 ( em 10 meses)
+Reportar abuso
+Ajudou (0) Não ajudou
+18
+Q3595864
+Língua Portuguesa Inferência Textual
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor - Área: Corretor de Redação - 2025
+Texto associado
+O ensino e a aprendizagem da leitura e da escrita precisam levar em conta, atualmente, a variedade dos modos de comunicação existentes, o que chamamos de multimodalidade. Nessa nova perspectiva, que se opõe às abordagens educacionais ocidentais mais tradicionais, devem-se considerar os modos de comunicação linguísticos — a escrita e a oralidade —, visuais — imagens, fotografias — ou gestuais — apontar o dedo, balançar a cabeça negativa ou afirmativamente, por exemplo. Essa diversidade de modos de comunicação foi incorporada tanto pelos meios de comunicação mais tradicionais, como livros e jornais, quanto pelos mais modernos, como computadores, celulares, televisão, entre outros. Dessa forma, professores precisam preocupar-se, atualmente, em ensinar não só as habilidades técnicas necessárias para manusear os diferentes meios de comunicação, mas também o metaconhecimento que é necessário para compreender, de maneira integrada e significativa, as diferentes mídias e seu funcionamento. Isso já vem ocorrendo — e deverá ampliar-se cada vez mais — a partir dos anos iniciais de escolarização.
+Os educadores precisam, portanto, levar os alunos a desenvolver o conhecimento e as habilidades necessárias para produzir significados. Assim como as abordagens etnográficas utilizadas para compreender o fenômeno do letramento procuram entender os usos e os significados da leitura e da escrita em determinados contextos sociais, também a nova abordagem da multimodalidade pode contribuir para o entendimento dos contextos de comunicação, focando modos e mídias específicos, em determinados contextos sociais e culturais.
+
+Internet: <ceale.fae.ufmg.br> (com adaptações).
+
+Considerando o texto apresentado e os conceitos de semiótica, multiletramento e multimodalidade, julgue os itens a seguir.
+Infere-se do texto que o conceito de multiletramento está vinculado à importância de se aprender a decodificar prioritariamente textos escritos em diversos contextos de comunicação.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+53.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daniel Marcos Da Silva Motta
+30 de janeiro de 2025 às 18:39
+Não é prioritário e sim importante também junto do letramento alfabético.
+Reportar abuso
+Ajudou (7) Não ajudou
+Jasmim
+26 de fevereiro de 2025 às 14:59
+O conceito de multiletramento não é prioritário a aprender textos escritos em diversos tipos, mas sim uma capacidade de identificar, interpretar, criar e comunicar significados por meio de diferentes formas de comunicação. Como a visual, oral, corporal, musical, alfabética. Está errado por conta da alternativa da essa ideia de priorizar apenas o aspecto textual (escrita).
+Reportar abuso
+Ajudou (0) Não ajudou
+19
+Q3605822
+Administração Geral Competência Interpessoal
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+A respeito de aspectos referentes à competência interpessoal, ao gerenciamento de conflitos, à gestão de terceirizados e às técnicas de recrutamento e seleção, julgue os itens subsecutivos.
+Um líder que demonstra flexibilidade perceptiva e comportamental e tem atitudes congruentes com o contexto vivenciado apresenta competência interpessoal desenvolvida.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+94.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Luis Gabriel Santos Gil
+24 de janeiro de 2025 às 12:58
+CERTO!
+É importante para um líder se adequar de acordo com o contexto e com a pessoa que ele lida. Isso é conhecido como liderança situacional
+Reportar abuso
+Ajudou (11) Não ajudou
+20
+Q3605783
+Administração Financeira e Orçamentária - AFO Anexo de Metas Fiscais - AMF
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+Acerca do orçamento público no Brasil, do plano plurianual (PPA), da lei de diretrizes orçamentárias (LDO) e da lei orçamentária anual (LOA), julgue os itens seguintes.
+A LDO orientará a elaboração da LOA e disporá sobre as metas fiscais, sendo obrigatória a inclusão do anexo de metas fiscais, que apresenta as metas anuais para os resultados primário e nominal, e do anexo de riscos fiscais, que identifica os passivos contingentes e outros riscos que possam comprometer as contas públicas.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+90.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+ZO
+Zeneide Oliveira Silva
+22 de janeiro de 2025 às 12:13
+Certo. A LDO deve conter o anexo de metas fiscais e o anexo de riscos fiscais, conforme estabelecido pela Constituição Federal de 1988 e pela Lei de Responsabilidade Fiscal. A assertiva é verdadeira porque a Constituição Federal de 1988, no art. 165, § 2.º, estabelece que a LDO orientará a elaboração da LOA, além de dispor sobre as metas fiscais. A Lei de Responsabilidade Fiscal detalha essa previsão, determinando a obrigatoriedade dos anexos de metas fiscais e de riscos fiscais na LDO.
+
+Fonte: Gabarito da banca CEBRASPE.
+Reportar abuso
+Ajudou (19) Não ajudou
+Michelle Ferreira Da Cunha
+23 de janeiro de 2025 às 20:38
+Gabarito C
+
+A Constituição instituiu a Lei de Diretrizes Orçamentárias com o objetivo de criar um elo entre o Plano Plurianual (PPA) e a Lei Orçamentária Anual (LOA). Suas atribuições, que estão estabelecidas no art.
+165 da CF, envolvem a definição de metas e prioridades da administração pública federal a orientação do processo de elaboração da LOA, entre outros aspectos.
+Além dos aspectos constitucionais, a LRF, em seu art. 4º, §§ 1º a 4º, também estabeleceu que a LDO deve conter anexos específicos, que disponham sobre metas, riscos e indicadores fiscais, assim como diretrizes para a política monetária, creditícia e cambial.
+Art. 4º (…)
+§ 1º Integrará o projeto de lei de diretrizes orçamentárias Anexo de Metas Fiscais, em que serão estabelecidas metas anuais, em valores correntes e constantes, relativas a receitas, despesas, resultados nominal e primário e montante da dívida pública, para o exercício a que se referirem e para os dois seguintes.
+§ 3º A lei de diretrizes orçamentárias conterá Anexo de Riscos Fiscais, onde serão avaliados os passivos contingentes e outros riscos capazes de afetar as contas públicas, informando as providências a serem tomadas, caso se concretizem.
+Fonte: MTO 2025
+Reportar abuso
+Ajudou (6) Não ajudou

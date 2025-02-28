@@ -1,0 +1,922 @@
+1
+Q3123957
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MMA - Analista Ambiental - 2024
+Texto associado
+Texto CB1A1
+Hoje, a crise hídrica é política — o que significa dizer não inevitável ou necessária, nem além da nossa capacidade de consertá-la — e, logo, opcional, na prática. Esse é um dos motivos para ser, não obstante, terrível como parábola climática: um recurso abundante torna-se escasso pela falta de infraestrutura, pela poluição e pela urbanização e desenvolvimento descuidados. A crise de abastecimento de água não é inevitável, mas presenciamos uma, de um modo ou de outro, e não estamos fazendo muita coisa para resolvê-la. Algumas cidades perdem mais água por vazamentos do que a que é entregue nas casas: mesmo nos Estados Unidos da América (EUA), vazamentos e roubos respondem por uma perda estimada de 16% da água doce; no Brasil, a estimativa é de 40%. Em ambos os casos, assim como por toda parte, a escassez se desenrola tão patentemente sobre o pano de fundo das desigualdades entre pobres e ricos que o drama resultante da competição pelo recurso dificilmente pode ser chamado, de fato, de competição; o jogo está tão arranjado que a escassez de água mais parece um instrumento para aprofundar a desigualdade. O resultado global é que pelo menos 2,1 bilhões de pessoas no mundo não têm acesso a água potável segura, e 4,5 bilhões não dispõem de saneamento.
+David Wallace-Wells. A terra inabitável: uma história do futuro. São Paulo: Cia das Letras, 2019. (com adaptações).
+Com base nas ideias veiculadas no texto CB1A1, julgue os itens a seguir.
+Entende-se da leitura do texto que a escassez de água potável segura tanto decorre da desigualdade entre pobres e ricos quanto a acarreta.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+CR
+Celson Roberto Alencar Santana
+26 de janeiro de 2024 às 06:11
+"assim como por toda parte, a escassez se desenrola tão patentemente sobre o pano de fundo das desigualdades entre pobres e ricos que o drama resultante da competição pelo recurso dificilmente pode ser chamado, de fato, de competição;"
+Reportar abuso
+Ajudou (33) Não ajudou
+Romulo Estevam De Araujo Lima
+23 de março de 2024 às 16:26
+"Em ambos os casos, assim como por toda parte, a escassez se desenrola tão patentemente sobre o pano de fundo das desigualdades entre pobres e ricos que o drama resultante da competição pelo recurso dificilmente pode ser chamado, de fato, de competição; o jogo está tão arranjado que a escassez de água mais parece um instrumento para aprofundar a desigualdade".
+Reportar abuso
+Ajudou (10) Não ajudou
+Jani Silva
+25 de janeiro de 2024 às 22:50
+C
+Reportar abuso
+Ajudou (5) Não ajudou
+Joao
+29 de junho de 2024 às 01:14
+Essa escasses de água potável é justamente o que acarreta, segundo o autor do texto, a desigualdade entre pobres e ricos.
+Reportar abuso
+Ajudou (2) Não ajudou
+MC
+Maria Cristiane
+3 de maio de 2024 às 10:43
+´´um recurso abundante torna-se escasso pela falta de infraestrutura, pela poluição e pela urbanização e desenvolvimento descuidados.``
+
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 2
+2
+Q3163436
+Tecnologia da Informação Análise exploratória de dados
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Pesquisador - Área: Saúde Avançada - Manufatura Aditiva, Simulação Computacional - 2024
+Texto associado
+A respeito de dados, julgue os itens a seguir.
+Se uma empresa fizer o levantamento da altura de certa população, então, nesse caso, a altura será considerada um dado numérico.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+78.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+R. Silva
+21 de julho de 2024 às 15:19
+SIM. SALABIM.
+Reportar abuso
+Ajudou (1) Não ajudou
+3
+Q3163351
+Tecnologia da Informação Mineração de Dados (Data Mining)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Julgue os itens a seguir que tratam de extração e representação de conhecimento.
+Em mineração de dados, interpretação e explanação consiste em filtrar o conjunto de dados por meio de mecanismo que varia de acordo com a técnica de mineração utilizada.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+49.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AS
+Alexandre Silva Sousa
+27 de março de 2024 às 10:39
+Na mineração de dados, interpretação e explanação são etapas importantes após a análise dos dados, que visam extrair significado e insights dos resultados obtidos:
+Interpretação: envolve a análise e compreensão dos padrões, tendências e relações descobertas durante a mineração de dados. Nesta etapa, os analistas buscam entender o significado dos resultados em termos do domínio do problema e do contexto em que os dados foram coletados. A interpretação também pode envolver a identificação de possíveis causas para os padrões observados e a formulação de hipóteses ou teorias para explicar os fenômenos observados nos dados;
+Explanação: processo de comunicar os resultados da mineração de dados de forma clara e compreensível para os stakeholders interessados. Geralmente envolve a elaboração de relatórios, visualizações de dados e apresentações que destacam os principais resultados, insights e conclusões obtidos durante a análise. A explanação também pode incluir recomendações para ações ou decisões baseadas nos insights extraídos dos dados.
+Reportar abuso
+Ajudou (19) Não ajudou
+Gabriel
+31 de março de 2024 às 12:17
+1. Seleção (Selection): esta etapa consiste em selecionar um conjunto ou subconjunto de dados que farão parte da análise. As fontes de dados podem ser variadas (planilhas, sistemas gerenciais, data warehouses) e possuir dados com formatos diferentes (estruturados, semiestruturados e não-estruturados).
+2. Processamento (Preprocessing): esta etapa consiste em fazer a verificação da qualidade dos dados armazenados. A base passa por um processo de limpar, corrigir ou remover dados inconsistentes, verificar dados ausentes ou incompletos, identificar anomalias (outliers).
+3. Transformação (Transformation): esta etapa consiste em aplicar técnicas de transformação como: normalização, agregação, criação de novos atributos, redução e sintetização dos dados. Aqui os dados ficam disponíveis agrupados em um mesmo local para a aplicação dos modelos de análise.
+4. Mineração de Dados (Data Mining): esta etapa consiste em construir modelos ou aplicar técnicas de mineração de dados. Essas técnicas têm por objetivo (1) verificar uma hipótese, (2) descobrir novos padrões de forma autônoma. Além disso, a descoberta pode ser dividida em: preditiva e descritiva. Esses modelos geralmente são aplicados e refeitos inúmeras vezes dependendo do objetivo do projeto.
+5. Interpretação e Avaliação (Interpretation / Evaluation): esta etapa consiste em avaliar o desempenho do modelo, aplicando em cima de dados que não foram utilizados na fase de treinamento ou mineração. A validação pode ser feita de diversas formas, algumas delas são: utilizar medidas estatísticas, passar pela avaliação dos profissionais de negócio.
+
+Fonte:
+https://medium.com/@kvmoura/kdd-process-9b8e3062142
+Reportar abuso
+Ajudou (6) Não ajudou
+Edvard Dias Magalhaes
+18 de junho de 2024 às 15:36
+ERRADO, vai além da filtragem de dados.
+
+A interpretação e explanação podem ser realizadas através de diversas técnicas, que variam de acordo com a complexidade do modelo e o tipo de dados utilizado. Algumas técnicas comuns incluem:
+Análise de sensibilidade: Essa técnica avalia como a alteração de cada variável de entrada no modelo afeta a sua saída.
+Visualização de dados: Gráficos e outras ferramentas visuais podem ser utilizadas para explorar os dados e identificar padrões.
+Regras de associação: Essa técnica extrai regras que descrevem as relações entre as variáveis nos dados.
+Explanações baseadas em árvores de decisão: Essa técnica utiliza árvores de decisão para explicar como o modelo chegou a uma determinada decisão.
+Explanações baseadas em modelos locais: Essa técnica cria modelos locais simples para explicar o comportamento do modelo em diferentes regiões do espaço de dados.
+A escolha da técnica mais adequada depende de diversos fatores, como:
+
+O tipo de modelo de mineração de dados utilizado: Modelos lineares, por exemplo, geralmente são mais fáceis de interpretar do que redes neurais complexas.
+A natureza dos dados: Dados tabulares podem ser mais fáceis de interpretar do que dados de texto ou imagens.
+O objetivo da interpretação: Se o objetivo é simplesmente entender os padrões nos dados, técnicas simples como visualização de dados podem ser suficientes. Se o objetivo é comunicar os resultados para stakeholders não técnicos, técnicas mais complexas podem ser necessárias.
+Reportar abuso
+Ajudou (1) Não ajudou
+Tiago Rocha
+20 de junho de 2024 às 19:02
+houve inversão de conceitos...
+Reportar abuso
+Ajudou (0) Não ajudou
+4
+Q3163368
+Tecnologia da Informação Aprendizado de Máquina
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Julgue os próximos itens, relativos a linguagens, ferramentas e bibliotecas que facilitam a criação, o treinamento e a implantação de modelos de software com aprendizado de máquina.
+Bibliotecas como TensorFlow e PyTorch são exclusivas para algoritmos de aprendizado profundo e não são adequadas para tarefas de aprendizado de máquina tradicionais.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+91.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AS
+Alexandre Silva Sousa
+27 de março de 2024 às 10:49
+Como a própria documentação do TensorFlow revela, a biblioteca "é flexível e pode ser usado para expressar uma ampla variedade de algoritmos, incluindo os de treinamento e inferência para modelos de redes neurais profundas", "em uma ampla variedade de sistemas heterogêneos".
+
+Embora o principal uso possa ser para aprendizado profundo, essas bibliotecas não se restringem a isso.
+Reportar abuso
+Ajudou (10) Não ajudou
+Edvard Dias Magalhaes
+18 de junho de 2024 às 15:32
+ERRADO
+
+Embora o TensorFlow e o PyTorch tenham se tornado populares por sua capacidade de lidar com redes neurais complexas e tarefas de aprendizado profundo, elas também são ferramentas poderosas e flexíveis que podem ser utilizadas em uma ampla gama de problemas de aprendizado de máquina tradicional.
+Reportar abuso
+Ajudou (1) Não ajudou
+5
+Q3238145
+Administração de Recursos Materiais Modalidades de Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+Julgue os itens que se seguem, em relação a modais de transporte e a operações de transporte multimodal em uma indústria petrolífera.
+A versatilidade do modal rodoviário decorre da possibilidade de transportar produtos com pesos e volumes variados a curtas e médias distâncias.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+TL
+Thairine Lisboa Monteiro
+4 de outubro de 2024 às 17:44
+O modal de transporte rodoviário, apesar de ser amplamente
+utilizado e oferecer vantagens significativas em termos de flexibilidade,
+capacidade de serviço porta a porta e disponibilidade, não é necessariamente
+o mais adequado para transportes de cargas a longas distâncias e em
+grandes quantidades quando comparado a outros modais, como o ferroviário
+e o aquaviário.
+
+Fonte: resenhando Ponto Juris
+Reportar abuso
+Ajudou (4) Não ajudou
+6
+Q3234907
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Engenheiro Ambiental - 2024
+Texto associado
+Texto CB2A1
+
+Levanto cedo, faço minhas abluções, ponho a chaleira no fogo para fazer café e abro a porta do apartamento — mas não encontro o pão costumeiro. No mesmo instante, me lembro de ter lido alguma coisa nos jornais da véspera sobre a “greve do pão dormido”. De resto não é bem uma greve, é um locaute, greve dos patrões, que suspenderam o trabalho noturno; acham que, obrigando o povo a tomar seu café da manhã com pão dormido, conseguirão não sei bem o que do governo.
+Está bem. Tomo o meu café com pão dormido, que não é tão ruim assim. E, enquanto tomo café, vou me lembrando de um homem modesto que conheci antigamente. Quando vinha deixar o pão à porta do apartamento, ele apertava a campainha, mas, para não incomodar os moradores, avisava gritando:
+— Não é ninguém, é o padeiro!
+Interroguei-o uma vez: como tivera a ideia de gritar aquilo? “Então você não é ninguém?”
+Ele abriu um sorriso largo. Explicou que aprendera aquilo de ouvido. Muitas vezes lhe acontecera bater a campainha de uma casa e ser atendido por uma empregada ou outra pessoa qualquer, e ouvir uma voz que vinha lá de dentro perguntando quem era; e ouvir a pessoa que o atendera dizer para dentro: “não é ninguém, não senhora, é o padeiro”. Assim ficara sabendo que não era ninguém...
+Ele me contou isso sem mágoa nenhuma e se despediu ainda sorrindo. Eu não quis detê-lo para explicar que estava falando com um colega, ainda que menos importante. Naquele tempo eu também, como os padeiros, fazia o trabalho noturno. Era pela madrugada que deixava a redação de jornal, quase sempre depois de uma passagem pela oficina — e muitas vezes saía já levando na mão um dos primeiros exemplares rodados, o jornal ainda quentinho da máquina, como pão saído do forno.
+Ah, eu era rapaz, eu era rapaz naquele tempo! E às vezes me julgava importante porque, no jornal que levava para casa, além de reportagens ou notas que eu escrevera sem assinar, ia uma crônica ou um artigo com o meu nome. O jornal e o pão estariam bem cedinho na porta de cada lar; e dentro do meu coração eu recebi a lição de humildade daquele homem entre todos útil e entre todos alegre; “não é ninguém, é o padeiro!”
+E assobiava pelas escadas.
+
+Rubem Braga. O padeiro (com adaptações).
+
+Acerca das ideias e de aspectos linguísticos do texto CB2A1, julgue os itens que se seguem.
+O texto apresenta um viés reflexivo a respeito do fato de o padeiro ser chamado de “ninguém” e de ele aceitar essa condição, apesar de realizar um trabalho importante para a sociedade.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+86.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rael Dos Santos Macedo
+30 de maio de 2024 às 09:12
+Quando a questão é tranquila assim, a mão chega treme na hora de responder rsrs.
+Reportar abuso
+Ajudou (17) Não ajudou
+Patricia Ferreira Neto
+11 de agosto de 2024 às 15:49
+Gabarito "certo"
+
+"(...)E às vezes me julgava importante porque, no jornal que levava para casa, além de reportagens ou notas que eu escrevera sem assinar, ia uma crônica ou um artigo com o meu nome. O jornal e o pão estariam bem cedinho na porta de cada lar; e dentro do meu coração eu recebi a lição de humildade daquele homem entre todos útil e entre todos alegre; “não é ninguém, é o padeiro!”"
+Reportar abuso
+Ajudou (5) Não ajudou
+Eduardo Bittar
+23 de maio de 2024 às 14:02
+Uma questão bem tranquila de responder. Gabarito: C
+Reportar abuso
+Ajudou (4) Não ajudou
+7
+Q3235017
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Guarda Municipal - 2024
+Texto associado
+Um balanço feito pelo Instituto Sou da Paz e pelo INSPER mostrou que, em 2021, o Distrito Federal registrou a menor taxa de homicídios dos últimos 45 anos, mesmo com o aumento da população. Em Alagoas, os indicadores do mesmo crime caíram 14,8%. De acordo com o Segundo Balanço das Políticas de Gestão para Resultados na Segurança Pública, em São Paulo reduziu-se em 49% o roubo de veículos entre 2014 e 2021.
+O documento evidencia iniciativas estaduais que representam boas práticas na área de segurança pública. Segundo a diretora executiva do Instituto Sou da Paz, a pesquisa encontrou 11 estados com programas de gestão de resultado. O destaque é o Espírito Santo, que tem uma ação mais longeva e consegue manter um programa central que envolve as polícias com resultados importantes na redução dos homicídios. “São programas que, embora não sejam uma panaceia, conseguem contribuir muito para a integração das polícias, dão uma ferramenta para o secretário de segurança coordenar, dão uma visão de longo prazo para a segurança pública nos estados, o que não é algo trivial”, disse a diretora.
+“O estabelecimento de diretrizes baseadas em evidências é essencial para a promoção de melhorias na segurança pública dos estados brasileiros”, afirmou um professor do Centro de Gestão e Políticas Públicas do INSPER. Ele acrescentou que o balanço apresentado pelo instituto e pelo Sou da Paz buscou analisar o que funciona para a área, quais estados alcançaram sucesso nos últimos anos e como os gestores podem orientar propostas para conseguir os melhores resultados possíveis.
+Internet: <https://agenciabrasil.ebc.com.br> (com adaptações).
+
+Em relação às ideias e a aspectos linguísticos do texto apresentado, julgue os itens a seguir.
+De acordo com o texto, o estudo feito pelo Instituto Sou da Paz e pelo INSPER apresenta modelos exitosos de políticas de segurança pública no Brasil.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+77.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Joao
+29 de junho de 2024 às 01:00
+Ser exitoso: aquilo que obteve sucesso
+Reportar abuso
+Ajudou (22) Não ajudou
+Alexsandro Bezerra Rodrigues
+10 de agosto de 2024 às 20:20
+exitoso , só lembrar de êxito,significando obter sucesso.
+Reportar abuso
+Ajudou (10) Não ajudou
+Questão
+4 de setembro de 2024 às 10:17
+gab C
+Só faltava a cebraspe dizer que não foi no Brasil, e sim nos estados brasileiros.
+Reportar abuso
+Ajudou (5) Não ajudou
+8
+Q3232809
+Estatística Amostragem
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico - Área Química de Petróleo - 2024
+Texto associado
+A equação y = mx + b, com m = 2,09 e b = 0,257, foi obtida na calibração de um método para a determinação cromatográfica de isoctano em misturas de hidrocarbonetos. Nessa equação, o eixo x apresenta valores de concentração de isoctano, em porcentagem molar, e o eixo y, a área sob o pico cromatográfico, em uma unidade arbitrária.
+
+Tendo como referência as informações precedentes, julgue os itens subsecutivos, a respeito de fundamentos de estatística.
+Se uma determinada amostra de hidrocarbonetos analisada pelo referido método apresenta um valor y igual a 2,65 unidades arbitrárias, então a porcentagem molar de isoctano nessa amostra é inferior a 1,5%.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+73.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Davi
+28 de maio de 2024 às 15:16
+y = mx + b, com m = 2,09 e b = 0,257
+y=2,65
+2,65= 2,09.X + 0,257
+2,09X = 2,65 - 0,257
+2,09X = 2,393
+X= 2,393/2,09
+X= 1,144
+Reportar abuso
+Ajudou (6) Não ajudou
+9
+Q3236053
+Administração Financeira e Orçamentária - AFO Princípios Orçamentários
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Auditor Fiscal de Tributos Municipais - 2024
+Texto associado
+A ação planejada do Estado na manutenção de suas atividades e na execução de seus projetos materializa-se por meio do orçamento público. A respeito desse assunto, julgue os itens a seguir.
+Os princípios orçamentários, válidos para todos os poderes e entes federativos, visam estabelecer regras básicas a fim de conferir racionalidade, eficiência e transparência aos processos de elaboração, execução e controle do orçamento público.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+97.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+EB
+Elivelton Bezerra Dos Santos
+18 de maio de 2024 às 11:20
+Correto. Os princípios surgem pra trazer mais transparência, controle e prestações de contas. Podemos citar alguns exemplos: Transparência e Clareza: Todas as receitas e despesas devem ser apresentadas de maneira clara e detalhada no orçamento. Isso permite uma visão completa das finanças públicas, facilitando o controle e a fiscalização por parte dos órgãos competentes e da sociedade.Proibição de Compensações: Não é permitido compensar receitas com despesas diretamente no orçamento. Por exemplo, a receita gerada por uma determinada atividade não pode ser automaticamente descontada das despesas dessa mesma atividade. Todas as receitas devem ser contabilizadas na sua totalidade e todas as despesas devem ser registradas de forma separada.Controle Legislativo: A totalidade das receitas e despesas deve ser submetida, entre outros.
+Reportar abuso
+Ajudou (23) Não ajudou
+10
+Q3163277
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Considerando processos de análise e mineração de dados, julgue os itens subsecutivos.
+Em um banco de dados NoSQL, o requisito de consistência para sistemas distribuídos é obtido quando todos os nós contêm os mesmos dados.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+48.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+AS
+Alexandre Silva Sousa
+27 de março de 2024 às 10:33
+Essa questão vale um recurso, mas acho que dificilmente iria ser acatado.
+
+Em um banco NoSQL, temos diferentes níveis de consistência em sistemas distribuídos, a depender do modelo adotado e nas políticas de replicação de dados implementada.
+No modelo de consistência forte, todos os nós devem conter os mesmos dados em um determinado momento para que a consistência seja garantida.
+Já num modelo flexível ocorre apenas a consistência eventual (E - Eventual Consistency, do acrônimo BASE), que permite que os dados sejam replicados entre os nós de forma assíncrona e não garante que todos os nós tenham os mesmos dados em todos os momentos. Nesses sistemas, a consistência é eventualmente alcançada, o que significa que, em algum ponto no tempo, todos os nós terão os mesmos dados, mas não necessariamente instantaneamente.
+Reportar abuso
+Ajudou (17) Não ajudou
+Bq Oliveira
+10 de junho de 2024 às 00:33
+Consistência
+Consistência significa que todos os clientes veem os mesmos dados ao mesmo tempo, não importa em qual nó eles se conectem. Para que isso aconteça, sempre que os dados forem gravados em um nó, ele deve ser instantaneamente encaminhado ou replicado para todos os outros nós do sistema antes que a gravação seja considerada 'bem-sucedida'.
+Disponibilidade
+Disponibilidade significa que qualquer cliente que fizer uma solicitação de dados obterá uma resposta, mesmo que um ou mais nós estejam desativados. Ou seja, todos os nós em funcionamento no sistema distribuído retornam uma resposta válida para qualquer solicitação, sem exceção.
+Tolerância de partição
+Uma partição é uma quebra de comunicações dentro de um sistema distribuído, uma conexão perdida ou temporariamente lenta entre dois nós. Tolerância de partição significa que o cluster deve continuar a funcionar mesmo se ocorrer uma ou mais falhas de comunicação entre os nós no sistema.
+Reportar abuso
+Ajudou (10) Não ajudou
+Laiane Ricardo De Araujo
+20 de abril de 2024 às 07:48
+A afirmação está correta, mas muito simples. Dá até medo de arriscar em questões como essa.
+Reportar abuso
+Ajudou (8) Não ajudou
+Caio Cesar De Oliveira Fernandes
+28 de outubro de 2024 às 13:38
+Banco de dados NOSQL não possui Consistência (como um todo), e sim "pode" ter Eventual consistência, logo essa questão está completamente errado, essa afirmação só vale para o Cebraspe.
+Reportar abuso
+Ajudou (0) Não ajudou
+11
+Q3218617
+Tecnologia da Informação Hadoop
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Inovação e Gestão de Infraestrutura de P&D - Desenvolvimento Tecnológico voltado a infraestrutura de TI - 2024
+Texto associado
+Acerca de arquitetura do sistema de arquivos distribuído, julgue os itens subsecutivos.
+Uma das desvantagens do sistema de arquivos distribuído Hadoop File System é a impossibilidade de conectá-lo ao sistema de arquivos local de uma máquina.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+95.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Fabiano Ventura Guimarães
+9 de agosto de 2024 às 12:36
+"Uma das desvantagens do sistema de arquivos distribuído Hadoop File System é a impossibilidade de conectá-lo ao sistema de arquivos local de uma máquina" é ERRADA.
+
+Por quê?
+
+HDFS e a Interoperabilidade: O HDFS, embora seja um sistema de arquivos distribuído projetado para lidar com grandes volumes de dados em clusters, não é isolado do sistema de arquivos local. Ele oferece mecanismos para interagir com o sistema de arquivos local, permitindo:
+
+Copiar arquivos: É possível copiar arquivos do sistema de arquivos local para o HDFS e vice-versa.
+Montar o HDFS: Em alguns casos, é possível montar o HDFS como um diretório no sistema de arquivos local, facilitando o acesso aos dados.
+Usar ferramentas locais: Ferramentas de linha de comando e APIs podem ser utilizadas para interagir com o HDFS a partir de uma máquina local.
+
+Benefícios da Integração: Essa interoperabilidade é fundamental para:
+
+Carregar dados: Permitir que os usuários carreguem dados de seus sistemas locais para o HDFS para processamento distribuído.
+Exportar resultados: Facilitar a exportação de resultados de análises realizadas no HDFS para sistemas locais, como bancos de dados relacionais ou aplicativos de visualização.
+Gerenciamento de dados: Permitir que os administradores gerenciem o HDFS e seus dados a partir de máquinas locais.
+Reportar abuso
+Ajudou (6) Não ajudou
+12
+Q3218618
+Tecnologia da Informação Hadoop
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Inovação e Gestão de Infraestrutura de P&D - Desenvolvimento Tecnológico voltado a infraestrutura de TI - 2024
+Texto associado
+Acerca de arquitetura do sistema de arquivos distribuído, julgue os itens subsecutivos.
+O Hadoop MapReduce permite que os arquivos de entrada e saída sejam armazenados em um sistema de arquivos distribuído, de modo que várias máquinas leiam e gravem dados em paralelo.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+86.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Fabiano Ventura Guimarães
+9 de agosto de 2024 às 12:39
+"O Hadoop MapReduce permite que os arquivos de entrada e saída sejam armazenados em um sistema de arquivos distribuído, de modo que várias máquinas leiam e gravem dados em paralelo" é CERTA.
+
+Por quê?
+
+HDFS como base: O Hadoop MapReduce, um framework para processamento distribuído de grandes volumes de dados, foi projetado para trabalhar em conjunto com o Hadoop Distributed File System (HDFS). O HDFS é um sistema de arquivos distribuído que divide os dados em blocos e os replica em vários nós de um cluster. Essa arquitetura permite:
+
+Armazenamento distribuído: Os arquivos de entrada para um job MapReduce são armazenados no HDFS, distribuídos entre os diferentes nós do cluster.
+Leitura e escrita paralela: O MapReduce pode ler esses dados em paralelo, com cada tarefa Map processando uma parte dos dados. Os resultados intermediários e finais também são armazenados no HDFS, permitindo que várias tarefas reduzam os dados em paralelo.
+Alta disponibilidade: A replicação dos dados no HDFS garante alta disponibilidade, mesmo que alguns nós do cluster falhem.
+
+Benefícios da integração: Essa integração entre MapReduce e HDFS oferece diversas vantagens:
+
+Escalabilidade: Permite processar grandes volumes de dados em clusters de computadores.
+Tolerância a falhas: Garante que o processamento continue mesmo em caso de falhas de hardware.
+Eficiência: Permite a leitura e escrita de dados em paralelo, acelerando o processamento.
+Reportar abuso
+Ajudou (2) Não ajudou
+13
+Q3175362
+Administração Pública Compras Governamentais (Licitações)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Com referência a aquisições públicas e governança, julgue os itens seguintes.
+No Brasil, a vigente legislação de compras determina que, ao se executar indiretamente serviços de engenharia, pode-se adotar o regime por preço unitário.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+56.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gustavo Araujo
+11 de março de 2024 às 18:29
+Lei 14.133/2021:
+
+
+Art. 46. Na execução indireta de obras e serviços de engenharia, são admitidos os seguintes regimes:
+I - empreitada por preço unitário;
+II - empreitada por preço global;
+III - empreitada integral;
+IV - contratação por tarefa;
+V - contratação integrada;
+VI - contratação semi-integrada;
+VII - fornecimento e prestação de serviço associado.
+
+Gabarito: Certo
+Reportar abuso
+Ajudou (203) Não ajudou
+Maur7cio
+1 de novembro de 2024 às 00:14
+E a 14133????
+Reportar abuso
+Ajudou (0) Não ajudou
+14
+Q3163295
+Tecnologia da Informação Mineração de Dados (Data Mining)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Com base em obtenção, limpeza e pré-processamento de dados, julgue os próximos itens.
+As anomalias verificadas em um conjunto de dados devem ser descartadas de modo a se manter a harmonia do conjunto analisado.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+61.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriel
+28 de fevereiro de 2024 às 20:45
+Errado, pois a anomalia de dados pode ser TRATADA
+Reportar abuso
+Ajudou (25) Não ajudou
+Tulio Vargas
+17 de março de 2024 às 14:04
+nao devem, mas podem ser descartadas
+e podem ser tratadas, depende do caso
+Reportar abuso
+Ajudou (12) Não ajudou
+Fernanda Wassano Daher
+19 de março de 2024 às 09:04
+anomalia nao é eliminada é tratada
+Reportar abuso
+Ajudou (5) Não ajudou
+Fernanda Wassano Daher
+19 de março de 2024 às 09:05
+mas podem ser eliminadas
+Reportar abuso
+Ajudou (3) Não ajudou
+Tiago Rocha
+20 de junho de 2024 às 19:01
+ERRADO, devem ser isoladas e tratadas.
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+15
+Q3436429
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Texto VI
+O bife e o vinho compartilham a mitologia sanguínea. É o coração da carne, e qualquer um que a consuma assimila a força do touro. Obviamente, o prestígio do bife deve-se ao seu estado de semicrueza: nele o sangue é simultaneamente visível, denso, compacto e suscetível de ser cortado: imagina-se logo a ambrosia antiga sob a forma de uma matéria pesada que diminui entre os dentes, de modo a fazer com que se sinta ao mesmo tempo a sua força de origem e a sua plasticidade se expandirem no próprio sangue do homem.
+E assim como o vinho se transforma, para um bom número de intelectuais, em substância mediúnica que os conduz à força original da natureza, do mesmo modo o bife é para eles um alimento de redenção, graças ao qual tornam o seu cerebralismo mais prosaico e conjuram, pelo sangue e a polpa mole, a secura estéril de que são acusados.
+Tal como o vinho, na França, o bife é um elemento básico, mais nacionalizado do que socializado, estando presente em todos os cenários da vida alimentar; participa de todos os ritmos, desde a confortável refeição burguesa ao lanche boêmio do celibatário; é uma alimentação simultaneamente rápida e densa, que realiza a mais perfeita união entre a economia e a eficácia, a mitologia e a plasticidade do seu consumo. Além de tudo isso, é um produto eminentemente francês (é certo que se encontra circunscrito, hoje em dia, pela invasão dos steaks americanos). Sendo nacional, depende da cotação dos valores patrióticos: revigora-os em tempo de guerra, sendo a própria carne do combatente francês, o bem inalienável que só pode passar-se para o inimigo à traição. Associado geralmente às batatas fritas, o bife transmite-lhes o seu renome: elas são nostálgicas e patrióticas como o bife.
+Roland Barthes. O bife com batatas fritas. In: Mitologias. 2010, p.79-80 (com adaptações).
+Ainda em relação ao texto VI, julgue (C ou E) os itens a seguir.
+A proposição básica do autor é apontar a alienação do povo, por meio da denúncia da propagação de mensagens fantasiosas na mídia.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+79.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Y
+Yan
+25 de novembro de 2024 às 14:30
+Errado.
+
+O autor não busca denunciar a mídia, mas sim explorar as dimensões simbólicas e culturais associadas ao consumo de determinados alimentos.
+Reportar abuso
+Ajudou (4) Não ajudou
+16
+Q3405797
+Língua Portuguesa Inferência Textual
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Farmacêutico - 2024
+Texto associado
+Texto CG2A1
+
+O desenvolvimento da educação sanitária, a partir dos Estados Unidos da América, esteve associado à saúde pública, tendo sido instrumento das ações de prevenção das doenças, e caracterizou-se pela transmissão de conhecimento. No entanto, mesmo que realizada de forma massiva, como no caso das campanhas sanitárias no Brasil, a perspectiva não contemplava a dimensão histórico-social do processo saúde-doença.
+Com o movimento pela reforma sanitária no Brasil, as críticas mais contundentes relacionavam-se ao fato de que o social não era considerado na prática da saúde pública, senão em perspectiva restrita, de modo que a educação passou a ser uma atividade paralela, cuja finalidade seria a de auxiliar a efetivação dos objetivos eminentemente técnicos dos programas de saúde pública.
+Entretanto, em uma perspectiva crítica, a educação parte da análise das realidades sociais, buscando revelar as suas características e as relações que as condicionam e as determinam. Essa perspectiva pode ater-se à explicação das finalidades reprodutivistas dos processos educativos ou trabalhar no âmbito de suas contradições, buscando transformar essas finalidades, estabelecendo como meta a construção de sujeitos e de projetos societários transformadores.
+Da mesma forma, no campo da saúde, a compreensão do processo saúde-doença como expressão das condições objetivas de vida, isto é, como resultante das condições de habitação, alimentação, educação, renda, meio ambiente, trabalho, transporte, emprego, lazer, liberdade, acesso e posse da terra e acesso a serviços de saúde, descortina a saúde e a doença como produções sociais, passíveis de ação e transformação, e aponta também para um plano coletivo, e não somente individual, de intervenção.
+Essa maneira de conceber a saúde tem sido caracterizada como um conceito ampliado, pois não reduz a saúde à ausência de doença, promovendo a ideia de que uma situação de vida saudável não se resolve somente com a garantia do acesso aos serviços de saúde, mas depende, sobretudo, da garantia de condições de vida dignas que, em conjunto, podem proporcionar a situação de saúde. Nesse sentido, são indissociáveis o conceito de saúde e a noção de direito social.
+
+Márcia V. Morosini, Angélica F. Fonseca e Isabel B. Pereira. Educação em saúde. In: Dicionário da Educação Profissional em Saúde. Internet: <www.sites.epsjv.fiocruz.br> (com adaptações).
+
+A partir das ideias suscitadas pelo texto CG2A1, julgue os itens seguintes.
+Deduz-se da leitura do texto que a expressão “processo saúde-doença” se refere às variáveis que envolvem a saúde e a doença de um indivíduo ou população, estando ambas interligadas e associadas às condições de vida do indivíduo ou da população.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+88.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+T
+Thais
+24 de novembro de 2024 às 21:23
+Da mesma forma, no campo da saúde, a compreensão do processo saúde-doença como expressão das condições objetivas de vida, isto é, como resultante das condições de habitação, alimentação, educação, renda, meio ambiente, trabalho, transporte, emprego, lazer, liberdade, acesso e posse da terra e acesso a serviços de saúde, descortina a saúde e a doença como produções sociais, passíveis de ação e transformação, e aponta também para um plano coletivo, e não somente individual, de intervenção.
+
+Essa maneira de conceber a saúde tem sido caracterizada como um conceito ampliado, pois não reduz a saúde à ausência de doença, promovendo a ideia de que uma situação de vida saudável não se resolve somente com a garantia do acesso aos serviços de saúde, mas depende, sobretudo, da garantia de condições de vida dignas que, em conjunto, podem proporcionar a situação de saúde. Nesse sentido, são indissociáveis o conceito de saúde e a noção de direito social.
+
+Reportar abuso
+Ajudou (1) Não ajudou
+17
+Q3405843
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Técnico em Enfermagem - 2024
+Texto associado
+Texto CG3A1
+A crise durou minutos. Fiquei encolhido, trêmulo, com a testa gelada, o corpo retesado, os músculos das costas contraídos e a boca cerrada para não bater os dentes, à espera do calor que as cobertas não traziam.
+O termômetro marcou 40,2 graus. Os calafrios eram o prenúncio de uma doença que por pouco não me levou desta para outra melhor, como diria minha avó. Tomei um comprimido de dipirona e dormi novamente. Às sete, levantei indisposto, com o corpo moído e as pernas combalidas, para ir a uma reunião na faculdade de medicina.
+Foi uma luta para não pegar no sono no meio da discussão. No jardim da faculdade, a caminho da rua, achei prudente voltar para casa. Um pouco de repouso me deixaria em condições de ir à penitenciária do estado depois do almoço, para o atendimento aos presos, atividade iniciada nesse presídio após a implosão do Carandiru.
+Apesar da intenção, não consegui sair. Passei a tarde qual cachorro decrépito, caindo em cima do computador enquanto tentava escrever minha coluna de jornal. Afora a falta de energia, no entanto, nenhum sintoma de gripe, resfriado ou outra enfermidade.
+À noitinha a febre retornou alta, acompanhada dos mesmos calafrios e de dor nas costas. Tentei fazer o que muitas vezes aconselhei a meus pacientes nessas crises: respirar fundo e relaxar. Não sei onde aprendi recomendação tão inútil para quem não é monge budista nem vive nas montanhas do Tibete. Relaxar, com o corpo tremendo feito vara verde? Na febre alta, as toxinas cravam as garras nos músculos e entorpecem o cérebro. O pensamento fica fragmentado, fugidio, em estado de introspecção. A astenia deixa o corpo avesso aos mínimos esforços.
+Drauzio Varella. O médico doente. São Paulo: Companhia das Letras, 2007, p. 10-11 (com adaptações).
+Com base nas ideias veiculadas no texto CG3A1, julgue os seguintes itens.
+De acordo com o texto, o conselho de “respirar fundo e relaxar” é inútil porque as consequências da febre alta dificultam o relaxamento.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+85.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+T
+Thais
+24 de novembro de 2024 às 21:27
+Tentei fazer o que muitas vezes aconselhei a meus pacientes nessas crises: respirar fundo e relaxar. Não sei onde aprendi recomendação tão inútil para quem não é monge budista nem vive nas montanhas do Tibete. Relaxar, com o corpo tremendo feito vara verde? Na febre alta, as toxinas cravam as garras nos músculos e entorpecem o cérebro.
+Reportar abuso
+Ajudou (3) Não ajudou
+18
+Q3368703
+Legislação Federal Disposições Preliminares
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - BACEN - Analista de Economia e Finanças - 2024
+Texto associado
+Com base no disposto no Código de Ética Profissional do servidor público civil do Poder Executivo federal e na Lei Geral de Proteção de Dados Pessoais (LGPD), julgue os itens a seguir
+Nos termos da LGPD, dados pessoais sensíveis, como os relativos à saúde e à vida sexual do titular, podem ser tratados para fins sanitários.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+76.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Luis Sérgio
+11 de novembro de 2024 às 15:07
+Art. 11. O tratamento de dados pessoais sensíveis somente poderá ocorrer nas seguintes hipóteses:
+I - quando o titular ou seu responsável legal consentir, de forma específica e destacada, para finalidades específicas;
+
+II - sem fornecimento de consentimento do titular, nas hipóteses em que for indispensável para:
+
+a) cumprimento de obrigação legal ou regulatória pelo controlador;
+
+b) tratamento compartilhado de dados necessários à execução, pela administração pública, de políticas públicas previstas em leis ou regulamentos;
+c) realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais sensíveis;
+
+d) exercício regular de direitos, inclusive em contrato e em processo judicial, administrativo e arbitral, este último nos termos da Lei nº 9.307, de 23 de setembro de 1996 (Lei de Arbitragem) ;
+
+e) proteção da vida ou da incolumidade física do titular ou de terceiro;
+
+f) tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou autoridade sanitária; ou        (Redação dada pela Lei nº 13.853, de 2019)      Vigência
+
+g) garantia da prevenção à fraude e à segurança do titular, nos processos de identificação e autenticação de cadastro em sistemas eletrônicos, resguardados os direitos mencionados no art. 9º desta Lei e exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais.
+
+Reportar abuso
+Ajudou (13) Não ajudou
+Pricila Fernanda Azevedo De Araujo
+10 de outubro de 2024 às 10:07
+não só pode como não precisa do consentimento pra isso! (ver art 11, II, f)
+
+Reportar abuso
+Ajudou (9) Não ajudou
+19
+Q3238143
+Administração de Recursos Materiais Modalidades de Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+Julgue os itens que se seguem, em relação a modais de transporte e a operações de transporte multimodal em uma indústria petrolífera.
+O transporte multimodal terrestre-marítimo tem a vantagem de apresentar uma boa eficiência logística, mas necessita de vários operadores de transporte multimodal para cada operação terrestre-marítima.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+37.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Wellington Paula Da Silva Junior
+14 de dezembro de 2024 às 15:49
+Os tipos de transportes pode ser:
+
+Modal: usa apenas um modal (apenas um único meio de transporte)
+intermodal: usa dois ou mais modais, mas com contratações diferentes, ou seja mais operadores !!
+multimodal: usa dois ou mais modais, mas um único contrato, ou seja menos operadores no processo.
+
+O item se encontra errado, pois se trata de um meio intermodal e não multimodal
+Reportar abuso
+Ajudou (21) Não ajudou
+ER
+Elys Regina Ferreira De Oliveira
+14 de dezembro de 2024 às 13:49
+O item incorreto. O transporte multimodal terrestre-marítimo pode de fato apresentar uma boa eficiência logística ao combinar os benefícios do transporte terrestre e marítimo. No entanto, a necessidade de vários operadores de transporte multimodal para cada operação terrestre-marítima nem sempre é uma realidade. Muitas vezes, as empresas de transporte multimodal oferecem serviços integrados que abrangem tanto a parte terrestre quanto a marítima, facilitando a coordenação das operações.
+Reportar abuso
+Ajudou (4) Não ajudou
+20
+Q3238124
+Administração de Recursos Materiais Inventários
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+No que se refere ao controle de inventários e às decisões de políticas de estoques, julgue os próximos itens.
+A acurácia das informações sobre os saldos de estoques é obtida mediante a confrontação entre a contagem física dos materiais e os registros constantes nos controles existentes.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+94.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ana Paula Santos De Souza
+17 de dezembro de 2024 às 17:06
+A acurácia das informações sobre os saldos de estoques é fundamental para a gestão eficiente dos recursos materiais de uma organização. A confrontação entre a contagem física e os registros nos controles existentes é uma prática comum para garantir a precisão dessas informações. Esse processo permite identificar discrepâncias e tomar as medidas corretivas necessárias, assegurando que os dados refletem a realidade física dos estoques.
+Reportar abuso
+Ajudou (9) Não ajudou

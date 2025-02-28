@@ -1,0 +1,829 @@
+1
+Q3643010
+Administração Financeira e Orçamentária - AFO Ciclo ou Processo Orçamentário
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+No que concerne ao conceito de orçamento público, aos princípios orçamentários, ao ciclo orçamentário e ao processo orçamentário, julgue os itens a seguir.
+A fase de execução do ciclo orçamentário se encerra imediatamente após o final da vigência da LOA, sendo este o momento em que se inicia a fase de controle desse ciclo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+82.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+A
+Adrianny
+12 de fevereiro de 2025 às 19:07
+
+A execução orçamentária não se encerra ao final da vigência da LOA, pois há os restos a pagar que são executados no exercício seguinte, e o controle é concomitante à execução e não apenas posterior. O controle ocorre em todas as fases, visando garantir a legalidade e eficiência dos gastos públicos.
+
+LEI No 4.320, DE 17 DE MARÇO DE 1964, Do Controle Interno
+Artigo 76. O Poder Executivo exercerá os três tipos de controle a que se refere o artigo 75, sem prejuízo das atribuições do Tribunal de Contas ou órgão equivalente.
+Artigo 77. A verificação da legalidade dos atos de execução orçamentária será prévia, concomitante e subseqüente.
+
+Reportar abuso
+Ajudou (46) Não ajudou
+2
+Q3643046
+Administração de Recursos Materiais Fonte Única, Simples e Múltipla
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+Acerca de classificação de materiais e gestão de estoques, julgue os itens que se seguem.
+Um dos atributos para a classificação dos materiais é o da simplicidade, que possibilita interfaces com outros tipos de classificação e proporciona uma visão macro do controle de estoques.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+59.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lopes
+14 de fevereiro de 2025 às 00:14
+A FLEXIBILIDADE que possibilita interfaces com outros tipos de classificação e proporciona uma visão macro do controle de estoques
+
+SIMPLICIDADE: ser direta e simples
+
+Reportar abuso
+Ajudou (14) Não ajudou
+3
+Q3643069
+Administração de Recursos Materiais Tombamento
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+No que diz respeito à gestão patrimonial, julgue os próximos itens.
+O recebimento do código de registro único e intransferível é um requisito primordial para o tombamento patrimonial de um bem.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+92.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AP
+Ana Paula Souza
+14 de fevereiro de 2025 às 20:09
+O primeiro passo no tombamento é a identificação do bem, que deve receber um número patrimonial único e intransferível. Esse número é atribuído definitivamente. Mesmo que o bem seja excluído do acervo posteriormente, a numeração não será reutilizada. A atribuição deste número serve para que os responsáveis pelo controle patrimonial possam coletar informações precisas sobre a localização, estado de conservação e responsável pela guarda do bem.
+Reportar abuso
+Ajudou (6) Não ajudou
+4
+Q3641144
+Administração de Recursos Materiais Tipos de Inventário
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área: Administrativa - 2025
+Texto associado
+Julgue os itens subsequentes, que dizem respeito a compras, previsão e controle de estoque nas organizações.
+O inventário geral, considerado a ferramenta de maior relevância nos processos internos da empresa, dadas as vantagens econômicas que confere à organização, é realizado ao longo do ano, sem a necessidade de paralisação dos setores da empresa.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+78.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daiane Guedes
+16 de fevereiro de 2025 às 07:31
+O item está errado.
+
+O inventário geral é um processo de conferência física de todos os itens em estoque de uma organização. Ele é, de fato, uma ferramenta essencial para o controle de estoques, pois permite identificar discrepâncias entre os registros e a realidade, reduzindo perdas e otimizando a gestão.
+
+No entanto, o inventário geral normalmente exige a paralisação das atividades ou, pelo menos, uma organização especial para minimizar impactos operacionais. Muitas empresas optam por realizá-lo em períodos de menor movimento ou até em momentos específicos do ano, como no fechamento contábil.
+
+Diferente do inventário geral, o inventário rotativo é realizado ao longo do ano, sem a necessidade de interrupção dos setores, pois envolve a contagem periódica de parte dos itens do estoque.
+
+Portanto, ao afirmar que o inventário geral ocorre ao longo do ano sem necessidade de paralisação, o item está incorreto.
+
+Reportar abuso
+Ajudou (10) Não ajudou
+5
+Q3641121
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área Apoio Especializado - Especialidade: Suporte Técnico - 2025
+Texto associado
+It’s like a 21st century version of Frankenstein’s monster.
+Switzerland-based startup FinalSpark claims to have built a unique computer processor made from 16 mini brains developed out of human brain tissue — and they are positioning this “living computer” as an alternative to silicon-based computing. And now, other researchers can remotely access the startup’s biocomputer, the Neuroplatform, to conduct studies on, let’s say, artificial intelligence, which typically requires enormous resources.
+“One of the biggest advantages of biological computing is that neurons compute information with much less energy than digital computers,” a scientist and strategic advisor wrote in a company blog post. It is estimated that living neurons can use over 1 million times less energy than the current digital processors we use. The startup takes brain organoids, small samples of human brain tissue derived from neural stem cells, and places them in a special environment that keeps these organoids alive. They then hook up these mini brains to specialized electrodes to perform computer processing and digital analog conversions to transform neural activity into digital information.
+The concept of living computers has been around for quite some time now. Last year, for instance, scientists hooked up neurons to electrical circuits, resulting in a device that could perform voice recognition. These unusual machines have some noteworthy advantages over their silicon-based counterparts, including a significantly smaller carbon footprint. “This is one of the reasons why using living neurons for computations is such a compelling opportunity. Apart from possible improvements in AI model generalization, we could also reduce greenhouse emissions without sacrificing technological progress,” she said.
+FinalSpark hopes other institutions will tap its Neuroplatform in order to advance biocomputer research, while positioning this tool as the next step in AI computing. As AI companies clamor for resources for data centers, with concerns growing over carbon emissions and water, it’s a novel approach that may just pay off in the long run.
+
+Internet: <futurism.comneoscope> (adapted).
+Based on the preceding text, judge the items that follow.
+Biocomputers are more efficient than standard computers because they take less time than the latter to process the same information.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+JD
+Jessica Delavechia Oliveira Rodrigues
+15 de fevereiro de 2025 às 18:01
+“One of the biggest advantages of biological computing is that neurons compute information with much less energy than digital computers,”
+"Uma das maiores vantagens da computação biológica é que os neurônios computam informações com muito menos energia do que os computadores digitais"
+
+O texto cita muito que os "biological computing" usam menos energia. Naõ achei a informção de usar menos tempo.
+Por isso ERRADA
+Reportar abuso
+Ajudou (3) Não ajudou
+6
+Q3605843
+Administração de Recursos Materiais Inventários
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+Acerca da administração de materiais de estoque, julgue os itens subsequentes.
+Os inventários rotativos visam à distribuição das contagens dos itens de estoque ao longo do ano, classificando-os em grupos (1, 2 e 3), de acordo com sua relevância, valor ou criticidade, sendo os itens de menor valor estratégico agrupados no grupo 1, inventariado três vezes ao ano.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+74.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Moema Fiuza
+28 de janeiro de 2025 às 20:57
+Eh o mesmo que ABC, onde A São os itens mais importantes e C os menos.
+Reportar abuso
+Ajudou (23) Não ajudou
+LC
+Ligia C.
+1 de fevereiro de 2025 às 11:48
+Grupo 1 equivale ao Grupo A da curva ABC, sendo prioritário. Inventariar a cada 3 meses, em vez de anualmente, indica esse nível de prioridade.
+Reportar abuso
+Ajudou (14) Não ajudou
+Ashely
+31 de janeiro de 2025 às 15:27
+A curva ABC é uma técnica de categorização de inventário que classifica os itens com base em sua importância relativa, geralmente medida pelo valor de consumo anual. 
+Reportar abuso
+Ajudou (5) Não ajudou
+7
+Q3605846
+Administração de Recursos Materiais Classificação ABC
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+A respeito da curva ABC na gestão de materiais, julgue os próximos itens.
+O processo metodológico de elaboração da curva ABC envolve a classificação dos itens conforme sua importância e relevância econômica e o cálculo da porcentagem de participação de cada item no total.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+92.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Elvisnei Neri De Sousa
+21 de fevereiro de 2025 às 17:51
+A curva ABC é uma ferramenta de análise que ordena informações por ordem de importância. É utilizada para categorizar produtos, clientes ou outras informações.
+Reportar abuso
+Ajudou (1) Não ajudou
+8
+Q3605853
+Administração de Recursos Materiais Just-In-Time
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+Julgue os itens que se seguem, referentes à gestão de estoques.
+A filosofia just in time preconiza a eliminação de excessos de estoque e a redução do desperdício.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+87.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Elvisnei Neri De Sousa
+21 de fevereiro de 2025 às 17:53
+A filosofia Just in Time (JIT) é uma metodologia de produção que visa produzir apenas o necessário, no momento certo e na quantidade adequada. O objetivo é eliminar estoques excessivos e reduzir custos.
+Reportar abuso
+Ajudou (2) Não ajudou
+Luis Gabriel Santos Gil
+12 de fevereiro de 2025 às 17:36
+ Just in Time, ou é uma filosofia de manufatura, onde a empresa busca produzir a quantidade exata para atender a demanda, evitando estoques em todo o processo produtivo.
+Reportar abuso
+Ajudou (2) Não ajudou
+9
+Q3605841
+Administração de Recursos Materiais UEPS ou LIFO (Último a Entrar, Primeiro a Sair)
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+Acerca da administração de materiais de estoque, julgue os itens subsequentes.
+A flexibilidade na classificação de materiais prejudica a determinação de prioridades e a definição de políticas eficientes de estoque.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+84.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Maryy Sam
+31 de janeiro de 2025 às 13:32
+A flexibilidade é um dos atributos da classificação de matérias
+Reportar abuso
+Ajudou (14) Não ajudou
+David Guillermo Valdez Panduro
+22 de fevereiro de 2025 às 23:18
+E
+Reportar abuso
+Ajudou (0) Não ajudou
+10
+Q3596022
+Administração de Recursos Materiais Avaliação de Estoques
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+Julgue os próximos itens, relativos a princípios de gestão integrada de operações logísticas, modos de transporte e logística de suprimento.
+Os estoques máximos, de segurança, real e virtual são considerados parâmetros e modelos qualitativos de ressuprimento de materiais ou produtos armazenados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 27/02/2025:
+Errada
+i
+68.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daiane Guedes
+15 de fevereiro de 2025 às 16:00
+O item está errado.
+
+Os estoques máximos, de segurança, real e virtual são parâmetros quantitativos, e não qualitativos, para a gestão de estoques e ressuprimento.
+
+Estoque máximo: limite superior de armazenamento para evitar excessos e custos desnecessários.
+
+Estoque de segurança: reserva estratégica para evitar rupturas devido a variações na demanda ou atrasos no fornecimento.
+
+Estoque real: quantidade física disponível no momento.
+
+Estoque virtual: quantidade registrada no sistema, que pode incluir pedidos em trânsito.
+
+
+Como esses conceitos são baseados em quantificação e cálculos, e não em critérios subjetivos ou qualitativos, a afirmação está incorreta.
+
+Reportar abuso
+Ajudou (12) Não ajudou
+CT
+Cintia Teixeira Da Silva Almeida
+23 de janeiro de 2025 às 19:29
+Acredito que seja quantitativo
+Reportar abuso
+Ajudou (9) Não ajudou
+Ashely
+31 de janeiro de 2025 às 15:19
+ERRADO
+
+Esses tipos de estoques são parâmetros quantitativos.
+Reportar abuso
+Ajudou (8) Não ajudou
+11
+Q3595414
+Administração de Recursos Materiais Classificação dos Bens Patrimoniais
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Patrimônio - 2025
+Texto associado
+Considerando os conceitos de material e patrimônio, julgue os itens a seguir.
+Materiais como papel e toner para impressão são considerados bens patrimoniais, pois são registrados e controlados como parte do ativo permanente da instituição.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+82.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ana Claudia Machado
+30 de janeiro de 2025 às 00:05
+Materiais de consumo
+Reportar abuso
+Ajudou (13) Não ajudou
+Vitória Pereira Silva
+11 de fevereiro de 2025 às 16:39
+Materiais de consumo, como papel e toner para impressão, são bens que se extinguem rapidamente com o uso, ou seja, perdem suas características físicas em um período relativamente curto. Eles são classificados como parte do ativo circulante da instituição e não são considerados bens patrimoniais.
+Reportar abuso
+Ajudou (12) Não ajudou
+12
+Q3595458
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista Administrativo - Área: Projetos - 2025
+Texto associado
+A majority of remote workers would quit their jobs if forced to return to the office, according to a new study. In FlexJobs’ recent report, 57 percent of remote workers surveyed said they would absolutely look for a new job if they were not allowed to continue working remotely. “Obviously, an employer has the right to call employees back to the office from remote or hybrid positions at any time, but for many who have had these jobs since the early days of the pandemic, working from home during all or part of the week has become a way of life, and they’ve scheduled virtually all other priorities around it,” says Alex Beene, a financial literacy instructor at the University of Tennessee.
+The numbers could indicate a significant turnover issue as companies continue to look for ways to be fully in-person again, as just under 25 percent of workers said their employer had already instituted a return-to-office mandate. The report is based on a poll of 3,000 American professionals between August 5 and August 18. Overall, Americans were eager to leave their jobs in pursuit of higher wages or more flexible work, as 67 percent said they planned to change jobs in the next six months. But key things like a promotion, remote work and a better company culture could convince some workers to stay, according to the survey. Between 33 percent and 38 percent of workers said these factors could convince them to stay in their current roles.
+Working remotely continues to be a huge draw when it comes to attracting talent, and it can even convince some employees to accept lower salaries. In the report, 58 percent of workers said they’d accept a salary decrease if it meant they could work from home. “We have a generation of employees that live in locations far removed from their actual employer due to work-from-home policies,” Beene said. “For many, hours of commuting may either not be feasible or not add up financially to make sense given their current role.”
+And because many remote workers don’t feel a productivity loss, companies are still “vying for talent and willing to accommodate,” said Kevin Thompson, a finance expert and founder and CEO of 9i Capital Group. As a result, workers still largely have the power over their employers, Thompson said. “The only reason they would not is if businesses began to collude and mandated everyone return to work,” Thompson told Newsweek. “As long as the market remains free and fair, the ability to find remote work should actually continue.”
+Putting productivity aside, Thompson said the main loss from remote work has been in corporate culture. “I don’t believe you can build a culture through Zoom, but that does not mean it is not possible,” Thompson said. “The consequences of remote work won’t be felt for a number of years.”
+
+Internet: <newsweek.com> (adapted).
+
+About the ideas conveyed by the preceding text, as well as its linguistic aspects, judge the following items.
+Half of the American workers seem to be motivated by the flexibility of remote work, but they also consider other key factors, like better salaries and a better company culture.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+40.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rebeca Rocha Carvalho
+11 de fevereiro de 2025 às 10:35
+Não é um fator considerado problemático para os trabalhadores visto que 58% consideraria trabalhar de casa apesar de salários mais baixos levando em conta a comutação!
+Reportar abuso
+Ajudou (4) Não ajudou
+13
+Q3595799
+Direito Administrativo Lei nº 13.303/2016 - Estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+Julgue os próximos itens, com base na Lei n.o 14.303/2016 (Lei das Estatais).
+A Lei das Estatais prevê a contratação direta quando existir inviabilidade de competição.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 27/02/2025:
+Certa
+i
+84.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Carolina Delgado
+20 de janeiro de 2025 às 18:53
+Art. 30 da Lei 13.303 - . A contratação direta será feita quando houver inviabilidade de competição, em especial na hipótese de:   
+Reportar abuso
+Ajudou (30) Não ajudou
+Gilson Batista Dos Santos Filho
+19 de fevereiro de 2025 às 21:00
+O enunciado está errando
+Reportar abuso
+Ajudou (0) Não ajudou
+14
+Q3595473
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista Administrativo - Área: Projetos - 2025
+Texto associado
+A majority of remote workers would quit their jobs if forced to return to the office, according to a new study. In FlexJobs’ recent report, 57 percent of remote workers surveyed said they would absolutely look for a new job if they were not allowed to continue working remotely. “Obviously, an employer has the right to call employees back to the office from remote or hybrid positions at any time, but for many who have had these jobs since the early days of the pandemic, working from home during all or part of the week has become a way of life, and they’ve scheduled virtually all other priorities around it,” says Alex Beene, a financial literacy instructor at the University of Tennessee.
+The numbers could indicate a significant turnover issue as companies continue to look for ways to be fully in-person again, as just under 25 percent of workers said their employer had already instituted a return-to-office mandate. The report is based on a poll of 3,000 American professionals between August 5 and August 18. Overall, Americans were eager to leave their jobs in pursuit of higher wages or more flexible work, as 67 percent said they planned to change jobs in the next six months. But key things like a promotion, remote work and a better company culture could convince some workers to stay, according to the survey. Between 33 percent and 38 percent of workers said these factors could convince them to stay in their current roles.
+Working remotely continues to be a huge draw when it comes to attracting talent, and it can even convince some employees to accept lower salaries. In the report, 58 percent of workers said they’d accept a salary decrease if it meant they could work from home. “We have a generation of employees that live in locations far removed from their actual employer due to work-from-home policies,” Beene said. “For many, hours of commuting may either not be feasible or not add up financially to make sense given their current role.”
+And because many remote workers don’t feel a productivity loss, companies are still “vying for talent and willing to accommodate,” said Kevin Thompson, a finance expert and founder and CEO of 9i Capital Group. As a result, workers still largely have the power over their employers, Thompson said. “The only reason they would not is if businesses began to collude and mandated everyone return to work,” Thompson told Newsweek. “As long as the market remains free and fair, the ability to find remote work should actually continue.”
+Putting productivity aside, Thompson said the main loss from remote work has been in corporate culture. “I don’t believe you can build a culture through Zoom, but that does not mean it is not possible,” Thompson said. “The consequences of remote work won’t be felt for a number of years.”
+
+Internet: <newsweek.com> (adapted).
+
+About the ideas conveyed by the preceding text, as well as its linguistic aspects, judge the following items.
+According to financial expert Kevin Thompson, employers will always have an upper hand over their employees.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+65.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AP
+André Philipe
+6 de fevereiro de 2025 às 16:47
+Justamente o contrário. Do quarto parágrafo, temos:  "As a result, workers still largely have the power over their employers, Thompson said."
+Gabarito: ERRADO
+Reportar abuso
+Ajudou (1) Não ajudou
+15
+Q3595447
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista Administrativo - Área: Projetos - 2025
+Texto associado
+A majority of remote workers would quit their jobs if forced to return to the office, according to a new study. In FlexJobs’ recent report, 57 percent of remote workers surveyed said they would absolutely look for a new job if they were not allowed to continue working remotely. “Obviously, an employer has the right to call employees back to the office from remote or hybrid positions at any time, but for many who have had these jobs since the early days of the pandemic, working from home during all or part of the week has become a way of life, and they’ve scheduled virtually all other priorities around it,” says Alex Beene, a financial literacy instructor at the University of Tennessee.
+The numbers could indicate a significant turnover issue as companies continue to look for ways to be fully in-person again, as just under 25 percent of workers said their employer had already instituted a return-to-office mandate. The report is based on a poll of 3,000 American professionals between August 5 and August 18. Overall, Americans were eager to leave their jobs in pursuit of higher wages or more flexible work, as 67 percent said they planned to change jobs in the next six months. But key things like a promotion, remote work and a better company culture could convince some workers to stay, according to the survey. Between 33 percent and 38 percent of workers said these factors could convince them to stay in their current roles.
+Working remotely continues to be a huge draw when it comes to attracting talent, and it can even convince some employees to accept lower salaries. In the report, 58 percent of workers said they’d accept a salary decrease if it meant they could work from home. “We have a generation of employees that live in locations far removed from their actual employer due to work-from-home policies,” Beene said. “For many, hours of commuting may either not be feasible or not add up financially to make sense given their current role.”
+And because many remote workers don’t feel a productivity loss, companies are still “vying for talent and willing to accommodate,” said Kevin Thompson, a finance expert and founder and CEO of 9i Capital Group. As a result, workers still largely have the power over their employers, Thompson said. “The only reason they would not is if businesses began to collude and mandated everyone return to work,” Thompson told Newsweek. “As long as the market remains free and fair, the ability to find remote work should actually continue.”
+Putting productivity aside, Thompson said the main loss from remote work has been in corporate culture. “I don’t believe you can build a culture through Zoom, but that does not mean it is not possible,” Thompson said. “The consequences of remote work won’t be felt for a number of years.”
+
+Internet: <newsweek.com> (adapted).
+
+About the ideas conveyed by the preceding text, as well as its linguistic aspects, judge the following items.
+The word “collude” (third sentence of the fourth paragraph) is used metaphorically in the text.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+49.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tiago De Barros
+31 de janeiro de 2025 às 10:01
+Template: E.
+
+Collude means conspire. And it is used in its literal sense.
+Reportar abuso
+Ajudou (6) Não ajudou
+16
+Q3595920
+Administração de Recursos Materiais Objetivos do Setor de Compras
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+Julgue os itens subsequentes, referentes à análise de propostas do setor de compras e à negociação com fornecedores.
+O comprador negociador do setor de compras deve ter uma alternativa em mente caso a negociação não dê certo.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+96.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daiane Guedes
+15 de fevereiro de 2025 às 16:02
+O item está certo.
+
+Na negociação, especialmente no setor de compras, é essencial que o comprador tenha uma alternativa caso a negociação não seja bem-sucedida. Esse conceito é conhecido como BATNA (Best Alternative to a Negotiated Agreement) ou Melhor Alternativa para um Acordo Negociado.
+
+Se a negociação com um fornecedor falhar, o comprador deve estar preparado com outras opções viáveis, como buscar novos fornecedores, reconsiderar especificações do produto ou ajustar prazos e volumes. Isso fortalece sua posição na negociação e evita depender exclusivamente de um único fornecedor.
+
+Reportar abuso
+Ajudou (3) Não ajudou
+17
+Q3595453
+Administração de Recursos Materiais Sistemas de Controle de Estoques
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Patrimônio - 2025
+Texto associado
+Acerca da administração de recursos materiais e patrimoniais, julgue os itens a seguir.
+Suponha que uma empresa utilize o sistema de reposição contínua para gerenciar seus estoques e mantenha um estoque de segurança de 50 unidades de um item para cobrir possíveis atrasos no fornecimento. Considere, também, que a demanda diária por tal item seja de 20 unidades e que o tempo de ressuprimento seja de 3 dias. Nessa situação, o ponto de pedido deve ser definido em 110 unidades, pois, assim, a empresa poderá preservar o estoque de segurança.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+79.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Julia Moreira Gomes
+13 de fevereiro de 2025 às 00:28
+Para calcular o ponto de pedido:
+
+PP = (Demanda diária x Tempo de reposição) + Estoque mínimo/Estoque de segurança
+
+Reportar abuso
+Ajudou (8) Não ajudou
+Tainá Cavalcante Fontes Melo
+14 de fevereiro de 2025 às 15:49
+CERTO.
+
+A demanda diária é 20, mas o fornecedor leva 3 dias para fazer a entrega. Logo, 20x3=60 itens (serão necessários 60 itens para suprir os três dias).
+Porém, a empresa tem um estoque de segurança de 50 unidades.
+
+Sendo assim, 60+50=110.
+Reportar abuso
+Ajudou (5) Não ajudou
+18
+Q3601019
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Ensino Médio - Área: Língua Portuguesa - 2025
+Texto associado
+A sociedade na qual vivemos se constitui como um grande ambiente multimodal, no qual palavras, imagens, sons, cores, músicas, aromas, movimentos variados, texturas, formas diversas se combinam e estruturam um grande mosaico multissemiótico. Produzimos, portanto, textos para serem lidos pelos nossos sentidos. Nossos pensamentos e nossas interações se moldam em gêneros textuais e nossa história de indivíduos letrados começa com nossa imersão no universo em que o sistema linguístico é apenas um dos modos de constituição dos textos que materializam nossas ações sociais.
+
+A. P. Dionísio e L. J. de Vasconcelos. Multimodalidade, gênero textual e leitura. In: Clecio Buzen e
+Marcia Mendonça. Múltiplas linguagens para o ensino médio. São Paulo: Parábola Editorial, 2013.
+
+A partir da leitura do texto precedente, julgue os itens seguintes, relacionados à semiótica, ao multiletramento e à multimodalidade.
+Nos textos multimodais, os desenhos e as figuras têm valor meramente ilustrativo, ou seja, as informações importantes são as veiculadas verbalmente.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+82.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Políciafocada
+24 de janeiro de 2025 às 16:01
+Errado. Como o texto diz "formas diversas se combinam e estruturam um grande mosaico multissemiótico", logo as figuras tem importante papel na composição da mensagem para uma leitura ampla e realizada por todos os sentidos.
+
+Bons estudos.
+Reportar abuso
+Ajudou (11) Não ajudou
+19
+Q3600997
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Ensino Médio - Área: Língua Portuguesa - 2025
+Texto associado
+“Você é espírita, Fernando? Então como é que você me pergunta o que eu faço às três horas da tarde? Às três horas da tarde sou a mulher mais exigente do mundo. Fico às vezes reduzida ao essencial, quer dizer, só meu coração bate. Quando passa, vem seis da tarde, também indescritíveis, em que eu fico cega”. (Carta de Clarice Lispector a Fernando Sabino em 19/6/1946)
+“De certo modo, você me dispensa de escrever. Resta o consolo de pensar que se eu fosse capaz como você de dizer o indizível, eu teria a dizer certas coisas que você ainda vai dizer. E me limito a ficar esperando”. (Carta de Fernando Sabino a Clarice Lispector em 30/3/1955)
+Em 1944, Fernando Sabino recebeu um exemplar de Perto do Coração Selvagem, com dedicatória da autora estreante, Clarice Lispector. Ele não fazia ideia de quem era ela. De qualquer maneira, ficou deslumbrado com o livro. Tempos depois, quando a conheceu pessoalmente, ficou deslumbrado com Clarice.
+Os jovens escritores viveram uma paixão não formulada. Encontravam-se diariamente, longas conversas numa confeitaria do Rio. Separados por compromissos fora do país, trocaram cartas, no período entre 1949 e 1969. Em 2001, Fernando as reuniu em Cartas Perto do Coração, comovente testemunho de fidelidade à literatura e à amizade. Livro de culto, rapidamente se esgotou; poucos exemplares, e caríssimos, eram achados em sebos. Reaparece agora, em edição de capa dura, novo projeto gráfico e fac-símiles dos manuscritos.
+Quem vê o prestígio de Clarice hoje não imagina suas angústias e incertezas reveladas na correspondência. Seu segundo livro, O Lustre, foi recebido em silêncio. Dez anos após o aparecimento do terceiro, A Cidade Sitiada, de 1949, ela estava esquecida. Os originais do romance A Maçã no Escuro ficaram cinco anos pegando poeira no escritório do editor Ênio Silveira. Além de segurar a barra da amiga, Fernando passou a atuar como agente literário de Clarice, até que seu talento fosse reconhecido.
+Com a publicação de Uma Aprendizagem, em 1969, Fernando carinhosamente entrega os pontos: “Eu não mereço mais ser seu leitor. Você foi longe demais para mim”.
+
+Álvaro Costa e Silva.
+A paixão nas cartas de Clarice Lispector e Fernando Sabino.
+Internet: <folha.uol.com.br> (com adaptações).
+
+Com base na leitura do texto apresentado, julgue os itens que se seguem.
+No primeiro período do último parágrafo, a expressão “entrega os pontos” indica que Fernando Sabino, cansado das angústias e incertezas literárias de Clarice Lispector, desistiu de atuar como seu agente literário.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+71.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Políciafocada
+24 de janeiro de 2025 às 15:55
+Errado. Na verdade a expressão "entregar os pontos" foi utilizada no texto como forma de explicitar que Fernando Sabino admirou-se tanto com Clarice que se considerou vencido pelo seu talento em escrever, não merecendo sequer ler as suas obras.
+Reportar abuso
+Ajudou (17) Não ajudou
+E
+Emanuela
+30 de janeiro de 2025 às 20:06
+Para resolver a questão, bastaria não se restringir apenas a leitura do último parágrafo, buscando informações em todo o texto, como nesta:
+
+Em 1944, Fernando Sabino recebeu um exemplar de Perto do Coração Selvagem, com dedicatória da autora estreante, Clarice Lispector. Ele não fazia ideia de quem era ela. De qualquer maneira, ficou deslumbrado com o livro. Tempos depois, quando a conheceu pessoalmente, ficou deslumbrado com Clarice.
+Reportar abuso
+Ajudou (4) Não ajudou
+20
+Q3595456
+Administração de Recursos Materiais Giro de Estoque
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Patrimônio - 2025
+Texto associado
+Acerca da administração de recursos materiais e patrimoniais, julgue os itens a seguir.
+No inventário rotativo, a equipe responsável pelo levantamento deve realizar a contagem contínua dos itens, concentrando-se nos materiais mais utilizados em todo o período fiscal, o que evita a necessidade de paralisar as atividades para um levantamento completo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+43.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriela
+31 de janeiro de 2025 às 08:57
+a banca considera que procedimentos de checagem de estoque sempre incluem todos os produtos, sem dar preferência a um ou outro. Pelo menos foi o que vi em outras questões...
+Reportar abuso
+Ajudou (19) Não ajudou
+Shymoon
+3 de fevereiro de 2025 às 15:49
+O entendimento da banca foi no sentido de que não há preferência de checagem para determinados materiais em estoque, em detrimento de outros.
+Reportar abuso
+Ajudou (8) Não ajudou
+Erenita Maciel Sampaio
+10 de fevereiro de 2025 às 22:58
+Pagamos essa plataforma, e não temos comentários de professores nestas questões polêmicas... complicado 😠
+Reportar abuso
+Ajudou (5) Não ajudou
+Joaquim Ferreira De Lima Neto
+12 de fevereiro de 2025 às 13:18
+No inventário rotativo, a equipe responsável pelo levantamento deve realizar a contagem contínua dos itens, concentrando-se nos materiais mais utilizados em todo o período fiscal, o que evita a necessidade de paralisar as atividades para um levantamento completo.
+
+Inventário Anual
+Ao final do ano fiscal, é necessário fazer o inventário anual. E como o próprio nome diz, é feito uma vez ao ano, que no Brasil de acordo com as regras contábeis, ocorre sempre de janeiro a dezembro.
+Inventário Rotativo
+O inventário rotativo é feito com uma periodicidade maior, verificando a entrada e saída do estoque. Pode ser diária, semanal, quinzenal ou mensal, de acordo com a circulação de mercadorias. 
+
+Meu entendimento é:
+-Questão errada, pois seu foco não está nos produtos utilizados no período fiscal, e sim com periodicidade maior.
+Reportar abuso
+Ajudou (2) Não ajudou
+Edimalso Bomfim De Almeida
+27 de janeiro de 2025 às 10:35
+Está questão deveria esta certa. Qual foi entendimento da banca. Alguém pode fazer complementação.
+Reportar abuso
+Ajudou (1) Não ajudou

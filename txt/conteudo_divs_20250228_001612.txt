@@ -1,0 +1,816 @@
+1
+Q3601033
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Ensino Médio - Área: Língua Portuguesa - 2025
+Texto associado
+Pode-se verificar em que medida, em Dom Casmurro, Machado de Assis inova o tema: em primeiro lugar, ele abandona o clichê da mulher simultaneamente romântica e entediada, mesmo porque o leitor, por acompanhar a narrativa desde o foco de Bento Santiago, não tem acesso à interioridade de Capitu. Esse é, pois, o segundo elemento inovador proposto por Machado de Assis: a perspectiva é dada pelo marido traído, que, porém, nunca domina inteiramente a situação. Assim como não consegue conduzir sua vida de modo independente, permitindo que outros resolvam seus problemas, ele não tem sucesso ao tentar controlar a narração, razão porque o leitor não fica plenamente convencido do adultério de Capitu. O narrador não é, pois, inteiramente confiável, já que Machado de Assis semeia ao longo do texto uma série de dúvidas e incertezas, que minam a convicção que Bento Santiago procura transmitir. O romance acaba por abalar as certezas que se poderia ter em relação a seu assunto, já que o juízo relativamente à infidelidade conjugal de Capitu fica em suspenso. Por essa atitude, pode-se medir a coragem de Machado de Assis ao tratar a questão; afinal, seus precursores, entre os quais os renomados Gustave Flaubert e Eça de Queirós, não titubearam ao condenar as esposas pérfidas, pois essas prevaricam aos olhos do leitor. Além disso, a sociedade brasileira da época de Machado de Assis era fortemente machista, e a mera suspeita de adultério era motivo suficiente para um marido condenar a esposa. Evidencia-se o modo como o escritor brasileiro aceita compor um romance na contracorrente das ideologias vigentes e das tendências literárias dominantes. Ao romper com os paradigmas literários e sociais relativos ao adultério e à condição da mulher na sociedade brasileira, ele produz uma obra revolucionária que acabou por se converter em um clássico respeitado pela história da literatura brasileira.
+
+Regina Zilberman. Recepção e leitura no horizonte da literatura.
+In: Alea: Estudos Neolatinos. V. 10, N. 1, janeiro-junho 2008, p. 95 (com adaptações).
+
+Julgue os itens a seguir, referentes à leitura do texto precedente.
+No sétimo período, a palavra “marido” refere-se especificamente a Bento Santiago, personagem do romance Dom Casmurro, de Machado de Assis.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+59.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Claudomiro
+28 de janeiro de 2025 às 10:10
+"um marido"/ o "um" atua como um artigo indefinido, logo generaliza o substantivo "marido". Portanto, a questão está errada
+
+
+"É justo que custe muito o que muito vale" .Não desista guerreiro, sua vitória está próxima.
+Reportar abuso
+Ajudou (45) Não ajudou
+Daniela Portilho
+6 de fevereiro de 2025 às 16:16
+"Além disso, a sociedade brasileira da época de Machado de Assis era fortemente machista, e a mera suspeita de adultério era motivo suficiente para um marido condenar a esposa." O termo 'marido' é usado de forma genérica e não especificamente ao marido de Capitú.
+Reportar abuso
+Ajudou (7) Não ajudou
+2
+Q3595400
+Administração de Recursos Materiais Custos de Falta de Estoque
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Patrimônio - 2025
+Texto associado
+Com relação à administração de recursos materiais, julgue os itens subsequentes.
+Há forte correlação entre perdas de itens de estoque, que geram prejuízos, e erros computacionais ou humanos observados nos fluxos dos processos.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Raphael Christian
+23 de janeiro de 2025 às 11:36
+os erros computacionais e humanos podem impactar negativamente a gestão de estoque.
+Reportar abuso
+Ajudou (14) Não ajudou
+3
+Q3595450
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Planejamento - 2025
+Texto associado
+A majority of remote workers would quit their jobs if forced to return to the office, according to a new study. In FlexJobs’ recent report, 57 percent of remote workers surveyed said they would absolutely look for a new job if they were not allowed to continue working remotely. “Obviously, an employer has the right to call employees back to the office from remote or hybrid positions at any time, but for many who have had these jobs since the early days of the pandemic, working from home during all or part of the week has become a way of life, and they’ve scheduled virtually all other priorities around it,” says Alex Beene, a financial literacy instructor at the University of Tennessee.
+The numbers could indicate a significant turnover issue as companies continue to look for ways to be fully in-person again, as just under 25 percent of workers said their employer had already instituted a return-to-office mandate. The report is based on a poll of 3,000 American professionals between August 5 and August 18. Overall, Americans were eager to leave their jobs in pursuit of higher wages or more flexible work, as 67 percent said they planned to change jobs in the next six months. But key things like a promotion, remote work and a better company culture could convince some workers to stay, according to the survey. Between 33 percent and 38 percent of workers said these factors could convince them to stay in their current roles.
+Working remotely continues to be a huge draw when it comes to attracting talent, and it can even convince some employees to accept lower salaries. In the report, 58 percent of workers said they’d accept a salary decrease if it meant they could work from home. “We have a generation of employees that live in locations far removed from their actual employer due to work-from-home policies,” Beene said. “For many, hours of commuting may either not be feasible or not add up financially to make sense given their current role.”
+And because many remote workers don’t feel a productivity loss, companies are still “vying for talent and willing to accommodate,” said Kevin Thompson, a finance expert and founder and CEO of 9i Capital Group. As a result, workers still largely have the power over their employers, Thompson said. “The only reason they would not is if businesses began to collude and mandated everyone return to work,” Thompson told Newsweek. “As long as the market remains free and fair, the ability to find remote work should actually continue.”
+Putting productivity aside, Thompson said the main loss from remote work has been in corporate culture. “I don’t believe you can build a culture through Zoom, but that does not mean it is not possible,” Thompson said. “The consequences of remote work won’t be felt for a number of years.”
+
+Internet: <newsweek.com> (adapted).
+
+About the ideas conveyed by the preceding text, as well as its linguistic aspects, judge the following items.
+The text defends the thesis that in the aftermath of the pandemic there has been a significant shift in corporate culture.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+79.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+H
+Henrique
+12 de fevereiro de 2025 às 15:55
+Texto fala que não se criou ainda uma cultura em torno de trabalho remoto.
+
+Gabarito errado.
+Reportar abuso
+Ajudou (1) Não ajudou
+TD
+Thiago Dos Santos Rodrigues
+22 de fevereiro de 2025 às 10:32
+Opção correta E
+Reportar abuso
+Ajudou (0) Não ajudou
+4
+Q3599664
+Língua Portuguesa Sentidos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Ensino Médio - Área: Língua Portuguesa - 2025
+Texto associado
+Nas últimas semanas, comecei a estranhar a incidência de palavras como sofrência, refrescância e picância no vocabulário das pessoas. Referiam-se respectivamente a sofrimento, refresco e picante. Não que estivessem erradas.
+O fato é que palavras antes nunca usadas estão entrando no nosso dia a dia como se não pudéssemos mais passar sem elas. Quem terá sido o primeiro a falar esta ou aquela? Como elas se propagaram? Ninguém estranhou ao ouvi-las? Ou fez de conta que sabia do que se tratava? Eis algumas: bichectomia, cleptocracia, criptoassalto, despolarização, ecocídio, economocrata, hipergamia, hipomania, homoeomorfo, jogoteca, labioplastia, ludopatia, microagulhamento, microfocagem, nepobaby, ninfoplastia, pornotortura, probiótico, reflexologia, reformômetro, subótimo, supramáximo, tiktokização, tocofobia...
+Colhi todas essas palavras nos jornais dos últimos 30 dias, em textos que não se deram ao trabalho de defini-las. Note bem, todas são plausíveis, têm formação perfeita, e basta conhecer seus componentes para captar seu significado. Mas que são esdrúxulas, são.
+Confesso que boiei em algumas palavras e, ao ir ao dicionário, me surpreendi. Aliás, é o que lhe acontecerá se você for buscar o significado de, digamos, bichectomia, homoeomorfo ou ninfoplastia. Mas quero ver se algum deles nos dirá a definição de aruspicatório, carboxiterapia, criolipólise, fotoblastia, incretinomimético, mastócito, melasmítico, microbiota, lipocavitação, orofacial, picossegundo, tecarterapia e tranexâmico.
+
+Ruy Castro. Bichectomia, homoeomorfo e ninfoplastia.
+Internet: <folha.uol.com.br> (com adaptações).
+
+De acordo com as ideias veiculadas no texto precedente e considerando suas características linguístico-discursivas, julgue os itens a seguir.
+O autor destaca questões relacionadas aos inadequados processos de inovação lexical da língua portuguesa no Brasil, a partir de termos utilizados em textos da mídia nacional.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+49.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daniele Barcelos
+26 de janeiro de 2025 às 12:21
+
+"O autor destaca questões relacionadas aos inadequados processos de inovação lexical da língua portuguesa no Brasil, a partir de termos utilizados em textos da mídia nacional."
+
+O autor critica a estética, mas não a adequação: "Não que estivessem erradas.", "Note bem, todas são plausíveis, têm formação perfeita, e basta conhecer seus componentes para captar seu significado. Mas que são esdrúxulas, são."
+(ERRADA)
+Reportar abuso
+Ajudou (74) Não ajudou
+Daniela Portilho
+6 de fevereiro de 2025 às 15:37
+O autor não critica os processos de inovação lexical como inadequados. Pelo contrário, ele reconhece que essas palavras são plausíveis e bem formadas, ou seja, seguem as regras da língua. O que ele destaca é o estranhamento causado pelo surgimento repentino dessas palavras na mídia e no vocabulário cotidiano, sem que sejam explicadas ou definidas.
+Ele não condena a criação de novos termos, mas chama a atenção para a rapidez com que entram no uso sem que as pessoas necessariamente saibam o que significam. Portanto, o item está errado, pois a crítica do autor não é à inovação lexical em si, mas ao impacto que essa inovação causa nos falantes.
+Reportar abuso
+Ajudou (8) Não ajudou
+5
+Q3600987
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Ensino Médio - Área: Língua Portuguesa - 2025
+Texto associado
+“Você é espírita, Fernando? Então como é que você me pergunta o que eu faço às três horas da tarde? Às três horas da tarde sou a mulher mais exigente do mundo. Fico às vezes reduzida ao essencial, quer dizer, só meu coração bate. Quando passa, vem seis da tarde, também indescritíveis, em que eu fico cega”. (Carta de Clarice Lispector a Fernando Sabino em 19/6/1946)
+“De certo modo, você me dispensa de escrever. Resta o consolo de pensar que se eu fosse capaz como você de dizer o indizível, eu teria a dizer certas coisas que você ainda vai dizer. E me limito a ficar esperando”. (Carta de Fernando Sabino a Clarice Lispector em 30/3/1955)
+Em 1944, Fernando Sabino recebeu um exemplar de Perto do Coração Selvagem, com dedicatória da autora estreante, Clarice Lispector. Ele não fazia ideia de quem era ela. De qualquer maneira, ficou deslumbrado com o livro. Tempos depois, quando a conheceu pessoalmente, ficou deslumbrado com Clarice.
+Os jovens escritores viveram uma paixão não formulada. Encontravam-se diariamente, longas conversas numa confeitaria do Rio. Separados por compromissos fora do país, trocaram cartas, no período entre 1949 e 1969. Em 2001, Fernando as reuniu em Cartas Perto do Coração, comovente testemunho de fidelidade à literatura e à amizade. Livro de culto, rapidamente se esgotou; poucos exemplares, e caríssimos, eram achados em sebos. Reaparece agora, em edição de capa dura, novo projeto gráfico e fac-símiles dos manuscritos.
+Quem vê o prestígio de Clarice hoje não imagina suas angústias e incertezas reveladas na correspondência. Seu segundo livro, O Lustre, foi recebido em silêncio. Dez anos após o aparecimento do terceiro, A Cidade Sitiada, de 1949, ela estava esquecida. Os originais do romance A Maçã no Escuro ficaram cinco anos pegando poeira no escritório do editor Ênio Silveira. Além de segurar a barra da amiga, Fernando passou a atuar como agente literário de Clarice, até que seu talento fosse reconhecido.
+Com a publicação de Uma Aprendizagem, em 1969, Fernando carinhosamente entrega os pontos: “Eu não mereço mais ser seu leitor. Você foi longe demais para mim”.
+
+Álvaro Costa e Silva.
+A paixão nas cartas de Clarice Lispector e Fernando Sabino.
+Internet: <folha.uol.com.br> (com adaptações).
+
+Com base na leitura do texto apresentado, julgue os itens que se seguem.
+No fragmento ‘se eu fosse capaz como você de dizer o indizível’ (segundo parágrafo), Fernando Sabino opina, por meio de marcas linguísticas que expressam condição e comparação, acerca da produção poética de Clarice Lispector.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+88.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Políciafocada
+24 de janeiro de 2025 às 15:53
+O conectivo "como" no contexto que foi empregado traz a ideia de comparação.
+
+Outros conectivos comparativos: Assim como, Da mesma forma, Similarmente, Tal qual, Tão quanto, Mais que, Menos que, Do mesmo modo que, Tanto quanto.
+
+Bons estudos!
+
+Reportar abuso
+Ajudou (29) Não ajudou
+TM
+Tales Malheiros
+2 de fevereiro de 2025 às 18:06
+conjunção SE, dá ideia de condição
+conjunção COMO, dá ideia de comparação
+Reportar abuso
+Ajudou (10) Não ajudou
+Daniela Portilho
+6 de fevereiro de 2025 às 16:20
+CERTO.
+
+"Se" condição
+
+"Como" comparação.
+
+Fernando Sabino está opinando, de forma implícita, sobre a habilidade expressiva (ou poética) de Clarice, sugerindo que ela tem a capacidade de dizer o indizível de maneira que ele próprio não conseguiria.
+
+
+Reportar abuso
+Ajudou (3) Não ajudou
+6
+Q3601014
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Ensino Médio - Área: Língua Portuguesa - 2025
+Texto associado
+A sociedade na qual vivemos se constitui como um grande ambiente multimodal, no qual palavras, imagens, sons, cores, músicas, aromas, movimentos variados, texturas, formas diversas se combinam e estruturam um grande mosaico multissemiótico. Produzimos, portanto, textos para serem lidos pelos nossos sentidos. Nossos pensamentos e nossas interações se moldam em gêneros textuais e nossa história de indivíduos letrados começa com nossa imersão no universo em que o sistema linguístico é apenas um dos modos de constituição dos textos que materializam nossas ações sociais.
+
+A. P. Dionísio e L. J. de Vasconcelos. Multimodalidade, gênero textual e leitura. In: Clecio Buzen e
+Marcia Mendonça. Múltiplas linguagens para o ensino médio. São Paulo: Parábola Editorial, 2013.
+
+A partir da leitura do texto precedente, julgue os itens seguintes, relacionados à semiótica, ao multiletramento e à multimodalidade.
+A pedagogia dos multiletramentos propõe a formação de um usuário funcional que desenvolva competência técnica em ferramentas, textos e práticas letradas.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+67.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Maria Fernanda Moliterno Santos
+3 de fevereiro de 2025 às 14:26
+Gente...É informação exoforica?
+Reportar abuso
+Ajudou (5) Não ajudou
+7
+Q3595798
+Direito Administrativo Lei nº 13.303/2016 - Estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+Julgue os próximos itens, com base na Lei n.o 14.303/2016 (Lei das Estatais).
+Aquele que tiver parentesco até terceiro grau com empregado de empresa pública responsável por licitações e contratos está impedido de participar dessas licitações e de ser contratado pela empresa pública em questão.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+80.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Arthur De Lima Ramos
+20 de janeiro de 2025 às 20:00
+Certo.
+Veja:
+Lei 13.303/2016. Art. 38. Estará impedida de participar de licitações e de ser contratada pela empresa pública ou sociedade de economia mista a empresa:  
+II - a quem tenha relação de parentesco, até o terceiro grau civil, com:
+...
+b) empregado de empresa pública ou sociedade de economia mista cujas atribuições envolvam a atuação na área responsável pela licitação ou contratação;
+
+Reportar abuso
+Ajudou (60) Não ajudou
+8
+Q3599666
+Língua Portuguesa Sentidos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Ensino Médio - Área: Língua Portuguesa - 2025
+Texto associado
+Nas últimas semanas, comecei a estranhar a incidência de palavras como sofrência, refrescância e picância no vocabulário das pessoas. Referiam-se respectivamente a sofrimento, refresco e picante. Não que estivessem erradas.
+O fato é que palavras antes nunca usadas estão entrando no nosso dia a dia como se não pudéssemos mais passar sem elas. Quem terá sido o primeiro a falar esta ou aquela? Como elas se propagaram? Ninguém estranhou ao ouvi-las? Ou fez de conta que sabia do que se tratava? Eis algumas: bichectomia, cleptocracia, criptoassalto, despolarização, ecocídio, economocrata, hipergamia, hipomania, homoeomorfo, jogoteca, labioplastia, ludopatia, microagulhamento, microfocagem, nepobaby, ninfoplastia, pornotortura, probiótico, reflexologia, reformômetro, subótimo, supramáximo, tiktokização, tocofobia...
+Colhi todas essas palavras nos jornais dos últimos 30 dias, em textos que não se deram ao trabalho de defini-las. Note bem, todas são plausíveis, têm formação perfeita, e basta conhecer seus componentes para captar seu significado. Mas que são esdrúxulas, são.
+Confesso que boiei em algumas palavras e, ao ir ao dicionário, me surpreendi. Aliás, é o que lhe acontecerá se você for buscar o significado de, digamos, bichectomia, homoeomorfo ou ninfoplastia. Mas quero ver se algum deles nos dirá a definição de aruspicatório, carboxiterapia, criolipólise, fotoblastia, incretinomimético, mastócito, melasmítico, microbiota, lipocavitação, orofacial, picossegundo, tecarterapia e tranexâmico.
+
+Ruy Castro. Bichectomia, homoeomorfo e ninfoplastia.
+Internet: <folha.uol.com.br> (com adaptações).
+
+De acordo com as ideias veiculadas no texto precedente e considerando suas características linguístico-discursivas, julgue os itens a seguir.
+Considerando a função sociocomunicativa e o canal de circulação do texto, além de suas características discursivas, é possível concluir que o texto se configura como um exemplar do gênero textual crônica.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+58.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Bruno Lopes
+26 de janeiro de 2025 às 16:09
+Crônica é um gênero textual narrativo que relata acontecimentos do dia a dia, de forma diferenciada. É um texto curto que mistura observação, reflexão e prosa. 
+Reportar abuso
+Ajudou (74) Não ajudou
+Daniela Portilho
+6 de fevereiro de 2025 às 15:45
+A crônica é um texto narrativo curto que retrata acontecimentos do cotidiano sob uma perspectiva pessoal e subjetiva. Ela pode ter um tom leve, reflexivo, humorístico ou até crítico. O autor observa situações comuns e as transforma em algo interessante, usando sua visão de mundo, estilo e sensibilidade. Muitas vezes, a crônica apresenta uma linguagem informal e próxima do leitor, tornando a leitura envolvente e identificável.
+Reportar abuso
+Ajudou (8) Não ajudou
+9
+Q3595938
+Administração de Recursos Materiais Modalidades de Transporte
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+Em relação ao prazo de entrega de bens e serviços adquiridos, julgue os itens que se seguem.
+As multas estabelecidas no contrato por eventual atraso na entrega de bens e serviços adquiridos não têm influência nos prazos de entrega, que são definidos principalmente em função da modalidade de transporte utilizada.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+89.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Verônica Mendonça
+3 de fevereiro de 2025 às 19:21
+servem como um incentivo para o cumprimento do prazo acordado
+Reportar abuso
+Ajudou (10) Não ajudou
+10
+Q3599834
+Língua Inglesa Verbos | Verbs
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor de Ensino Fundamental - Área: Inglês - 2025
+Texto associado
+
+Internet: <phdcomics.com> (adapted).
+
+Regarding the language usage in the preceding comic strip, judge the following items.
+The word “hope”, in the comic strip, is used both as an adjective and as a verb.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+44.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+DF
+Davi Feijo Da Silva
+25 de janeiro de 2025 às 12:07
+Errada!
+Hope é usada como verbo ''esperar'' (sentido de acreditar, esperança) e como substantivo ''esperança''. Adjetivo nunca!
+Reportar abuso
+Ajudou (17) Não ajudou
+Ana Claudia Machado
+9 de fevereiro de 2025 às 01:04
+verbo e substantivo
+Reportar abuso
+Ajudou (3) Não ajudou
+11
+Q3599858
+Língua Inglesa Sinônimos | Synonymous
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor de Ensino Fundamental - Área: Inglês - 2025
+Texto associado
+Gabriele Tinti’s Hungry Ghosts is a cycle of 51 poems written in collaboration with the photographer Roger Ballen, whose photographic negatives are reproduced in the book. The images are mostly terrifying, in keeping with the otherworldly inclination of the poems. This bilingual edition includes Tinti’s original Italian poems with English translations by David Graham, interspersed with Greek lines taken from inscriptions found on archaeological objects and from ancient Greek texts.
+The book is inspired by the Petavatthu, a Theravada Buddhist scripture that includes stories about the realm of the “hungry ghosts,” a category of supernatural beings ubiquitous in East and South Asian religions, with section headings such as “Abandoned Ghosts,” “Protectors,” “Guardians,” and “Hungry Ghosts.” The poems are quite short and try to emulate the obscure, esoteric quality of scriptural language, though they struggle, at times, under the weight of too many venerable references drawn from both Buddhist and Greek traditions.
+
+Internet: <poetryfoundation.org> (adapted).
+
+About the linguistic and lexical features of the preceding text, judge the following items.
+The word “otherworldly” (second sentence of the first paragraph) is a synonym for abstract.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+58.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Andressa Silva
+21 de janeiro de 2025 às 13:45
+otherworldly: mystical, spiritual
+Supernatural em portuguÊs
+Reportar abuso
+Ajudou (14) Não ajudou
+Jessyca
+30 de janeiro de 2025 às 06:48
+'otherworldly' é mais comumente associada a conceitos sobrenaturais ou espirituais
+'abstract' se refere a ideias ou conceitos que não têm uma forma física ou concreta.
+Portanto, não são sinônimos.
+Reportar abuso
+Ajudou (9) Não ajudou
+12
+Q3599843
+Língua Inglesa Pronome relativo | Relative clauses
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor de Ensino Fundamental - Área: Inglês - 2025
+Texto associado
+“The High Priestess of Soul,” Nina Simone was a singer, pianist, songwriter, and civil rights activist. Mostly known as a jazz singer, her music blended gospel, blues, folk, pop, and classical styles. No popular singer was more closely associated with the Civil Rights Movement than Simone.
+Nina Simone was born Eunice Kathleen Waymon on February 21st, 1933, in Tryon, North Carolina. Her mother, Mary Kate Irvin, was a Methodist preacher and housekeeper, and her father, John Divine Waymon, worked as an entertainer, barber, and dry-cleaner. The family’s home was filled with music and Simone’s mother encouraged her musical pursuits but she did not approve of nonreligious music like blues and jazz. Simone took up the piano before her feet could reach the pedals, and by the age of six, she was playing during church services.
+In 2008, Rolling Stone named Simone to its list of the 100 Greatest Singers of All Time, and, in 2018, Simone was inducted into the Rock & Roll Hall of Fame.
+
+Internet: <womenshistory.org> (adapted).
+
+Based on the previous text, judge the following items.
+In the sentence “Simone took up the piano before her feet could reach the pedals” (last sentence of the second paragraph), the clause that starts with “before her feet” is an independent clause.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+75.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Felipe Menegate Nascimento
+30 de janeiro de 2025 às 14:11
+é subordinado
+Reportar abuso
+Ajudou (4) Não ajudou
+13
+Q3595420
+Administração de Recursos Materiais Baixa e Alienação
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Patrimônio - 2025
+Texto associado
+Acerca de atividades básicas da administração de material e patrimônio, julgue os itens seguintes.
+A baixa de um bem patrimonial ocorre apenas quando o bem é totalmente depreciado, sendo sua alienação a única condição para realizar essa ação.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+92.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Raphael Christian
+23 de janeiro de 2025 às 11:39
+O erro esta em "APENAS".
+A baixa de um bem pode ocorrer por diversos motivos, como obsolescência, perda, roubo..
+Reportar abuso
+Ajudou (23) Não ajudou
+Maria Faustina Costa De Sousa
+13 de fevereiro de 2025 às 15:59
+A alienação não é a única condição para a baixa de um bem, pode ser também por destruição, extravio, cessão. E não ocorre apenas quando o bem é totalmente depreciado, pode ocorrer por diversos motivos.
+Reportar abuso
+Ajudou (6) Não ajudou
+14
+Q3595467
+Administração de Recursos Materiais Baixa e Alienação
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Patrimônio - 2025
+Texto associado
+Acerca da administração de recursos materiais e patrimoniais, julgue os itens a seguir.
+Considere que uma instituição possua uma frota de veículos utilizada para transporte interno e que, ao fim da vida útil econômica desses veículos, pretenda vendê-los como sucata ou para partes de reposição, obtendo com isso uma pequena receita. Nesse caso, o valor que a instituição espera obter com a venda desses veículos ao fim de sua vida útil corresponde ao valor residual.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+79.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ashely
+24 de janeiro de 2025 às 12:38
+Valor residual é o valor que um bem tem depois de sua vida útil
+Reportar abuso
+Ajudou (27) Não ajudou
+VS
+Vinicius Santos
+13 de fevereiro de 2025 às 17:45
+Só lembrar que residual vem de "resíduo", sobra, restante, coisa que ninguém quer mais direito, só a sucata, o resto. Igual aquela panela velha amassada que você tem em casa, daí fura pra assar castanha.
+
+Reportar abuso
+Ajudou (7) Não ajudou
+15
+Q3595932
+Administração de Recursos Materiais Indicadores de Estoques
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+Julgue os itens subsequentes, a respeito do reajuste de preços e dos índices oficiais.
+O Índice Nacional de Preços ao Consumidor Amplo (IPCA) mede a variação dos preços de um conjunto de produtos e serviços consumidos no Brasil ou setoriais, enquanto o Índice Geral de Preços do Mercado (IGP-M) calcula a variação dos preços no mercado brasileiro, abrangendo os preços ao produtor, ao consumidor e à construção civil.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+83.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Karla
+24 de janeiro de 2025 às 22:01
+O IGP-M é calculado através da combinação de três índices distintos. Cada um desses itens tem um peso diferente no cálculo final. Veja:
+IPA-M (Índice de Preços ao Produtor Amplo) – 60% de peso: monitora variações dos preços dos produtos industriais e agropecuários nas transações entre empresas.
+INCC-M (Índice Nacional de Custo da Construção – Mercado) – 10%: acompanha os custos de construções habitacionais, incluindo mão de obra especializada, nas sete principais capitais do país (Brasília, Porto Alegre, Salvador, Recife, Belo Horizonte, Rio de Janeiro e São Paulo).
+IPC-M (Índice de Preços ao Consumidor – Mercado) – 30%: variação de preços das principais despesas do consumidor final. Alguns exemplos são: alimentação, transporte, educação, saúde, vestuário, entre outros.
+
+Reportar abuso
+Ajudou (7) Não ajudou
+16
+Q3601015
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Ensino Médio - Área: Língua Portuguesa - 2025
+Texto associado
+A sociedade na qual vivemos se constitui como um grande ambiente multimodal, no qual palavras, imagens, sons, cores, músicas, aromas, movimentos variados, texturas, formas diversas se combinam e estruturam um grande mosaico multissemiótico. Produzimos, portanto, textos para serem lidos pelos nossos sentidos. Nossos pensamentos e nossas interações se moldam em gêneros textuais e nossa história de indivíduos letrados começa com nossa imersão no universo em que o sistema linguístico é apenas um dos modos de constituição dos textos que materializam nossas ações sociais.
+
+A. P. Dionísio e L. J. de Vasconcelos. Multimodalidade, gênero textual e leitura. In: Clecio Buzen e
+Marcia Mendonça. Múltiplas linguagens para o ensino médio. São Paulo: Parábola Editorial, 2013.
+
+A partir da leitura do texto precedente, julgue os itens seguintes, relacionados à semiótica, ao multiletramento e à multimodalidade.
+O conceito de multiletramento abrange dois tipos de multiplicidade: a cultural e a semiótica.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+62.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+PV
+Pedro Vinícius
+29 de janeiro de 2025 às 16:39
+Certo.
+O conceito de multiletramento envolve duas principais multiplicidades:
+Cultural – Refere-se à diversidade cultural e linguística, considerando diferentes contextos sociais, identidades e formas de comunicação.
+Semiótica – Diz respeito à variedade de modos de representação e comunicação, como textos escritos, imagens, vídeos, sons, gestos, entre outros.
+O conceito de multiletramento foi desenvolvido pelos teóricos do New London Group (1996) e se baseia na ideia de que, no mundo contemporâneo, a comunicação acontece por meio de diferentes linguagens e em contextos culturais diversos. Para ser letrado no mundo atual, não basta apenas dominar a escrita e a leitura tradicionais; é preciso entender e interpretar diferentes formas de linguagem em diversos contextos culturais.
+Reportar abuso
+Ajudou (27) Não ajudou
+17
+Q3595944
+Administração de Recursos Materiais Cadastro e Seleção de Fornecedores
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+No que se refere ao atendimento ao cliente interno e à ética dos colaboradores no setor de compras, julgue os itens seguintes.
+O registro de novos fornecedores visa à criação de novas fontes de consultas e cotações, devendo-se manter atualizada a base de fornecedores aptos à contratação e excluir o registro dos fornecedores inaptos à contratação.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+41.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Karla
+10 de fevereiro de 2025 às 15:41
+ERRADA pois o registro de novos fornecedores é um procedimento fundamental para a gestão pública, que consiste na formalização e cadastramento de empresas e prestadores de serviços que desejam fornecer produtos ou serviços para órgãos governamentais, e não na "manutenção de fornecedores" como a questão colocou!!!!
+Reportar abuso
+Ajudou (13) Não ajudou
+Felipe Da Silva Rolim
+21 de fevereiro de 2025 às 11:28
+Acredito que o erro da questão está em “excluir os fornecedores inaptos à contratação” do cadastro. Se a administração exclui esses fornecedores como que irão reconhecer futuramente que eles não devem ser contratados?
+Reportar abuso
+Ajudou (9) Não ajudou
+18
+Q3595431
+Administração de Recursos Materiais Avaliação de Estoques
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Patrimônio - 2025
+Texto associado
+A respeito do planejamento e do controle de estoque, julgue os próximos itens.
+O estoque de segurança é mantido para atender a organização durante o tempo de ressuprimento, garantindo a continuidade do abastecimento mesmo em casos de flutuações de demanda ou atrasos no fornecimento.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+90.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Karla
+24 de janeiro de 2025 às 21:55
+Estoque de segurança é uma quantidade extra de produtos mantidos armazenados para lidar com imprevistos na operação da empresa.
+Tais imprevistos podem ser caracterizados como alterações na demanda, atrasos ou problemas com fornecedores.
+Reportar abuso
+Ajudou (10) Não ajudou
+19
+Q3596018
+Administração de Recursos Materiais Modalidades de Transporte
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+Julgue os próximos itens, relativos a princípios de gestão integrada de operações logísticas, modos de transporte e logística de suprimento.
+O modal de transporte hidroviário, também chamado de aquaviário, pode ser marítimo de longo curso, de cabotagem ou de navegação interior, este último dividido em fluvial e lacustre.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+89.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AP
+Ana Paula Souza
+7 de fevereiro de 2025 às 18:00
+O transporte hidroviário pode ser dividido em dois tipos principais de modal, de acordo com o ambiente em que ocorre: 1. Transporte Marítimo • De longo curso: Realiza viagens internacionais entre diferentes países, geralmente utilizando grandes navios cargueiros ou petroleiros. • De cabotagem: Ocorre dentro do mesmo país, ao longo da costa, ligando portos nacionais. 2. Transporte Fluvial e Lacustre • Fluvial: Feito em rios navegáveis, sendo muito utilizado para transporte de cargas e passageiros em regiões com grande extensão hidrográfica, como a Amazônia. • Lacustre: Realizado em lagos e lagoas, geralmente para transporte local ou turismo.
+Reportar abuso
+Ajudou (12) Não ajudou
+Karla
+24 de janeiro de 2025 às 22:05
+RESPOSTA CERTA: "Existem essencialmente três tipos de hidrovias: lacustres, fluviais ou marítimas."
+
+Veja mais sobre "Hidrovia" em: https://brasilescola.uol.com.br/geografia/hidrovias.htm
+Reportar abuso
+Ajudou (7) Não ajudou
+20
+Q3595446
+Administração de Recursos Materiais Layout de Armazenagem
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Patrimônio - 2025
+Texto associado
+Uma fundação privada sem fins lucrativos que atua na preservação e difusão de arte e cultura regional possui um almoxarifado central que atende suas áreas de exposição, oficinas culturais e eventos. Recentemente, com o crescimento das atividades, a fundação decidiu aprimorar o controle e a organização de seus materiais, incluindo obras de arte, materiais de oficina e equipamentos audiovisuais. A equipe de almoxarifado foi instruída a implementar novas técnicas para registro e conservação dos itens, além de otimizar o uso do espaço e adotar práticas de segurança para garantir a integridade dos materiais.
+
+A partir dessa situação hipotética, julgue os itens subsecutivos.
+No uso do espaço do almoxarifado, deve-se priorizar o armazenamento de materiais mais leves e frequentemente usados em áreas de fácil acesso, enquanto materiais pesados e de menor uso devem ser armazenados em prateleiras superiores e de difícil alcance.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+81.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MN
+Meu Nome
+20 de janeiro de 2025 às 17:49
+Na prática se você tem um material pesado a lógica é coloca-lo na parte inferior da prateleira para evitar esforço desnecessário e preservando a saúde do trabalhador.
+Reportar abuso
+Ajudou (29) Não ajudou
+CL
+Cecilia Leite Ferreira
+23 de fevereiro de 2025 às 12:01
+Comentário do professor, por favor, Gran!!!
+Reportar abuso
+Ajudou (0) Não ajudou

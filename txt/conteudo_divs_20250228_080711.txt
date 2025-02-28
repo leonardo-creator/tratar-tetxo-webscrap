@@ -1,0 +1,360 @@
+1
+Q3129839
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão e Acompanhamento de Projetos e Programas em CT&I - 2024
+Texto associado
+One of the reasons why business owners have introduced the option for tipping at self-checkout machines is that they believe it may raise their employees’ payment.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+2
+Q3128924
+Administração de Recursos Materiais Armazenagem, Distribuição e Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+São denominadas cargas gerais aquelas que são transportadas e embarcadas sem acondicionamento ou marca de identificação.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+3
+Q3129306
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão de Dados Corporativos - 2024
+Texto associado
+A Lei Geral de Proteção de Dados aborda o tratamento de dados pessoais e se aplica também à administração pública.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+4
+Q3264978
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE GO - Analista - Área: Informática - 2024
+Texto associado
+São objetivos do business intelligence permitir o acesso interativo e proporcionar a manipulação dos dados, fornecendo aos gerentes e analistas de negócios a capacidade de realizar a análise adequada.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+5
+Q3312300
+Administração de Recursos Materiais Objetivos do Setor de Compras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+A manutenção do cadastro de fornecedores, o processamento das compras com a seleção do fornecedor e o acompanhamento e pagamento de pedidos devem ser realizados pelos mesmos servidores do setor de compras da organização.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+6
+Q3312277
+Administração Financeira e Orçamentária - AFO Estrutura Programática
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+As informações mais apropriadas para que a assessoria de comunicação da prefeitura em questão prepare o material a ser divulgado ao público podem ser obtidas a partir da classificação da despesa por programas de trabalho, os quais contêm informações qualitativas e quantitativas.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+7
+Q3312294
+Administração de Recursos Materiais Atributos para a Classificação de Materiais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+A flexibilidade constitui um atributo da classificação de materiais que possibilita a interação entre os diversos tipos de classificação, de modo a se obter uma visão ampla da gestão de estoques.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+8
+Q3312223
+Administração Financeira e Orçamentária - AFO Orçamento Público no Brasil
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+O sistema de planejamento e orçamento brasileiro prevê a elaboração compulsória de somente dois instrumentos básicos: a lei de diretrizes orçamentárias (LDO) e a lei orçamentária anual (LOA).
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+9
+Q3129562
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão e Governança de Tecnologia da Informação - 2024
+Texto associado
+Os dados que forem anonimizados serão considerados dados pessoais para os fins da Lei Geral de Proteção de Dados independente se a anonimização possa ser revertida ou não.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+10
+Q3340833
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Analista Judiciário - Área Apoio Especializado - Especialidade Análise de Sistemas - 2024
+Texto associado
+Conforme a LGPD, no âmbito do tratamento de dados pessoais pelo poder público, consideradas a execução de políticas públicas e a prestação de serviços públicos, os dados deverão ser mantidos em formato interoperável e estruturado para uso compartilhado.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+11
+Q3405830
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Médico - Área Clínica Geral - 2024
+Texto associado
+Segundo o texto, atualmente o campo de ação da inteligência artificial está circunscrito a computadores digitais construídos a partir de silício.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+12
+Q3405881
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Professor de Educação Básica - Área: Língua Portuguesa - 2024
+Texto associado
+No texto, o autor aponta uma possível consequência negativa de se enquadrar a ficção científica como um gênero.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+13
+Q3128919
+Administração de Recursos Materiais Armazenagem, Distribuição e Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+O modal de transporte rodoviário é o mais adequado para transportes de cargas a longas distâncias e em grandes quantidades.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+14
+Q3175414
+Administração de Recursos Materiais Administração de Compras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+O acompanhamento dos pedidos de compra é atribuição da equipe de almoxarifado, que deve acionar o setor de compras em caso de atrasos no fornecimento.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+15
+Q3128956
+Administração de Recursos Materiais Administração dos Almoxarifados
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+Considere-se que determinado órgão apresente um antigiro de lâmpadas fluorescentes de 2 anos. Nessa situação, caso surja nova tecnologia que substitua tais lâmpadas com economia energética em torno de 1% a 2%, o pedido de aquisição de novos dispositivos deverá ser processado imediatamente para que se passe a consumir o novo item quando de sua chegada ao almoxarifado.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+16
+Q3175492
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+A logística é uma atividade recente, que surgiu com a popularização dos computadores pessoais.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+17
+Q3178137
+Raciocínio Lógico Verdades e Mentiras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Tecnologista - Área: Propriedade Industrial Língua Inglesa - 2024
+Texto associado
+Quando um delegado formula a pergunta “Você continua furtando celulares e carteiras nos transportes públicos?”, tanto uma resposta “sim” quanto uma resposta “não” serão prejudiciais ao interrogado.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+18
+Q3419652
+Administração de Recursos Materiais Cadastro e Seleção de Fornecedores
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+O recebimento das requisições de compras das áreas demandantes, a manutenção de cadastro de fornecedores e a pesquisa de preços no mercado são etapas predecessoras da etapa de seleção de fornecedores.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+19
+Q3312323
+Administração de Recursos Materiais Classificação ABC
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Analista Administrativo - 2024
+Texto associado
+Consoante a metodologia da curva ABC, os materiais da classe C representam os itens mais numerosos e menos importantes, respondendo com pouca relevância ao valor global do estoque.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+20
+Q3235083
+Administração de Recursos Materiais PEPS ou FIFO (Primeiro a Entrar, Primeiro a Sair)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Agente Administrativo - 2024
+Texto associado
+São métodos para avaliação financeira dos estoques: primeiro que entra, primeiro que sai; último que entra, primeiro que sai; e custo médio.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro

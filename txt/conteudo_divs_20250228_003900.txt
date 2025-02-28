@@ -1,0 +1,1063 @@
+1
+Q3418377
+Administração de Recursos Materiais Fonte Única, Simples e Múltipla
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Administrativo - Área Administração - 2024
+Texto associado
+Julgue os itens a seguir, relativos às atividades básicas da administração de material e patrimônio nas organizações.
+O fato de um mesmo imóvel cadastrado no Sistema Informacional de Cadastro e Registro de Bens Imóveis (SPIU) ser utilizado por mais de uma unidade gestora dispensa a criação de uma utilização para cada uma dessas unidades.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+90.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tiago De Barros
+9 de janeiro de 2025 às 14:29
+Gabarito: E.
+
+Explicação:
+O Sistema Informacional de Cadastro e Registro de Bens Imóveis (SPIU) tem como objetivo gerenciar e registrar os bens imóveis de propriedade pública, garantindo a correta identificação, uso e gestão desses bens.
+Quando um mesmo imóvel é utilizado por mais de uma unidade gestora, é necessário que cada unidade registre separadamente sua utilização no SPIU. Isso ocorre por várias razões:
+Controle e Transparência: Cada unidade gestora precisa registrar seu uso do imóvel para garantir a transparência e o controle adequado da ocupação e das responsabilidades sobre o espaço.
+Responsabilidade e Gestão: Cada unidade tem responsabilidades específicas em relação ao espaço que ocupa. O registro individualizado permite o acompanhamento correto de quem está utilizando qual parte do imóvel e em quais condições.
+Relatórios e Auditorias: Para fins de auditoria e prestação de contas, é importante que cada unidade gestora possa demonstrar sua parte no uso do imóvel, facilitando a fiscalização e a elaboração de relatórios.
+
+Portanto, a criação de uma utilização específica para cada unidade gestora que compartilha o mesmo imóvel é necessária para assegurar uma gestão eficiente e transparente dos bens públicos.
+Reportar abuso
+Ajudou (11) Não ajudou
+2
+Q3418500
+Língua Inglesa Aspectos linguísticos | Linguistic aspects
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Auditor de Controle Externo - Área Administração - 2024
+Texto associado
+Iowa, a small midwestern state, finds itself in the national economic spotlight. For conservative commentators, Iowa has emerged as America’s tax-cutting champion, a paragon of fiscal responsibility. To critics it looks more like an example of economic recklessness.
+Either way, Iowa is playing an outsized role in a bigger debate about how American states ought to manage their revenues and spending. Until a few years ago it had one of the highest income-tax rates in America. By 2026 it will be down to a flat tax of 3.9%. Iowa is far from alone. Some 25 states have cut individual income taxes over the past years. A handful, including Georgia and Idaho, are shifting to a flat tax. And a few others want to eliminate their income taxes altogether.
+Virtually all states, regardless of political make-up, have lowered their citizens’ tax bills since 2021. Overall, this has been a rough decline in states’ tax revenues during this time, the steepest such reduction in at least four decades. But the most aggressive moves have been cuts to income taxes, and Iowa has been at the forefront of these efforts.
+
+The Economist. A tax-cutting wave is sweeping over America’s states. Internet: <https://www.economist.com>. (adapted).
+
+Based on the ideas of the preceding text and on its linguistic aspects, judge the following items.
+Iowa is going to cut down its taxes by a rate of 3.9% in the next two years.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+58.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Felipe Menegate Nascimento
+9 de janeiro de 2025 às 15:06
+A afirmação "Iowa is going to cut down its taxes by a rate of 3.9% in the next two years" está incorreta por algumas razões:
+Imprecisão na explicação da redução: A redução mencionada na frase original não é uma diminuição de "3.9%" nas taxas de imposto, mas sim a introdução de uma taxa fixa de 3.9%. Isso significa que, até 2026, o estado de Iowa vai reduzir sua atual estrutura de impostos para uma taxa única de 3.9%, ao invés de apenas reduzir em 3.9% o valor das taxas já existentes.
+Erro no tempo e no prazo: O texto original menciona que até 2026 a taxa será reduzida para 3.9%, mas a frase diz "in the next two years" (nos próximos dois anos), o que não é exato, pois a redução vai ocorrer até 2026, ou seja, em um prazo maior do que dois anos. Portanto, é necessário ajustar o prazo mencionado.
+A forma correta de expressar a ideia seria algo como:
+"Iowa is going to implement a flat tax rate of 3.9% by 2026."
+
+Reportar abuso
+Ajudou (1) Não ajudou
+3
+Q3419690
+Administração de Recursos Materiais Inventários
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+Acerca da gestão patrimonial nas organizações públicas, julgue os itens seguintes.
+A vantagem do inventário rotativo é manter ininterrupto o fluxo das atividades da organização, podendo-se elaborar um cronograma de trabalho que abarque todos os itens dentro de um período fiscal.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+88.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tiago De Barros
+9 de janeiro de 2025 às 14:50
+Gabarito: C.
+
+O inventário rotativo é uma metodologia de controle de estoque que consiste na contagem periódica de pequenos lotes de itens do inventário, de forma contínua ao longo do ano, ao invés de realizar um inventário completo de uma vez só, como no inventário anual.
+Vantagens do inventário rotativo:
+Fluxo Ininterrupto das Atividades:
+Como o inventário é realizado de forma contínua e não em grandes blocos, ele permite que a operação da organização siga normalmente, sem interrupções significativas para a contagem de todo o estoque de uma vez. Isso garante que o processo de inventário não paralise as atividades do dia a dia.
+Planejamento Flexível:
+Ao adotar o inventário rotativo, é possível elaborar um cronograma que abarca todos os itens dentro de um período fiscal, permitindo uma abordagem mais organizada e distribuída. Isso pode incluir a contagem de diferentes grupos de itens em diferentes momentos, de acordo com sua importância ou rotatividade.
+Maior Precisão e Atualização Contínua:
+Com o inventário rotativo, é possível manter o controle mais atualizado, já que a contagem é realizada regularmente, permitindo a identificação e correção de erros e discrepâncias em tempo hábil, sem esperar até o final do ano ou do ciclo para perceber problemas.
+Portanto, o inventário rotativo contribui para a continuidade das operações, o que é uma grande vantagem, além de possibilitar a elaboração de um cronograma eficiente que cobre todos os itens no período fiscal.
+Reportar abuso
+Ajudou (11) Não ajudou
+4
+Q3435866
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANATEL - Especialista em Regulação de Serviços Públicos de Telecomunicações - Área Ciências Contábeis - 2024
+Texto associado
+Text CB1A2-II
+
+Internet coverage in the European Union (EU) is impressive, standing at 100%; however, numbers on de facto usage (85%), broadband take-up (78%), users with at least basic digital skills (58%), next-generation access coverage providing at least 30 Mbps (86%) and 5G readiness (21%) cloud the picture.
+The significance of these circumstances does not only lie in the economic implications but also in the severe consequences for the individual and the society. People without adequate Internet access are missing out on means of participation and opportunities that have become part of everyday life. Countless contributions have been published on socioeconomic inequalities relating to access to, use of or impact of ICTs (information and communication technologies), known as the digital divide(s). These divides will only deepen, as disconnected citizens are likely to miss out on long-term benefits of innovation (information society) and modernization.
+The coronavirus pandemic exacerbated the social inequalities related to insufficient connectivity: privileged users experienced dropped calls and disrupted downloads, while disadvantaged users were left with no access at all or with makeshift solutions.
+
+Internet: <www.europarl.europa.eu/thinktank> (adapted).
+
+Based on the text CB1A2-II, judge the following items.
+Lack of satisfactory Internet access results in exclusion of people from benefits related to digital technology.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+77.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Felipe Menegate Nascimento
+9 de janeiro de 2025 às 17:14
+People without adequate Internet access are missing out on means of participation and opportunities that have become part of everyday life. 
+Reportar abuso
+Ajudou (1) Não ajudou
+5
+Q3436749
+Língua Inglesa Sinônimos | Synonymous
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Text IV
+In the middle of July, Roger was making his first ministerial speech. I did not need reminding, having drafted enough of them, how much speeches mattered — to parliamentary bosses, to any kind of tycoon. Draft after draft: the search for the supreme, the impossible, the more than Flaubertian perfection; the scrutiny for any phrase that said more than it ought to say, so that each speech at the end was bound, by the law of official inexplicitness, to be more porridge-like than when it started out in its first draft. I had always hated writing drafts for other people, and nowadays got out of it. To Hector, to Douglas, it was part of the job, which they took with their usual patience, their usual lack of egotism: when a minister crossed out their sharp, clear English and went in for a literary composition of his own, they gave a wintry smile and let it stand.
+
+C. P. Snow. Corridors of Power. London: Penguin Books, 1972, p. 31.
+Considering the grammatical and semantic aspects of text IV, judge whether the following statements are right (C) or wrong (E).
+In the first sentence of the text, the verb “making” is being used with the sense of writing.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+35.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Felipe Menegate Nascimento
+9 de janeiro de 2025 às 15:12
+E - Errado
+No contexto da primeira frase, o verbo "making" está sendo usado no sentido de fazer um discurso, não de escrever. Ou seja, ele está se referindo ao ato de proferir ou apresentar o discurso, e não ao ato de escrevê-lo. A frase indica que Roger estava fazendo (pronunciando) seu primeiro discurso ministerial, não escrevendo.
+Reportar abuso
+Ajudou (4) Não ajudou
+6
+Q3128983
+Administração Pública Gerencialismo
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+A respeito de aspectos relativos a gestão de resultados nos serviços públicos, convergências e diferenças entre a gestão pública e a gestão privada, paradigma do cliente na gestão pública e sustentabilidade pública e acessibilidade, julgue os itens seguintes.
+A administração gerencial é um estilo de gestão que ocorre tanto na administração pública quanto na privada, sendo equiparados, em ambas as esferas, a forma de obtenção de lucros, os resultados e os interesses envolvidos.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+74.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+AP
+Adriano Pereira
+21 de fevereiro de 2024 às 19:05
+A forma de gerir os serviços públicos é diferente da adotada no setor privado em virtude de peculiaridades estruturais. Destaca-se que o setor privado é constituído por pessoas (físicas ou jurídicas) que envidam esforços na produção de bens e serviços, os quais trocam por valores monetários que permitem sua sobrevivência. Esse fato justifica os esforços na busca pela eficiência, tendo a lucratividade como objetivo a ser perseguido. No setor público, o objetivo não é o lucro, mas, sim, primordialmente, atender às necessidades da sociedade que, via de regra, é patrocinadora dos meios, via tributos a ela aplicados.
+
+
+Ano: 2023
+Banca: Instituto Consulplan
+Prova: Instituto Consulplan - MPE MG - Analista - Área: Engenharia Elétrica - 2023
+Reportar abuso
+Ajudou (165) Não ajudou
+HA
+Hamilton Andrade
+4 de maio de 2024 às 17:25
+O erro da questão está em obtenção de lucros, pois o objetivo final da administração pública é atender a população
+Reportar abuso
+Ajudou (81) Não ajudou
+E
+Eliane
+7 de julho de 2024 às 19:59
+A administração gerencial é de fato um estilo de gestão que pode ser encontrado tanto na administração pública quanto na privada. Ela se caracteriza por uma abordagem mais voltada para resultados, eficiência, uso de indicadores de desempenho e ênfase na gestão por objetivos. No entanto, não são
+equivalentes, em ambas as esferas.
+Reportar abuso
+Ajudou (14) Não ajudou
+MS
+Maria Silva
+3 de setembro de 2024 às 23:01
+A afirmação está errada. Embora a administração gerencial seja um estilo de gestão que pode ser aplicado tanto na administração pública quanto na privada, há diferenças fundamentais entre as duas esferas, especialmente no que diz respeito à obtenção de lucros, resultados e interesses envolvidos. Na gestão privada, o foco principal é a maximização dos lucros e o retorno sobre o investimento para os acionistas. Já na administração pública, o objetivo principal é a prestação de serviços públicos eficientes e eficazes, buscando o bem-estar da sociedade e o interesse público, sem foco na obtenção de lucros. Além disso, na administração pública, os resultados são medidos em termos de benefícios sociais e cumprimento de políticas públicas, ao contrário da administração privada, onde o foco está nos resultados financeiros. Portanto, equiparar a forma de obtenção de lucros, os resultados e os interesses envolvidos em ambas as esferas é incorreto.
+Reportar abuso
+Ajudou (5) Não ajudou
+Ferreira Santos
+14 de fevereiro de 2024 às 14:56
+Errado!
+Reportar abuso
+Ajudou (5) Não ajudou
+Página 1 de 2
+7
+Q3134278
+Administração de Recursos Materiais Armazenagem, Distribuição e Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Administrativo - 2024
+Texto associado
+No que concerne aos conceitos relacionados a entrada, armazenagem, saída e conferência, bem como aos critérios e às técnicas de armazenagem, julgue os itens subsequentes.
+As atividades principais do recebimento e da armazenagem são o agendamento de recebimento, a inspeção inicial e o controle de qualidade; a conferência, por sua vez, tem como atividades essenciais a verificação quantitativa, a inspeção de danos e a checagem de códigos de barra e QR Codes.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AD
+Arthur Da Silva Filho
+6 de abril de 2024 às 21:48
+C - Certo.
+A resposta está correta ao afirmar que as atividades principais do recebimento e da armazenagem são:
+Agendamento de recebimento: garante que o recebimento seja organizado e eficiente, evitando gargalos e atrasos.
+Inspeção inicial: identifica possíveis avarias ou inconformidades com o pedido antes da armazenagem, permitindo a devolução ou troca de produtos danificados.
+Controle de qualidade: garante que os produtos recebidos atendam aos padrões de qualidade da empresa, evitando problemas futuros.
+A conferência, por sua vez, é uma etapa crucial para garantir a acurácia do estoque e consiste em:
+Verificação quantitativa: confirma se a quantidade de produtos recebidos corresponde ao pedido.
+Inspeção de danos: verifica se os produtos estão danificados ou avariados.
+Checagem de códigos de barra e QR Codes: identifica os produtos de forma rápida e precisa, facilitando o controle do estoque.
+Outras atividades importantes:
+Armazenagem:
+Endereçamento e organização: garantem que os produtos sejam armazenados de forma eficiente e fácil de encontrar.
+Controle de temperatura e umidade: protege os produtos contra deterioração.
+Rotatividade do estoque: garante que os produtos mais antigos sejam vendidos primeiro.
+Saída:
+Preparação do pedido: garante que os produtos corretos sejam enviados ao cliente.
+Embalagem: protege os produtos durante o transporte.
+Expedição: garante que os produtos sejam entregues ao cliente no prazo acordado.
+Critérios e técnicas de armazenagem:
+Tipo de produto: produtos perecíveis exigem condições especiais de armazenamento, como temperatura e umidade controladas.
+Volume: produtos volumosos podem necessitar de um espaço maior de armazenamento.
+Rotatividade: produtos com alta rotatividade devem ser armazenados em locais de fácil acesso.
+Valor: produtos de alto valor podem necessitar de medidas de segurança adicionais.
+Técnicas de armazenagem:
+FIFO (First In, First Out): garante que os produtos mais antigos sejam vendidos primeiro, evitando perdas por vencimento.
+LIFO (Last In, First Out): pode ser utilizado para produtos com prazo de validade longo, como vinhos.
+Estanterias: armazenam produtos de forma organizada e eficiente.
+Paletes: facilitam a movimentação de produtos.
+Sistemas automatizados: otimizam o processo de armazenagem e expedição.
+Conclusão:
+O recebimento, a armazenagem, a saída e a conferência são atividades essenciais para a gestão eficiente do estoque. A aplicação de critérios e técnicas adequadas de armazenagem garante a qualidade dos produtos e otimiza o fluxo de materiais.
+Reportar abuso
+Ajudou (42) Não ajudou
+8
+Q3128747
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração de Pessoal - 2024
+Texto associado
+Texto CG1A1
+
+Em 1947, o físico brasileiro César Lattes causou grande impacto nos meios científicos internacionais e conquistou reconhecimento com sua descoberta que elucidou alguns problemas pendentes de solução no campo da radiação cósmica e confirmou a teoria do físico japonês Hideki Yukawa sobre a existência de uma partícula supostamente responsável pela ligação entre prótons e nêutrons nos núcleos atômicos. Esse último aspecto foi bastante para dar um relevo todo especial à descoberta, enriquecendo seu significado com a possibilidade de novas aberturas no controle das forças nucleares, tão cobiçado depois das explosões atômicas. Toda a imprensa mundial e brasileira aclamou a descoberta, e a ciência brasileira saiu do porão para a sala de visitas.
+No ano seguinte, Lattes voltou a causar impacto após conseguir a produção artificial daquela partícula em um acelerador do tipo circular, em Berkeley, nos Estados Unidos da América. E em 1949, a física no Brasil começou a se institucionalizar com a criação do Centro Brasileiro de Pesquisas Físicas. Junto com ela, a ciência, em geral, também organizava sua entidade representativa, com o surgimento da Sociedade Brasileira para o Progresso da Ciência (SBPC) naquele mesmo ano. Foi nesse caldo cultural que o almirante Álvaro Alberto ganhou mais argumentos para persuadir o governo brasileiro. Segundo seus depoimentos reproduzidos na coletânea 50 anos do CNPq contados pelos presidentes, organizada por Shozo Motoyama, em maio de 1949, após a leitura de relatórios sobre a questão atômica, o presidente Dutra enviou ao Congresso Nacional um anteprojeto para criação do Conselho Nacional de Pesquisas, já prevendo seu papel na política nuclear. Depois de uma longa tramitação na Câmara dos Deputados e no Senado Federal, nascia o CNPq, com o almirante como seu primeiro presidente.
+
+Rodrigo Cunha. 60 anos do CNPq: da política nuclear ao desafio da descentralização.
+In: Ciência e Cultura, São Paulo, v. 63, n.º 2, 2011 (com adaptações).
+
+Acerca dos mecanismos de coesão textual empregados no texto CG1A1, julgue os próximos itens.
+A expressão “em maio de 1949” (penúltimo período do segundo parágrafo) indica a data da organização da citada coletânea por Shozo Motoyama.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+55.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jemima Raulino Da Conceição
+1 de março de 2024 às 11:55
+GABARITO: ERRADO
+
+Em maio refere-se ao ano que o presidente levou ao congresso o anteprojeto.
+...em maio de 1949, após a leitura de relatórios sobre a questão atômica, o presidente Dutra enviou ao Congresso Nacional um anteprojeto para criação do Conselho Nacional de Pesquisas.
+Fonte: QC
+...................................................................................................................................................................................................................
+...................................................................................................................................................................................................................
+Não to mandei eu? Esforça-te, e tem bom ânimo;
+NÃO temas, nem te espantes;
+porque o Senhor teu Deus é contigo,
+por onde quer que andares.
+Josué 1:9
+
+Reportar abuso
+Ajudou (79) Não ajudou
+T
+Thiago
+1 de fevereiro de 2024 às 19:12
+A data Refere-se a leitura do relatório.
+Reportar abuso
+Ajudou (26) Não ajudou
+MC
+Marcia Caetano De Sa Muniz
+8 de fevereiro de 2024 às 11:23
+Essa foi a data em que o presidente Dutra enviou ao congresso Nacional o anteprojeto.
+Reportar abuso
+Ajudou (20) Não ajudou
+Joao
+28 de junho de 2024 às 21:17
+A questao se nao ler muito bem se torna ambigua
+Reportar abuso
+Ajudou (10) Não ajudou
+MP
+Miguel Pereira Barros
+8 de abril de 2024 às 08:32
+A assertiva destaca o momento da leitura do relatório por parte do presidente Dutra - maio de 1949 - citado como um dos presidentes do CNPQ em destaque para a criação do Centro Nacional de Pesquisas, protagonista na política nuclear que se desenhava naquele momento.
+Reportar abuso
+Ajudou (3) Não ajudou
+Página 1 de 2
+9
+Q3436336
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Texto III
+Afinal, os homens nascem iguais, apenas sem uma definição completa da natureza.
+Em Rousseau, por exemplo, com a noção do “bom selvagem”, essa ideia estará absolutamente presente.
+A alteridade desses “novos homens” transformada em modelo lógico se contrapunha à experiência ocidental. Como concluía Rousseau sobre a origem da desigualdade entre os homens, “se há uma bondade original da natureza humana, a evolução social corrompeu-a”.
+O famoso filósofo da Ilustração encontrava um modelo ideal nesse “outro” tão distante do “nós, ocidentais”, e o elegia como moralmente superior. No entanto, ao conformar esse quadro antitético, Rousseau de certa forma se afastava da Ilustração, já que refletia sobre um progresso às avessas.
+Mas, se a visão idílica de Rousseau foi a mais fecunda, é impossível deixar de falar das vertentes mais negativas de interpretação. As imagens que detratam o Novo Mundo se intensificaram, simetricamente correspondentes ao maior conhecimento e colonização desses novos territórios. É o momento em que se passa da projeção da inocência à inata maldade do selvagem.
+Esse debate — que opunha o modelo igualitário da Ilustração às doutrinas raciais — faz parte, no entanto, de um problema mais remoto, sobre as origens da humanidade.
+De um lado, a visão monogenista, dominante até meados do século XIX; de outro, a partir de então, a hipótese poligenista, que se transformava em uma alternativa plausível. Partiam os seus autores da crença na existência de vários centros de criação, que corresponderiam, por sua vez, às diferenças raciais observadas.
+
+Lilia Moritz Schwarcz. O espetáculo das raças.
+São Paulo: Companhia das Letras, 2004, p. 45-48 (com adaptações).
+Em relação aos sentidos do texto III, julgue (C ou E) os itens a seguir.
+Entende-se da leitura do segundo e do terceiro parágrafos que o sentido dado pela autora ao termo “alteridade” é o de distinção entre a humanidade resultante da “experiência ocidental” e da ‘evolução social’ e os outros, caracterizados como o ‘bom selvagem’ e os ‘novos homens’.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+68.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+F
+Felipe
+4 de novembro de 2024 às 11:13
+Não é minimamente aceitável existirem questões de concursos recentes que não tenham um comentário de professor. Cara, a gente paga caro nessa plataforma pra ter acesso a esse tipo de conteúdo, o mínimo que se espera é que tenham questões comentadas por profissionais. Nem a porcaria da Maia foi ativada nessa questão. Realmente fica difícil ter um estudo ativo dessa forma.
+Reportar abuso
+Ajudou (8) Não ajudou
+10
+Q3178998
+Administração de Recursos Materiais Administração de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Técnico Ministerial - Área Assistente Administrativo - 2024
+Texto associado
+A respeito da gestão de estoques nas organizações, julgue os itens seguintes.
+A eficácia na gestão dos estoques independe da segregação dos itens essenciais dos secundários em termos de valor de consumo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+92.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Josiel Freire De Oliveira
+19 de outubro de 2024 às 17:43
+A eficácia na gestão dos estoques **depende**, sim, da segregação dos itens essenciais dos secundários, principalmente em termos de valor e criticidade. O conceito de segregação é aplicado por meio da **classificação ABC**, que divide os itens em três categorias: - **A**: Itens de maior valor e impacto, mesmo que em menor quantidade. - **B**: Itens de valor intermediário. - **C**: Itens de baixo valor, mas geralmente em maior quantidade. Ao diferenciar os itens dessa forma, as empresas conseguem direcionar esforços maiores no controle dos itens que têm maior impacto financeiro e operacional, garantindo que os recursos sejam alocados de forma eficiente. Negligenciar essa separação pode resultar em uma gestão de estoques menos eficaz, com custos desnecessários ou até a falta de materiais importantes. Além disso, o uso de modelos como o **just in time** e a análise de **curva de demanda** também depende da distinção entre itens essenciais e secundários, reforçando a importância dessa classificação na gestão eficiente dos estoques.
+Reportar abuso
+Ajudou (15) Não ajudou
+Dota Dota
+22 de março de 2024 às 01:41
+"INDEPENDE"
+Reportar abuso
+Ajudou (8) Não ajudou
+Jose Geraldo De Andrade Filho
+27 de setembro de 2024 às 16:55
+Na verdade DEPENDE
+
+Reportar abuso
+Ajudou (2) Não ajudou
+11
+Q3136125
+Estatística Amostra
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista de Geotecnologia - 2024
+Texto associado
+Um levantamento amostral será realizado por amostragem aleatória estratificada. Existem h = 5 estratos, e o tamanho total da amostra será igual a n = 170.
+estrato
+tamanho
+populacional
+tamanho da amostra
+1
+100
+10
+2
+200
+20
+3
+400
+40
+4
+500
+50
+5
+500
+50
+Total
+1.700
+170
+Com base nessas informações, julgue os itens a seguir.
+Cada estrato corresponde a uma unidade amostral.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+43.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Clara Aleixo Leandro
+4 de junho de 2024 às 12:16
+A unidade amostral é o elemento propriamente dito que constituirá a amostra. Por exemplo, se queremos fazer um levantamento das notas médias dos alunos de uma rede estadual, cada aluno amostrado constituirá uma unidade amostral.
+Os estratos não são unidades amostrais, mas apenas categorias que delimitam a população a fim de se obter uma boa representatividade do objeto de estudo.
+No caso em questão, cada uma daquelas 170 observações será uma unidade amostral.
+Reportar abuso
+Ajudou (39) Não ajudou
+FJ
+Felipe José De Aguiar
+6 de março de 2024 às 15:46
+Errado! Cada estrato compõe (não corresponde) a unidade amostral final.
+Reportar abuso
+Ajudou (33) Não ajudou
+12
+Q3135265
+Tecnologia da Informação Aprendizado de Máquina
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista de Infraestrutura de Tecnologia da Informação - 2024
+Texto associado
+Julgue os itens a seguir, relativos à inteligência artificial (IA).
+O reconhecimento facial por imagens nas redes sociais é embasado no aprendizado de máquina chamado deep learning, que simula a rede neural do cérebro humano.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+81.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rodrigo Francelino Portela
+28 de março de 2024 às 09:48
+O deep learning ou aprendizagem profunda baseia-se no machine learning para, a partir de uma grande quantidade de dados e após inúmeras camadas de processamento com algoritmos, conseguir que um computador aprenda por si mesmo e execute tarefas semelhantes às dos seres humanos, tais como a identificação de imagens, o reconhecimento de voz ou a realização de predições, de forma progressiva.
+Reportar abuso
+Ajudou (13) Não ajudou
+Tulio Vargas
+9 de março de 2024 às 11:50
+"simula" é complicado
+Reportar abuso
+Ajudou (5) Não ajudou
+13
+Q3134981
+Raciocínio Lógico Equivalências Lógicas - (Proposições Logicamente equivalentes)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente de Tecnologia da Informação - 2024
+Texto associado
+P1: “Todo profissional competente tem criatividade ou sensibilidade social.”
+P2: “Todo profissional competente tem criatividade e sensibilidade social.”
+
+Considerando as proposições lógicas P1 e P2, julgue os itens subsequentes.
+A proposição P1 é equivalente à proposição P2.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+86.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+André França
+9 de abril de 2024 às 11:00
+a equivalência do conectivo ''ou'' seria ''se então'' negando a primeira proposição simples e mantendo a segunda:
+Se todo profissional competente não tem criatividade, então tem sensibilidade social.
+
+Reportar abuso
+Ajudou (44) Não ajudou
+Wanderson Sousa
+12 de setembro de 2024 às 16:34
+Nega a primeira proposição, troca o conectivo "OU" por "SE ENTÃO" e mantém a segunda proposição.
+Reportar abuso
+Ajudou (7) Não ajudou
+14
+Q3133957
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista de Sistemas da Informação - 2024
+Texto associado
+Fábula de um arquiteto
+A arquitetura como construir portas,
+de abrir; ou como construir o aberto;
+construir, não como ilhar e prender,
+nem construir como fechar secretos;
+construir portas abertas, em portas;
+casas exclusivamente portas e teto.
+O arquiteto: o que abre para o homem
+(tudo se sanearia desde casas abertas)
+portas por-onde, jamais portas-contra;
+por onde, livres: ar luz razão certa.
+Até que, tantos livres o amedrontando,
+renegou dar a viver no claro e aberto.
+Onde vãos de abrir, ele foi amurando
+opacos de fechar; onde vidro, concreto;
+até fechar o homem: na capela útero,
+com confortos de matriz, outra vez feto.
+João Cabral de Melo Neto. Fábula de um arquiteto. In: Antologia poética. Rio de Janeiro: Ed. José Olympio, 1978, p.18.
+Considerando o texto e a imagem da Catedral Metropolitana Nossa Senhora Aparecida, obra de Oscar Niemayer, julgue os itens a seguir.
+O resultado arquitetônico da Catedral Metropolitana Nossa Senhora Aparecida corresponde ao conteúdo expresso na última estrofe do texto de João Cabral de Melo Neto: “onde vidro, concreto; / até fechar o homem: na capela útero, / com confortos de matriz, outra vez feto.”
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+39.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Flávia Santos
+15 de fevereiro de 2024 às 15:32
+Fonte: Chat GPT
+Essa afirmação parece estar incorreta. A última estrofe do poema de João Cabral de Melo Neto fala sobre a sensação de confinamento e retorno ao útero materno, com imagens de vidro e concreto sugerindo um ambiente fechado e recluso. No entanto, a Catedral Metropolitana Nossa Senhora Aparecida, projetada por Oscar Niemeyer, apresenta uma arquitetura que tende a transmitir uma sensação de abertura e expansão, com seus pilares curvos e a cúpula espiralada que se eleva para o céu. Portanto, não parece haver uma correspondência direta entre o conteúdo expresso na última estrofe do poema e o resultado arquitetônico da catedral.
+Reportar abuso
+Ajudou (87) Não ajudou
+Aaaaa
+17 de fevereiro de 2024 às 09:24
+erro de boa umas questões dessa, sem peso na consciencia
+Reportar abuso
+Ajudou (75) Não ajudou
+Marcus Vinicius Ferreira Do Amaral
+3 de abril de 2024 às 04:36
+Julius BR
+03 de Fevereiro de 2024 às 12:11
+Um poema muito difícil do João Cabral, ainda mais quando é construído propositalmente com pontuação incomum. A dica para melhor entender esse tipo de texto é evitar ou ignorar as pontuações. Resumidamente, o poema brinca com oposições.
+Dito isso é necessário saber um pouco sobre a catedral de Brasília. A cúpula dela é construída basicamente de colunas e predominam os vitrais (é possível observar isso na foto). Já no poema, os versos "onde vidro, concreto" diz justamente o contrário: onde tradicionalmente haveria vidros, há concreto. Na catedral de Brasília observa-se o oposto: boa parte do concreto fora substituído por vidros. Também acho que a comparação com útero dá a ideia de ausência de luz, o que não ocorre nessa catedral. Essa foi minha visão.
+A propósito, pesquisei e descobri que o João escreveu esse poema após uma visita à capela de Ronchamp, do arquiteto Le Corbusier, essa sim quase inteiramente de concreto. Os estilos do Le Corbusier e Niemyer eram muitas vezes antagônicos, e no poema, o Joao Cabral parece brincar com os vários estilos de arquitetura.
+
+Reportar abuso
+Ajudou (42) Não ajudou
+Acacio Luiz Macedo
+22 de fevereiro de 2024 às 20:49
+Texto difícil que não me levou a nenhum entendimento. Marquei então como "Errada" pois não estava claro, no texto, o que a questão afirmou.
+Reportar abuso
+Ajudou (18) Não ajudou
+Luiz Fernando Rodrigues De Rezende
+12 de março de 2024 às 15:51
+Por incrível que pareça, errei apenas uma, desse tenebroso texto. Português é muito complicado!
+
+Reportar abuso
+Ajudou (16) Não ajudou
+Página 1 de 3
+15
+Q3163301
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Com base em obtenção, limpeza e pré-processamento de dados, julgue os próximos itens.
+O pré-processamento de dados deve ocorrer em bases de informações não estruturadas, com o objetivo de diminuir a quantidade de dados a serem processados.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+47.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tulio Vargas
+3 de março de 2024 às 20:46
+sequencia de questoes de IA confusas ou gabarito errado
+pode ser em dados estruturados ou semi estruturados
+Reportar abuso
+Ajudou (26) Não ajudou
+Fabiano Vieira
+29 de março de 2024 às 16:56
+o pré-processamento de dados não se limita apenas a bases de informações não estruturadas. Na verdade, ele é aplicável a uma ampla variedade de tipos de dados, incluindo dados estruturados, semi-estruturados e não estruturados.
+Dados estruturados são aqueles organizados em um formato específico, como tabelas em um banco de dados relacional, enquanto dados não estruturados são aqueles que não seguem um formato pré-definido, como texto livre ou imagens.
+É verdade que o pré-processamento de dados pode ser particularmente desafiador em bases de dados não estruturadas devido à falta de formatação padrão, mas isso não significa que seja exclusivo desses tipos de dados. Na verdade, o pré-processamento é uma etapa fundamental em qualquer análise de dados, independentemente do formato dos dados.
+Reportar abuso
+Ajudou (14) Não ajudou
+Bq Oliveira
+8 de junho de 2024 às 16:32
+A questão estaria ERRADA se falasse que o pré-processamento de dados deve ocorrer SOMENTE em bases de informações não estruturadas.
+Reportar abuso
+Ajudou (9) Não ajudou
+Johnny Alves
+23 de maio de 2024 às 20:42
+Discordo do gabarito, pois deveria ter colocado "em bases de informações não estruturadas, estruturadas ou semi-estruturadas..." ou "pode ocorrer em bases de informações não estruturadas ...".
+Segunda parte "com objetivo de diminuir a quantidade de dados a serem processados", pois pré-processamento não tem somente esse objetivo para dados não estruturados.
+
+Reportar abuso
+Ajudou (2) Não ajudou
+Italo
+18 de dezembro de 2024 às 22:32
+"diminuir a quantidade de dados a serem processados" está errado, pois NO PRE PROCESSAMENTO PODEMOS IMPUTAR DADOS
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+16
+Q3128814
+Administração Pública Gerencialismo
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração de Pessoal - 2024
+Texto associado
+Quanto à administração pública, do modelo racional legal ao paradigma pós-burocrático, julgue os itens a seguir.
+O gerencialismo tem como pressupostos o fortalecimento do gerenciamento público e de instituições de controle e a imputação de resultados e estruturas flexíveis de tal forma que o cidadão se perceba e participe como usuário de serviços públicos e contribuinte.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+92.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Michelle Ribeiro Amaral Sarter
+12 de outubro de 2024 às 21:58
+na administração gerencial, o cidadão passa a ser visto como "cliente", e como ele é contribuinte, esse deve participar mais ativamente no governo, assim os cidadãos fazem parte das "instituições de controle"
+Quando paga imposto entrega um pouco da riqueza ao Estado para que ele cuide dos que não podem pagar, por isso o termo cidadãos-contribuintes.
+Reportar abuso
+Ajudou (15) Não ajudou
+CN
+Cirilo Neto
+5 de abril de 2024 às 21:41
+Questão correta
+Reportar abuso
+Ajudou (1) Não ajudou
+17
+Q3128995
+Administração Geral Departamentalização
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+Julgue os itens a seguir, relativos às vantagens e desvantagens de cada tipo de departamentalização.
+Apesar de ser mais difícil de coordenar, a departamentalização por produtos reduz o poder dos gerentes de produtos ou serviços, o que aumenta a estabilidade das estruturas de poder das organizações.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+85.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+MP
+Miguel Pereira Barros
+2 de fevereiro de 2024 às 08:55
+Na verdade, corrobora com o aumento de poder por parte dos gerentes, uma vez que centralizam as decisões no topo do negócio e dão as diretrizes para os seus subordinados acerca de como os produtos devem ser confeccionados e preservados.
+Reportar abuso
+Ajudou (382) Não ajudou
+Leila Benedetti
+3 de fevereiro de 2024 às 18:56
+Já dá para saber que a resposta é ERRADA logo no começo do texto. A departamentalização é fácil de coordenar sim.
+Reportar abuso
+Ajudou (148) Não ajudou
+Patricia Ferreira Neto
+2 de junho de 2024 às 14:43
+Gabarito "Errado"
+
+Departamentalização por Produtos/Serviços
+- Espécie da estrutura divisional
+- Departamentos independentes e autônomos entre si
+- Recomendado para grandes organizações que tenham produtos muitos distintos
+- Pode ser utilizada em ambientes dinâmicos e mutáveis
+- Cada divisão reúne todos os recursos necessários a totalidade da gestão do produto/serviço
+- Cada divisão é vista como um centro de resultados com a apuração de lucros e prejuízos individualmente
+- Cada divisão tem ampla autonomia o que gera maior flexibilidade e inovação
+- Dificuldade em visualizar a organização como unidade
+- Dificuldade no controle estratégico
+Reportar abuso
+Ajudou (135) Não ajudou
+RD
+Rafael De Sousa Santiago
+30 de maio de 2024 às 17:38
+Na departamentalização por produtos, os gerentes de produtos ou serviços têm mais autonomia e poder, pois são responsáveis por uma linha de produtos ou serviços, o que inclui a tomada de decisões relacionadas a esses produtos ou serviços. Isso não necessariamente aumenta a estabilidade das estruturas de poder das organizações, pois pode haver conflitos de interesses entre diferentes gerentes de produtos ou serviços.
+Reportar abuso
+Ajudou (80) Não ajudou
+Matheus Pereira Costa
+30 de janeiro de 2024 às 16:06
+aumenta o poder do gerente.
+Reportar abuso
+Ajudou (66) Não ajudou
+Página 1 de 3
+18
+Q3134083
+Raciocínio Lógico Equivalências Lógicas - (Proposições Logicamente equivalentes)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Administrativo - 2024
+Texto associado
+P1: “Todo profissional competente tem criatividade ou sensibilidade social.”
+P2: “Todo profissional competente tem criatividade e sensibilidade social.”
+
+Considerando as proposições lógicas P1 e P2, julgue os itens subsequentes.
+A proposição P2 é equivalente à proposição “Se o profissional não tem criatividade e não tem sensibilidade social, então ele não é competente.”.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+66.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+David Dos Santos Ferreira
+6 de março de 2024 às 23:12
+Porém, Priscilla, faltou inverter os conectivos (e) pelo (ou). Esses pequenos detalhes passam desapercebido!
+Reportar abuso
+Ajudou (34) Não ajudou
+Joao Victor
+6 de agosto de 2024 às 12:16
+E(^) vira OU(v)
+OU (v) vira SE ENTÃO (->)
+Reportar abuso
+Ajudou (15) Não ajudou
+Emerson Santos
+30 de abril de 2024 às 14:52
+quando vi o '' E '' já vi que estava errada
+.
+Reportar abuso
+Ajudou (12) Não ajudou
+Joao
+16 de março de 2024 às 22:40
+Transcrevendo a proposição P2 ficaria: PC ---> (TC ^ SS) Colocando a regra da contrapositiva ficaria (~TC v ~SS) --> ~ PC A questão está errada pois a troca da conjunção(e) não foi corretamente trocada pela disjunção(ou) Gab ERRADO
+Reportar abuso
+Ajudou (6) Não ajudou
+Juliana Araujo De Oliveira
+16 de setembro de 2024 às 16:41
+errei por desatenção, seria certo se estivesse "Se o profissional não tem criatividade OU não tem sensibilidade social, então ele não é competente" o e é trocado pelo ou e inverte o resto negando
+Reportar abuso
+Ajudou (4) Não ajudou
+Página 1 de 2
+19
+Q3134283
+Administração de Recursos Materiais Administração de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Administrativo - 2024
+Texto associado
+
+Na figura precedente, que representa um gráfico de movimentação de estoques, verifica-se que, a partir do ponto de pedido, a empresa começa a entrar em uma fase crítica de estoque e depende de dois fatores básicos: o comportamento da demanda (demanda esperada versus demanda efetiva) e a possibilidade de que o tempo de reposição sofra oscilações em função de contingências que possam ocorrer com certa frequência.
+
+Com base na figura e nas informações precedentes, julgue os itens que se seguem.
+No momento em que uma nova encomenda for processada, no ponto de pedido, caso a demanda acelere além da demanda esperada, seguindo no sentido da demanda efetiva 1, a empresa enfrentará uma elevada taxa de esgotamento do estoque, o que ocasionará o uso do estoque de segurança.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+82.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AD
+Arthur Da Silva Filho
+6 de abril de 2024 às 22:05
+C - Certo.
+Explicação:
+O gráfico mostra a relação entre o nível de estoque e o tempo. O ponto de pedido (PP) é o nível mínimo de estoque que aciona a necessidade de fazer um novo pedido. A partir do PP, a empresa entra em uma fase crítica de estoque, onde o risco de ruptura aumenta.
+Demanda:
+Demanda esperada: é a previsão de demanda que a empresa utiliza para calcular o ponto de pedido.
+Demanda efetiva: é a demanda real que ocorre no mercado.
+Tempo de reposição:
+É o tempo que leva para que um novo pedido seja recebido após ser feito.
+Cenário:
+No cenário descrito, a demanda acelera além da demanda esperada (demanda efetiva 1). Isso significa que a empresa está vendendo mais produtos do que o previsto.
+Consequências:
+Elevada taxa de esgotamento do estoque: a empresa corre o risco de ficar sem produtos para vender.
+Uso do estoque de segurança: o estoque de segurança é utilizado para evitar rupturas de estoque em situações inesperadas.
+Conclusão:
+Se a demanda for maior do que o esperado, a empresa pode ficar sem estoque mesmo que tenha feito um pedido no ponto de pedido. O uso do estoque de segurança pode ajudar a evitar rupturas, mas é importante monitorar a situação e fazer novos pedidos de forma proativa.
+Observações:
+A imagem mostra que o tempo de reposição pode sofrer oscilações. Isso significa que o ponto de pedido precisa ser ajustado para levar em consideração essas oscilações.
+É importante monitorar o nível de estoque constantemente para identificar possíveis problemas e tomar medidas corretivas.
+Recomendações:
+A empresa pode utilizar técnicas de previsão de demanda para melhorar a estimativa da demanda futura.
+A empresa pode manter um nível de estoque de segurança maior para se proteger contra oscilações na demanda.
+A empresa pode utilizar um sistema de gestão de estoque para automatizar o processo de reposição de estoque.
+Reportar abuso
+Ajudou (33) Não ajudou
+Maria Aparecida Souza Santos
+28 de setembro de 2024 às 09:02
+Eu só vim olhar que tinha gráfico após ver esse comentário, entretanto acertei só por analisar os conceitos e não encontrar nemhum erro, mas é sempre bom saber o motivo de ter acertado
+Reportar abuso
+Ajudou (9) Não ajudou
+20
+Q3134900
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente de Tecnologia da Informação - 2024
+Texto associado
+Texto CB1A1
+
+Enquanto Singapura e Dublin lançaram suas réplicas digitais usando aprendizado de máquina para prever eventos e tendências futuras, países inteiros ainda não garantiram água potável e eletricidade para seus habitantes. Como a arquitetura reflete as sociedades, a acentuada desigualdade social em que vivemos continuará sendo refletida na arquitetura que construímos: algumas obras totalmente projetadas por inteligência artificial (IA), outras criadas manualmente e com modelos físicos em um escritório de arquitetura boutique, e a grande maioria sendo feita no local com papel e lápis, sem a intervenção direta de arquitetos. Talvez todos esses cenários coexistam na mesma cidade.
+O escritor Benjamin Labatut declarou: “se a inteligência artificial fosse capaz de pensar, teria pontos cegos; se conseguisse ser criativa, teria limites, pois limites são frutíferos; se fosse capaz de imitar nossa capacidade de raciocínio, talvez precisasse do (ou desenvolvesse o) nosso talento para a loucura. E se lhe faltasse compreensão, se não se importasse com a beleza e o horror que pode criar, então seria imprudente nos colocarmos em suas mãos.”.
+O futuro da arquitetura está na interseção entre inovação tecnológica e intenção humana. Em última instância, a agência humana — sociedade civil, políticos e partes interessadas — exerce uma influência significativa. O curso da história não está escrito em pedra, mas é moldado pelas decisões tomadas hoje, especialmente se a IA afeta nossos bolsos. A arquitetura, então, torna-se o resultado de decisões coletivas, em que os avanços da IA se cruzam com as aspirações e os valores da sociedade. É dentro desse jogo de interações que a evolução e o impacto da arquitetura encontram sua ressonância e seu significado.
+
+Nicolás Valencia. O impacto das ferramentas de inteligência artificial na arquitetura em 2024 (e além).
+Internet: <www.archdaily.com.br> (com adaptações).
+
+Com base nos sentidos e nas ideias expressos no texto CB1A1, julgue os itens a seguir.
+A conclusão do texto aponta para um cruzamento entre deliberações humanas e progressos tecnológicos nas decisões coletivas, das quais resulta a arquitetura.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+80.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Arthur Henrique
+13 de fevereiro de 2024 às 11:41
+" A arquitetura, então, torna-se o resultado de decisões coletivas, em que os avanços da IA se cruzam com as aspirações e os valores da sociedade. É dentro desse jogo de interações que a evolução e o impacto da arquitetura encontram sua ressonância e seu significado."
+
+Em outras palavras, a arquitetura é o resultado da relação entre sociedade e tecnologia
+
+Gab: Certo
+
+Reportar abuso
+Ajudou (55) Não ajudou
+Alexandre B
+8 de abril de 2024 às 22:02
+O Helthon tá doidão 🚬
+Reportar abuso
+Ajudou (13) Não ajudou
+Helthon Pereira Silva Santos
+8 de março de 2024 às 14:43
+Pergunta: A conclusão do texto aponta para um cruzamento entre deliberações humanas e progressos tecnológicos nas decisões coletivas, das quais resulta a arquitetura.
+
+Parte do texto: " A arquitetura, então, torna-se o resultado de decisões coletivas, em que os avanços da IA se cruzam com as aspirações e os valores da sociedade. "
+
+Definição de deliberações: decidir, determinar, definir, sentenciar, ordenar, resolver, dispor, estatuir, assentar, opinar. propósito, medida, determinação, decisão, providência, definição, resolução, resultado, solução, vontade...
+
+Deliberações humanas Não são sinônimos de aspirações e os valores da sociedade.
+
+Por essa razão, indique o item como falso!
+
+Com base nos sentidos e nas ideias expressos no texto CB1A1, julgue os itens a seguir.
+Reportar abuso
+Ajudou (6) Não ajudou
+Reinaldo Bomfim
+16 de novembro de 2024 às 00:30
+ O curso da história não está escrito em pedra, mas é moldado pelas decisões tomadas hoje, especialmente se a IA afeta nossos bolsos. A arquitetura, então, torna-se o resultado de decisões coletivas, em que ( em que = pronome relativo que retoma sobre decisões coletivas) os avanços da IA se cruzam com as aspirações e os valores da sociedade. É dentro desse jogo de interações que a evolução e o impacto da arquitetura encontram sua ressonância e seu significado.
+Reportar abuso
+Ajudou (0) Não ajudou

@@ -1,0 +1,1009 @@
+1
+Q3128743
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração de Pessoal - 2024
+Texto associado
+Texto CG1A1
+
+Em 1947, o físico brasileiro César Lattes causou grande impacto nos meios científicos internacionais e conquistou reconhecimento com sua descoberta que elucidou alguns problemas pendentes de solução no campo da radiação cósmica e confirmou a teoria do físico japonês Hideki Yukawa sobre a existência de uma partícula supostamente responsável pela ligação entre prótons e nêutrons nos núcleos atômicos. Esse último aspecto foi bastante para dar um relevo todo especial à descoberta, enriquecendo seu significado com a possibilidade de novas aberturas no controle das forças nucleares, tão cobiçado depois das explosões atômicas. Toda a imprensa mundial e brasileira aclamou a descoberta, e a ciência brasileira saiu do porão para a sala de visitas.
+No ano seguinte, Lattes voltou a causar impacto após conseguir a produção artificial daquela partícula em um acelerador do tipo circular, em Berkeley, nos Estados Unidos da América. E em 1949, a física no Brasil começou a se institucionalizar com a criação do Centro Brasileiro de Pesquisas Físicas. Junto com ela, a ciência, em geral, também organizava sua entidade representativa, com o surgimento da Sociedade Brasileira para o Progresso da Ciência (SBPC) naquele mesmo ano. Foi nesse caldo cultural que o almirante Álvaro Alberto ganhou mais argumentos para persuadir o governo brasileiro. Segundo seus depoimentos reproduzidos na coletânea 50 anos do CNPq contados pelos presidentes, organizada por Shozo Motoyama, em maio de 1949, após a leitura de relatórios sobre a questão atômica, o presidente Dutra enviou ao Congresso Nacional um anteprojeto para criação do Conselho Nacional de Pesquisas, já prevendo seu papel na política nuclear. Depois de uma longa tramitação na Câmara dos Deputados e no Senado Federal, nascia o CNPq, com o almirante como seu primeiro presidente.
+
+Rodrigo Cunha. 60 anos do CNPq: da política nuclear ao desafio da descentralização.
+In: Ciência e Cultura, São Paulo, v. 63, n.º 2, 2011 (com adaptações).
+
+Considerando as ideias veiculadas no texto CG1A1, julgue os itens a seguir.
+O texto apresenta um relato sobre a criação do CNPq, em meados do século passado, destacando a participação ativa do físico César Lattes nesse acontecimento.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+60.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+JG
+João Guilherme Rocha De Albuquerque
+31 de janeiro de 2024 às 11:49
+Na verdade, o destaque de César Lattes foi nas descobertas na área da Física. Ele não teve participação na criação do CNPQ. Eu marquei errado por isso.
+Reportar abuso
+Ajudou (110) Não ajudou
+Felipe Augusto Alves Nascimento
+30 de janeiro de 2024 às 19:29
+Na verdade, o relato do texto é mais sobre a descoberta do físico brasileiro, Césas Lattes do que sobre necessariamente a criação da CNPq. Pelo menos foi o que entendi. E eu errei a questão num primeiro momento.
+Reportar abuso
+Ajudou (28) Não ajudou
+Filipe Fosse Oliveira Da Silva
+17 de fevereiro de 2024 às 08:57
+O erro está na palavra ATIVA. Eu entendi como foi uma participação PASSIVA (Pois ele não tinha o objetivo de ajudar na criação do CNPq, os objetivos dele era outro. Porém acabou ajudando "sem querer")
+Reportar abuso
+Ajudou (26) Não ajudou
+AD
+Abraao De Aguiar Santos
+2 de fevereiro de 2024 às 16:11
+O Almirante Álvaro Alberto é quem participa ativamente da criação do CNPq.
+
+"(...) Foi nesse caldo cultural que o almirante Álvaro Alberto ganhou mais argumentos para persuadir o governo brasileiro. Segundo seus depoimentos reproduzidos na coletânea 50 anos do CNPq contados pelos presidentes, organizada por Shozo Motoyama, em maio de 1949, após a leitura de relatórios sobre a questão atômica, o presidente Dutra enviou ao Congresso Nacional um anteprojeto para criação do Conselho Nacional de Pesquisas, já prevendo seu papel na política nuclear. Depois de uma longa tramitação na Câmara dos Deputados e no Senado Federal, nascia o CNPq, com o almirante como seu primeiro presidente.
+Reportar abuso
+Ajudou (13) Não ajudou
+Daniel Silva
+8 de fevereiro de 2024 às 20:10
+Foi nesse caldo cultural que o almirante Álvaro Alberto ganhou mais argumentos para persuadir o governo brasileiro
+Reportar abuso
+Ajudou (8) Não ajudou
+Página 1 de 3
+2
+Q3128969
+Administração de Recursos Materiais Gestão Patrimonial
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+Julgue os próximos itens, relativos a recursos patrimoniais.
+Caso um servidor público seja transferido para um novo setor e pretenda utilizar o computador do qual já seja consignatário, é imprescindível que ele comunique a pretensão de movimentação do equipamento ao departamento de administração ou unidade equivalente.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+93.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Marlon Silva Vieira
+26 de abril de 2024 às 17:52
+item certo
+Reportar abuso
+Ajudou (5) Não ajudou
+3
+Q3264982
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE GO - Analista - Área: Informática - 2024
+Texto associado
+Acerca de business intelligence, julgue os itens a seguir.
+A arquitetura de business intelligence se utiliza dos componentes indicados na figura a seguir, sendo o OLTP uma ferramenta de software cuja função é a extração de dados de diversos sistemas, transformando-os, conforme regras de negócios e, por fim, carregando-os em um data mart ou um data warehouse.
+
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+51.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Bq Oliveira
+10 de junho de 2024 às 15:04
+ETL
+Reportar abuso
+Ajudou (8) Não ajudou
+Flávio Santana
+21 de maio de 2024 às 11:14
+OLTP
+Realiza funções comerciais cotidianas.
+Banco de dados transacionais.
+Inclusão, alteração, exclusão e consulta.
+Relatório de rotina, periódicos e estreitamente focados.
+Execução mais rápida.
+Atualização contínua.
+Recursos dos bancos de dados relacionais.
+Reportar abuso
+Ajudou (7) Não ajudou
+Ronaldo Chaves
+18 de maio de 2024 às 22:08
+E
+Reportar abuso
+Ajudou (0) Não ajudou
+4
+Q3255314
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANVISA - Especialista em Vigilância Sanitária Área 2 - Formação: Farmácia - 2024
+Texto associado
+Devemos salientar mais uma vez o caráter essencial dos sentimentos negativos. Manifestações populares e mudança social advêm do acúmulo de muitos cidadãos irritados e ofendidos. Ocultar sentimentos negativos sob o tapete do pensamento positivo significa estigmatizar e tornar vexaminosa a estrutura emocional do mal-estar social e da instabilidade. Alguns dirão que optamos por privar trabalhadores dos benefícios da ciência do bem-estar em troca do aceno de uma ideia vaga de consciência coletiva. A felicidade, como alguns empiristas ferrenhos afirmarão, é o único bem tangível em que podemos pôr as mãos aqui e agora. Nossa resposta e nossa objeção final podem ser encontradas na famosa refutação do utilitarismo do filósofo Robert Nozick. Em 1974, ele pediu a seus leitores que participassem de um experimento mental que consistia em imaginar que estamos conectados a uma máquina que nos proporciona qualquer experiência prazerosa. Nossos cérebros seriam estimulados a acreditar que estaríamos vivendo a vida que desejamos. A pergunta de Nozick, então, era: dada a possibilidade de escolha, você preferiria a máquina prazerosa à vida real (e presumivelmente mais infeliz)? Uma resposta a essa questão parece hoje ainda mais relevante do que antes, sobretudo agora que a ciência da felicidade e as tecnologias virtuais se tornam tão predominantes. Nossa resposta, assim como a de Nozick, é a de que o prazer e a busca da felicidade não podem superar a realidade e a busca por conhecimento — o pensamento crítico sobre nós mesmos e sobre o mundo que nos rodeia. Uma “máquina da experiência” do tipo que Nozick imaginou tem hoje seu equivalente em uma indústria da felicidade que pretende nos controlar: ela não apenas borra e confunde a capacidade de conhecer as condições que moldam nossa existência, mas também faz que essas condições em si sejam irrelevantes. Conhecimento e justiça, e não felicidade, continuam a ser o propósito moral revolucionário da vida.
+
+Edgar Cabanas e Eva Illouiz. Happycracia: fabricando cidadãos felizes. São Paulo: Ubu, 2022, p. 274-275 (com adaptações).
+
+Acerca das ideias e de aspectos linguísticos do texto apresentado, julgue os itens a seguir.
+Na oração “como alguns empiristas ferrenhos afirmarão” (quinto período), os autores estabelecem uma comparação para emitir um juízo de valor pejorativo a respeito do que pensam os empiristas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+50.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Phellipe Matheus De Sousa
+16 de junho de 2024 às 19:32
+No trecho “como alguns empiristas ferrenhos afirmarão”, é necessário analisar se os autores estabelecem uma comparação para emitir um juízo de valor pejorativo sobre os empiristas.
+
+Análise
+
+Expressão “como alguns empiristas ferrenhos afirmarão”:
+
+A expressão "como" é usada para introduzir um exemplo ou uma explicação, não uma comparação direta.
+
+"Empiristas ferrenhos" refere-se a empiristas que aderem firmemente às suas crenças. O adjetivo "ferrenhos" sugere intensidade ou rigidez.
+
+Juízo de Valor Pejorativo:
+
+Um juízo de valor pejorativo implica desdém ou crítica negativa.
+
+No contexto, os autores mencionam que "alguns empiristas ferrenhos" afirmarão que "a felicidade é o único bem tangível em que podemos pôr as mãos aqui e agora". Essa afirmação é apresentada como uma contraposição à visão defendida pelos autores, que valorizam o conhecimento e a justiça acima do prazer e da busca da felicidade.
+
+Contexto Argumentativo:
+
+Os autores contrapõem a visão utilitarista (e empirista) de que a felicidade é o bem tangível a ser buscado com a visão filosófica de Robert Nozick, que critica essa ideia através do experimento mental da “máquina da experiência”.
+
+Ao mencionar "alguns empiristas ferrenhos", os autores não usam termos ofensivos ou desdenhosos, mas sim apontam uma linha de pensamento contrária à deles.
+
+Conclusão
+
+Embora o termo "ferrenhos" possa sugerir uma crítica velada pela inflexibilidade, não há uma comparação direta ou um juízo de valor explicitamente pejorativo. Os autores estão descrevendo uma postura filosófica contrária à deles para, em seguida, apresentar sua refutação. O tom é mais argumentativo do que pejorativo.
+
+Portanto, o item está incorreto ao afirmar que os autores estabelecem uma comparação para emitir um juízo de valor pejorativo sobre o que pensam os empiristas. Eles apenas apresentam uma posição filosófica oposta à deles para desenvolver seu argumento.
+
+Conclusão
+
+Sim, conformativa seria um termo adequado para descrever a função da expressão “como” no trecho “como alguns empiristas ferrenhos afirmarão”, pois indica que esta expressão está alinhada com a posição dos empiristas mencionados. Portanto, ao julgar os aspectos linguísticos do texto, a escolha do termo "conformativa" é correta para descrever a função da palavra "como" nesse contexto.
+
+Fonte: ChatGPT
+Reportar abuso
+Ajudou (29) Não ajudou
+Daniel Silva
+9 de maio de 2024 às 16:57
+Errado
+conformativa
+Reportar abuso
+Ajudou (23) Não ajudou
+R
+Rodrigo
+26 de agosto de 2024 às 09:24
+Bom dia, colegas!
+
+Colocando a oração na ordem direta:
+
+A felicidade é o único bem tangível em que podemos pôr as mãos aqui e agora, como (de acordo, conforme...) alguns empiristas ferrenhos afirmarão.
+
+“como alguns empiristas ferrenhos afirmarão” apresenta ideia de conformidade, não de comparação.
+gabarito: ERRADO.
+Reportar abuso
+Ajudou (10) Não ajudou
+Joao
+28 de junho de 2024 às 18:55
+A palavra ferrenhos matou
+Reportar abuso
+Ajudou (4) Não ajudou
+Maria Selma De Paula Brandao
+24 de junho de 2024 às 15:48
+Errado.
+Na oração "como alguns empiristas ferrenhos afirmarão", os autores não estabelecem uma comparação, mas sim introduzem uma opinião que alguns empiristas defendem sobre a felicidade. A expressão não emite um juízo de valor diretamente pejorativo, mas apresenta uma perspectiva sobre a felicidade que é contraposta à visão dos autores. Assim, a frase funciona mais como uma introdução a uma visão alternativa do que uma comparação com conotação pejorativa.
+
+FONTE: ChatGPT
+Reportar abuso
+Ajudou (3) Não ajudou
+Página 1 de 2
+5
+Q3134771
+Tecnologia da Informação NoSQL
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista de Sistemas da Informação - 2024
+Texto associado
+Julgue os itens subsecutivos, a respeito de integração de dados e big data.
+Banco de dados do tipo NoSQL aceitam escalabilidade nas formas horizontal, com o acréscimo de nós para armazenamento, e vertical, com a expansão do processamento dos nós já instalados.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+81.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Bq Oliveira
+12 de junho de 2024 às 15:36
+O escalonamento vertical é botar mais capacidade de memória (principal e/ou de massa) e processamento. Ou seja, é comprar um hardware mais poderoso para dar conta do recado.
+
+O escalonamento horizontal é colocar mais computadores para dar conta do recado. Claro que eles adicionam mais capacidade de processamento e memória também, na soma total.
+
+Qualquer banco de dados minimamente estruturado pode fazer os dois tipos de escalonamento. O vertical não precisa nenhuma propriedade específica a não ser no caso de separar dados em vários dispositivos de armazenamento ou permitir várias linhas de processamento, por isso não é simples fazer em certas modelagens. O horizontal precisa de mecanismos que permitam e, se possível, facilitem o escalonamento horizontal. Não importa se ele é do tipo não relacional ou não, se usa SQL ou não.
+Reportar abuso
+Ajudou (19) Não ajudou
+Vanessa Zeni
+29 de junho de 2024 às 18:10
+Bancos de dados do tipo NoSQL geralmente aceitam escalabilidade tanto horizontal quanto vertical, oferecendo flexibilidade para lidar com diferentes demandas de armazenamento e processamento:
+Escalabilidade Horizontal: Refere-se à capacidade de aumentar a capacidade de armazenamento e desempenho de um banco de dados distribuindo os dados entre múltiplos nós de hardware.
+Escalabilidade Vertical: Refere-se à capacidade de aumentar o desempenho do banco de dados ao adicionar recursos de hardware (por exemplo, CPU, RAM) a um único nó existente.
+
+
+Reportar abuso
+Ajudou (9) Não ajudou
+6
+Q3134772
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista de Sistemas da Informação - 2024
+Texto associado
+Julgue os itens subsecutivos, a respeito de integração de dados e big data.
+A atomicidade é um dos recursos da propriedade de variedade do big data, e garante que todas as alterações sejam efetivadas no banco de dados, sem permitir atualização parcial.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+43.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rodrigostoso
+18 de março de 2024 às 12:31
+Cara, polêmica essa...
+
+Atomicidade é uma propriedade de variedade??? QUE
+Atomicidade garante a execução completa dos dados (tudo ou nada).
+Variedade em Big data é a capacidade de receber dados de diversas fontes.
+
+Acho que não teriam nenhuma relação, são independentes.
+Reportar abuso
+Ajudou (42) Não ajudou
+Julio Cesar Santos Da Silva
+11 de março de 2024 às 11:34
+Os Banco de Dados relacionais se baseiam em quatro propriedades: Atomicidade, Consistência, Isolamento, Durabilidade.
+Atomicidade é a propriedade que garante que toda transação só poderá ser considerada efetivada se executada completamente.
+Fonte: INFOWESTER - O que é Big Data, para que serve e como funciona
+(https://www.infowester.com/big-data.php)
+Reportar abuso
+Ajudou (24) Não ajudou
+Henrique
+2 de abril de 2024 às 14:41
+Qual o relacionamento da Atomicidade com a propriedade de Variedade do Big Data? Alguém ajuda?
+Reportar abuso
+Ajudou (11) Não ajudou
+Alexandre Almeida De Novais
+9 de março de 2024 às 19:05
+A atomicidade não permite atualização parcial.
+gabarito certo
+Reportar abuso
+Ajudou (11) Não ajudou
+JF
+Jose Fernando Da Silva
+5 de março de 2024 às 23:50
+Não entendi o gabarito.
+Reportar abuso
+Ajudou (9) Não ajudou
+Página 1 de 5
+7
+Q3255313
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANVISA - Especialista em Vigilância Sanitária Área 2 - Formação: Farmácia - 2024
+Texto associado
+Devemos salientar mais uma vez o caráter essencial dos sentimentos negativos. Manifestações populares e mudança social advêm do acúmulo de muitos cidadãos irritados e ofendidos. Ocultar sentimentos negativos sob o tapete do pensamento positivo significa estigmatizar e tornar vexaminosa a estrutura emocional do mal-estar social e da instabilidade. Alguns dirão que optamos por privar trabalhadores dos benefícios da ciência do bem-estar em troca do aceno de uma ideia vaga de consciência coletiva. A felicidade, como alguns empiristas ferrenhos afirmarão, é o único bem tangível em que podemos pôr as mãos aqui e agora. Nossa resposta e nossa objeção final podem ser encontradas na famosa refutação do utilitarismo do filósofo Robert Nozick. Em 1974, ele pediu a seus leitores que participassem de um experimento mental que consistia em imaginar que estamos conectados a uma máquina que nos proporciona qualquer experiência prazerosa. Nossos cérebros seriam estimulados a acreditar que estaríamos vivendo a vida que desejamos. A pergunta de Nozick, então, era: dada a possibilidade de escolha, você preferiria a máquina prazerosa à vida real (e presumivelmente mais infeliz)? Uma resposta a essa questão parece hoje ainda mais relevante do que antes, sobretudo agora que a ciência da felicidade e as tecnologias virtuais se tornam tão predominantes. Nossa resposta, assim como a de Nozick, é a de que o prazer e a busca da felicidade não podem superar a realidade e a busca por conhecimento — o pensamento crítico sobre nós mesmos e sobre o mundo que nos rodeia. Uma “máquina da experiência” do tipo que Nozick imaginou tem hoje seu equivalente em uma indústria da felicidade que pretende nos controlar: ela não apenas borra e confunde a capacidade de conhecer as condições que moldam nossa existência, mas também faz que essas condições em si sejam irrelevantes. Conhecimento e justiça, e não felicidade, continuam a ser o propósito moral revolucionário da vida.
+
+Edgar Cabanas e Eva Illouiz. Happycracia: fabricando cidadãos felizes. São Paulo: Ubu, 2022, p. 274-275 (com adaptações).
+
+Acerca das ideias e de aspectos linguísticos do texto apresentado, julgue os itens a seguir.
+O uso do pensamento positivo com o fim de dissimular sentimentos negativos é condenado pelos autores no texto.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Luciano Tavares
+13 de maio de 2024 às 21:18
+No texto: Ocultar sentimentos negativos sob o tapete do pensamento positivo significa estigmatizar e tornar vexaminosa a estrutura emocional do mal-estar social e da instabilidade. Ou seja os autores condenam utilizar práticas positivas para se sobre por a negativas
+Reportar abuso
+Ajudou (31) Não ajudou
+Miguel
+26 de agosto de 2024 às 09:12
+A afirmação está correta. No texto, os autores Edgar Cabanas e Eva Illouz criticam o uso do pensamento positivo para ocultar ou dissimular sentimentos negativos, argumentando que essa prática pode estigmatizar e suprimir a expressão legítima do mal-estar social e da instabilidade. Eles destacam que os sentimentos negativos têm um papel essencial, pois a indignação e o descontentamento são motores de manifestações populares e de mudanças sociais. Assim, ao condenar a ocultação desses sentimentos sob a justificativa de promover o pensamento positivo, os autores sugerem que isso enfraquece a percepção crítica da realidade e compromete a busca por justiça e conhecimento.
+Reportar abuso
+Ajudou (6) Não ajudou
+Joao
+28 de junho de 2024 às 18:59
+O que me matoi foi a palavra dissimular
+Reportar abuso
+Ajudou (4) Não ajudou
+8
+Q3312290
+Administração de Recursos Materiais Classificação Pelo Valor do Consumo - Classificação ABC
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+Julgue os itens que se seguem, acerca da classificação de materiais nas organizações públicas.
+O valor financeiro da demanda e o impacto na prestação dos serviços são critérios utilizados na classificação de materiais pela metodologia da curva ABC.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+76.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Romario
+8 de agosto de 2024 às 06:29
+A metodologia da curva ABC é uma técnica de gestão de estoques que classifica os materiais com base em sua importância financeira e impacto na operação. Geralmente, os itens são divididos em três categorias:
+A: Itens de maior valor financeiro ou impacto significativo na operação, representando uma pequena parte do total de itens, mas uma grande parte do valor total.
+B: Itens de valor intermediário, com menor impacto do que os itens da classe A.
+C: Itens de menor valor e impacto, mas que podem representar a maior parte do total de itens.
+Essa classificação ajuda a focar a atenção e os recursos de gestão nos itens mais críticos para a organização.
+Reportar abuso
+Ajudou (30) Não ajudou
+Lucio Flavio Barbosa Agostinho
+13 de dezembro de 2024 às 23:25
+A metodologia da curva ABC é uma ferramenta amplamente utilizada para a classificação de materiais com base em sua relevância financeira e no impacto que causam nas operações organizacionais. Os critérios mais comuns são o valor financeiro (análise do custo ou do valor de aquisição) e a importância estratégica (como o impacto na prestação dos serviços ou na operação da organização).
+
+Materiais da classe A geralmente representam os itens mais valiosos em termos de custo e impacto, apesar de serem poucos em quantidade; os da classe B possuem importância intermediária; e os da classe C têm menor valor ou impacto, mas costumam ser mais numerosos.
+
+Estamos acostumados a entender curva ABC pelo valor econômico e estratégico. Errei por considerar essa parte de impacto na prestação de serviços como típica da XYZ.
+
+Diferença entre a curva ABC e XYZ:
+
+A curva ABC foca no valor financeiro e na importância estratégica/impacto (relacionado ao custo e à necessidade do material para a operação ou prestação de serviços).
+A classificação XYZ é usada para analisar a regularidade do consumo, dividindo os materiais conforme a previsibilidade e a variabilidade do uso.
+Neste caso, a banca trouxe os impactos na prestação de serviços como sinônimo da importância estratégica do material. Isso ainda se encaixa no conceito da curva ABC, pois materiais da classe A, por exemplo, tendem a ser mais críticos para a organização em termos de custo e impacto, o que justifica a afirmativa.
+
+
+Reportar abuso
+Ajudou (14) Não ajudou
+9
+Q3312345
+Administração de Recursos Materiais Transferência e Cessão
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+Julgue os itens subsequentes, a respeito da gestão patrimonial nas organizações públicas.
+O número de patrimônio de um bem baixado deve ser repassado ao novo bem adquirido com as características técnicas e funcionalidades equivalentes ou superiores à do bem baixado.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+78.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Priscila Cavalcante Cardoso
+6 de agosto de 2024 às 21:22
+O Número de Patrimônio é único.
+Uma vez utilizado o Número de Patrimônio, este não poderá ser mais reutilizado.
+
+Resposta: errado
+Reportar abuso
+Ajudou (42) Não ajudou
+Ashely
+8 de novembro de 2024 às 16:18
+ A gestão patrimonial nas organizações públicas exige que cada bem tenha um número de patrimônio único e exclusivo. Isso é necessário para garantir a rastreabilidade e a correta gestão dos bens públicos.
+Reportar abuso
+Ajudou (13) Não ajudou
+Helcio Patricio De Freitas Junior
+23 de dezembro de 2024 às 14:32
+O número de patrimônio de um bem baixado jamais deve ser repassado a outro bem. Quando um bem é baixado, seu número patrimonial passa a fazer parte de um banco de dados gerenciado pelo setor de administração patrimonial da organização, referente a itens patrimoniais desincorporados.
+Reportar abuso
+Ajudou (6) Não ajudou
+10
+Q3134003
+Raciocínio Lógico Verdades e Mentiras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Advogado - 2024
+Texto associado
+Em um jogo investigativo, um dos objetivos é coletar pistas para descobrir o culpado de um crime. Em determinada ambientação, cinco senhores, cada um usando um chapéu de determinada cor — branco, cáqui, preto, verde e vermelho —, participavam de um jantar, quando a luz da mansão apagou. Passado o apagão, foi constatado que o senhor de chapéu cáqui estava morto. Em uma etapa do jogo, já haviam sido coletados os seguintes depoimentos dos outros quatro cavalheiros:
+Senhor de chapéu verde: “O senhor de chapéu vermelho é inocente.”
+Senhor de chapéu vermelho: “Se o senhor de chapéu preto e o senhor de chapéu verde são inocentes, então o senhor de chapéu branco mentiu em seu depoimento.”
+Senhor de chapéu branco: “O senhor de chapéu preto é inocente.”
+Senhor de chapéu preto: “O senhor de chapéu verde mentiu em seu depoimento.”
+Sabendo que apenas um dos depoentes mentiu e que apenas um dos senhores assassinou o senhor de chapéu cáqui, julgue os itens seguintes.
+Apenas um dos senhores é, ao mesmo tempo, o assassino e o mentiroso.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+73.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Breno
+19 de fevereiro de 2024 às 11:42
+Senhor de chapéu preto: “O senhor de chapéu verde mentiu em seu depoimento.”
+Com base nisso, conclui-se que o senhor de chapéu verde é mentiroso
+Em seguida, utilizando da mentira do senhor de chapéu verde, é possível assumir que o senhor vermelho de chapéu vermelho é o assassino. Se você notar, o vermelho pode dizer tudo falso que ainda a alternativa será verdadeira por conta da regra do SE-ENTÃO.
+Consequentemente, há um mentiroso e um assassino, o que diverge do que a questão está dizendo.
+Alternativa errada.
+Reportar abuso
+Ajudou (11) Não ajudou
+Alvaro Lincoln
+24 de fevereiro de 2024 às 17:53
+Contradição esta entre o VERDE E PRETO
+o VERDE é o mentiroso e conclui-se que o de VERMELHO é o culpado
+Reportar abuso
+Ajudou (3) Não ajudou
+11
+Q3134554
+Administração de Recursos Materiais Gestão do Patrimônio
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista Técnico - 2024
+Texto associado
+A respeito de gestão patrimonial, julgue os itens a seguir.
+Um bem destinado à alienação pode ser classificado como um bem destinado à venda, o que permite posicioná-lo no grupo de realizável em longo prazo.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+60.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+FJ
+Felipe José De Aguiar
+12 de março de 2024 às 22:07
+Um bem destinado à alienação pode ser classificado como um bem destinado à venda, o que permite posicioná-lo no grupo de realizável em longo prazo.
+Certo! Porém, o bem é realizável em longo prazo se a intenção de venda for realizada em um prazo superior a um ano após a data do balanço, senão será classificado como parte do ativo circulante da entidade, uma vez que se espera que seja convertido em dinheiro dentro do ciclo operacional normal da empresa, que geralmente é de até um ano.
+Reportar abuso
+Ajudou (101) Não ajudou
+12
+Q3134926
+Direito Administrativo Licitações
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista de Sistemas da Informação - 2024
+Texto associado
+Determinada autarquia federal pretende firmar contrato administrativo para a contratação de estudo e serviços técnicos de arquitetura especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização.
+
+A partir dessa situação hipotética, julgue os itens que se seguem.
+Para efeito de avaliação da exequibilidade e de sobrepreço, serão considerados os preços unitários, sendo irrelevante o preço global.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+93.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Arthur De Lima Ramos
+19 de fevereiro de 2024 às 19:05
+Art. 59. § 3º No caso de obras e serviços de engenharia e arquitetura, para efeito de avaliação da exequibilidade e de sobrepreço, serão considerados o preço global, os quantitativos e os preços unitários tidos como relevantes, observado o critério de aceitabilidade de preços unitário e global a ser fixado no edital, conforme as especificidades do mercado correspondente.
+Reportar abuso
+Ajudou (359) Não ajudou
+Tiago Rocha
+12 de abril de 2024 às 12:33
+ambos são relevantes para a avaliação da proposta.
+Reportar abuso
+Ajudou (108) Não ajudou
+Annelise Mendes Greff
+3 de julho de 2024 às 17:32
+Tanto o preço unitário quanto o global devem ser observados e fixados no edital, conforme dispõe o art. 59, parágrafo 3, da Lei 14.133/2021.
+Reportar abuso
+Ajudou (44) Não ajudou
+Lislei De Lima Pinto
+9 de setembro de 2024 às 06:47
+Art. 59. § 3º No caso de obras e serviços de engenharia e arquitetura, para efeito de avaliação da exequibilidade e de sobrepreço, serão considerados o preço global, os quantitativos e os preços unitários tidos como relevantes, observado o critério de aceitabilidade de preços unitário e global a ser fixado no edital, conforme as especificidades do mercado correspondente.
+Reportar abuso
+Ajudou (15) Não ajudou
+R. Silva
+10 de outubro de 2024 às 21:13
+Tâo fácil que dá medo de errar...
+Reportar abuso
+Ajudou (9) Não ajudou
+Página 1 de 2
+13
+Q3129157
+Administração Financeira e Orçamentária - AFO Ciclo ou Processo Orçamentário
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área Gestão Orçamentária e Financeira - 2024
+Texto associado
+Quanto às leis que compõem o ciclo e o processo orçamentário brasileiro, julgue os itens subsequentes.
+Durante o ciclo orçamentário, o projeto é um instrumento de programação utilizado para alcançar o objetivo de um programa, envolvendo um conjunto de operações, limitadas no tempo, das quais resulta um produto que concorre para a expansão da ação de governo. É possível a existência de um mesmo projeto ou a inclusão de um novo em múltiplas esferas orçamentárias, desde que estejam adequadamente atendidos os projetos em andamento e contempladas as despesas de conservação do patrimônio público.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+34.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+T
+Thamiris
+7 de fevereiro de 2024 às 18:02
+O projeto deve constar de uma única esfera orçamentária, sob um único programa.
+Reportar abuso
+Ajudou (238) Não ajudou
+Daniel Dos Santos Pires
+11 de abril de 2024 às 15:04
+O erro da questão é falar sobre "múltiplas esferas orçamentárias", pois isso é uma afronta ao Princípio da Unidade o qual afirma que o orçamento público (LOA - receitas e despesas) deve ser previsto em um único documento.
+Reportar abuso
+Ajudou (185) Não ajudou
+Leidyane Pereira Barros Eich
+3 de setembro de 2024 às 17:53
+"Ressalta-se que não é permitida a existência de um mesmo projeto em mais de uma esfera orçamentária ou em programas diferentes, ou seja, o projeto deve constar de uma única esfera orçamentária, sob um único programa. Exemplo: ação 7808 Construção de Edifício-Sede do Superior Tribunal Militar."
+PROJETOS:
+Operações realizadas limitadas no tempo (têm começo, meio e fim)
+Resultam produtos ou serviços (ponto em comum com atividade)
+AUMENTAM a produção pública, expandindo-a ou aperfeiçoando-a.
+Exemplo: Construção de uma nova escola.
+Reportar abuso
+Ajudou (66) Não ajudou
+EP
+Ecovivo Planeta
+23 de fevereiro de 2024 às 06:46
+O ciclo orçamentário federal é composto basicamente de três leis, todas originárias do Poder Executivo: Plano Plurianual (PPA), Lei de Diretrizes Orçamentárias (LDO) e Lei Orçamentária Anual (LOA). Tradicionamente, os projetos dessas leis são os que mais recebem emendas de deputados e senadores Fonte: Agência Câmara de Notícias
+Reportar abuso
+Ajudou (16) Não ajudou
+Claudirene Rodrigues Dos Santos
+25 de agosto de 2024 às 10:55
+A esfera orçamentária tem por finalidade identificar se a receita pertence ao Orçamento Fiscal, da Seguridade Social ou de Investimento das Empresas Estatais.
+Reportar abuso
+Ajudou (10) Não ajudou
+Página 1 de 2
+14
+Q3270793
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANTT - Especialista em Regulação de Serviços de Transportes Terrestres - Área Direito - 2024
+Texto associado
+Julgue os itens a seguir com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais — LGPD).
+O desenvolvimento econômico e tecnológico, a inovação, a autodeterminação informativa e o respeito à privacidade são fundamentos da disciplina da proteção de dados pessoais.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+90.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Isabella Fernandes Gonçalves
+20 de julho de 2024 às 14:19
+Art. 2º A disciplina da proteção de dados pessoais tem como fundamentos:
+I - o respeito à privacidade;
+II - a autodeterminação informativa;
+III - a liberdade de expressão, de informação, de comunicação e de opinião;
+IV - a inviolabilidade da intimidade, da honra e da imagem;
+V - o desenvolvimento econômico e tecnológico e a inovação;
+VI - a livre iniciativa, a livre concorrência e a defesa do consumidor; e
+VII - os direitos humanos, o livre desenvolvimento da personalidade, a dignidade e o exercício da cidadania pelaspessoas naturais.
+
+Reportar abuso
+Ajudou (39) Não ajudou
+15
+Q3270107
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANTT - Especialista em Regulação de Serviços de Transportes Terrestres - Área Economia Conhecimentos Básicos. - 2024
+Texto associado
+Há muitas especulações sobre qual meio de transporte teria sido “inventado” primeiro, desde o início da evolução humana, antes mesmo do surgimento da escrita. Referentemente a esse período, o fato é que muito pouco pode ser comprovado, o que nos deixa com algumas hipóteses e poucas certezas.
+É provável que o ser humano tenha pensado em formas de solucionar problemas como transportar sua caça ou transpor obstáculos, mas afirmar com exatidão que isso se transformou em algum meio de transporte da forma como conhecemos hoje é bem mais complicado.
+Sabemos que o homem pré-histórico se deslocava em função do clima e da oferta de alimentos. Os pés humanos foram os primeiros responsáveis por esses deslocamentos. A melhor solução para o transporte a partir dessa época surgiu com a domesticação de animais selvagens. O homem pode ter notado a facilidade de lidar com determinadas espécies animais a ponto de utilizar sua força para transportar seus pertences.
+
+Oswaldo Dias dos Santos Junior. Transportes turísticos. Curitiba, InterSaberes, 2014, p. 20 (com adaptações).
+
+Julgue os itens subsequentes, em relação aos sentidos e aspectos linguísticos do texto precedente.
+No texto, o autor considera a possibilidade de os seres humanos terem se preocupado com questões de transporte de caça ou de transposição de obstáculos, mas demonstra dificuldades em afirmar categoricamente que algum meio de transporte tenha se originado dessa preocupação.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Eduardo Rodrigues
+28 de maio de 2024 às 18:12
+"É provável que o ser humano tenha pensado em formas de solucionar problemas como transportar sua caça ou transpor obstáculos, mas afirmar com exatidão que isso se transformou em algum meio de transporte da forma como conhecemos hoje é bem mais complicado."
+
+O autor demonstrou dificuldades em afirmar!
+
+CERTO!
+
+Reportar abuso
+Ajudou (28) Não ajudou
+Patricia Ferreira Neto
+11 de outubro de 2024 às 14:56
+Gabarito "certo"
+
+"É provável que o ser humano tenha pensado em formas de solucionar problemas como transportar sua caça ou transpor obstáculos, mas afirmar com exatidão que isso se transformou em algum meio de transporte da forma como conhecemos hoje é bem mais complicado."
+Reportar abuso
+Ajudou (0) Não ajudou
+16
+Q3221275
+Administração de Recursos Materiais Técnicas Quantitativa
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+Julgue os seguintes itens, relacionados à gestão de estoques nas organizações.
+De acordo com o método da média móvel, o consumo de determinado item de estoque para o próximo período é obtido a partir da média aritmética ponderada dos dados de consumo dos períodos anteriores.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+47.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Manuella O Nascimento
+16 de maio de 2024 às 11:47
+ERRADO
+Média móvel = média aritmética simples
+Média móvel ponderada = média aritmética ponderada
+Reportar abuso
+Ajudou (62) Não ajudou
+17
+Q3270100
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANTT - Especialista em Regulação de Serviços de Transportes Terrestres - Área Economia Conhecimentos Básicos. - 2024
+Texto associado
+A palavra carreta começou a ser empregada para definir o que até então era chamado de carroça; é possível pensar que fora definido o termo carreteiro para designar quem conduzia as carretas.
+As primeiras carretas foram utilizadas para várias finalidades. Em um primeiro momento, auxiliaram no processo de colonização, mas também ajudaram em situações de guerra, quando estavam carregadas de materiais bélicos e demais apetrechos militares. Serviram de apoio ainda para comerciantes, mascates, conhecidos também como vivandeiros, que transportavam os mais variados tipos de mercadorias, desde produtos alimentícios até produtos mais simples, como pentes e espelhos. Dessa maneira, surgia o carreteiro e, junto a ele, as representações que iriam compor a identidade desses profissionais.
+
+Danilo Leite Moreira. Uma breve abordagem histórica do desenvolvimento do rodoviarismo e do transporte rodoviário de cargas no Brasil. In: Faces da História, v. 10, n.º 1, jan.-jun./2023, p. 157 (com adaptações).
+
+Em relação às ideias e a aspectos gramaticais do texto apresentado, julgue os itens que se seguem.
+De acordo com o texto, uma multiplicidade de funções estava associada às primeiras carretas.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+87.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Nicole
+20 de maio de 2024 às 13:40
+GABARITO: CERTO
+
+As primeiras carretas foram utilizadas para várias finalidades.[...]
+(depois ele exemplifica as funções que as primeiras carretas desempenharam)
+Reportar abuso
+Ajudou (27) Não ajudou
+Larysse Nascimento
+10 de setembro de 2024 às 21:39
+Certa, pois ao ler;
+
+
+As primeiras carretas foram utilizadas para várias finalidades.- Indicar quantidade/multiplicidade
+Quando estavam carregadas de materiais bélicos e demais apetrechos militares - Indicar quantidade (carregadas) ou seja, multiplicidade.
+Reportar abuso
+Ajudou (0) Não ajudou
+18
+Q3232461
+Administração de Recursos Materiais Cadastro e Seleção de Fornecedores
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Suprimentos de Bens e Serviços Júnior - Área Administração - 2024
+Texto associado
+As empresas compradoras de matéria-prima necessitam ter um cadastro de fornecedores alinhados aos bons resultados das entregas. Logo, ter uma carteira de fornecedores que apresente um histórico dos materiais já fornecidos, com um sistema de informação que apresente, principalmente, os indicadores de desempenho de preço, técnica, retorno econômico e desconto, fortalece o processo de escolha de seus fornecedores. Considerando a seleção e a avaliação de fornecedores, julgue os itens subsequentes.
+Cumpre-se o propósito de avaliação da qualidade do fornecedor ao se estabelecer que, no cadastro de fornecedores de uma indústria privada, por exemplo, seja criado um campo para armazenar a soma de todos os itens entregues ou fornecidos ao longo do tempo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+48.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Joao Junior Almeida De Oliveira
+15 de agosto de 2024 às 22:21
+Somente criar um campo para armazenar a soma de todos os itens entregues ou fornecidos ao longo do tempo não compre o proposito de avaliação da qualidade do fornecedor.
+Na realização dessa atividade, incluem fatores como, a habilidade técnica, capacidade de produção, confiabilidade, serviço pós-venda, localização, preço, condições de pagamento e outros fatores.
+
+fonte: qconcurso
+Reportar abuso
+Ajudou (61) Não ajudou
+Loh
+25 de novembro de 2024 às 17:15
+Para o pessoal que está com dúvida pelo fato de a questão não apresentar as palavras "somente", "apenas ", etc.
+
+Neste caso o "cumpre-se" tem como sinônimo: satisfazer, executar com exatidão, realizar o prometido, etc.
+
+Dessa forma, depreende-se que, "para avaliar a qualidade do fornecedor não basta que seja criado um campo para armazenar a soma de todos os itens entregues ou fornecidos ao longo do tempo." , é necessário observar mais critérios além do supracitado, tais como: preço, prazo de entrega, qualidade, capacidade (volume), condições de pagamento, fatores pós-venda, condições de reajuste dos preços ofertados, garantias contratuais e suas extensões, dentre outros.
+
+"A expressão "cumpra-se" é usada em documentos oficiais quando um magistrado ordena que algo seja feito de acordo com suas ordens."
+
+✨“Pois onde estiver o seu tesouro, ali também estará o seu coração.” Lucas 12:34✨
+Reportar abuso
+Ajudou (21) Não ajudou
+GN
+Gabriela Nunes Lima
+12 de novembro de 2024 às 16:29
+mas a questão não restringiu "somente" ela deu apenas exemplos
+Reportar abuso
+Ajudou (14) Não ajudou
+Joelen Nunes Da Silva
+19 de novembro de 2024 às 11:43
+Era pra ser anulada se ele pedisse somente tudo bem mas a questão não falou isso
+Reportar abuso
+Ajudou (5) Não ajudou
+SO
+Samuel Oliveira
+7 de janeiro de 2025 às 10:09
+Entendo que, a partir do momento em que a questão fala 'Cumpre-se o propósito', isso significa que a avaliação do fornecedor pode ser baseada apenas nessa coleta de dados dos produtos entregues. Já que o propósito da avaliação de fornecedores estaria cumprido, o que não é verdade, uma vez que a avaliação de fornecedores leva em consideração vários fatores, como o preço, a qualidade, o transporte, etc.
+Reportar abuso
+Ajudou (3) Não ajudou
+Página 1 de 2
+19
+Q3436471
+Estatística Variáveis Aleatórias
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANATEL - Especialista em Regulação - Àrea Economia - 2024
+Texto associado
+Julgue os itens a seguir, considerando o par de variáveis aleatórias contínuas (U,V), cuja função de densidade conjunta é dada por f(u, v) =
+11
+12
+(u2 + uv + v2), em que c é uma constante positiva 0 < u < 1 e 0 , v < 1, e u e v representam, respectivamente, os suportes de U e V.
+A covariância entre U e V é positiva.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+49.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Mailson Meneses
+3 de dezembro de 2024 às 18:40
+Covariância positiva: As variáveis estão relacionadas de forma direta, ou seja, quando uma variável aumenta, a outra também aumenta.
+Covariância negativa: As variáveis estão relacionadas de forma inversa, ou seja, quando uma variável aumenta, a outra diminui.
+Covariância nula: As variáveis não estão relacionadas entre si.
+
+Reportar abuso
+Ajudou (1) Não ajudou
+20
+Q3391659
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEPLAG CE - Analista de Planejamento e Orçamento – Área: Planejamento e Orçamento Inglês - 2024
+Texto associado
+Digital technology is everywhere, and it is changing the way citizens behave. From working patterns to the day-to-day services we use and the places we live, there is no aspect of modern life that remains untouched by digital tools and solutions. This represents both the biggest challenge and opportunity for public sector organizations as they seek to engage citizens and create future-proofed, sustainably-minded societies.
+The public sector plays a key role in setting the sustainability agenda for society, including the approach to circularity and recycling. While private sector companies can greatly influence the successful achievement of sustainability targets, the public sector bears the responsibility for outlining how society can achieve these goals more broadly at both national and local levels. By embracing the same digital technologies that are transforming their citizens’ lives, public sector organizations can help pivot society towards a more sustainable tomorrow.
+In addition, there has been a rise of smart cities and the circular economy. Urban areas account for 75% of global carbon dioxide emissions, and the 100 cities with the greatest footprints account for 18% of global emissions. But there are more than 70 cities worldwide pledging to become carbon neutral by 2050.
+Public sector actors can fuel sustainable transformation by releasing capital to invest in sustainable city transformation projects and smart cities. By tapping into the value of data and green infrastructure, smart cities can combat climate risks and become more resilient to the many unexpected events of today’s increasingly unpredictable world. These cities can support the decoupling of resource use and environmental impacts by diffusing circular economy approaches to production and consumption.
+
+Internet: <pulse.microsoft.com> (adapted).
+
+Based on the ideas presented in the previous text, as well as on its linguistic aspects, judge the following items.
+According to the text, urban areas are responsible for three-quarters of global carbon dioxide emissions, and the 100 cities with the largest carbon footprints account for 18% of these emissions.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+83.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+FA
+Francisco Anderson Bezerra Rodrigues
+12 de setembro de 2024 às 09:16
+Questão ambígua no mínimo, o termo "these" parece ser remeter às produções da grandes cidades mas o texto deixa claro que os 18% são relativos às emissores globais, não só das grandes cidades
+Reportar abuso
+Ajudou (2) Não ajudou

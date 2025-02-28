@@ -1,0 +1,831 @@
+1
+Q3597736
+Tecnologia da Informação Imagens
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Gestor de Apoio - Área: Analista de Informática Desenvolvimento de Sistemas - 2025
+Considerando o código precedente, desenvolvido em React, julgue o item que se segue.
+Após ser renderizado, o componente <img/> irá exibir uma imagem dinâmica, usando o valor da propriedade user.imageUrl como o caminho do atributo src.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+2
+Q3595366
+Administração Geral Comunicação Integrada
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista Administrativo - Área Comunicação - 2025
+Texto associado
+Julgue os itens a seguir, a respeito da comunicação corporativa.
+O conceito de comunicação integrada é central para a definição moderna de comunicação corporativa.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+88.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+28 de janeiro de 2025 às 06:46
+
+Resposta: Certo (C)
+Justificativa:
+O conceito de comunicação integrada é, de fato, central para a definição moderna de comunicação corporativa. Ele refere-se à necessidade de alinhar e coordenar todos os processos de comunicação de uma organização (internos e externos) para garantir consistência nas mensagens transmitidas aos diferentes públicos.
+Comunicação integrada envolve:
+Harmonia entre canais: Alinhamento de ações entre comunicação interna, marketing, relações públicas, publicidade, entre outros.
+Consistência nas mensagens: Garantir que todos os pontos de contato da organização transmitam mensagens coesas e reforcem os valores e objetivos da marca.
+Sinergia entre áreas: Unir esforços de diferentes departamentos para potencializar o impacto das estratégias comunicativas.
+Esse conceito é essencial para fortalecer a identidade corporativa, construir uma imagem sólida da organização e melhorar os relacionamentos com seus públicos estratégicos.
+
+
+
+Reportar abuso
+Ajudou (2) Não ajudou
+3
+Q3595742
+Administração Geral Ciclo de Vida do Produto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista Administrativo - Área: Projetos - 2025
+Texto associado
+Julgue os próximos itens, a respeito de metodologias de gerenciamento de projetos.
+No Scrum, product owner é o responsável por maximizar o valor do produto resultante do trabalho do time scrum.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+83.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+28 de janeiro de 2025 às 06:59
+Resposta: Certo (C)
+No Scrum, o Product Owner (PO) tem a responsabilidade principal de maximizar o valor do produto que resulta do trabalho do time Scrum. Isso é feito por meio da gestão eficaz do Product Backlog, que contém as funcionalidades, melhorias e correções necessárias para o produto.
+Responsabilidades do Product Owner:
+Definir as prioridades das funcionalidades a serem desenvolvidas, com base no valor que elas trazem para o negócio ou para os usuários.
+Garantir que a equipe tenha uma visão clara do que é mais importante e alinhada com as necessidades do cliente ou do mercado.
+O PO também interage com as partes interessadas (stakeholders) para garantir que as expectativas sejam atendidas e o produto final tenha o maior valor possível.
+Portanto, a afirmação está correta, já que o Product Owner tem o papel de maximizar o valor do produto durante todo o ciclo de vida do projeto no Scrum.
+Reportar abuso
+Ajudou (2) Não ajudou
+4
+Q3595576
+Administração Geral Teoria da burocracia
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista Administrativo - Área: Projetos - 2025
+Texto associado
+Julgue os itens seguintes, em relação às principais abordagens da administração e à evolução da administração pública no Brasil.
+A consideração das pessoas como parte mais importante da organização surge no tipo ideal de burocracia de Werber.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+93.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+6 de fevereiro de 2025 às 08:02
+Errado.
+A consideração das pessoas como parte mais importante da organização não está presente no tipo ideal de burocracia proposto por Max Weber. Na visão de Weber, a burocracia é uma estrutura organizacional focada na racionalidade, impessoalidade e eficiência, com uma hierarquia clara, divisão de tarefas e regras e regulamentos formais. O modelo de Weber enfatiza a estruturalização e a impessoalidade das relações dentro da organização, mais do que a valorização das pessoas como elementos centrais.
+Já abordagens posteriores, como a administração de recursos humanos e a teoria comportamental, passaram a considerar as pessoas de maneira mais central, reconhecendo sua importância no desempenho e sucesso organizacional.
+Reportar abuso
+Ajudou (5) Não ajudou
+Concurseira Ajaa
+13 de fevereiro de 2025 às 08:34
+Weber = burcrácia = Foco na eficiência e a racionalidade dos processos
+Reportar abuso
+Ajudou (1) Não ajudou
+5
+Q3595577
+Administração Geral Programa Nacional de Gestão Pública e Desburocratização (Gespública)
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista Administrativo - Área: Projetos - 2025
+Texto associado
+Julgue os itens seguintes, em relação às principais abordagens da administração e à evolução da administração pública no Brasil.
+A criação do Departamento Administrativo do Serviço Público (DASP) mostra a passagem do modelo burocrático de gestão para o modelo patrimonialista.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+87.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Leonardo Barros De Sousa
+22 de janeiro de 2025 às 14:25
+do modelo burocrático de gestão para o modelo gerencial. sem abandonar o primeiro.
+Reportar abuso
+Ajudou (5) Não ajudou
+6
+Q3661339
+Direito Constitucional
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - FUNPRESP-EXE - Analista de Previdência Complementar - Área: Jurídica - 2025
+Texto associado
+Em relação aos direitos constitucionais dos trabalhadores, julgue os itens a seguir.
+É proibido qualquer trabalho a menores de dezoito anos de idade, salvo na condição de aprendiz, a partir de dezesseis anos de idade.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+79.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Luciana Fernandes Da Silva
+23 de fevereiro de 2025 às 11:58
+CF art. 7º
+XXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos;  
+
+Em resumo:
+ 14 aos 16 = Aprendiz;
+. 16 aos 18 = Pode trabalhar, desde que não seja insalubre, perigoso ou noturno; e
+. 18+ = Qualquer trabalho.
+Reportar abuso
+Ajudou (3) Não ajudou
+7
+Q3640820
+Tecnologia da Informação Mineração de Dados (Data Mining)
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Governança e Gestão de Tecnologia da Informação" - 2025
+Texto associado
+A respeito de data mart e data mining, julgue os itens a seguir.
+O uso de data mining permite, por exemplo, que uma empresa de varejo descubra padrões de compra ocultos em grandes volumes de dados, permitindo que a empresa crie promoções direcionadas ou ajuste o leiaute da loja para aumentar as vendas.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+94.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Mykaele - Polícia Federal
+23 de fevereiro de 2025 às 21:05
+O data mining usa técnicas como classificação, regressão, associação e clustering para analisar dados históricos e encontrar insights valiosos. No caso de uma empresa de varejo, isso pode incluir:
+Descobrir Padrões de Compra:
+Identificar quais produtos são frequentemente comprados juntos (ex.: cerveja e amendoim).
+Entender o comportamento de diferentes grupos de clientes (ex.: jovens compram mais produtos eletrônicos, enquanto idosos compram mais produtos de saúde).
+Criar Promoções Direcionadas:
+Usar regras de associação (como o algoritmo Apriori) para oferecer descontos em produtos complementares (ex.: "Compre uma TV e ganhe desconto em uma soundbar").
+Segmentar clientes com base em seus hábitos de compra e enviar ofertas personalizadas.
+Ajustar o Layout da Loja:
+Posicionar produtos que são frequentemente comprados juntos próximos uns dos outros para aumentar as vendas.
+Organizar as prateleiras com base no perfil dos clientes que frequentam a loja.
+Prever Tendências:
+Usar técnicas de regressão ou redes neurais para prever a demanda por produtos em diferentes épocas do ano.
+Antecipar necessidades dos clientes com base em dados históricos.
+
+Reportar abuso
+Ajudou (1) Não ajudou
+8
+Q3596275
+Língua Portuguesa Função metalinguística
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Anos Finais - Área: Língua Portuguesa - 2025
+Texto associado
+Quando falamos em pedagogia da variação linguística, não estamos propondo uma pedagogia da língua materna composta de módulos autônomos, mas tão somente estimulando uma reflexão focada nas grandes questões que envolvem a variação linguística no ensino de português sem perder de vista uma perspectiva integradora das várias dimensões desse ensino.
+Dada a complexidade do tema, entendemos que é preciso ampliar o conjunto dos que debatem essas questões. Há uma complexa trama de representações, atitudes e valores que recobrem tanto a diversidade cultural do país quanto sua diversidade linguística. Aparentemente, temos avançado mais no trato positivo da diversidade cultural do que no da diversidade linguística. Pelo menos, dispomos já de políticas de valorização da diversidade cultural, mas que, paradoxalmente, não incluem a diversidade linguística. É preciso buscar entender as razões para isso.
+
+Ana Maria Stahl Zilles e Carlos Alberto Faraco. Pedagogia da variação linguística: língua, diversidade e ensino. São Paulo: Parábola Editorial, 2015, p. 9-10 (com adaptações).
+
+Considerando o texto anterior e aspectos da linguagem nele empregada, julgue os itens seguintes.
+Predomina no texto a função metalinguística da linguagem.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+38.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+RS
+Roseli Souza Rocha
+29 de janeiro de 2025 às 19:00
+A assertiva está errada porque a função metalinguística da linguagem ocorre quando a linguagem se volta para explicar a própria linguagem. Isso acontece, por exemplo, em dicionários, gramáticas e explicações sobre o uso da língua, como quando definimos uma palavra ou analisamos uma estrutura gramatical.
+No entanto, o texto apresentado não tem como foco a explicação do próprio código linguístico. Ele discute a variação linguística no ensino de português, ou seja, trata de um tema educacional e sociolinguístico. O objetivo principal é informar e refletir sobre a relação entre diversidade cultural e diversidade linguística no contexto do ensino.
+Dessa forma, a função predominante no texto é a função referencial da linguagem, que tem como característica principal a transmissão de informações e a abordagem objetiva de um tema. O texto usa uma linguagem clara e impessoal, focada em expor dados e ideias sobre o ensino da língua portuguesa e suas variações.
+Portanto, afirmar que a função predominante é a metalinguística está incorreto, pois o texto não explica a própria linguagem, mas sim discute um tema relacionado à educação e à diversidade linguística.
+
+4o
+
+
+
+Reportar abuso
+Ajudou (10) Não ajudou
+OF
+Oscar Ferreira De Menezes Neto
+22 de janeiro de 2025 às 17:17
+Creio que o texto é argumentativo.Logo,não há possibilidade de haver característica metalinguística,ou seja,informativa.Se eu estiver errado,por favor,carrijam-me.
+Reportar abuso
+Ajudou (7) Não ajudou
+KD
+Karina De Santana Neto
+21 de janeiro de 2025 às 19:32
+😕
+Reportar abuso
+Ajudou (2) Não ajudou
+9
+Q3595520
+Administração Geral Teoria das relações humanas
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Contratos - 2025
+Texto associado
+Julgue os itens subsecutivos, a respeito de processo decisório e estrutura organizacional.
+A ênfase na estrutura organizacional é uma abordagem administrativa preconizada pela teoria das relações humanas, também conhecida como abordagem humanística da administração.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+76.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+11 de fevereiro de 2025 às 07:47
+Errado.
+A teoria das Relações Humanas, ou abordagem humanística da administração, não coloca ênfase na estrutura organizacional, mas sim nas pessoas e nas relações interpessoais dentro das organizações. Ela surgiu como uma reação à teoria clássica e à abordagem mecanicista, destacando a importância da motivação, da comunicação e da satisfação dos trabalhadores.
+Por outro lado, a ênfase na estrutura organizacional é característica da teoria clássica da administração (Fayol) e da burocracia (Weber), que priorizam a organização formal, hierarquia e divisão do trabalho.
+Reportar abuso
+Ajudou (3) Não ajudou
+10
+Q3595836
+Língua Portuguesa Sujeito indeterminado
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor - Área: Corretor de Redação - 2025
+Texto associado
+Texto 9A1
+No cotidiano de todo brasileiro, podemos visualizar as marcas que constituíram, a partir do século XVI, a presença dos povos africanos, de origem Banto e Iorubá, no Brasil. Essa presença está nas palavras que falamos, na gestualidade que produzimos e no nosso modo de pronunciar a língua portuguesa falada no Brasil.
+A entrada de grande número de africanos no Brasil, com suas diferentes culturas e línguas, passou por um processo de adaptação, de certo ajuste cultural e linguístico com a assimilação de novas palavras e, consequentemente, da forma como elas orientavam o entendimento da nova realidade vivida em português. Entretanto, ainda é possível visualizar a presença das palavras africanas nos diferentes espaços da cultura brasileira.
+O Museu da Língua Portuguesa, ao expor o acervo de palavras africanas que entraram no vocabulário da língua portuguesa, favorece reconhecer a história da população africana no Brasil como agente da cultura e da língua portuguesa que se desenhava sobre este solo. No setor Palavras Cruzadas do museu, por exemplo, visualizam-se palavras que nos ensinaram a nomear determinados comportamentos, como: bagunça lengalenga, dengo. Essas são algumas das palavras africanas que continuam vivas a significar comportamentos e relações sociais. Outras ganharam o sentido de gíria na língua portuguesa falada no Brasil, como borocoxô, cafofo.
+A cultura é algo que está no corpo, nos gestos, na memória, na forma de andar, no contorno das expressões verbais e não verbais. Não é possível perdê-la. A mudança de um contexto cultural para outro acompanha adaptações e recriações dadas em palavras, por isso podemos falar em um movimento de antropofagia simbólica no lugar de uma simples assimilação de palavras e práticas.
+As línguas mudam ao acompanharem a história dos seus falantes. Esta é a história da língua portuguesa em solo brasileiro: ela também pode adaptar-se às novas relações linguísticas e culturais. No Brasil, a manutenção da estrutura latina da língua portuguesa não impediu que esta acolhesse uma nova sonoridade em relação à sua matriz e incorporasse um grande vocabulário de palavras que veio de outras línguas.
+Como um detetive que reúne pistas para contar uma história, as palavras africanas expostas no acervo do Museu da Língua Portuguesa compõem o papel de traduzir os sentidos e significados compartilhados na cultura brasileira. É uma história nem sempre contada em livros didáticos, mas que carregamos conosco para os diferentes lugares a que podemos ir. A importância da língua portuguesa como um bem museológico se faz nesse ato de contar histórias que não são definidas por nós, mas são praticadas e vividas coletivamente.
+Wilmihara Santos. A presença africana nas palavras que falamos em português. 2018. Internet: museudalinguaportuguesa.org.br> (com adaptações).
+
+Em relação ao texto 9A1 e a aspectos gramaticais a ele relacionados, julgue os itens que se seguem
+Classifica-se como indeterminado o sujeito da primeira oração do segundo período do quarto parágrafo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+84.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriela Fernandes Dos Santos Dias
+25 de janeiro de 2025 às 12:12
+Em "Não é possível perdê-la." não temos um sujeito indeterminado, visto que este perdê-la retoma "a cultura" expressa na oração anterior.
+Reportar abuso
+Ajudou (8) Não ajudou
+Everton Henrique De Moura
+21 de janeiro de 2025 às 16:28
+Outras ganharam o sentido de gíria na língua portuguesa falada no Brasil, como borocoxô, cafofo.
+existe referente no texto que são as PALVARAS africanas introduzidas no BRASIL.
+CASOS DE SUJEITO INDETERMINADO: VERBO NA 3ª P.P SEM REFERENTE TEXTUAL; VERBO NA 3ª P.S+ PRONOME SE (I.I.S) ÍNDICE DE INDETERMINAÇÃO DO SUJEITO E VERBO NO INFINITIVO IMPESSOAL.
+Reportar abuso
+Ajudou (2) Não ajudou
+11
+Q3595391
+Língua Portuguesa Adjetivos
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Planejamento - 2025
+Texto associado
+Na base da estratificação social, como a camada mais explorada, sem qualquer representação ou direito, ficava a grande massa escrava de trabalhadores das minas, das lavouras e dos transportes. Todo o aparato ostensivo de repressão vigiava, em cada vila, a esses miseráveis, para prevenir as fugas, a vadiagem e, sobretudo, as rebeliões. A insurreição surge, porém, na classe alta, de que se destaca uma elite letrada, que se propõe formular um projeto alternativo ao colonial de reordenação da sociedade. Trata-se do mais ousado dos projetos libertários da história colonial brasileira, uma vez que previa estruturar uma república de molde norte-americano, que aboliria a escravidão, decretaria a liberdade de comércio e promoveria a industrialização. A eclosão da mal chamada Inconfidência Mineira deveria ter lugar em 1789. Presos por denúncia, todos os inconfidentes foram desterrados para a África, onde morreram, exceto Tiradentes, a figura principal da conspiração, enforcado após três anos de cárcere e, depois, esquartejado e exposto nos lugares onde antes conspirara, para escarmento da população.
+
+Darcy Ribeiro. O povo brasileiro. A formação e o sentido do Brasil. São Paulo: Global, 2013, p. 278-279 (com adaptações).
+
+Julgue os próximos itens, em relação às ideias e a aspectos linguísticos do texto precedente.
+Em “A eclosão da mal chamada Inconfidência Mineira deveria ter lugar em 1789” (quinto período), o vocábulo “mal” está empregado como adjetivo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+53.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Marília Gama Sauaia
+30 de janeiro de 2025 às 15:03
+Acho que a palavra "mal" é advérbio, pois refere-se ao termo "chamada", que é particípio passado do verbo chamar.
+Reportar abuso
+Ajudou (5) Não ajudou
+Felipe Lopes
+13 de fevereiro de 2025 às 17:04
+GAB ERRADO
+
+A palavra "mal" é um adverbio que está sendo empregado na frase como um substantivo, devido ao emprego do artigo antes da palavra (preposição "de" + artigo "a").
+Reportar abuso
+Ajudou (1) Não ajudou
+12
+Q3595561
+Administração Geral Benchmarking
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Projetos - 2025
+Texto associado
+Em relação a ferramentas de mudança organizacional, julgue os itens subsecutivos.
+A redução dos níveis hierárquicos ao limite essencial configura-se como técnica avançada para a aplicação de benchmarking.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+68.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+6 de fevereiro de 2025 às 08:05
+Errado.
+A redução dos níveis hierárquicos ao limite essencial é uma técnica de reestruturação organizacional, muitas vezes associada a práticas como descentralização, empoderamento dos colaboradores e maior agilidade na tomada de decisões.
+
+Por outro lado, o benchmarking é uma ferramenta de comparação que busca identificar as melhores práticas de outras organizações (ou de processos internos) para melhorar o desempenho. O objetivo do benchmarking é analisar o que outras empresas estão fazendo de forma mais eficaz, para aplicar esses aprendizados, e não está diretamente relacionado à redução de níveis hierárquicos.
+
+Portanto, a redução de níveis hierárquicos não é uma técnica avançada para a aplicação de benchmarking, mas sim uma técnica relacionada à estrutura organizacional.
+Reportar abuso
+Ajudou (11) Não ajudou
+13
+Q3595840
+Língua Portuguesa Equivalência e substituição de palavras, locuções, expressões e trechos.
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor - Área: Corretor de Redação - 2025
+Texto associado
+Texto 9A1
+No cotidiano de todo brasileiro, podemos visualizar as marcas que constituíram, a partir do século XVI, a presença dos povos africanos, de origem Banto e Iorubá, no Brasil. Essa presença está nas palavras que falamos, na gestualidade que produzimos e no nosso modo de pronunciar a língua portuguesa falada no Brasil.
+A entrada de grande número de africanos no Brasil, com suas diferentes culturas e línguas, passou por um processo de adaptação, de certo ajuste cultural e linguístico com a assimilação de novas palavras e, consequentemente, da forma como elas orientavam o entendimento da nova realidade vivida em português. Entretanto, ainda é possível visualizar a presença das palavras africanas nos diferentes espaços da cultura brasileira.
+O Museu da Língua Portuguesa, ao expor o acervo de palavras africanas que entraram no vocabulário da língua portuguesa, favorece reconhecer a história da população africana no Brasil como agente da cultura e da língua portuguesa que se desenhava sobre este solo. No setor Palavras Cruzadas do museu, por exemplo, visualizam-se palavras que nos ensinaram a nomear determinados comportamentos, como: bagunça lengalenga, dengo. Essas são algumas das palavras africanas que continuam vivas a significar comportamentos e relações sociais. Outras ganharam o sentido de gíria na língua portuguesa falada no Brasil, como borocoxô, cafofo.
+A cultura é algo que está no corpo, nos gestos, na memória, na forma de andar, no contorno das expressões verbais e não verbais. Não é possível perdê-la. A mudança de um contexto cultural para outro acompanha adaptações e recriações dadas em palavras, por isso podemos falar em um movimento de antropofagia simbólica no lugar de uma simples assimilação de palavras e práticas.
+As línguas mudam ao acompanharem a história dos seus falantes. Esta é a história da língua portuguesa em solo brasileiro: ela também pode adaptar-se às novas relações linguísticas e culturais. No Brasil, a manutenção da estrutura latina da língua portuguesa não impediu que esta acolhesse uma nova sonoridade em relação à sua matriz e incorporasse um grande vocabulário de palavras que veio de outras línguas.
+Como um detetive que reúne pistas para contar uma história, as palavras africanas expostas no acervo do Museu da Língua Portuguesa compõem o papel de traduzir os sentidos e significados compartilhados na cultura brasileira. É uma história nem sempre contada em livros didáticos, mas que carregamos conosco para os diferentes lugares a que podemos ir. A importância da língua portuguesa como um bem museológico se faz nesse ato de contar histórias que não são definidas por nós, mas são praticadas e vividas coletivamente.
+Wilmihara Santos. A presença africana nas palavras que falamos em português. 2018. Internet: museudalinguaportuguesa.org.br> (com adaptações).
+
+Em relação ao texto 9A1 e a aspectos gramaticais a ele relacionados, julgue os itens que se seguem
+No último período do segundo parágrafo, a substituição de “Entretanto” por Conquanto manteria a correção gramatical e a coerência das ideias do texto.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+63.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Isaquiel De Freitas Alves Dias
+3 de fevereiro de 2025 às 16:47
+As palavras "entretanto" e "conquanto" têm significados e usos diferentes na língua portuguesa:
+Entretanto → É uma conjunção adversativa ou temporal.
+Como adversativa, equivale a "porém", "contudo", "no entanto", introduzindo uma oposição.
+Como temporal, significa "enquanto isso" ou "nesse meio tempo".
+Exemplos:
+Estudei bastante; entretanto, não consegui tirar uma boa nota. (oposição)
+O almoço estava sendo preparado; entretanto, as visitas chegaram. (simultaneidade)
+Conquanto → É uma conjunção concessiva.
+Significa "embora", "ainda que", "mesmo que", introduzindo uma condição ou concessão.
+Exemplos:
+Conquanto estivesse cansado, continuou trabalhando.
+Conquanto não tenha experiência, tem muita vontade de aprender.
+🔹 Resumo:
+"Entretanto" = oposição ou simultaneidade.
+"Conquanto" = concessão (pode ser substituído por "embora").
+
+Reportar abuso
+Ajudou (14) Não ajudou
+14
+Q3595595
+Administração Geral Fatores de Contexto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Projetos - 2025
+Texto associado
+Acerca de avaliação de desempenho, resultados, flexibilidade organizacional e trabalho em equipe, julgue os itens subsecutivos.
+Para que uma equipe de trabalho alcance o desempenho esperado, é necessário que, no nível da tarefa, todos os seus participantes disponham dos recursos críticos à execução de suas tarefas especializadas.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+79.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+4 de fevereiro de 2025 às 08:29
+Certo.
+Para que uma equipe alcance o desempenho esperado, é fundamental que todos os membros tenham acesso aos recursos críticos necessários para executar suas tarefas especializadas.
+
+Se algum colaborador não dispõe dos recursos adequados (como informações, ferramentas ou suporte), a eficiência e a qualidade do trabalho podem ser comprometidas, afetando o desempenho da equipe como um todo.
+Esse conceito está alinhado com teorias de gestão e desempenho organizacional, que destacam a importância da infraestrutura, capacitação e suporte para a execução eficaz das tarefas.
+Reportar abuso
+Ajudou (1) Não ajudou
+15
+Q3595681
+Direito Administrativo Dos Contratos Administrativos
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+Com base nas disposições da Lei n.o 14.133/2021, julgue os itens a seguir.
+A vigência da contratação de construção de uma escola é automaticamente prorrogada quando seu objeto não é concluído no prazo previsto no contrato; a contratação do serviço continuado de vigilância, por sua vez, não admite prorrogação automática.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+34.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+C
+Camila
+20 de janeiro de 2025 às 20:19
+Art. 111. Na contratação que previr a conclusão de escopo predefinido, o prazo de vigência será automaticamente prorrogado quando seu objeto não for concluído no período firmado no contrato.
+
+Então a parte da escola está correta. Já para os serviços contínuos de segurança,
+
+Art. 107. Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, respeitada a vigência máxima decenal, desde que haja previsão em edital e que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o contratado ou a extinção contratual sem ônus para qualquer das partes.
+
+Contratos de serviços contínuos, como vigilância, permite a prorrogação sucessiva, desde que: haja previsão no edital, a administração comprove que as condições e preços permanecem vantajosos e respeite-se o limite de 10 anos de vigência total.
+Reportar abuso
+Ajudou (56) Não ajudou
+EB
+Elano Bezerra
+14 de fevereiro de 2025 às 15:28
+A lei 14.133/21 concede prorrogação automática da vigência de contratos de escopo, quando não for concluído no prazo inicial, desde que o insucesso para a sua conclusão não decorra de culpa do contratado.
+
+Art. 111. Na contratação que previr a conclusão de escopo predefinido, o prazo de vigência será automaticamente prorrogado quando seu objeto não for concluído no período firmado no contrato.
+Parágrafo único. Quando a não conclusão decorrer de culpa do contratado:
+I - o contratado será constituído em mora, aplicáveis a ele as respectivas sanções administrativas;
+II - a Administração poderá optar pela extinção do contrato e, nesse caso, adotará as medidas admitidas em lei para a continuidade da execução contratual.
+
+Reportar abuso
+Ajudou (2) Não ajudou
+16
+Q3596200
+Língua Portuguesa Uso da Vírgula
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Anos Finais - Área: Língua Portuguesa - 2025
+Texto associado
+Texto 19A1
+
+Em uma teoria da compreensão de texto, o primeiro aspecto importante é a noção de língua que se adota. Alguns manuais escolares concebem a língua simplesmente como um código ou um sistema de sinais autônomo, totalmente transparente, sem história, e fora da realidade social dos falantes. Mas a língua é muito mais do que um sistema de estruturas fonológicas, sintáticas e lexicais. A rigor, a língua não é sequer uma estrutura; ela é estruturada simultaneamente em vários planos, seja o fonológico, sintático, semântico e cognitivo no processo de enunciação. A língua é um fenômeno cultural, histórico, social e cognitivo que varia ao longo do tempo e de acordo com os falantes: ela se manifesta no uso e é sensível ao uso.
+Portanto, a língua é uma atividade constitutiva com a qual podemos construir sentidos; é uma forma cognitiva com a qual podemos expressar nossos sentimentos, ideias, ações e representar o mundo; é uma forma de ação pela qual podemos interagir com nossos semelhantes. Em consequência, a língua se manifesta nos processos discursivos, no nível da enunciação, concretizando-se nos usos textuais mais diversos. É importante não confundir a língua com o discurso.
+Nessa perspectiva, a língua é mais do que um simples instrumento de comunicação; mais do que um código ou uma estrutura. Enquanto atividade, ela é indeterminada sob o ponto de vista semântico e sintático. Por isso, as significações e os sentidos textuais e discursivos não podem estar aprisionados no interior dos textos pelas estruturas linguísticas. A língua é opaca, não é totalmente transparente, podendo ser ambígua, polissêmica, de modo que os textos podem ter mais de um sentido, e o equívoco nas atividades discursivas é um fato comum.
+Na realidade, um texto bem-sucedido é aquele que consegue dizer o suficiente para ser bem-entendido, supondo apenas aquilo que é possível esperar como sabido pelo ouvinte ou leitor. É interessante notar que, se o autor ou falante de um texto diz uma parte e supõe outra parte como de responsabilidade do leitor ou ouvinte, então a atividade de produção de sentidos (ou de compreensão de texto) é sempre uma atividade de coautoria. Isto quer dizer que os sentidos são parcialmente produzidos pelo texto e parcialmente completados pelo leitor.
+Ao lado da noção de língua, é necessário ter uma noção de texto. A escola trata o texto como um produto acabado e que funciona como uma cesta natalina, de onde a gente tira coisas. O texto não é um produto nem um simples artefato pronto; ele é um processo. Assim, não sendo um produto acabado, objetivo, como uma espécie de depósito de informações, mas sendo um processo, o texto se acha em permanente elaboração e reelaboração ao longo de sua história e ao longo das diversas recepções pelos diversos leitores. Em suma, texto é uma proposta de sentido e ele se acha aberto a várias alternativas de compreensão.
+
+Luiz Antônio Marcuschi. Exercícios de compreensão ou copiação nos manuais de ensino de língua?
+Em Aberto, Brasília, ano 16, n.º 69, jan.-mar./1996 (com adaptações).
+
+No que se refere à pontuação e ortografia no texto 19A1, bem como a aspectos fonológicos de vocábulos nele empregados, julgue os itens que se seguem.
+A supressão da vírgula após “texto” (primeiro período do primeiro parágrafo) prejudicaria a correção gramatical do texto, visto que, naquele período, o emprego da vírgula é obrigatório para separar o adjunto adverbial antecipado.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+77.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Juliana Zanon
+22 de janeiro de 2025 às 15:18
+No trecho "Em uma teoria da compreensão de texto, o primeiro aspecto importante é a noção de língua que se adota.", a vírgula após "texto" é necessária para separar o adjunto adverbial antecipado "Em uma teoria da compreensão de texto" do restante da oração.
+A vírgula, nesse caso, cumpre a função de isolar o adjunto adverbial, o que facilita a leitura e evita confusões de interpretação. Sem a vírgula, a frase ficaria confusa ou de leitura mais difícil, uma vez que o adjunto adverbial está posicionado antes do sujeito e do verbo, o que exigiria uma pausa para marcar a separação e a fluidez na leitura.
+Portanto, a ausência da vírgula prejudicaria a clareza e a correção gramatical do texto.
+
+O adjunto adverbial antecipado é uma expressão que, normalmente, vem depois do verbo ou do sujeito na oração, mas que, por motivos de ênfase, estilo ou estrutura da frase, pode aparecer antes. Ele exerce a função de modificar o verbo, o adjetivo ou o advérbio, e indica circunstâncias como tempo, lugar, modo, causa, entre outras.
+Exemplo de adjunto adverbial antecipado:
+Ontem, fui ao cinema.
+Nesse caso, ontem é um adjunto adverbial de tempo que aparece no início da frase, antes do sujeito e do verbo. Essa inversão de ordem (colocando o adjunto adverbial no início) serve para dar ênfase à circunstância de tempo.
+Outro exemplo:
+Com alegria, ela recebeu os presentes.
+Aqui, com alegria é um adjunto adverbial de modo, antecipado para destacar a forma como a ação foi realizada.
+
+Reportar abuso
+Ajudou (2) Não ajudou
+Danilo Alberto De Souza
+23 de janeiro de 2025 às 10:28
+Juliana, complemento seu ponto de vista, que quando esse for longo, ele deverá ser pontuado!
+Reportar abuso
+Ajudou (0) Não ajudou
+17
+Q3595517
+Administração Pública Reengenharia
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Planejamento - 2025
+Texto associado
+A respeito dos novos modelos de gestão nas organizações públicas, julgue os itens que se seguem.
+Ainda que medo e falta de otimismo não sejam fatores determinantes, situação financeira precária e ausência de envolvimento de colaboradores podem levar projetos de reengenharia ao fracasso.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+43.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+F
+Fleite
+2 de fevereiro de 2025 às 09:49
+Errado.
+"Medo e falta de otimismo SÃO fatores determinantes"
+------------------
+Segundo Luiz Antonio Joia, em seu livro "Reengenharia e Tecnologia da informação: O paradigma do camaleão", ressalta de modo geral, algumas pré-condições para o fracasso da reengenharia:
+•Gerenciamento por consenso
+•Situação financeira precária
+•Medo e falta de otimismo
+•Falta de envolvimento de profissionais de recursos humanos.
+
+
+Resposta do André Augusto /qconcursos
+Reportar abuso
+Ajudou (13) Não ajudou
+Felipe Campos
+20 de janeiro de 2025 às 16:44
+ERRADO.
+Só analisar e organizar a questão: "Ainda que medo e falta de otimismo não sejam fatores determinantes,"
+"situação financeira precária e ausência de envolvimento de colaboradores podem levar projetos de reengenharia ao fracasso."
+
+Uma liga a outra, "A ausência de envolvimento dos colaboradores, pode-se determinar que a falta de confiança: "medo" ou pensamento negativo: falta de otimismo, levaria ao fracasso seus projetos.
+Reportar abuso
+Ajudou (10) Não ajudou
+18
+Q3595696
+Administração Geral Decisões Programadas e Não programadas
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Projetos - 2025
+Texto associado
+Julgue os próximos itens, a respeito de cronograma, estimativa de custos e orçamento.
+O resultado de uma simulação de Monte Carlo estabelece um cronograma de alto nível, com marcos, eventos e pontos de decisão.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+47.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+4 de fevereiro de 2025 às 08:45
+Errado.
+A simulação de Monte Carlo é uma técnica utilizada para análise de riscos e incertezas em projetos, principalmente para estimativas de custos e prazo. Ela gera uma distribuição de possíveis resultados, levando em consideração as variáveis e incertezas do projeto.
+
+Porém, o resultado da simulação de Monte Carlo não estabelece um cronograma de alto nível com marcos, eventos e pontos de decisão. Em vez disso, ela fornece uma análise probabilística que ajuda a entender os riscos e as probabilidades associadas ao cumprimento de prazos e ao orçamento do projeto, permitindo ajustes mais informados no cronograma e no orçamento. O cronograma de alto nível, com marcos e pontos de decisão, é algo que deve ser elaborado separadamente, com base nas informações fornecidas pela simulação.
+Reportar abuso
+Ajudou (3) Não ajudou
+19
+Q3661286
+Direito Constitucional
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - FUNPRESP-EXE - Analista de Previdência Complementar - Área: Jurídica - 2025
+Texto associado
+Em relação aos princípios constitucionais, aos direitos e às garantias fundamentais, bem como à organização político-administrativa do Estado brasileiro, julgue os itens a seguir.
+Os estados-membros não detêm competência administrativa para explorar loterias, pois é competência exclusiva da União legislar sobre sistemas de consórcios e sorteios, inclusive loterias, o que obsta a competência material para a exploração dessas atividades pelos outros entes federativos.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+62.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Luciana Fernandes Da Silva
+23 de fevereiro de 2025 às 11:18
+O Supremo Tribunal Federal decidiu (em 30/09/2020), por unanimidade, que a União não tem exclusividade para explorar os serviços de loteria. Apesar de os estados não possuírem competência para legislar acerca do tema (Art. 22, XX/CF), podem explorar este serviço.
+Reportar abuso
+Ajudou (5) Não ajudou
+MM
+Mikaelle Martins
+24 de fevereiro de 2025 às 08:19
+Aquele detalhe típico de cobrança da banca CEBRASPE:
+quando se fala em legislar é competência privativa da União.
+Reportar abuso
+Ajudou (1) Não ajudou
+20
+Q3661298
+Direito Administrativo
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - FUNPRESP-EXE - Analista de Previdência Complementar - Área: Jurídica - 2025
+Texto associado
+Com fundamento na Lei n.º 13.303/2016, no Regulamento Interno de Licitações e Contratações da FUNPRESP-EXE e na jurisprudência do STF acerca de licitações e da organização administrativa das empresas estatais, julgue os itens subsequentes.
+Dispensa-se a licitação para a contratação de serviços técnicos especializados com profissionais ou empresas de notória especialização, inclusive os relacionados a estudos técnicos, de planejamento e projetos básicos ou executivos.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+58.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Mariana Gonçalves Carvalho
+24 de fevereiro de 2025 às 06:02
+Art. 74. É inexigível a licitação quando inviável a competição, em especial nos casos de:
+III - contratação dos seguintes serviços técnicos especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização, vedada a inexigibilidade para serviços de publicidade e divulgação:
+Reportar abuso
+Ajudou (2) Não ajudou

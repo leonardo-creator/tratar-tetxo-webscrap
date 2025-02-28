@@ -1,0 +1,947 @@
+1
+Q3163378
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Acerca do desenvolvimento de pipelines e do processamento distribuído para aprendizado de máquina, julgue os seguintes itens.
+MLflow é uma ferramenta exclusiva para uma única tarefa, como treinamento ou implantação de modelos, proporcionando funcionalidades para experimentação, rastreamento de parâmetros e métricas, reprodução de modelos, empacotamento e implantação.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+77.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MC
+Marcelo Cardoso
+17 de março de 2024 às 09:55
+MLflow é uma ferramenta de ciclo de vida de aprendizado de máquina de código aberto, que facilita o gerenciamento do fluxo de trabalho para treinamento, rastreamento e produção de modelos de machine learning. Ele foi organizado para funcionar com as bibliotecas e estruturas de aprendizado de máquina mais recentes e utilizadas no mercado atualmente.
+Reportar abuso
+Ajudou (37) Não ajudou
+2
+Q3177893
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão de T.I - Segurança da Informação - 2024
+Texto associado
+Julgue os seguintes itens, relacionados a modelagem de dados.
+Em uma modelagem dimensional, os elementos tabelas fato (para os dados que são métricas) e tabelas dimensões (para os dados descritivos) são opcionais, por exemplo, em um data warehouse.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+85.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Daniel Ramos Neves
+11 de abril de 2024 às 19:30
+Elementos ESSENCIAIS de um DataWarehouse:
+
+Fatos;
+Dimensões;
+Medidas (métricas).
+
+
+Mnemônico:
+
+*DataWarehouse é FDM (filho da mãe)
+Reportar abuso
+Ajudou (29) Não ajudou
+Lucas
+6 de abril de 2024 às 22:09
+não são opcionais, mas sim essenciais para a modelagem dimensional
+
+Reportar abuso
+Ajudou (6) Não ajudou
+Alexandre Almeida De Novais
+26 de março de 2024 às 17:17
+Gabarito errado. A tabela FATO possuem métricas quantitativas e a tabela DIMENSÃO tem atributos qualitativos.
+Reportar abuso
+Ajudou (5) Não ajudou
+3
+Q3143166
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Contabilidade Língua Inglesa - 2024
+Texto associado
+Does Snoozing Your Alarm Really Increase Sleepiness?
+
+Snoozing the alarm doesn’t necessarily mean you’ll feel groggy the rest of the day. But it’s important to get as much sleep as you can. Getting up early in the morning is no easy task for plenty of people. That’s why alarms are important — they ensure that you wake up at your desired time. However, nobody can deny how tempting it is to try and squeeze in a few more minutes of sleep.
+According to a survey, about 57 percent of people snooze in the morning, which is defined as needing multiple alarms to wake up. If you set a single alarm and snooze it repeatedly or set several alarms at regular intervals until the time you absolutely need to get up, you are a snoozer. Waking up on the first alarm is commonly recommended, but does it really make a difference if you are woken up by one alarm compared to several ones? In a recent sleep study, researchers examine how snoozing affects an individual’s health and sleep.
+According to the study, people snooze for a variety of reasons. Most of the participants said that they just can’t get up with only the first alarm. Some say they snooze because they feel comfortable in bed, while others do it because they feel less tired when they do get up. A researcher said that snoozing might be a sign that people are waking up because of important scheduled activities — like school or work — rather than because they have adequately rested.
+
+Internet: <www.discovermagazine.com> (adapted).
+
+According to the preceding text, judge the following items.
+More than half of the people surveyed admitted snoozing in the morning for various reasons.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+85.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Giovanna Holanda
+14 de junho de 2024 às 07:09
+Sim pois foram 57%
+Reportar abuso
+Ajudou (1) Não ajudou
+4
+Q3164319
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+Julgue os próximos itens, relativos a aprendizado de máquina.
+No contexto do aprendizado de máquina, um algoritmo é definido como a especificação de uma relação probabilística existente entre variáveis diferentes.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+50.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ewerton
+5 de maio de 2024 às 19:04
+Algoritmo: É uma sequência de instruções ou operações para alcançar um objetivo.
+A questão trata do conceito de correlação, dependência ou associação que são conceitos inerentes ao campo da estatística e probabilística.
+Reportar abuso
+Ajudou (24) Não ajudou
+Laiane Ricardo De Araujo
+25 de junho de 2024 às 09:36
+Algoritmos são algoritmos em qualquer contexto...
+Reportar abuso
+Ajudou (12) Não ajudou
+PG
+Priscilla Gonçalves
+4 de setembro de 2024 às 16:22
+Modelos de ML são como funções (para dadas entradas, existe uma saída). Não necessariamente são relações probabilísticas.
+Reportar abuso
+Ajudou (2) Não ajudou
+5
+Q3164346
+Tecnologia da Informação Big Data
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+Com relação a Big Data, julgue os itens seguintes.
+Big Data é um conjunto de dados maior e mais complexo de novas fontes de dados que softwares tradicionais de processamento de dados não conseguem gerenciar devido ao seu volume.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+82.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Julio Cesar Santos Da Silva
+11 de março de 2024 às 11:45
+Big Data refere-se a um conjunto de dados maiores e mais complexos, que não podem ser processados mediante processamentos
+tradicionais. Esses conjuntos de dados abarcam três propriedades principais conhecidas como o "3 V's do Big Data", são elas:
+Volume, Velocidade e Variedade.
+Fonte: O que é Big Data? - Oracle Brasil
+(https://www.oracle.com/br/big-data/what-is-big-data/)
+
+Reportar abuso
+Ajudou (16) Não ajudou
+Tiago Rocha
+13 de maio de 2024 às 16:26
+PERFEITO !
+Big Data é um conjunto de dados maior(volume) e mais complexo de novas fontes diversas (variedade) de dados que softwares tradicionais de processamento de dados não conseguem gerenciar devido ao seu volume (volume), daí faz se necessário que se utilize técnicas como IA, Machine Learning, Data Mining, etc.
+Reportar abuso
+Ajudou (6) Não ajudou
+Gabriel Delmondes
+11 de maio de 2024 às 18:26
+A afirmação está correta. Mas o fato de softwares tradicionais de processamento não se adequarem ao contexto do Big Data não se restringe ao grande volume. Dados em Big Data englobam dados semiestruturados e dados não estruturados, como esses dados não possuem uma estrutura rígida, não é possível utiliza-los em softwares de processamento tradicionais.
+Reportar abuso
+Ajudou (5) Não ajudou
+Tiago Rocha
+13 de junho de 2024 às 11:13
+perfeito, definição correta!
+Reportar abuso
+Ajudou (1) Não ajudou
+Flávio Crispin Oliveira
+16 de agosto de 2024 às 08:56
+Discordo da resposta, Big Data não significa exatamente "novas fontes de dados", empresas que fazem uma grande quantidade de transações por dia são classificadas como big data e não tem nada de novas fontes nesse caso.
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+6
+Q3405795
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Fonoaudiólogo - 2024
+Texto associado
+Texto CG2A1
+
+O desenvolvimento da educação sanitária, a partir dos Estados Unidos da América, esteve associado à saúde pública, tendo sido instrumento das ações de prevenção das doenças, e caracterizou-se pela transmissão de conhecimento. No entanto, mesmo que realizada de forma massiva, como no caso das campanhas sanitárias no Brasil, a perspectiva não contemplava a dimensão histórico-social do processo saúde-doença.
+Com o movimento pela reforma sanitária no Brasil, as críticas mais contundentes relacionavam-se ao fato de que o social não era considerado na prática da saúde pública, senão em perspectiva restrita, de modo que a educação passou a ser uma atividade paralela, cuja finalidade seria a de auxiliar a efetivação dos objetivos eminentemente técnicos dos programas de saúde pública.
+Entretanto, em uma perspectiva crítica, a educação parte da análise das realidades sociais, buscando revelar as suas características e as relações que as condicionam e as determinam. Essa perspectiva pode ater-se à explicação das finalidades reprodutivistas dos processos educativos ou trabalhar no âmbito de suas contradições, buscando transformar essas finalidades, estabelecendo como meta a construção de sujeitos e de projetos societários transformadores.
+Da mesma forma, no campo da saúde, a compreensão do processo saúde-doença como expressão das condições objetivas de vida, isto é, como resultante das condições de habitação, alimentação, educação, renda, meio ambiente, trabalho, transporte, emprego, lazer, liberdade, acesso e posse da terra e acesso a serviços de saúde, descortina a saúde e a doença como produções sociais, passíveis de ação e transformação, e aponta também para um plano coletivo, e não somente individual, de intervenção.
+Essa maneira de conceber a saúde tem sido caracterizada como um conceito ampliado, pois não reduz a saúde à ausência de doença, promovendo a ideia de que uma situação de vida saudável não se resolve somente com a garantia do acesso aos serviços de saúde, mas depende, sobretudo, da garantia de condições de vida dignas que, em conjunto, podem proporcionar a situação de saúde. Nesse sentido, são indissociáveis o conceito de saúde e a noção de direito social.
+
+Márcia V. Morosini, Angélica F. Fonseca e Isabel B. Pereira. Educação em saúde. In: Dicionário da Educação Profissional em Saúde. Internet: <www.sites.epsjv.fiocruz.br> (com adaptações).
+
+A partir das ideias suscitadas pelo texto CG2A1, julgue os itens seguintes.
+O texto enfoca um ponto de vista acerca da educação em saúde e seus argumentos se fundamentam em modelos explicativos do processo de saúde, doença e cuidado, desde a perspectiva do modelo mágico-religioso até o modelo biomédico atual.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+70.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+E
+Eliane
+11 de setembro de 2024 às 17:46
+A afirmativa é incorreta. O texto não enfoca modelos explicativos específicos do processo saúde-doença, como o mágico-religioso ou o biomédico. Em vez disso, discute a evolução da educação em saúde e a importância de considerar a dimensão histórico-social e as condições de vida na promoção da saúde.
+Reportar abuso
+Ajudou (60) Não ajudou
+7
+Q3163329
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Julgue os itens a seguir, a respeito de algoritmos e técnicas supervisionadas e não supervisionadas de aprendizado de máquina e aprendizagem profunda.
+A tarefa do agrupamento consiste em segmentar uma base de dados não rotulada em grupos que tenham algum significado ou utilidade prática.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+34.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Italo Oliveira Fernandes
+20 de abril de 2024 às 17:01
+A parte "em grupos que tenham algum significado ou utilidade prática." está errada! O agrupamento não garante que os grupos formados tenham algum significado prático, isso tem que ser analisado posteriormente.
+
+Reportar abuso
+Ajudou (36) Não ajudou
+Alício
+23 de março de 2024 às 08:31
+Errado. Agrupamento só agrupa a utilidade ou finalidade é dada posteriormente, ou não, desacordo com os grupos encontrados.
+Reportar abuso
+Ajudou (18) Não ajudou
+KL
+Kaique Lima Andre
+9 de março de 2024 às 16:39
+O gabarito correto não deveria ser CERTO, uma vez que a afirmação esta correta?
+Reportar abuso
+Ajudou (11) Não ajudou
+Erick Alves De Sousa
+3 de abril de 2024 às 22:33
+O chatgpt deu essa resposta ->
+Explicação: A afirmação está correta. O agrupamento, também conhecido como clustering em inglês, é uma técnica de aprendizado não supervisionado em que dados não rotulados são agrupados em clusters com base em sua similaridade. O objetivo é encontrar estruturas ou padrões intrínsecos nos dados que possam indicar grupos naturais ou relevantes. Esses grupos podem ter significado ou utilidade prática para análise de dados, como identificar segmentos de mercado, agrupar documentos semelhantes, detectar anomalias ou simplificar conjuntos de dados complexos.
+
+Reportar abuso
+Ajudou (10) Não ajudou
+Marcus Bacelar
+12 de março de 2024 às 20:41
+Não pois na questão fala que "consiste em segmentar uma base de dados *Não* rotulada em grupos"
+Reportar abuso
+Ajudou (4) Não ajudou
+Página 1 de 3
+8
+Q3163296
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+A Harvard team has realized a milestone in the quest for stable, scalable quantum computing. For the first time, the team has created a programmable, logical quantum processor, capable of encoding up to 48 logical qubits, and capable of executing hundreds of logical gate operations. Their system is the first demonstration of large-scale algorithm execution on an error-corrected quantum computer, heralding the advent of early fault-tolerant, or reliably uninterrupted, quantum computation.
+
+Internet: <sciencedaily.com> (adapted).
+
+Considering the information stated in the text above and the vocabulary used in it, judge the following items.
+The quantum processor developed by the Harvard team is able to encode over 48 logical qubits.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+46.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Giovanna Holanda
+14 de junho de 2024 às 07:11
+Over = mais de
+
+No texto fala de up to =de até
+Reportar abuso
+Ajudou (8) Não ajudou
+9
+Q3238125
+Administração de Recursos Materiais Gestão da Cadeia de Suprimentos
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+No que se refere ao controle de inventários e às decisões de políticas de estoques, julgue os próximos itens.
+Restrições na cadeia de abastecimento e falta de materiais que possa comprometer o atendimento ao cliente são razões que justificam a manutenção de estoques.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+90.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Darci Carmo
+4 de julho de 2024 às 21:22
+Uma analogia fácil para fixar e entender, seria pensar no caso do motivo da maioria, senão de todas, as residencias no pais terem "caixas d'água" (estoque). Simplesmente por que historicamente falta água com certa frequencia em muitos lugares e regiões do Brasil, ou seja são "restrições na cadeia de abastecimento."
+Reportar abuso
+Ajudou (36) Não ajudou
+10
+Q3218623
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Inovação e Gestão de Infraestrutura de P&D - Desenvolvimento Tecnológico voltado a infraestrutura de TI - 2024
+Texto associado
+Acerca de arquitetura do sistema de arquivos distribuído, julgue os itens subsecutivos.
+Ao se executar db.nomeDaColecao.delete() no MongoDB, a coleção especificada é removida completamente, incluindo-se sua estrutura e todos os documentos armazenados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+61.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Laiane Ricardo De Araujo
+15 de junho de 2024 às 14:32
+exclui apenas os dados específicos e não a coleção toda.
+Reportar abuso
+Ajudou (18) Não ajudou
+Álisson Neres Ribeiro
+27 de agosto de 2024 às 19:38
+No caso seria um drop, não um delete.
+Reportar abuso
+Ajudou (8) Não ajudou
+11
+Q3406296
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Procurador - 2024
+Texto associado
+Texto CG1A1
+
+A defesa das florestas deveria ser objeto de um tratado internacional que reunisse o maior número de Estados, para que elas se tornassem intocáveis. Repito: a sobrevivência da nossa espécie depende da funcionalidade desses ecossistemas. Sem florestas suficientes, não existe chance real de podermos reverter a tendência de crescimento do CO2. O desmatamento deveria ser tratado como um crime contra a humanidade e punido como tal. Porque é disso que se trata. A proteção das florestas e sua manutenção, bem como a obrigação de manter intactos o solo, o ar e a água, deveriam fazer parte das constituições de todos os Estados, não apenas desta nossa Constituição da Nação das Plantas. Deveriam ser ensinadas nas escolas para crianças e adultos, em todos os lugares. Diretores de cinema deveriam fazer filmes, escritores deveriam escrever livros. Todos estão convocados a se mobilizar, e se vocês acham que é exagero e não veem motivo real para se levantar do sofá e defender o meio ambiente e as florestas, saibam que essa é a única emergência global real. A maioria dos problemas que afligem a humanidade hoje, mesmo que aparentemente distantes, está relacionada ao risco ambiental e consiste apenas na ponta de um iceberg, se não tratarmos o tema com a devida firmeza e eficiência.
+
+Stefano Mancuso. A nação das plantas. São Paulo: Ubu Editora, 2024, p. 78 (com adaptações)
+
+Com base nas ideias veiculadas no texto CG1A1, julgue os seguintes itens.
+Atualmente, o risco ambiental é, conforme se entende do texto, o principal efeito da maior parte dos problemas que acometem a humanidade.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+46.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lawdy Lima
+12 de setembro de 2024 às 11:08
+O risco ambiental NÃO é o principal efeito da maior parte dos problemas que acometem a humanidade, mas sim a principal causa.
+Reportar abuso
+Ajudou (56) Não ajudou
+Concurseira Maranhense
+30 de outubro de 2024 às 13:00
+Pegadinha do malandro
+Reportar abuso
+Ajudou (6) Não ajudou
+E
+Eliane
+11 de setembro de 2024 às 17:52
+"atualmente" tende a abranger um período mais amplo, e "hoje" se refere mais especificamente ao dia presente.
+Reportar abuso
+Ajudou (4) Não ajudou
+12
+Q3235309
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Auxiliar Administrativo - 2024
+Texto associado
+O precursor do que viria a ser um jornal foi o romano Acta Diurna, (Atos Diários), lançado em 59 a.C. Mas não se parecia com a publicação que você encontra na banca: era esculpido em pedra ou metal, conforme a época, e ficava exposto em locais públicos, como o Fórum de Roma. Todos os dias havia uma edição nova, que apresentava desde avisos oficiais do império, como decretos do imperador, decisões do Senado e de magistrados, até eventos da sociedade: nascimentos, casamentos e óbitos de cidadãos notáveis. Criado por ordem de Júlio César (100 a.C. – 44 a.C.), ele era guardado para fins de pesquisa e também tinha cópias enviadas para partes distantes do Império Romano, de modo que governadores ficassem a par de novas leis. Foi o Acta Diurna que introduziu a expressão latina publicare et propagare, que significa “tornar público e propagar”.
+
+Internet: <https://super.abril.com.br (com adaptações).
+
+Julgue os próximos itens, que dizem respeito às ideias do texto precedente e à sua estrutura linguística.
+Conclui-se da leitura do texto que somente os governadores de locais próximos ao Império Romano tinham acesso às novas leis que eram editadas e publicadas no Acta Diurna.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+91.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Francisco Diogo Alex Sabino
+2 de junho de 2024 às 00:47
+...também tinha cópias enviadas para partes distantes do Império Romano, de modo que governadores ficassem a par de novas leis.
+Reportar abuso
+Ajudou (21) Não ajudou
+Bárbara De Melo Carneiro
+1 de junho de 2024 às 17:45
+O texto expõe que os Atos Diários ficavam à disposição de todos: "(...) e ficava exposto em locais públicos, como o Fórum de Roma. Todos os dias havia uma edição nova, que apresentava desde avisos oficiais do império, como decretos do imperador, (...).
+E, ao final, conclui que esse jornal introduziu a expressão "tornar público e propagar". Assim, não se pode dizer que "somente os governadores de locais próximos ao Império Romano tinham acesso às novas leis que eram editadas e publicadas no Acta Diurna".
+Questão errada.
+Reportar abuso
+Ajudou (8) Não ajudou
+Isabela Pereira
+29 de agosto de 2024 às 13:45
+Gabarito letra "E" Pois a resposta se encontra bem aqui:
+
+"conforme a época, e ficava exposto em locais públicos, como o Fórum de Roma."
+Reportar abuso
+Ajudou (2) Não ajudou
+Patricia Ferreira Neto
+29 de novembro de 2024 às 15:41
+Gabarito "errado"
+
+"Criado por ordem de Júlio César (100 a.C. – 44 a.C.), ele era guardado para fins de pesquisa e também tinha cópias enviadas para partes distantes do Império Romano, de modo que governadores ficassem a par de novas leis."
+Reportar abuso
+Ajudou (0) Não ajudou
+Thiago Marcos Da Silva Reis
+26 de agosto de 2024 às 07:17
+Criado por ordem de Júlio César (100 a.C. – 44 a.C.), ele era guardado para fins de pesquisa e também tinha cópias enviadas para partes distantes do Império Romano
+Reportar abuso
+Ajudou (0) Não ajudou
+13
+Q3143165
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Pesquisador P1 - Área: Biologia Celular e Molecular Língua Inglesa - 2024
+Texto associado
+Does Snoozing Your Alarm Really Increase Sleepiness?
+
+Snoozing the alarm doesn’t necessarily mean you’ll feel groggy the rest of the day. But it’s important to get as much sleep as you can. Getting up early in the morning is no easy task for plenty of people. That’s why alarms are important — they ensure that you wake up at your desired time. However, nobody can deny how tempting it is to try and squeeze in a few more minutes of sleep.
+According to a survey, about 57 percent of people snooze in the morning, which is defined as needing multiple alarms to wake up. If you set a single alarm and snooze it repeatedly or set several alarms at regular intervals until the time you absolutely need to get up, you are a snoozer. Waking up on the first alarm is commonly recommended, but does it really make a difference if you are woken up by one alarm compared to several ones? In a recent sleep study, researchers examine how snoozing affects an individual’s health and sleep.
+According to the study, people snooze for a variety of reasons. Most of the participants said that they just can’t get up with only the first alarm. Some say they snooze because they feel comfortable in bed, while others do it because they feel less tired when they do get up. A researcher said that snoozing might be a sign that people are waking up because of important scheduled activities — like school or work — rather than because they have adequately rested.
+
+Internet: <www.discovermagazine.com> (adapted).
+
+According to the preceding text, judge the following items.
+People who snooze the alarm feel tired and dizzy the rest of the day because they didn’t get enough sleep.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+72.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Maiza Rodrigues Da Cruz
+30 de novembro de 2024 às 15:43
+Snoozing the alarm doesn’t necessarily mean you’ll feel groggy the rest of the day
+Reportar abuso
+Ajudou (0) Não ajudou
+14
+Q3143216
+Controle da Administração Controle Interno
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Economia Língua Inglesa - 2024
+Texto associado
+Considerando o conceito de controle, seus tipos e suas formas, julgue os itens a seguir.
+O controle interno sobre os órgãos da administração direta decorre do poder de autotutela que permite à administração pública rever os próprios atos quando ilegais, inoportunos ou inconvenientes.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+90.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+David Diego
+29 de julho de 2024 às 16:05
+Certo
+Importante sempre realizar uma autoavaliação nos órgãos da administração direta
+Reportar abuso
+Ajudou (4) Não ajudou
+Cleide Santos Torres De Morais Morais
+15 de outubro de 2024 às 09:09
+SÚMULA 473- A ADMINISTRAÇÃO PODE ANULAR SEUS PRÓPRIOS ATOS, QUANDO EIVADOS DE VÍCIOS QUE OS TORNAM ILEGAIS, PORQUE DELES NÃO SE ORIGINAM DIREITOS; OU REVOGÁ-LOS, POR MOTIVO DE CONVENIÊNCIA OU OPORTUNIDADE, RESPEITADOS OS DIREITOS ADQUIRIDOS, E RESSALVADA, EM TODOS OS CASOS, A APRECIAÇÃO JUDICIAL.
+Reportar abuso
+Ajudou (3) Não ajudou
+F
+Felipe
+1 de dezembro de 2024 às 15:33
+Confundi com autoexecutoriedade
+Reportar abuso
+Ajudou (0) Não ajudou
+15
+Q3340567
+Administração de Recursos Materiais Cadastro e Seleção de Fornecedores
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Técnico Judiciário - Área: Administrativa - 2024
+Texto associado
+Julgue os itens subsecutivos, a respeito de compras nas organizações públicas.
+A organização pública licitante pode exigir registro cadastral complementar de potenciais fornecedores para o acesso ao edital de licitação e a seus anexos.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+38.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Guilherme
+3 de agosto de 2024 às 11:50
+Art. 87 da 14.133/2021. Para os fins desta Lei, os órgãos e entidades da Administração Pública deverão utilizar o sistema de registro cadastral unificado disponível no Portal Nacional de Contratações Públicas (PNCP), para efeito de cadastro unificado de licitantes, na forma disposta em regulamento.
+§ 1º O sistema de registro cadastral unificado será público e deverá ser amplamente divulgado e estar permanentemente aberto aos interessados, e será obrigatória a realização de chamamento público pela internet, no mínimo anualmente, para atualização dos registros existentes e para ingresso de novos interessados.
+§ 2º É proibida a exigência, pelo órgão ou entidade licitante, de registro cadastral complementar para acesso a edital e anexos.
+Reportar abuso
+Ajudou (97) Não ajudou
+Manoel Severo Dos Santos Junior
+5 de dezembro de 2024 às 13:29
+Não há necessidade de cadastro para ler o EDITAL.
+Reportar abuso
+Ajudou (16) Não ajudou
+K
+Kalynara
+21 de novembro de 2024 às 13:18
+Feriria a isonomia, se tal cadastro complementar fosse exigido.
+Reportar abuso
+Ajudou (10) Não ajudou
+Demian Medeiros Pena
+12 de dezembro de 2024 às 21:01
+Pense que se fosse desta forma não haveria publicação de editais!
+Reportar abuso
+Ajudou (3) Não ajudou
+16
+Q3194428
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Analista Ministerial - Área: Administração e Segurança de Redes - 2024
+Texto associado
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), julgue os itens subsequentes.
+Encarregado é a pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+77.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+@douglasericpsi
+28 de junho de 2024 às 14:07
+Art. 5º Para os fins desta Lei, considera-se:
+
+VII - OPERADOR: pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador;
+
+VIII - ENCAnalRREGADO: pessoa indicada pelo controlador e operador para atuar como Canal de Comunicação entre o Controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD);
+Reportar abuso
+Ajudou (100) Não ajudou
+17
+Q3340565
+Administração de Recursos Materiais Licitações e normativos de compras no setor público
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Técnico Judiciário - Área: Administrativa - 2024
+Texto associado
+Julgue os itens subsecutivos, a respeito de compras nas organizações públicas.
+No edital de licitação, pode-se prever a matriz de alocação de riscos entre o contratante e o contratado, hipótese em que o cálculo do valor estimado da contratação poderá considerar uma taxa de risco compatível com o objeto e com os riscos atribuídos à contratada, consoante metodologia predefinida pelo ente federativo.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Carlos
+3 de agosto de 2024 às 17:29
+CERTO
+É a literalidade da lei
+
+Lei 14.133,
+Art. 22. O edital poderá contemplar matriz de alocação de riscos entre o contratante e o contratado, hipótese em que o cálculo do valor estimado da contratação poderá considerar taxa de risco compatível com o objeto da licitação e com os riscos atribuídos ao contratado, de acordo com metodologia predefinida pelo ente federativo.
+Reportar abuso
+Ajudou (60) Não ajudou
+18
+Q3178996
+Administração de Recursos Materiais Administração de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Técnico Ministerial - Área Assistente Administrativo - 2024
+Texto associado
+A respeito da gestão de estoques nas organizações, julgue os itens seguintes.
+A gestão de estoques nas organizações restringe-se às seguintes funções: recebimento dos materiais, conferência do pedido de compra, armazenagem, conservação e controle da qualidade.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+83.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Bruna Kezya Silva De Oliveira
+22 de junho de 2024 às 20:22
+Errado.
+A gestão de estoques nas organizações vai além das funções básicas de recebimento, conferência, armazenagem, conservação e controle de qualidade. Ela abrange um conjunto mais amplo de atividades, incluindo:
+
+1. Planejamento e controle:
+
+Previsão da demanda: Analisar o histórico de vendas, as tendências do mercado e outros fatores para estimar a quantidade de produtos que serão necessários no futuro.
+Definição do nível ideal de estoque: Determinar a quantidade mínima e máxima de cada produto que deve ser mantida em estoque para atender à demanda sem gerar custos excessivos.
+Controle do giro de estoque: Monitorar a entrada e saída de produtos para garantir que o estoque esteja sempre em movimento e evitar rupturas ou acúmulos desnecessários.
+2. Compras:
+
+Seleção de fornecedores: Encontrar fornecedores confiáveis que ofereçam produtos de qualidade a preços competitivos.
+Negociação de preços e prazos de entrega: Buscar as melhores condições de compra para otimizar os custos e garantir o abastecimento regular.
+Gerenciamento de pedidos de compra: Realizar pedidos de forma eficiente, com base na previsão da demanda e no nível de estoque.
+3. Armazenagem:
+
+Escolha do local de armazenamento: Selecionar um local adequado que ofereça as condições necessárias para a preservação dos produtos, como temperatura, umidade e segurança.
+Organização do estoque: Organizar os produtos de forma eficiente para facilitar o acesso e a localização.
+Implementação de sistemas de controle: Utilizar softwares ou métodos manuais para monitorar o estoque e controlar a entrada e saída de produtos.
+4. Logística:
+
+Gerenciamento da cadeia de suprimentos: Coordenar as atividades de transporte, armazenagem e distribuição para garantir que os produtos cheguem ao cliente final no prazo e nas condições adequadas.
+Otimização das rotas de entrega: Planejar as rotas de entrega de forma eficiente para minimizar custos e tempo de transporte.
+Monitoramento da entrega: Rastreio dos produtos durante o transporte para garantir a segurança e a entrega dentro do prazo previsto.
+5. Controle de custos:
+
+Cálculo do custo de estoque: Determinar os custos relacionados à manutenção do estoque, como armazenagem, transporte, seguro e obsolescência.
+Identificação de oportunidades de economia: Buscar maneiras de reduzir os custos de estoque, como otimizando o processo de compras, negociando melhores preços com fornecedores e implementando práticas de gestão eficientes.
+Tomada de decisões estratégicas: Utilizar as informações de custo de estoque para tomar decisões estratégicas sobre a quantidade de produtos a serem comprados e armazenados.
+6. Tecnologia:
+
+Utilização de softwares de gestão de estoque: Implementar softwares que auxiliem no controle do estoque, na previsão da demanda, na otimização das compras e na análise de dados.
+Implementação de sistemas de identificação automática: Utilizar tecnologias como código de barras ou RFID para rastrear os produtos e facilitar o controle do estoque.
+Análise de dados: Coletar e analisar dados sobre o estoque para identificar tendências, tomar decisões mais assertivas e otimizar a gestão da cadeia de suprimentos.
+7. Gestão de pessoas:
+
+Treinamento da equipe: Capacitar a equipe para realizar as atividades de gestão de estoque de forma eficiente e eficaz.
+Motivação da equipe: Criar um ambiente de trabalho positivo e motivador para que a equipe se sinta engajada na gestão do estoque.
+Delegação de responsabilidades: Delegar responsabilidades de forma clara e objetiva para cada membro da equipe.
+8. Melhoria contínua:
+
+Monitoramento dos indicadores de desempenho: Monitorar indicadores como nível de estoque, giro de estoque, custo de estoque e índice de rupturas para avaliar a eficiência da gestão de estoque.
+Identificação de oportunidades de melhoria: Buscar oportunidades para melhorar os processos de gestão de estoque, como automatizando tarefas, otimizando a organização do estoque e implementando novas tecnologias.
+Implementação de ações corretivas: Implementar ações corretivas para solucionar problemas identificados na gestão de estoque.
+Conclusão:
+
+A gestão de estoques nas organizações é um processo complexo e estratégico que vai além das funções básicas de recebimento, conferência, armazenagem, conservação e controle de qualidade. Ela envolve uma série de atividades interligadas que visam otimizar o fluxo de produtos, minimizar custos, garantir a disponibilidade de produtos para o cliente final e contribuir para o sucesso da organização.
+Reportar abuso
+Ajudou (69) Não ajudou
+19
+Q3312423
+Administração Pública Gerencialismo
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Analista Legislativo - 2024
+Texto associado
+Julgue os próximos itens, a respeito da gestão governamental, das reformas administrativas e de modelos de gestão pública.
+A administração gerencial caracteriza-se por sistemas de gestão e controle centrados em resultados, e não em procedimentos, estes característicos do modelo burocrático.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+74.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+André Costa
+18 de setembro de 2024 às 00:05
+A questão está correta.
+
+A administração gerencial é, de fato, caracterizada por um foco em resultados, ao invés de se concentrar em procedimentos rígidos, que são típicos do modelo burocrático. No modelo gerencial, a eficiência e a eficácia são priorizadas, com ênfase na flexibilidade, na descentralização e na responsabilidade pelos resultados alcançados.
+
+Já o modelo burocrático, por outro lado, é mais centrado em normas, regras, procedimentos formais e no controle rígido de processos, o que pode levar à rigidez e à lentidão na tomada de decisões.
+
+Portanto, a questão reflete corretamente a diferença entre esses dois modelos de administração.
+Reportar abuso
+Ajudou (52) Não ajudou
+Vander Muniz Pavao
+7 de setembro de 2024 às 22:52
+Alternativa correta: C (Certo)
+A questão aborda a comparação entre dois modelos teóricos de Administração Pública: a Administração Gerencial e a Administração Burocrática. Para compreender por que a alternativa correta é "Certo", é fundamental entender as características de ambos os modelos.
+Administração Burocrática:
+Este modelo, estabelecido principalmente por Max Weber, enfatiza a formalidade, a rigidez procedimental e o controle por normas e regras. Suas características incluem:
+Estrutura hierárquica bem definida
+Divisão de tarefas e especialização
+Regras e regulamentos detalhados
+Ênfase na legalidade e impessoalidade
+Administração Gerencial:
+Este modelo surgiu como uma resposta às limitações da Administração Burocrática, focando em resultados e eficiência. Suas principais características são:
+Foco em resultados e desempenho
+Descentralização e flexibilidade
+Ênfase na eficiência e na eficácia
+Utilização de indicadores de performance
+A questão está correta ao afirmar que a Administração Gerencial se caracteriza por sistemas de gestão e controle centrados em resultados, enquanto o modelo burocrático se concentra em procedimentos. A Administração Burocrática é mais voltada para o cumprimento de regras e normas, e a Administração Gerencial busca a eficácia e eficiência através do alcance de metas e resultados concretos
+
+
+maia, calaaaada!
+
+
+Acesse o Instagram: @candy_concurseira
+/\_/\
+Reportar abuso
+Ajudou (13) Não ajudou
+Isabella Fernandes Gonçalves
+19 de novembro de 2024 às 18:37
+Burocrático: Controle rígido dos processos, sem controles finalísticos : a priori
+Gerencial: Controle flexível, resultados: a posteriori
+Reportar abuso
+Ajudou (4) Não ajudou
+Tulio Ferreira
+4 de dezembro de 2024 às 14:08
+Se não ficar atento ao Português, a chance de errar a questão é grande
+Reportar abuso
+Ajudou (1) Não ajudou
+20
+Q3238131
+Administração de Recursos Materiais Modalidades de Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+A atual empresa transportadora de combustíveis líquidos e derivados de petróleo contratada por uma indústria petrolífera apresenta uma série de problemas, tais como atrasos na entrega ao cliente final, derramamento de produtos ao longo de vias públicas, falta de comunicação com o embarcador e o cliente final, incidentes ocorridos nas estradas e frota com vários graus de avaria. Entretanto, o preço do frete médio cobrado pela transportadora contratada é o menor entre as disponíveis no mercado.
+
+Tendo como referência essa situação hipotética, julgue os itens seguintes.
+O contrato com a transportadora citada deve ser mantido, sem que ela seja notificada formalmente pelas irregularidades, pois o preço do frete médio é o menor em relação às demais transportadores concorrentes.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+95.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ana Loiola
+7 de janeiro de 2025 às 10:15
+Gab.: Errado
+
+Atualmente, vigora na Administração Pública o entendimento do melhor custo-benefício, de modo a não mais ser priorizado o menor preço, mas sim a melhor escolha, considerando a economia futura.
+
+O entendimento é de priorizar também a qualidade, evitando gastos futuros com a necessidade de: maior renovação de estoque (pois o produto adquirido acaba/se vence/quebra mais rápido), perecibilidade, vida útil, maior necessidade de manutenção... entre outros. Ou seja, a qualidade também importa!
+
+Esse entendimento é, inclusive, previsto na nova Lei de Licitações (Lei nº 14.133/2021):
+Art. 34. O julgamento por menor preço ou maior desconto e, quando couber, por técnica e preço considerará o menor dispêndio para a Administração, atendidos os parâmetros mínimos de qualidade definidos no edital de licitação.
+§ 1º Os custos indiretos, relacionados com as despesas de manutenção, utilização, reposição, depreciação e impacto ambiental do objeto licitado, entre outros fatores vinculados ao seu ciclo de vida, poderão ser considerados para a definição do menor dispêndio, sempre que objetivamente mensuráveis, conforme disposto em regulamento.
+
+
+Reportar abuso
+Ajudou (9) Não ajudou

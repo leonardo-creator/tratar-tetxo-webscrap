@@ -1,0 +1,985 @@
+1
+Q3367455
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - BACEN - Analista - Área: Tecnologia da Informação - 2024
+Texto associado
+Texto CB1A2-I
+
+A Conferência Geral da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO), em sua 41.ª sessão, reconhece os impactos profundos e dinâmicos, positivos e negativos da inteligência artificial (IA) nas sociedades, no meio ambiente, nos ecossistemas e nas vidas humanas, inclusive na mente humana, em parte devido às novas formas como seu uso influencia o pensamento, a interação e a tomada de decisões e afeta a educação, as ciências humanas, sociais e naturais, a cultura, a comunicação e a informação.
+A Conferência considera que as tecnologias de IA podem ser de grande utilidade para a humanidade e podem beneficiar todos os países, mas também suscitam questões éticas fundamentais, por exemplo, em relação às distorções que podem incorporar e exacerbar, o que resultaria potencialmente em discriminação, desigualdade, exclusão digital, exclusão em geral e ameaça à diversidade cultural, social e biológica, além de divisões sociais ou econômicas. Suscitam, ainda, questões relativas à necessidade de transparência e compreensibilidade do funcionamento dos algoritmos e dos dados com que eles foram alimentados, além de seu potencial impacto sobre, entre outros aspectos, a dignidade humana; os direitos humanos e as liberdades fundamentais; a igualdade de gênero; a democracia; os processos sociais, econômicos, políticos e culturais; as práticas científicas e de engenharia; o bem-estar dos animais; o meio ambiente e os ecossistemas.
+A Conferência reconhece, ainda, que as tecnologias de IA podem aprofundar as divisões e as desigualdades existentes no mundo, dentro dos países e entre eles, e que a justiça, a confiança e a equidade devem ser defendidas para que nenhum país e nenhum indivíduo sejam deixados para trás, seja em razão do acesso justo às tecnologias de IA e de seus benefícios, seja em razão de medidas de proteção contra suas implicações negativas. Reconhecem-se as diferentes circunstâncias de diferentes países e respeita-se o desejo de algumas pessoas de não participar de todos os desenvolvimentos tecnológicos.
+Com base nas considerações acima, entre outras, a UNESCO aprova a presente Recomendação sobre a Ética da Inteligência Artificial.
+
+UNESCO. Recomendação sobre a Ética da Inteligência Artificial (com adaptações).
+
+A respeito das ideias veiculadas no texto CB1A2-I, julgue os itens que se seguem.
+Conclui-se da leitura do texto que a Conferência Geral da UNESCO mostra-se favorável à defesa da justiça, da confiança e da equidade como forma de evitar o aprofundamento das divisões e das desigualdades existentes no mundo.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+52.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Andre2
+26 de agosto de 2024 às 16:40
+O texto está estruturado para apresentar considerações à respeito da Inteligência Artificial, principalmente no sentido ético. Apresenta questões que podem gerar consequências tanto positivas quanto negativas, no sentido de possibilidades (e não de contradições).
+Reportar abuso
+Ajudou (29) Não ajudou
+Neto Costa Ferreira
+25 de setembro de 2024 às 13:17
+Essa questão é tao ca na lha que a resposta é "errada" pq o último parágrafo não sustennta a assertiva.
+Reportar abuso
+Ajudou (18) Não ajudou
+TD
+Thiago Dos Santos Rodrigues
+17 de janeiro de 2025 às 11:42
+No meu entendimento, o último parágrafo não é estruturado com base na ideia que as IAs têm consequências contraditórias. Por isso marquei E.
+Reportar abuso
+Ajudou (1) Não ajudou
+2
+Q3548988
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Enfermagem - 2024
+Texto associado
+Texto CB1A1-II
+
+A palavra ficção nos remete a histórias inventadas (total ou parcialmente). Pode ser uma fantasia, que envolva monstros, heróis ou fantasmas, pode ser uma ficção científica, que envolva tecnologias que vão muito além daquelas que existem hoje, e também pode ser um romance comum, totalmente realista, mas com enredo, personagens ou ambientes inventados.
+Dessa forma, uma matéria jornalística jamais poderia ser considerada ficcional, já que um dos pilares do jornalismo é a busca pela verdade e a publicização das informações com precisão e veracidade. Um jornal que noticiasse ficções estaria ferindo um de seus princípios mais fundamentais.
+Apesar de essa definição de ficção ser bem popular, os críticos e teóricos de cinema franceses Jacques Aumont e Michel Marie afirmam que a ficção é uma forma de discurso que faz referência a personagens ou a ações que só existem na imaginação daquele que a escreve ou lê. Segundo eles, a ficção não é uma mentira, mas um simulacro da realidade, uma das possíveis maneiras de se representar o real.
+Assim, podemos dizer que todo relato é uma tentativa de representar a realidade por meio de palavras. Um relato de um acontecimento não é o próprio acontecimento em si. Os fatos ficam no passado, depois que acontecem. Qualquer tentativa de retomá-los no presente, por meio de uma história, será uma representação, será uma construção da mente de uma pessoa. Logo, será uma ficção.
+
+Lucia Mascarenhas de Miranda. A fronteira entre fato e ficção.
+In: Ciência Hoje, outubro de 2024.
+Internet: <cienciahoje.org.br> (com adaptações).
+
+Julgue os itens a seguir com base nas ideias apresentadas no texto CB1A1-II.
+A ficção é um tipo de discurso por meio do qual se apreende o real, atualizando-o por meio de palavras.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+56.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alice De Souza Borges
+23 de dezembro de 2024 às 11:56
+O enunciado descreve o relato, não a ficção.
+Reportar abuso
+Ajudou (3) Não ajudou
+3
+Q3129276
+Direito Administrativo Licitações
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão de Dados Corporativos - 2024
+Texto associado
+Com base na Lei n.º 14.133/2021, julgue os seguintes itens.
+O projeto básico, documento constitutivo da primeira etapa do planejamento de uma contratação, dá a base para o anteprojeto e caracteriza o interesse público na contratação.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+65.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Adriana
+1 de fevereiro de 2024 às 21:03
+1- estudo técnico preliminar
+2- anteprojeto
+3- projeto básico
+Reportar abuso
+Ajudou (604) Não ajudou
+Alice
+21 de fevereiro de 2024 às 22:08
+Errado.
+
+Art. 6° Para os fins desta Lei, consideram-se:
+
+XX - estudo técnico preliminar: documento constitutivo da primeira etapa do planejamento de uma contratação que caracteriza o interesse público envolvido e a sua melhor solução e dá base ao anteprojeto, ao termo de referência ou ao projeto básico a serem elaborados caso se conclua pela viabilidade da contratação;
+
+Reportar abuso
+Ajudou (216) Não ajudou
+LR
+Lucas Ramos Coutinho
+31 de janeiro de 2024 às 19:05
+A resposta correta seria Estudo Técnico Preliminar e não Projeto Base.
+Reportar abuso
+Ajudou (135) Não ajudou
+E
+Erick
+4 de fevereiro de 2024 às 08:57
+Anteprojeto=pré-projeto(antes do projeto).
+Reportar abuso
+Ajudou (24) Não ajudou
+AM
+Aline Moreira Santana
+5 de março de 2024 às 10:32
+Anteprojeto: peça técnica com todos os subsídios necessários à elaboração do projeto básico, que deve conter, no mínimo, os seguintes elementos:
+
+a) demonstração e justificativa, avaliação de demanda do público-alvo, motivação técnico-econômico-social do empreendimento, visão global dos investimentos e definições relacionadas ao nível de serviço desejado;
+b) condições de solidez, de segurança e de durabilidade;
+c) prazo de entrega;
+d) estética do projeto arquitetônico, traçado geométrico e/ou projeto da área de influência, quando cabível;
+e) parâmetros de adequação ao interesse público, de economia na utilização, de facilidade na execução, de impacto ambiental e de acessibilidade;
+f) proposta de concepção da obra ou do serviço de engenharia;
+g) projetos anteriores ou estudos preliminares que embasaram a concepção proposta;
+h) levantamento topográfico e cadastral;
+i) pareceres de sondagem;
+j) memorial descritivo dos elementos da edificação, dos componentes construtivos e dos materiais de construção, de forma a estabelecer padrões mínimos para a contratação;
+
+Reportar abuso
+Ajudou (20) Não ajudou
+Página 1 de 3
+4
+Q3548989
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Enfermagem - 2024
+Texto associado
+Texto CB1A1-II
+
+A palavra ficção nos remete a histórias inventadas (total ou parcialmente). Pode ser uma fantasia, que envolva monstros, heróis ou fantasmas, pode ser uma ficção científica, que envolva tecnologias que vão muito além daquelas que existem hoje, e também pode ser um romance comum, totalmente realista, mas com enredo, personagens ou ambientes inventados.
+Dessa forma, uma matéria jornalística jamais poderia ser considerada ficcional, já que um dos pilares do jornalismo é a busca pela verdade e a publicização das informações com precisão e veracidade. Um jornal que noticiasse ficções estaria ferindo um de seus princípios mais fundamentais.
+Apesar de essa definição de ficção ser bem popular, os críticos e teóricos de cinema franceses Jacques Aumont e Michel Marie afirmam que a ficção é uma forma de discurso que faz referência a personagens ou a ações que só existem na imaginação daquele que a escreve ou lê. Segundo eles, a ficção não é uma mentira, mas um simulacro da realidade, uma das possíveis maneiras de se representar o real.
+Assim, podemos dizer que todo relato é uma tentativa de representar a realidade por meio de palavras. Um relato de um acontecimento não é o próprio acontecimento em si. Os fatos ficam no passado, depois que acontecem. Qualquer tentativa de retomá-los no presente, por meio de uma história, será uma representação, será uma construção da mente de uma pessoa. Logo, será uma ficção.
+
+Lucia Mascarenhas de Miranda. A fronteira entre fato e ficção.
+In: Ciência Hoje, outubro de 2024.
+Internet: <cienciahoje.org.br> (com adaptações).
+
+Julgue os itens a seguir com base nas ideias apresentadas no texto CB1A1-II.
+De acordo com o texto, dada a natureza do jornalismo, matérias jornalísticas de natureza ficcional são inconcebíveis considerando-se a definição popular de ficção.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+78.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Camila Maria Ambrosio Dos Santos
+11 de janeiro de 2025 às 12:13
+(Certinho)
+E neste trecho fica bem claro 👇🏽
+"Dessa forma, uma matéria jornalística jamais poderia ser considerada ficcional, já que um dos pilares do jornalismo é a busca pela verdade e a publicização das informações com precisão e veracidade"
+Reportar abuso
+Ajudou (1) Não ajudou
+Alberto Oliveira
+30 de janeiro de 2025 às 19:52
+A minha dúvida estava se essa visão sobre ficção é realmente popular, mas no início do 3°paragrafo o texto trás essa afirmação.
+Reportar abuso
+Ajudou (0) Não ajudou
+5
+Q3548993
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Enfermagem - 2024
+Texto associado
+Texto CB1A1-II
+
+A palavra ficção nos remete a histórias inventadas (total ou parcialmente). Pode ser uma fantasia, que envolva monstros, heróis ou fantasmas, pode ser uma ficção científica, que envolva tecnologias que vão muito além daquelas que existem hoje, e também pode ser um romance comum, totalmente realista, mas com enredo, personagens ou ambientes inventados.
+Dessa forma, uma matéria jornalística jamais poderia ser considerada ficcional, já que um dos pilares do jornalismo é a busca pela verdade e a publicização das informações com precisão e veracidade. Um jornal que noticiasse ficções estaria ferindo um de seus princípios mais fundamentais.
+Apesar de essa definição de ficção ser bem popular, os críticos e teóricos de cinema franceses Jacques Aumont e Michel Marie afirmam que a ficção é uma forma de discurso que faz referência a personagens ou a ações que só existem na imaginação daquele que a escreve ou lê. Segundo eles, a ficção não é uma mentira, mas um simulacro da realidade, uma das possíveis maneiras de se representar o real.
+Assim, podemos dizer que todo relato é uma tentativa de representar a realidade por meio de palavras. Um relato de um acontecimento não é o próprio acontecimento em si. Os fatos ficam no passado, depois que acontecem. Qualquer tentativa de retomá-los no presente, por meio de uma história, será uma representação, será uma construção da mente de uma pessoa. Logo, será uma ficção.
+
+Lucia Mascarenhas de Miranda. A fronteira entre fato e ficção.
+In: Ciência Hoje, outubro de 2024.
+Internet: <cienciahoje.org.br> (com adaptações).
+
+Julgue os itens a seguir com base nas ideias apresentadas no texto CB1A1-II.
+Os críticos e teóricos de cinema Jacques Aumont e Michel Marie caracterizam a ficção como um simulacro da realidade, em uma oposição explícita à visão comum nos meios acadêmicos segundo a qual a ficção é uma mentira.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+51.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alberto Oliveira
+28 de janeiro de 2025 às 23:44
+O oposição não é feita a visão comum nos meios acadêmicos, mas a visão popular.
+Reportar abuso
+Ajudou (1) Não ajudou
+6
+Q3367432
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - BACEN - Analista - Área: Tecnologia da Informação - 2024
+Texto associado
+Texto CB1A1-I
+
+A emergência de uma grande variedade de plataformas digitais, desde o final da década de 1990, provocou uma mudança econômica radical e uma reorganização de mercados e arranjos de trabalho. A economia de plataforma não está apenas mudando a forma como o trabalho é realizado e remunerado. Os mercados de trabalho também estão se transformando drasticamente, levando a uma situação em que o “emprego padrão” é cada vez mais suplementado ou substituído por trabalho temporário “fora do padrão”, mediado por plataformas. Em um contexto de crescente instabilidade macroeconômica, de desregulamentação das relações de trabalho — em função do impacto disruptivo de tecnologias digitais na intermediação dessas relações —, verifica-se a emergência de novas formas de emprego “fora do padrão”, que reforçam diversos tipos de “flexibilidade” — temporal, espacial, gerencial e funcional, entre outras. Grande parte dessas novas formas de emprego está vinculada à mediação de plataformas digitais, que conectam ofertantes e demandantes de trabalho.
+As plataformas digitais facilitam a articulação entre ofertantes e demandantes de trabalho que, de outra forma, poderiam ter dificuldades para interagir entre si, tornando a realização de transações mais eficiente do que seria possível em relacionamentos bilaterais entre as partes, fornecendo infraestrutura e regras para sua realização. No âmbito dessas plataformas, a correspondência (matching) entre ofertantes e demandantes de trabalho pode ser feita de forma eficaz, por exemplo, por meio de algoritmos que diminuem a quantidade de tempo utilizado para encontrar trabalhadores adequados para tarefas específicas, além de oferecer a base para o controle e gerenciamento dessas tarefas.
+No entanto, a força de trabalho torna-se mais vulnerável, pois as leis trabalhistas ainda se baseiam em um antigo sistema “binário”, segundo o qual quem é empregado recebe direitos — por exemplo, aviso de demissão ou férias pagas —, mas para quem é contratado o acesso a esses direitos tende a ser restringido. Assim, se o modelo de plataformas de trabalho com a interveniência de uma gestão algorítmica oferece vantagens no que se refere à flexibilidade sobre formas convencionais de organização e gestão do trabalho, esse mesmo modelo suscita questões relevantes como a distribuição desigual de oportunidades, benefícios e riscos entre os agentes envolvidos, bem como os possíveis custos sociais advindos de uma eventual precarização das relações de trabalho.
+
+Herbert P. S. de Oliveira e Jorge N. de P. Britto. Gerenciamento e disciplina algorítmica: uma análise focalizada em plataformas de emprego de elevada qualificação. Economia e Sociedade, Campinas, v. 32, n.º 3 (79), 2023 (com adaptações).
+
+Acerca dos sentidos veiculados no texto CB1A1-I, julgue os itens a seguir.
+Conclui-se da leitura do texto que o modelo de plataformas digitais de trabalho, por sua variada flexibilidade, oferece aos trabalhadores mais vantagens que desvantagens.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+82.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+R
+Rodrigo
+17 de agosto de 2024 às 10:32
+Bom dia, colegas!
+
+
+"No entanto, a força de trabalho torna-se mais vulnerável, pois as leis trabalhistas ainda se baseiam em um antigo sistema “binário”, segundo o qual quem é empregado recebe direitos — por exemplo, aviso de demissão ou férias pagas —, mas para quem é contratado o acesso a esses direitos tende a ser restringido."
+
+Por esse período, podemos concluir que as leis trabalhistas diferenciam empregados de contratados.
+
+
+
+Reportar abuso
+Ajudou (13) Não ajudou
+7
+Q3367434
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - BACEN - Analista - Área: Tecnologia da Informação - 2024
+Texto associado
+Texto CB1A1-I
+
+A emergência de uma grande variedade de plataformas digitais, desde o final da década de 1990, provocou uma mudança econômica radical e uma reorganização de mercados e arranjos de trabalho. A economia de plataforma não está apenas mudando a forma como o trabalho é realizado e remunerado. Os mercados de trabalho também estão se transformando drasticamente, levando a uma situação em que o “emprego padrão” é cada vez mais suplementado ou substituído por trabalho temporário “fora do padrão”, mediado por plataformas. Em um contexto de crescente instabilidade macroeconômica, de desregulamentação das relações de trabalho — em função do impacto disruptivo de tecnologias digitais na intermediação dessas relações —, verifica-se a emergência de novas formas de emprego “fora do padrão”, que reforçam diversos tipos de “flexibilidade” — temporal, espacial, gerencial e funcional, entre outras. Grande parte dessas novas formas de emprego está vinculada à mediação de plataformas digitais, que conectam ofertantes e demandantes de trabalho.
+As plataformas digitais facilitam a articulação entre ofertantes e demandantes de trabalho que, de outra forma, poderiam ter dificuldades para interagir entre si, tornando a realização de transações mais eficiente do que seria possível em relacionamentos bilaterais entre as partes, fornecendo infraestrutura e regras para sua realização. No âmbito dessas plataformas, a correspondência (matching) entre ofertantes e demandantes de trabalho pode ser feita de forma eficaz, por exemplo, por meio de algoritmos que diminuem a quantidade de tempo utilizado para encontrar trabalhadores adequados para tarefas específicas, além de oferecer a base para o controle e gerenciamento dessas tarefas.
+No entanto, a força de trabalho torna-se mais vulnerável, pois as leis trabalhistas ainda se baseiam em um antigo sistema “binário”, segundo o qual quem é empregado recebe direitos — por exemplo, aviso de demissão ou férias pagas —, mas para quem é contratado o acesso a esses direitos tende a ser restringido. Assim, se o modelo de plataformas de trabalho com a interveniência de uma gestão algorítmica oferece vantagens no que se refere à flexibilidade sobre formas convencionais de organização e gestão do trabalho, esse mesmo modelo suscita questões relevantes como a distribuição desigual de oportunidades, benefícios e riscos entre os agentes envolvidos, bem como os possíveis custos sociais advindos de uma eventual precarização das relações de trabalho.
+
+Herbert P. S. de Oliveira e Jorge N. de P. Britto. Gerenciamento e disciplina algorítmica: uma análise focalizada em plataformas de emprego de elevada qualificação. Economia e Sociedade, Campinas, v. 32, n.º 3 (79), 2023 (com adaptações).
+
+Acerca dos sentidos veiculados no texto CB1A1-I, julgue os itens a seguir.
+No quarto período do primeiro parágrafo, o trecho isolado entre travessões expressa a causa da desregulamentação das relações de trabalho.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+33.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Andre2
+26 de agosto de 2024 às 15:43
+Não. Comenta-se sobre a facilidade de articulação e da eficácia de correspondência entre ofertantes e demandantes, mas em nenhum momento se incentiva explicitamente.
+Reportar abuso
+Ajudou (36) Não ajudou
+Giovanna Holanda
+2 de setembro de 2024 às 15:28
+CEBRASPE É: se um termo na questão tá errada o item tá errado. Nessa questão o incentiva-se o uso fez a questão ser errada.
+
+Reportar abuso
+Ajudou (12) Não ajudou
+Zamis
+11 de setembro de 2024 às 09:20
+"As plataformas digitais facilitam a articulação entre ofertantes e demandantes de trabalho que, de outra forma, poderiam ter dificuldades para interagir entre si, tornando a realização de transações mais eficiente do que seria possível em relacionamentos bilaterais entre as partes, fornecendo infraestrutura e regras para sua realização". Sinceramente eu não sei porque o item está errado...
+Reportar abuso
+Ajudou (3) Não ajudou
+Renata
+18 de novembro de 2024 às 15:01
+No segundo parágrafo, incentiva-se o uso das plataformas digitais na articulação entre ofertantes e demandantes de trabalho, a partir da valorização de sua eficácia e das facilidades dele decorrentes.
+
+AFIRMATIVA ERRADA. 
+
+O texto está expondo informações e não INCENTIVANDO o uso dos das plataformas digitais. Portanto, houve uma extrapolação com uso da expressão" incentiva-se".
+
+
+QC
+Reportar abuso
+Ajudou (2) Não ajudou
+Alberto Oliveira
+28 de janeiro de 2025 às 23:56
+Galera! Interpretação de texto na Cebraspe o foco tem que estar em primeiro lugar identificar extrapolação. Aprendam a identificar extrapolação para enfrentar a Cebraspe.
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+8
+Q3123972
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MMA - Analista Ambiental - 2024
+Texto associado
+Text CB1A8
+
+The idea of giving rights to animals has long been contentious, but a deeper look into the reasoning behind the philosophy reveals ideas that aren’t all that radical. Animal rights advocates want to distinguish animals from inanimate objects, as they are so often considered by exploitative industries and the law. The animal rights movement strives to make the public aware of the fact that animals are sensitive, emotional, and intelligent beings who deserve dignity and respect. But first, it’s important to understand what the term “animal rights” really means.
+Animal rights are moral principles grounded in the belief that non-human animals deserve the ability to live as they wish, without being subjected to the desires of human beings. At the core of animal rights is autonomy, which is another way of saying choice. In many countries, human rights are enshrined to protect certain freedoms, such as the right to expression, freedom from torture, and access to democracy. Of course, these choices are constrained depending on social locations like race, class, and gender, but generally speaking, human rights safeguard the basic tenets of what makes human lives worth living. Animal rights aim to do something similar, only for non-human animals.
+Animal rights come into direct opposition with animal exploitation, which includes animals used by humans for a variety of reasons, be it for food, as experimental objects, or even pets. Animal rights can also be violated when it comes to human destruction of animal habitats. This negatively impacts the ability of animals to lead full lives of their choosing.
+
+Internet: <thehumaneleague.org > (adapted).
+
+Considering the ideas and linguistic aspects of the text above, judge the items below.
+The fragment “of the fact” (third sentence of the first paragraph), can be deleted without affecting the meaning or correctness of the original text.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+65.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Shaolin
+28 de janeiro de 2024 às 16:43
+A eliminação do fragmento "of the fact" não afetará o significado ou a correção do texto original. A frase pode ser reescrita como: The animal rights movement strives to make the public aware that animals are sensitive, emotional, and intelligent beings who deserve dignity and respect: "O movimento pelos direitos dos animais se esforça para conscientizar o público de que os animais são seres sensíveis, emocionais e inteligentes que merecem dignidade e respeito."
+Reportar abuso
+Ajudou (52) Não ajudou
+Ronaldo Adriano Dos Santos
+17 de julho de 2024 às 16:37
+Perfeito Shaolin
+Reportar abuso
+Ajudou (2) Não ajudou
+WL
+Washington Luiz Dos Santos
+23 de agosto de 2024 às 20:51
+A afirmação está correta: "of the fact" pode ser removido sem afetar o significado ou a correção do texto original. A frase "make the public aware of the fact" pode ser simplificada para "make the public aware" sem perder o sentido de que o movimento de direitos dos animais visa conscientizar o público sobre a sensibilidade, emoção e inteligência dos animais.
+Reportar abuso
+Ajudou (1) Não ajudou
+9
+Q3164318
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+Julgue os próximos itens, relativos a aprendizado de máquina.
+Aprendizado de máquina pode ser definido como a criação e o uso de modelos que são aprendidos a partir dos dados.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+93.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Leonardo Cardoso Dos Santos
+20 de abril de 2024 às 09:01
+É isso aí, não tem como criar modelos (descritivos, preditivos, etc) sem dados, que são peças necessárias para o Aprendizado de Maquinas.
+
+Gabarito: certo
+Abraço e bons estudos!
+Reportar abuso
+Ajudou (14) Não ajudou
+MJ
+Marcelo Jacintho Da Silva
+22 de setembro de 2024 às 20:09
+O algoritmo Naive Bayes é um classificador probabilístico baseado no Teorema de Bayes. Ele é chamado de "ingênuo" porque assume que todas as características (ou atributos) de entrada são independentes entre si, o que raramente é verdade na prática, mas simplifica bastante os cálculos¹².
+### Como Funciona:
+1. **Probabilidades Condicionais**: O Naive Bayes calcula a probabilidade de uma instância pertencer a uma classe com base nas probabilidades condicionais dos atributos.
+2. **Fórmula de Bayes**: A fórmula usada é:
+$$
+P(C|X) = \frac{P(X|C) \cdot P(C)}{P(X)}
+$$
+onde \( P(C|X) \) é a probabilidade da classe \( C \) dado o conjunto de atributos \( X \), \( P(X|C) \) é a probabilidade dos atributos dado a classe, \( P(C) \) é a probabilidade a priori da classe, e \( P(X) \) é a probabilidade a priori dos atributos¹².
+### Vantagens:
+- **Simplicidade**: Fácil de implementar e interpretar.
+- **Eficiência**: Funciona bem com grandes volumes de dados.
+- **Escalabilidade**: Pode ser treinado rapidamente, mesmo com grandes conjuntos de dados¹².
+### Desvantagens:
+- **Assunção de Independência**: A suposição de independência entre atributos pode não ser realista, afetando a precisão.
+- **Dados Escassos**: Pode ter dificuldades com dados escassos ou quando há poucas instâncias de uma classe¹².
+### Aplicações:
+- **Filtragem de Spam**: Classificação de e-mails como spam ou não-spam.
+- **Análise de Sentimentos**: Determinação de sentimentos em textos, como avaliações de produtos.
+- **Diagnóstico Médico**: Previsão de doenças com base em sintomas¹².
+Se precisar de mais detalhes ou exemplos específicos, estou aqui para ajudar!
+Fonte: Copilot, 22/09/2024
+(1) Naive Bayes: entenda o que é e como funciona esse algoritmo! - Voitto. https://www.voitto.com.br/blog/artigo/naive-bayes.
+(2) Algoritmo Naive Bayes: saiba o que é, vantagens e desvantagens. https://www.escoladnc.com.br/blog/entendendo-o-naive-bayes-algoritmo-para-classificacao-probabilistica/.
+(3) Naive Bayes: fundamentos, vantagens e aplicações práticas. https://www.cursospm3.com.br/blog/naive-bayes/.
+(4) Saiba tudo sobre Naive Bayes, um dos algoritmos de classificação - Awari. https://awari.com.br/naive-bayes/.
+(5) Naive Bayes: como funciona esse algoritmo de classificação - Tera. https://blog.somostera.com/data-science/naive-bayes.
+(6) Naive Bayes – Wikipédia, a enciclopédia livre. https://pt.wikipedia.org/wiki/Naive_Bayes.
+(7) Naive Bayes classifier - Wikipedia. https://en.wikipedia.org/wiki/Naive_Bayes_classifier.
+Reportar abuso
+Ajudou (0) Não ajudou
+10
+Q3164348
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+No que se refere à análise exploratória de dados e ao pré-processamento de dados, julgue os próximos itens.
+A fase de pré-processamento de dados é um processo semiautomático que depende da capacidade do analista de identificar os problemas presentes nos dados e a natureza desses problemas, bem como os métodos para solucioná-los.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+79.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Williston Cunha Castro
+6 de novembro de 2024 às 19:46
+Pré-processamento de dados .
+Envolve a limpeza, integração, transformação e redução de dados para prepará-los para análise.
+Identifica e corrige erros e inconsistências nos dados. (Limpeza)
+Combinação de dados de diferentes fontes em um formato consistente. (Integração)
+Conversão de dados brutos em um formato adequado para análise. (Transformação)
+Redução do volume de dados sem perder informações importantes. (redução)
+
+Reportar abuso
+Ajudou (11) Não ajudou
+11
+Q3164344
+Tecnologia da Informação Mineração de Dados (Data Mining)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+No que se refere à análise e à mineração de dados, julgue os próximos itens.
+A tarefa de agrupamento de dados consiste na análise de conjuntos de dados em que estão presentes apenas as descrições dos dados e pode até mesmo resolver problemas de detecção de desvios.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+50.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+ND
+Natanael De Sousa Leite
+1 de abril de 2024 às 14:24
+Correto
+
+A tarefa de agrupamento de dados é uma técnica de mineração de dados que consiste em classificar dados semelhantes em grupos. Isso é feito com base apenas nas descrições dos dados, sem qualquer conhecimento prévio. Além disso, o agrupamento de dados pode ser usado para resolver problemas de detecção de desvios, pois pode ajudar a identificar padrões e anomalias nos dados.
+Reportar abuso
+Ajudou (94) Não ajudou
+Williston Cunha Castro
+6 de novembro de 2024 às 19:09
+Resumo:
+
+Agrupamento de dados
+
+técnica de mineração
+i. classifica dados semelhantes em grupos.
+ii. baseado apenas nas descrições dos dados,
+iii. sem qualquer conhecimento prévio.
+
+Usado para resolver problemas de detecção de desvios.
+i. Ajudar a identificar padrões e anomalias nos dados
+Reportar abuso
+Ajudou (13) Não ajudou
+12
+Q3238163
+Administração de Recursos Materiais Teoria da Imprevisão
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+Considerando os conceitos de tecnologias, logística 4.0, transformação digital, ERP e custos logísticos, julgue os próximos itens.
+A introdução no mercado ou na empresa de um produto (bem ou serviço) substancialmente aprimorado não é considerada inovação tecnológica.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+84.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriella Rodrigues Oliveira
+23 de novembro de 2024 às 07:08
+A afirmação de que um produto substancialmente aprimorado não é considerado inovação tecnológica é equivocada, pois melhorias significativas em produtos ou serviços estão alinhadas ao conceito de inovação, desde que representem avanços tangíveis em comparação com versões anteriores. Na gestão de recursos materiais, a introdução de tais inovações demanda planejamento para otimizar sua utilização e maximizar seus benefícios para a organização.
+Reportar abuso
+Ajudou (33) Não ajudou
+13
+Q3164349
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+No que se refere à análise exploratória de dados e ao pré-processamento de dados, julgue os próximos itens.
+A análise multivariada com gráficos, um dos tipos primários de análise exploratória de dados, faz uso de imagens para exibir a relação entre duas ou mais variáveis.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+84.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Michelle De Oliveira Paz Sousa
+26 de junho de 2024 às 11:43
+Um dos processos de Análise Exploratória de Dados é : realizar um exame gráfico das relações entre as variáveis analisadas e uma análise descritiva que quantifique o grau de inter-relação entre elas.
+Reportar abuso
+Ajudou (8) Não ajudou
+Marcelo Ito
+29 de outubro de 2024 às 21:49
+Certo.
+
+Na análise exploratória de dados existem 4 tipo principais:
+Univariada não gráfica.
+Univariada gráfica.
+Multivariada não gráfica.
+Multivariada gráfica: os dados multivariados usam gráficos para exibir relações entre dois ou mais conjuntos de dados. O gráfico mais usado é um gráfico de barras agrupadas ou gráfico de barras com cada grupo representando um nível de uma das variáveis e cada barra dentro de um grupo representando os níveis da outra variável.
+
+Fonte: https://www.ibm.com/br-pt/topics/exploratory-data-analysis
+Reportar abuso
+Ajudou (5) Não ajudou
+14
+Q3163261
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Com relação a ciência de dados e inteligência artificial, julgue os próximos itens.
+A capacidade de classificação é uma tarefa importante no aprendizado de máquina, por ser utilizada no estabelecimento de padrões.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tulio Vargas
+3 de março de 2024 às 20:43
+que questao mal feita!! complicado
+Reportar abuso
+Ajudou (10) Não ajudou
+Ewerton
+8 de maio de 2024 às 09:34
+É uma questão bem genérica (e preguiçosa), mas basicamente está falando sobre a parametrização utilizada em algoritmos de classificação. Essa técnica consiste em encontrar os valores ideais para os parâmetros de um modelo, de forma a otimizar sua capacidade de realizar tarefas específicas.
+Reportar abuso
+Ajudou (8) Não ajudou
+Claudio Roberto Celestino Junior
+27 de março de 2024 às 14:26
+Cebraspe está numa fase horrível em 2024. Uma questão pior que a outra.
+
+Reportar abuso
+Ajudou (6) Não ajudou
+Miguel
+3 de setembro de 2024 às 08:46
+
+Gente, vou falar uma coisa para vocês aqui... Em concursos, passa quem sabe fazer questões. Em vez de vocês ficarem criticando cada questão feita pelo Cesbraspe, comecem a analisar a forma como ela cobra. Quando chegar o dia, não é o que você sabe que vai importar, mas sim como a banca cobrou. Se a questão está mal formulada, mal feita ou se está dúbia, se planeje e estude dentro desse cenário. Reclamar não vai mudar a forma como a banca vai cobrar as questões. Vocês estudam para acertar questões da banca X, e não para dar aula sobre o assunto.
+Reportar abuso
+Ajudou (4) Não ajudou
+Edvard Dias Magalhaes
+18 de junho de 2024 às 11:50
+Sim, é correta a afirmação de que a capacidade de classificação é uma tarefa importante no aprendizado de máquina por ser utilizada no estabelecimento de padrões está correta. A classificação é um tipo fundamental de aprendizado supervisionado, onde o objetivo é treinar um modelo para prever a qual categoria um novo dado pertence, com base em um conjunto de dados de treinamento rotulado.
+Reportar abuso
+Ajudou (2) Não ajudou
+15
+Q3163275
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Considerando processos de análise e mineração de dados, julgue os itens subsecutivos.
+Em data mining, a técnica de associação é uma função que determina o coeficiente de afinidade entre certos eventos.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+85.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AS
+Alexandre Silva Sousa
+31 de março de 2024 às 15:54
+Em data mining, a técnica de associação é usada para descobrir padrões e relações de associação entre itens em grandes conjuntos de dados. Através da análise de padrões de associação, como os obtidos pelo algoritmo a priori, é possível identificar a probabilidade de dois eventos ocorrerem juntos, o que pode ser interpretado como uma forma de afinidade entre esses eventos.
+Reportar abuso
+Ajudou (27) Não ajudou
+CF
+Camila Fontenele
+11 de maio de 2024 às 17:59
+A associação possui como princípio a utilização de algumas regras para encontrar relacionamentos entre variáveis, inclusive em situações em que elas, aparentemente, não possuem nenhuma relação.
+Esta técnica é muito utilizada em ambientes de vendas, de modo a descobrir os hábitos de consumo dos diferentes segmentos de clientes, bem como identificar relações entre a comercialização de diferentes produtos, com o intuito de maximizar as negociações das suas mercadorias. Por este motivo, esse modelo também é chamado de Análise de Cesta de Compras.
+fonte: Estratégia
+Reportar abuso
+Ajudou (4) Não ajudou
+Daniela Ferreira Batista
+29 de abril de 2024 às 20:12
+O Data Mining é a Mineração de dados, a qual é uma técnica assistida por computador usada em análises para processar e explorar grandes conjuntos de dados.
+Ela serve como uma ferramenta que busca descobrir padrões de informações e relacionamentos ocultos em seus dados.
+Reportar abuso
+Ajudou (4) Não ajudou
+CF
+Camila Fontenele
+26 de junho de 2024 às 10:14
+Associações: são ocorrências ligadas a um único evento. Por exemplo: um estudo de modelos de compra em supermercados pode revelar que, na compra de salgadinhos de milho, compra-se também um refrigerante tipo Coca-Cola em 65% das vezes: mas, quando há uma promoção, o refrigerante é comprado em 85% das vezes. Com essas informações, os gerentes podem tomar decisões mais acertadas pois aprenderam a respeito da rentabilidade de uma promoção.
+fonte: pdf gran
+Reportar abuso
+Ajudou (3) Não ajudou
+Edvard Dias Magalhaes
+18 de junho de 2024 às 14:58
+O data mining, também conhecido como mineração de dados, é um processo que extrai conhecimento útil e acionável a partir de grandes conjuntos de dados. Através de técnicas estatísticas e de aprendizado de máquina, o data mining permite identificar padrões, tendências e anomalias nos dados, fornecendo insights valiosos para empresas, instituições de pesquisa e diversos outros setores.
+Mas quais são as principais técnicas utilizadas no data mining?
+
+Neste mundo empolgante da descoberta do conhecimento, exploraremos algumas das técnicas mais comuns:
+
+1. Aprendizagem Supervisionada:
+
+Regressão: Prediz um valor contínuo com base em variáveis previsoras (ex: Previsão do preço de uma casa).
+Classificação: Classifica dados em categorias predefinidas (ex: Identificar se um e-mail é spam ou não).
+2. Aprendizagem Não Supervisionada:
+
+Agrupamento: Agrupa dados em clusters com base em similaridades (ex: Segmentar clientes com base em seus hábitos de compra).
+Redução de Dimensionalidade: Reduz o número de variáveis em um conjunto de dados (ex: Simplificar um modelo de previsão financeira).
+3. Análise de Associação:
+
+Descobre regras de associação entre itens em um conjunto de dados (ex: Encontrar produtos frequentemente comprados juntos em um supermercado).
+4. Detecção de Anomalias:
+
+Identifica dados que se desviam de padrões esperados (ex: Detectar fraudes em transações financeiras).
+5. Text Mining:
+
+Extrai informações de texto não estruturado (ex: Analisar o sentimento de clientes em avaliações de produtos).
+Reportar abuso
+Ajudou (2) Não ajudou
+16
+Q3163279
+Tecnologia da Informação Mineração de Dados (Data Mining)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Considerando processos de análise e mineração de dados, julgue os itens subsecutivos.
+A análise de conglomerados tem como objetivo agrupar os elementos de um conjunto de dados que tenham semelhanças entre si.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+89.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rodrigostoso
+25 de março de 2024 às 21:29
+CORRETO - ANÁLISE DE CONGLOMERADOS É O MESMO QUE AGRUPAMENTO/CLUSTERIZAÇÃO
+Reportar abuso
+Ajudou (29) Não ajudou
+VT
+Victor Taveira
+8 de outubro de 2024 às 16:16
+A palavra Conglomerados já traz no seu significado no dicionário o caminho para responder a questão. Neste contexto, ela é sinônimo de clusterização e agrupamento, e a segunda oração é a definição do Algorítmo de clusterização.
+
+A resposta do Item é Certo
+
+Reportar abuso
+Ajudou (6) Não ajudou
+Tiago Rocha
+11 de julho de 2024 às 22:07
+certo, clusters
+Reportar abuso
+Ajudou (6) Não ajudou
+17
+Q3163434
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Pesquisador - Área: Saúde Avançada - Manufatura Aditiva, Simulação Computacional - 2024
+Texto associado
+A respeito de dados, julgue os itens a seguir.
+Análise de dados descritiva refere-se ao tipo de análise que se baseia em técnicas estatísticas e mineração de dados para prever o que vai acontecer em um contexto organizacional.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+68.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alexandre Muller Gomes Rodrigues
+10 de março de 2024 às 16:22
+Previsão de acontecimentos -> Preditivas
+Reportar abuso
+Ajudou (23) Não ajudou
+R. Silva
+21 de julho de 2024 às 15:21
+Não, pois a análise de dados descritiva (ou estatística descritiva) refere-se ao processo de sumarizar e descrever as principais características de um conjunto de dados.
+Reportar abuso
+Ajudou (12) Não ajudou
+Kelly Crystina Honorio De Sousa
+7 de março de 2024 às 15:02
+A analise de dados inferencial, preocupa-se com o raciocínio necessário para, a partir dos dados, se obter conclusões gerais
+Reportar abuso
+Ajudou (4) Não ajudou
+18
+Q3232477
+Administração de Recursos Materiais Gestão da Cadeia de Suprimentos
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Suprimentos de Bens e Serviços Júnior - Área Administração - 2024
+Texto associado
+Entre as práticas de sustentabilidade na cadeia de suprimento, destacam-se as diversas ações de logística reversa, principalmente as que fazem parte do pós-consumo e da pós-venda. A respeito da sustentabilidade na cadeia de suprimento, julgue os itens seguintes.
+Conforme os conceitos de sustentabilidade na cadeia de suprimentos, as empresas que assumem o desafio de operar as atividades logísticas de maneira racional, eficiente e eficaz buscam garantir a competitividade e a sustentabilidade na sua organização e no mercado global.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+97.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MP
+Miguel Pereira Barros
+29 de maio de 2024 às 10:20
+Uma empresa que atua em função dos critérios de sustentabilidade e competitividade destaca-se no contexto global, posto que seus produtos agridem menos o meio ambiente, além de produzir materiais com boa durabilidade, alinham-se com o contexto atual e com o bom uso da tecnologia. Gabarito: correto.
+Reportar abuso
+Ajudou (46) Não ajudou
+19
+Q3232480
+Administração de Recursos Materiais Estratégias do Setor de Compras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Suprimentos de Bens e Serviços Júnior - Área Administração - 2024
+Texto associado
+Entre as práticas de sustentabilidade na cadeia de suprimento, destacam-se as diversas ações de logística reversa, principalmente as que fazem parte do pós-consumo e da pós-venda. A respeito da sustentabilidade na cadeia de suprimento, julgue os itens seguintes.
+As empresas que se destacam por adotar estratégias empresariais que divulguem suas ações produtivas e estejam voltadas para o desenvolvimento de um modelo focado na sustentabilidade são notadamente consideradas inovadoras.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+95.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MP
+Miguel Pereira Barros
+29 de maio de 2024 às 10:50
+Além de se destacarem pela inovação, também ganham uma vantagem competitiva ao focar no desenvolvimento sustentável, cuja demanda vem sendo cada vez maior no mercado.
+Reportar abuso
+Ajudou (37) Não ajudou
+20
+Q3218620
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Inovação e Gestão de Infraestrutura de P&D - Desenvolvimento Tecnológico voltado a infraestrutura de TI - 2024
+Texto associado
+Acerca de arquitetura do sistema de arquivos distribuído, julgue os itens subsecutivos.
+O núcleo do Hadoop File System é um servidor executado em uma máquina chamada NameNode, que recebe e coordena todas as solicitações do sistema de arquivos.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+81.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Fabiano Ventura Guimarães
+9 de agosto de 2024 às 14:31
+CERTA (C).
+
+Por que o NameNode é o coração do HDFS?
+
+Metadados: O NameNode armazena todas as informações sobre os arquivos armazenados no HDFS, como localização dos blocos, permissões e informações de replicação. Essas informações são conhecidas como metadados.
+
+Coordenação: Ele é responsável por coordenar todas as operações do sistema de arquivos, como criação, exclusão e modificação de arquivos, além de gerenciar a replicação dos dados.
+
+Ponto único de falha: Devido à sua importância central, o NameNode representa um ponto único de falha no sistema. Por isso, é fundamental implementar mecanismos de alta disponibilidade, como o uso de um NameNode secundário.
+
+Em resumo:
+
+O NameNode é o componente central do HDFS, responsável por gerenciar a meta-informação sobre os arquivos e coordenar todas as operações do sistema de arquivos. Ele é como o "cérebro" do HDFS, tomando todas as decisões importantes sobre como os dados são armazenados e acessados.
+Reportar abuso
+Ajudou (19) Não ajudou

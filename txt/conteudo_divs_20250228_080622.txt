@@ -1,0 +1,1035 @@
+1
+Q3221216
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Informática - 2024
+Texto associado
+Nos últimos anos, uma das tendências mais surpreendentes das ciências sociais pode ser descrita como a descoberta da ignorância. À primeira vista, parece bizarra a escolha desse objeto de estudo, pois há mais de trinta anos nos dizem que vivemos numa sociedade do conhecimento. Está cada vez mais claro, entretanto, que hoje vivemos também numa sociedade da ignorância, em que, de fato, sabemos pouco sobre as doenças, o meio ambiente e o funcionamento dos negócios e da política.
+Essa desconfortável tomada de consciência nos coloca um desafio. Como estudar a falta de conhecimento? Uma das respostas tem sido examinar as práticas correntes de ocultação de informações ou circulação de fake news, descrevendo essas atividades como exemplos da construção, produção ou fabricação da ignorância, quando, por exemplo, encobrem calamidades ou defendem que determinada droga não tem efeitos colaterais perigosos. Seria mais preciso falar de manutenção do que de produção da ignorância.
+Outra resposta a esse novo desafio seria estudar a história social da ignorância, perguntando quem ignora o quê em dado lugar e em dada época, quais são as causas dessa ignorância e, acima de tudo, que consequências ela produz. A humanidade nunca soube tantas coisas como hoje, mas cada indivíduo tem conhecimento apenas de uma parte ínfima desse saber. Quanto mais se tem a saber, mais se pode ignorar.
+Peter Burke. A ignorância na política. E a política da ignorância. Revista Piauí, ed. 168, 2020. Internet: <https://piaui.folha.uol.com.br> (com adaptações).
+Julgue os itens que se seguem, a respeito das ideias e estruturas linguísticas do texto precedente.
+Entende-se do texto que o conceito de “sociedade do conhecimento” perdurou por mais de trinta anos, até a sua substituição pela chamada “sociedade da ignorância”, recém-descoberta.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+69.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Schirley Soares
+9 de maio de 2024 às 19:38
+Está cada vez mais claro, entretanto, que hoje vivemos também numa sociedade da ignorância…
+
+Não substituiu, portanto gabarito ERRADO.
+Reportar abuso
+Ajudou (50) Não ajudou
+CF
+Cleiton Feliciano
+29 de abril de 2024 às 10:19
+Não foi substituída
+Reportar abuso
+Ajudou (5) Não ajudou
+Emerson Lopes Mota
+4 de setembro de 2024 às 22:25
+Existe uma extrapolação .
+Reportar abuso
+Ajudou (2) Não ajudou
+Eduardo Bittar
+23 de maio de 2024 às 14:10
+A palavra perdurou não se faz verdadeira segundo o enunciado da questão. Gabarito: E
+Reportar abuso
+Ajudou (2) Não ajudou
+L
+Larisse
+25 de abril de 2024 às 13:19
+a mais de 30 anos não é o mesmo que perdurar?
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+2
+Q3142747
+Administração Financeira e Orçamentária - AFO Princípios Orçamentários
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CGE RJ - Auditor do Estado - 2024
+Texto associado
+Acerca de conceitos básicos do orçamento público, seus princípios e seus instrumentos de planejamento, julgue os itens subsequentes.
+O princípio da universalidade está diretamente relacionado ao princípio da especificação, uma vez que ambos prescrevem a discriminação detalhada de todas as despesas por categorias econômicas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+77.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+EB
+Elivelton Bezerra Dos Santos
+24 de fevereiro de 2024 às 20:29
+O princípio da universalidade, o orçamento deve conter todas as receitas e despesas referentes aos Poderes do ente, seus fundos, órgãos e entidades da Administração direta e indireta.
+
+O princípio da especificação ou discriminação (ou ainda, especialização) determina que, na Lei Orçamentária Anual, as receitas e despesas devam ser discriminadas, demonstrando a origem e a aplicação dos recursos.
+
+Percebam que quem ambos prescrevem a ideia de toda receita e toda despesa. Contudo, o que traz a discriminação é o principio da especificação.
+
+
+Reportar abuso
+Ajudou (295) Não ajudou
+CD
+Claudio De Jesus
+20 de março de 2024 às 18:06
+A afirmação de que o princípio da universalidade está diretamente ligado ao princípio da especificação, pois ambos exigem a discriminação detalhada de todas as despesas por categorias econômicas, está errada.
+
+Embora ambos sejam importantes para a transparência e controle dos gastos públicos, têm objetivos diferentes. O princípio da universalidade garante que todas as receitas e despesas estejam no orçamento, enquanto o princípio da especificação garante que as despesas sejam discriminadas detalhadamente.
+Fundamentação: Lei nº 4.320/1964, Art. 2º, Art. 5º
+Art. 2º: A Lei do Orçamento deve detalhar a receita e a despesa para evidenciar a política econômica e o programa de trabalho do Governo, seguindo os princípios de unidade, universalidade e anualidade.
+Art. 5º: A Lei do Orçamento deve detalhar a despesa por unidades orçamentárias, especificando a natureza do gasto para permitir o controle da destinação dos recursos públicos.
+Reportar abuso
+Ajudou (52) Não ajudou
+Mayara
+4 de junho de 2024 às 23:35
+princípio da universalidade - todas as receitas e despesas estejam no orçamento
+princípio da especificação- todas as despesas e receitas devem ser discriminadas detalhadamente.
+Reportar abuso
+Ajudou (40) Não ajudou
+@
+@artur.alvesf
+5 de junho de 2024 às 16:39
+Uma coisa é uma coisa, outra coisa é outra coisa.
+Reportar abuso
+Ajudou (29) Não ajudou
+Camilla Bruna Dias De Souza
+15 de março de 2024 às 06:49
+Errado
+Reportar abuso
+Ajudou (4) Não ajudou
+Página 1 de 2
+3
+Q3238153
+Administração de Recursos Materiais Distribuição
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+A respeito de logística internacional, julgue o item seguinte.
+O despacho aduaneiro de exportação consiste na oficialização da comercialização por parte do país originário da operação, o que caracteriza a desnacionalização do produto.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+71.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Claudio Criscipessa
+24 de dezembro de 2024 às 23:42
+O despacho aduaneiro de exportação consiste na oficialização da comercialização por parte do país originário da operação, correto! o que caracteriza a desnacionalização do produto. Incorreto!
+Uma exportação não se enquadra no termo desnacionalização.
+Por exemplo: uma vez que, vendo/exporto a mercadoria com certificado de origem ou não, certifico que a mercadoria é ORIGINÁRIA DO BRASIL, contudo, se tenho preferencia tarifária de acordo com o ACE (Acordo Complementar Economico), determina se o IMPORTADOR terá que arcar com o Imposto de Importação de forma integral ou com redução da aliquota ao nacionalizar a sua mercadoria, ou seja, não há uma descaracterização pertinente a "nacionalidade" da mercadoria.
+Fonte: Raphaela Patareli, Qconcursos
+
+Reportar abuso
+Ajudou (10) Não ajudou
+4
+Q3419693
+Administração de Recursos Materiais Tombamento
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+Acerca da gestão patrimonial nas organizações públicas, julgue os itens seguintes.
+O tombamento consiste basicamente na colocação de etiqueta no bem patrimonial adquirido com o número de série de sua fabricação.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+82.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+R
+Rubens
+17 de setembro de 2024 às 14:31
+Colocação da etiqueta faz parte do tombamento, entretanto é só uma das etapas e características do tombamento que é mais amplo que isso
+
+Reportar abuso
+Ajudou (33) Não ajudou
+JD
+Jesse Do Nascimento Meireles
+19 de novembro de 2024 às 18:34
+O tombamento não se refere à colocação de etiqueta com o número de série de fabricação no bem patrimonial. 0 tombamento é un procedimento administrativo que visa registrar e proteger os bens patrimoniais, garantindo seu controle e preservação
+Reportar abuso
+Ajudou (12) Não ajudou
+5
+Q3419678
+Administração de Recursos Materiais Critérios e Técnicas de Armazenagem
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+Com relação ao recebimento e armazenagem de materiais nas organizações públicas, julgue os itens a seguir.
+A armazenagem por acomodabilidade ocorre quando os materiais com maior frequência de entrada e saída do almoxarifado são armazenados próximos a esses lugares no almoxarifado.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+56.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriele Viana
+7 de outubro de 2024 às 15:57
+Armazenagem por acomodabilidade: materiais com tamanhos similares são armazenados próximos, o que facilita o aproveitamento dos espaços.
+Reportar abuso
+Ajudou (50) Não ajudou
+TL
+Thairine Lisboa Monteiro
+24 de setembro de 2024 às 18:19
+Esse conceito é sobre a armazenagem por frequência : os materias com maior frequência de entrada e saída do almoxarifado são armazenados próximos à sua entrada/saída
+Reportar abuso
+Ajudou (30) Não ajudou
+6
+Q3128753
+Língua Portuguesa Morfossintaxe do período
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração de Pessoal - 2024
+Texto associado
+Texto CG1A1
+
+Em 1947, o físico brasileiro César Lattes causou grande impacto nos meios científicos internacionais e conquistou reconhecimento com sua descoberta que elucidou alguns problemas pendentes de solução no campo da radiação cósmica e confirmou a teoria do físico japonês Hideki Yukawa sobre a existência de uma partícula supostamente responsável pela ligação entre prótons e nêutrons nos núcleos atômicos. Esse último aspecto foi bastante para dar um relevo todo especial à descoberta, enriquecendo seu significado com a possibilidade de novas aberturas no controle das forças nucleares, tão cobiçado depois das explosões atômicas. Toda a imprensa mundial e brasileira aclamou a descoberta, e a ciência brasileira saiu do porão para a sala de visitas.
+No ano seguinte, Lattes voltou a causar impacto após conseguir a produção artificial daquela partícula em um acelerador do tipo circular, em Berkeley, nos Estados Unidos da América. E em 1949, a física no Brasil começou a se institucionalizar com a criação do Centro Brasileiro de Pesquisas Físicas. Junto com ela, a ciência, em geral, também organizava sua entidade representativa, com o surgimento da Sociedade Brasileira para o Progresso da Ciência (SBPC) naquele mesmo ano. Foi nesse caldo cultural que o almirante Álvaro Alberto ganhou mais argumentos para persuadir o governo brasileiro. Segundo seus depoimentos reproduzidos na coletânea 50 anos do CNPq contados pelos presidentes, organizada por Shozo Motoyama, em maio de 1949, após a leitura de relatórios sobre a questão atômica, o presidente Dutra enviou ao Congresso Nacional um anteprojeto para criação do Conselho Nacional de Pesquisas, já prevendo seu papel na política nuclear. Depois de uma longa tramitação na Câmara dos Deputados e no Senado Federal, nascia o CNPq, com o almirante como seu primeiro presidente.
+
+Rodrigo Cunha. 60 anos do CNPq: da política nuclear ao desafio da descentralização.
+In: Ciência e Cultura, São Paulo, v. 63, n.º 2, 2011 (com adaptações).
+
+Em relação a aspectos linguísticos do texto CG1A1, julgue os itens subsecutivos.
+Sem prejuízo da correção gramatical e da coerência das ideias do texto, a forma verbal “nascia” (último período do segundo parágrafo) poderia ser substituída por nasceu.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+66.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Marina Freitas Rocha
+6 de fevereiro de 2024 às 22:03
+Gabarito: correto.
+Nascia está no pretérito imperfeito do indicativo e se refere a um fato ocorrido no passado, mas que não foi completamente terminado.
+Nasceu está no pretérito perfeito do indicativo e indica que a ação verbal aconteceu num determinado momento do passado, tendo o seu início e o seu fim no passado.
+Atenção: a questão não pergunta sobre o sentido da frase.
+Reportar abuso
+Ajudou (378) Não ajudou
+Jemima Raulino Da Conceição
+1 de março de 2024 às 12:48
+GABARITO: CERTO
+
+Nascia está no pretérito imperfeito do indicativo e se refere a um fato ocorrido no passado, mas que não foi completamente terminado.
+Nasceu está no pretérito perfeito do indicativo e indica que a ação verbal aconteceu num determinado momento do passado, tendo o seu início e o seu fim no passado.
+Porém, como a questão não pergunta sobre o sentido da frase, então está correto pois não altera a coerência e a correção gramatical.
+Fonte: QC
+..................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................
+Não to mandei eu? ESFORÇA-TE, e tem bom ânimo;
+NÃO temas, nem te espantes;
+porque o Senhor teu Deus é contigo,
+por onde quer que andares.
+Josué 1:9
+Reportar abuso
+Ajudou (166) Não ajudou
+DR
+Diana Ramos Machado Arrieta
+6 de fevereiro de 2024 às 10:24
+Não estou entendendo os comentários, a questão não está tratando de uso de virgula e sim de substituição de palavra, ou será que sou eu que estou louca. Por favor algum professor pode comentar?
+Reportar abuso
+Ajudou (31) Não ajudou
+Bianca Bervian
+12 de fevereiro de 2024 às 15:16
+Gente que absurdo essa plataforma, questões com gabaritos divergentes aos da Banca, Maia relacionando comentários de outras questões...
+Reportar abuso
+Ajudou (30) Não ajudou
+JS
+Jhuliana Santos Sousa
+30 de janeiro de 2024 às 18:23
+certo ou errado? Maia justifica como errada, e a banca deu como correta?
+Reportar abuso
+Ajudou (7) Não ajudou
+Página 1 de 5
+7
+Q3129138
+Tecnologia da Informação ETL - Extração, Transformação e Carga
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão de Dados Corporativos - 2024
+Texto associado
+Julgue os itens seguintes, a respeito de ETL e de manipulação, tratamento e visualização de dados.
+Em gráficos interativos, um usuário pode detalhar áreas de interesse, de modo que é possível passar de uma visualização agregada, que mostra o total de vendas de um ano inteiro, para os números de vendas mensais de determinado ano.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+96.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Elohim Ribeiro
+2 de março de 2024 às 12:42
+Quanto maior o nível de agregação dos dados, mais gerais são as informações geradas, pois agrupam diversos dados. Também pode-se dizer que dados mais agregados têm maior granularidade.
+
+Os dados específicos (como o exemplo da assertiva, que sai de uma avaliação anual para uma mensal) apresentam menor agregação e menor granularidade.
+Reportar abuso
+Ajudou (4) Não ajudou
+CD
+Claudio De Jesus
+27 de agosto de 2024 às 23:08
+Menor Granularidade: Dados mais agregados e menos detalhados. Por exemplo, se você agrupar dados diários em totais mensais, você está reduzindo a granularidade. Isso significa que você tem menos detalhes (o total de um mês em vez dos detalhes de cada dia).
+
+Maior Granularidade: Dados mais detalhados e menos agregados. Por exemplo, se você tem dados para cada dia, em vez de totalizar os dados mensalmente, isso é maior granularidade. Você tem mais detalhes (dados para cada dia ao invés de apenas totais mensais).
+
+Então, a granularidade é uma medida de quão detalhados ou resumidos os dados estão. Mais detalhes significam maior granularidade e menos detalhes significam menor granularidad
+Reportar abuso
+Ajudou (1) Não ajudou
+MT
+Maria Tamile Dos Santos Lima
+10 de abril de 2024 às 07:08
+Quanto mais os dados estão agregados, significa um conjunto maior de dados, ou seja, dados agrupados de um período maior, consequentemente MENOR GRANULARIDADE, MENOR o detalhamento da informação. DIA => MÊS
+
+Por outro lado, quanto menor agregação dos dados, significa que os dados são mais fragmentados, menos agrupados, por sua vez, MAIOR GRANULARIDADE, ou seja, MAIOR o detalhamento da informação. MÊS => DIA
+
+;)
+Reportar abuso
+Ajudou (1) Não ajudou
+Ronaldo Chaves
+31 de janeiro de 2024 às 22:24
+C
+Reportar abuso
+Ajudou (0) Não ajudou
+8
+Q3128911
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+No que diz respeito à logística, julgue os itens a seguir.
+Compra, distribuição e venda são atividades básicas da estratégia operacional da logística.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+43.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Matheus Pereira Costa
+31 de janeiro de 2024 às 15:44
+Compra faz parte do setor de compras
+As funções do setor de logistica são: Movimentação de materiais, processamento de pedidos e manutenção do estoque
+Reportar abuso
+Ajudou (92) Não ajudou
+Juliane
+11 de fevereiro de 2024 às 12:39
+Mais uma vez a cobrança recai literalmente sobre as três atividades primárias da logística, de acordo com Ballou:
+Atividades Primárias: (Básicas)
+- Transportes, Manutenção de Estoques e Processamento de Pedidos
+Atividades de Apoio:
+- Obtenção, Armazenagem, Manutenção de Informações, Programação do Produto, Manuseio de Materiais
+e Embalagem de Proteção.
+Reportar abuso
+Ajudou (44) Não ajudou
+AF
+Antonia Francinalva Vieira Da Silva
+12 de março de 2024 às 23:55
+Venda não é uma atividade básica da Logística.
+Reportar abuso
+Ajudou (9) Não ajudou
+Raphael Sobreira Ferraz
+6 de março de 2024 às 09:13
+Questão errada :
+Atividades Primárias: (Básicas)
+- Transportes, Manutenção de Estoques e Processamento de Pedidos
+Reportar abuso
+Ajudou (6) Não ajudou
+Manuella O Nascimento
+27 de fevereiro de 2024 às 10:59
+ERRADO
+Essas não são funções BÁSICAS, são de APOIO.
+As funções BÁSICAS da logística são aquelas diretamente relacionadas ao fluxo de produtos e informações ao longo
+da cadeia de suprimentos. Isso inclui atividades como transporte, armazenamento e processamento de pedidos.
+Já as funções de APOIO são aquelas que fornecem suporte para as atividades básicas, garantindo que elas funcionem
+de forma eficiente. Isso pode incluir funções como embalagem, manutenção de estoque, gerenciamento de informações e planejamento de rotas.
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+9
+Q3135271
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista de Infraestrutura de Tecnologia da Informação - 2024
+Texto associado
+Julgue os itens a seguir, relativos à inteligência artificial (IA).
+Em machine learning, os sistemas podem usar aprendizado do tipo supervisionado, não supervisionado, autônomo ou gerenciado.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+79.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rodrigostoso
+4 de março de 2024 às 09:34
+Errado - Os tipos são: Supervisionado, Não supervisionado, Semi supervisionado e por reforço
+Reportar abuso
+Ajudou (47) Não ajudou
+Matias
+3 de maio de 2024 às 20:40
+Os principais:
+Aprendizado Supervisionado: Utiliza dados rotulados para treinar modelos que podem fazer previsões ou inferências em novos dados.
+Aprendizado Não Supervisionado: Explora padrões nos dados sem o uso de rótulos, como clusterização e redução de dimensionalidade.
+Aprendizado Semi-Supervisionado: Combina elementos de aprendizado supervisionado e não supervisionado, utilizando tanto dados rotulados quanto não rotulados para treinar modelos.
+Aprendizado por Reforço: Os modelos aprendem através de interações com um ambiente, recebendo recompensas ou penalidades com base em suas ações.
+Aprendizado por Transferência: Transfere conhecimento de uma tarefa fonte para uma tarefa alvo, visando melhorar o desempenho com dados limitados na tarefa alvo.
+Aprendizado Profundo (Deep Learning): Utiliza redes neurais profundas para aprender representações complexas dos dados, especialmente eficaz em dados de alta dimensão e não estruturados.
+
+Reportar abuso
+Ajudou (17) Não ajudou
+Rafagan Soares De Carvalho Sampaio Mariz
+24 de abril de 2024 às 21:44
+O ML trabalha com três tipos de algoritmos: supervisionado, não supervisionado e por reforço. No aprendizado por reforço, os modelos são treinados para elaborar uma sequência de decisões. 
+Reportar abuso
+Ajudou (5) Não ajudou
+Matias
+3 de maio de 2024 às 20:43
+A regressão é um tipo de aprendizado supervisionado cujo objetivo é entender a relação entre variáveis independentes.
+Reportar abuso
+Ajudou (5) Não ajudou
+Caramelo Concurseiro
+30 de março de 2024 às 14:04
+Po transferência tbm
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+10
+Q3134281
+Administração de Recursos Materiais Administração de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Administrativo - 2024
+Texto associado
+
+Na figura precedente, que representa um gráfico de movimentação de estoques, verifica-se que, a partir do ponto de pedido, a empresa começa a entrar em uma fase crítica de estoque e depende de dois fatores básicos: o comportamento da demanda (demanda esperada versus demanda efetiva) e a possibilidade de que o tempo de reposição sofra oscilações em função de contingências que possam ocorrer com certa frequência.
+
+Com base na figura e nas informações precedentes, julgue os itens que se seguem.
+No momento em que uma nova encomenda for processada, no ponto de pedido, se houver uma retração de demanda que siga no sentido da demanda efetiva 2, a empresa enfrentará uma elevada taxa de esgotamento do estoque, o que resultará no uso do estoque de segurança.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+61.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Savio Vinicius De Sousa
+3 de fevereiro de 2024 às 11:31
+Na questão mencionou o caso de retração. Ora, se é retração da demanda significa que ela diminuirá, e se diminui logo não faz sentido em se falar que o estoque de segurança será prejudicado.
+Reportar abuso
+Ajudou (97) Não ajudou
+Camila Manoel
+8 de março de 2024 às 10:12
+É o contrário, isso aconteceria no caso da demanda 1
+Reportar abuso
+Ajudou (16) Não ajudou
+11
+Q3134192
+Administração Geral Estrutura formal e informal
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Administrativo - 2024
+Texto associado
+Em relação às características das organizações formais modernas, julgue os itens que se seguem.
+As organizações modernas seguem o princípio da formalidade, segundo o qual as relações internas são regidas por normas costumeiras e tradicionais.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+81.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Vg
+4 de março de 2024 às 13:20
+As organizações formais modernas buscam quebrar o tradicional (normas) e agem com base em regras e procedimentos.
+Reportar abuso
+Ajudou (294) Não ajudou
+Macedo
+21 de fevereiro de 2024 às 21:41
+A organização informal é a organização que emerge espontânea e naturalmente entre as pessoas que ocupam posições na organização formal e a partir dos relacionamentos como ocupantes de cargos. Forma-se a partir das relações de amizade (ou de antagonismos) e do surgimento de grupos informais que não aparecem no organograma ou em qualquer outro documento formal.
+Reportar abuso
+Ajudou (103) Não ajudou
+Vania De Aquino Neves
+31 de maio de 2024 às 06:11
+Organizações modernas geralmente seguem o princípio da formalização
+Refere-se à criação e aplicação de regras, políticas, procedimentos e estruturas organizacionais formais
+A formalização visa orientar o comportamento e as interações dentro da organização
+
+Contrasta com normas costumeiras e tradicionais
+
+Em vez de práticas informais ou tradicionais, busca estabelecer padrões e diretrizes claras e explícitas
+Objetivos da formalização:
+
+Garantir a consistência nas operações
+Promover a transparência
+Melhorar a eficiência organizaciona
+Reportar abuso
+Ajudou (65) Não ajudou
+Catarine Brito Santos
+9 de junho de 2024 às 18:25
+As organizações formais modernas geralmente seguem o princípio da formalidade, mas isso significa que suas relações internas são regidas por normas e regulamentos explícitos e oficialmente estabelecidos, não por normas costumeiras e tradicionais.
+Normas costumeiras e tradicionais são típicas de organizações informais ou tradicionais, onde os costumes e a tradição desempenham um papel significativo na orientação das relações e atividades. Em contrapartida, nas organizações formais modernas, a ênfase está em políticas, procedimentos escritos e regulamentos que são claramente documentados e seguidos.
+Portanto, a afirmação de que as organizações modernas seguem o princípio da formalidade, segundo o qual as relações internas são regidas por normas costumeiras e tradicionais, está errada.
+A resposta é:
+E) **Errado**
+Reportar abuso
+Ajudou (37) Não ajudou
+Vania De Aquino Neves
+9 de junho de 2024 às 06:56
+normas costumeiras e tradicionais são características do PRINCÍPIO DO INFRMALISMO.
+Reportar abuso
+Ajudou (31) Não ajudou
+Página 1 de 2
+12
+Q3134313
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente de Tecnologia da Informação - 2024
+Texto associado
+Acerca de políticas de segurança da informação, julgue os itens seguintes.
+Um dos objetivos de uma POSIN é assegurar a disponibilidade e a integridade dos dados de uma organização.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+88.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Esau Teodoro Da Silva
+31 de julho de 2024 às 17:51
+Sim, um dos objetivos de uma Política de Segurança da Informação (POSIN) é assegurar a disponibilidade, integridade e confidencialidade dos dados de uma organização.
+Reportar abuso
+Ajudou (4) Não ajudou
+13
+Q3134773
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista de Sistemas da Informação - 2024
+Texto associado
+Julgue os itens subsecutivos, a respeito de integração de dados e big data.
+O processo de ETL consiste em analisar e reformatar os dados depois que forem carregados para um data warehouse, para posterior eliminação do que não é considerado necessário.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+80.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rodrigostoso
+25 de março de 2024 às 20:05
+Errado - ETL(Extração, Transformação e Carga) é o processo onde faz a extração de dados de vários repositórios transacionais, depois faz a transformação de dados, como limpeza, redução de redundância...etc e por ultimo é feita a carga no DataWarehouse para posterior analise de dados no modelo dimensional.
+
+Reportar abuso
+Ajudou (24) Não ajudou
+Daniel Ramos Neves
+11 de abril de 2024 às 19:23
+Este é o conceito de OLAP.
+
+OLTP ----> ETL (ou ELT) ----> armazenagem no DataWarehouse ----> OLAP
+Reportar abuso
+Ajudou (8) Não ajudou
+Tiago Rocha
+18 de junho de 2024 às 11:17
+ERRADO, No ETL, primeiro se EXTRAI, depois se CARREGA, no ELT é o inverso...
+Reportar abuso
+Ajudou (4) Não ajudou
+14
+Q3134986
+Raciocínio Lógico Negação de Proposições compostas
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente de Tecnologia da Informação - 2024
+Texto associado
+P1: “Todo profissional competente tem criatividade ou sensibilidade social.”
+P2: “Todo profissional competente tem criatividade e sensibilidade social.”
+
+Considerando as proposições lógicas P1 e P2, julgue os itens subsequentes.
+A negação da proposição P1 pode ser expressa corretamente como “Existe ao menos um profissional competente sem criatividade e sem sensibilidade social.”.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Leonardo Pereira De Castro
+6 de fevereiro de 2024 às 21:11
+Sim, a negação da proposição P1 pode ser expressa corretamente como "Existe ao menos um profissional competente sem criatividade e sem sensibilidade social".
+
+Analisando as proposições:
+P1: "Todo profissional competente tem criatividade ou sensibilidade social."
+
+P2: "Todo profissional competente tem criatividade e sensibilidade social."
+
+Diferença entre P1 e P2:
+
+P1: Afirma que um profissional competente deve ter pelo menos uma das duas características: criatividade ou sensibilidade social.
+P2: Afirma que um profissional competente deve ter ambas as características: criatividade e sensibilidade social.
+Negação da P1:
+
+Para negar a P1, precisamos negar a afirmação original de que todos os profissionais competentes possuem criatividade ou sensibilidade social. Isso significa que a negação da P1 é verdadeira se:
+
+Existir um profissional competente sem criatividade e sem sensibilidade social.
+Existir um profissional competente com criatividade, mas sem sensibilidade social.
+Existir um profissional competente sem criatividade, mas com sensibilidade social.
+Conclusão:
+
+A frase "Existe ao menos um profissional competente sem criatividade e sem sensibilidade social" captura a negação da P1, pois indica que a afirmação original de que todos os profissionais competentes possuem uma das duas características não é verdadeira em pelo menos um caso.
+
+Observações adicionais:
+
+As outras opções de resposta não capturam completamente a negação da P1. Por exemplo, a opção "Nenhum profissional competente tem criatividade ou sensibilidade social" é a negação da P2, não da P1.
+É importante analisar cuidadosamente as proposições e suas negações para evitar interpretações errôneas.
+
+
+
+
+Reportar abuso
+Ajudou (33) Não ajudou
+Johnny Goncalves Pessoli
+27 de março de 2024 às 15:46
+Quando a proposição começar com a palavra "Todos" a negação irá iniciar com a palavra "Existe ao menos um", (Tem criatividade será igual a p, e sensibilidade social será igual a q). Para negar a proposição com o conector OU, acrescentamos o conector E e negamos as proposições P v Q (~P e ~Q), desta forma é verdadeiro o que se afirma: A negação da proposição P1 pode ser expressa corretamente como “Existe ao menos um profissional competente sem criatividade e sem sensibilidade social.”.
+Reportar abuso
+Ajudou (26) Não ajudou
+IM
+Igor Medeiros Ferreira
+28 de março de 2024 às 05:42
+Não seria o caso do PEA+NÃO? Todo = PEA+NAO; NENHUM = PEA
+Reportar abuso
+Ajudou (10) Não ajudou
+15
+Q3133985
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente de Tecnologia da Informação - 2024
+Texto associado
+Texto CB1A1
+
+Enquanto Singapura e Dublin lançaram suas réplicas digitais usando aprendizado de máquina para prever eventos e tendências futuras, países inteiros ainda não garantiram água potável e eletricidade para seus habitantes. Como a arquitetura reflete as sociedades, a acentuada desigualdade social em que vivemos continuará sendo refletida na arquitetura que construímos: algumas obras totalmente projetadas por inteligência artificial (IA), outras criadas manualmente e com modelos físicos em um escritório de arquitetura boutique, e a grande maioria sendo feita no local com papel e lápis, sem a intervenção direta de arquitetos. Talvez todos esses cenários coexistam na mesma cidade.
+O escritor Benjamin Labatut declarou: “se a inteligência artificial fosse capaz de pensar, teria pontos cegos; se conseguisse ser criativa, teria limites, pois limites são frutíferos; se fosse capaz de imitar nossa capacidade de raciocínio, talvez precisasse do (ou desenvolvesse o) nosso talento para a loucura. E se lhe faltasse compreensão, se não se importasse com a beleza e o horror que pode criar, então seria imprudente nos colocarmos em suas mãos.”.
+O futuro da arquitetura está na interseção entre inovação tecnológica e intenção humana. Em última instância, a agência humana — sociedade civil, políticos e partes interessadas — exerce uma influência significativa. O curso da história não está escrito em pedra, mas é moldado pelas decisões tomadas hoje, especialmente se a IA afeta nossos bolsos. A arquitetura, então, torna-se o resultado de decisões coletivas, em que os avanços da IA se cruzam com as aspirações e os valores da sociedade. É dentro desse jogo de interações que a evolução e o impacto da arquitetura encontram sua ressonância e seu significado.
+
+Nicolás Valencia. O impacto das ferramentas de inteligência artificial na arquitetura em 2024 (e além).
+Internet: <www.archdaily.com.br> (com adaptações).
+
+Com base nos sentidos e nas ideias expressos no texto CB1A1, julgue os itens a seguir.
+Segundo o texto, a desigualdade social que é refletida na arquitetura pode ser observada na coexistência, possivelmente na mesma cidade, de obras inteiramente elaboradas por IA e obras feitas com papel e lápis, sem a participação de arquitetos.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+75.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daniel Silva
+8 de fevereiro de 2024 às 21:18
+Talvez todos esses cenários coexistam na mesma cidade.
+Reportar abuso
+Ajudou (20) Não ajudou
+Rayssa Maria Lopes Silva
+22 de fevereiro de 2024 às 11:37
+CERTO!
+
+É o que afirma o primeiro parágrafo:
+
+
+Segundo o texto, a desigualdade social que é refletida na arquitetura pode ser observada na coexistência, possivelmente ("Talvez todos esses cenários coexistam na mesma cidade") na mesma cidade, de obras inteiramente elaboradas por IA e obras feitas com papel e lápis, sem a participação de arquitetos ("... e a grande maioria sendo feita no local com papel e lápis, sem a intervenção direta de arquitetos").
+
+grifos meus
+
+
+Reportar abuso
+Ajudou (14) Não ajudou
+Helthon Pereira Silva Santos
+8 de março de 2024 às 15:14
+...sem a participação de arquitetos é igual de sem a intervenção direta de arquitetos ????
+Reportar abuso
+Ajudou (12) Não ajudou
+Andre Dimatteu
+27 de maio de 2024 às 10:15
+Sem a intervenção direta de arquitetos não é a mesma coisa de sem a participação de arquitetos.
+Reportar abuso
+Ajudou (5) Não ajudou
+Thiago Marcos Da Silva Reis
+9 de setembro de 2024 às 05:30
+Talvez todos esses cenários coexistam na mesma cidade.
+Ultimo periodo do primeiro paragrafo
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+16
+Q3128829
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração de Pessoal - 2024
+Texto associado
+Businesses are starting to introduce new options for tipping at self-checkout machines, putting even more pressure on customers amid rising inflation costs. Despite having zero interaction with employees during transactions, self-checkout machines at places such as coffee shops, bakeries, airports, and sports stadiums are giving customers the option to leave the typical 20% tip, according to a report from the Wall Street Journal.
+Business owners believe that the prompt for a tip can boost staff pay and increase gratuities — but customers are questioning where and to whom the extra cash is going, considering self-checkout is done by the customers themselves. “They’re cutting labor costs by doing self-checkout. So what’s the point of asking for a tip? And where is it going?” are some of the questions customers ask. But tipping researchers claim this is a way for companies to put the responsibility of paying employees on the customer rather than increasing employee salaries themselves. Self-tipping is viewed by many customers as a way to guilt-trip the person into tipping on something when they typically wouldn’t.
+Many companies told the Journal that these tipping prompts are optional, and the extra gratuity is split between all employees. However, experts say that tips at a self-checkout machine might never even get to an actual employee since protections for tipped workers in the federal Fair Labor Standards Act don’t extend to machines.
+
+Internet: <https://nypost.com> (adapted).
+
+According to the previous text, judge the following items.
+One of the reasons why business owners have introduced the option for tipping at self-checkout machines is that they believe it may raise their employees’ payment.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+62.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Thayna Marques
+31 de janeiro de 2024 às 20:23
+Business owners believe that the prompt for a tip can boost staff pay and increase gratuities.
+Boost = aumentar, estimular
+Reportar abuso
+Ajudou (10) Não ajudou
+17
+Q3129557
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão e Governança de Tecnologia da Informação - 2024
+Texto associado
+Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados), julgue os itens subsecutivos.
+Segundo a Lei n.º 13.709/2018, o titular dos dados pessoais tem assegurado o direto de obter informações a respeito do tratamento dos seus dados.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+99.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tati
+23 de fevereiro de 2024 às 22:27
+Art. 9º O titular tem direito ao acesso facilitado às informações sobre o tratamento de seus dados, que deverão ser disponibilizadas de forma clara, adequada e ostensiva acerca de, entre outras características previstas em regulamentação para o atendimento do princípio do livre acesso:
+I - finalidade específica do tratamento;
+II - forma e duração do tratamento, observados os segredos comercial e industrial;
+III - identificação do controlador;
+IV - informações de contato do controlador;
+V - informações acerca do uso compartilhado de dados pelo controlador e a finalidade;
+VI - responsabilidades dos agentes que realizarão o tratamento; e
+VII - direitos do titular, com menção explícita aos direitos contidos no art. 18 desta Lei.
+
+Reportar abuso
+Ajudou (14) Não ajudou
+Andreza
+18 de novembro de 2024 às 19:24
+Art. 9º O titular tem direito ao acesso facilitado às informações sobre o tratamento de seus dados, que deverão serdisponibilizadas de forma clara, adequada e ostensiva acerca regulamentação para o atendimento do princípio do livre acesso
+Reportar abuso
+Ajudou (1) Não ajudou
+18
+Q3194431
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Analista Ministerial - Área: Administração e Segurança de Redes - 2024
+Texto associado
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), julgue os itens subsequentes.
+O tratamento de dados pessoais sensíveis somente poderá ocorrer quando o titular consentir, de forma específica e destacada, para finalidades específicas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+72.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+EB
+Elivelton Bezerra Dos Santos
+6 de julho de 2024 às 23:11
+Errado. O dado sensivel tambem pode ser tratado sem consentimento do titular,
+
+II - sem consentimento do titular, nas hipóteses em que for indispensável para:
+
+a) a proteção da vida ou da incolumidade física do titular ou de terceiro;
+b) a tutela da saúde, exclusivamente, em procedimento realizado por profissionais da saúde, serviços de saúde ou autoridade sanitária;
+c) a garantia da prevenção à fraude e à segurança do titular, nos processos de identificação e autenticação de cadastro em sistemas eletrônicos, resguardado o direito ao anonimato do titular; e
+d) finalidades previstas em legislação específica ou para a execução de políticas públicas previstas em leis e regulamentos ou com base em contratos, acordos ou instrumentos congêneres, observados os princípios da boa-fé, finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação, responsabilização e prestação de contas.
+Reportar abuso
+Ajudou (19) Não ajudou
+19
+Q3128929
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+No que se refere à logística reversa, julgue os seguintes itens.
+A utilização de garrafas retornáveis para bebidas é um exemplo de aplicação da logística reversa de pós-consumo.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+97.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+João Guilherme Holanda Justino
+22 de março de 2024 às 20:54
+Correto. O item trata adequadamente de um exemplo clássico de logística reversa, ou seja, de fazer com quê o item que seguiria para descarte seja reutilizado por meio da reincorporação na linha de produção.
+Reportar abuso
+Ajudou (11) Não ajudou
+20
+Q3340219
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Técnico Judiciário - Área: Administrativa - 2024
+Texto associado
+No que diz respeito à ética no serviço público, à proteção de dados pessoais e ao acesso à informação, julgue os itens a seguir.
+É legalmente possível que o tratamento de dados pessoais seja utilizado para a realização de estudos por órgãos de pesquisa.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+88.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ellen Lima
+5 de novembro de 2024 às 19:48
+Art. 7º O tratamento de dados pessoais somente poderá ser realizado nas seguintes hipóteses:
+I - mediante o fornecimento de consentimento pelo titular;
+II - para o cumprimento de obrigação legal ou regulatória pelo controlador;
+III - pela administração pública, para o tratamento e uso compartilhado de dados necessários à execução de políticas públicas previstas em leis e regulamentos ou respaldadas em contratos, convênios ou instrumentos congêneres, observadas as disposições do Capítulo IV desta Lei;
+IV - para a realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;
+V - quando necessário para a execução de contrato ou de procedimentos preliminares relacionados a contrato do qual seja parte o titular, a pedido do titular dos dados;
+VI - para o exercício regular de direitos em processo judicial, administrativo ou arbitral, esse último nos termos da Lei nº 9.307, de 23 de setembro de 1996 (Lei de Arbitragem) ;
+VII - para a proteção da vida ou da incolumidade física do titular ou de terceiro;
+VIII - para a tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou autoridade sanitária;      (Redação dada pela Lei nº 13.853, de 2019)      Vigência
+IX - quando necessário para atender aos interesses legítimos do controlador ou de terceiro, exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais; ou
+X - para a proteção do crédito, inclusive quanto ao disposto na legislação pertinente.
+
+Reportar abuso
+Ajudou (12) Não ajudou

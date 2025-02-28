@@ -1,0 +1,975 @@
+1
+Q3605698
+Raciocínio Lógico Verdade e Validade
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+À luz da lógica sentencial, julgue os itens seguintes, acerca da proposição P: “Se o investigador não cumprir o procedimento ou identificar o suspeito errado, o juiz anulará a prova e soltará o acusado.”.
+Considere que o investigador cumpra o procedimento e identifique corretamente o suspeito. Nesse caso, presumindo-se verdadeira a proposição P, é correto afirmar que o juiz não anulará a prova nem soltará o acusado.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+45.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Briza Morais
+27 de janeiro de 2025 às 23:33
+Equivalência do se então, nega a primeira e mantém a segunda 🥰
+Reportar abuso
+Ajudou (18) Não ajudou
+Marília Gama Sauaia
+14 de fevereiro de 2025 às 14:47
+A CESPE publicou o gabarito comentado dessa questão:
+"JUSTIFICATIVA - Errado. Nas hipóteses do item, será falso o precedente da proposição P. Assim, seu consequente tanto poderá ser verdadeiro quanto falso, sem prejuízo da veracidade de P."
+
+file:///C:/Users/Usuario/Downloads/G_162645_1737544963.pdf
+Reportar abuso
+Ajudou (7) Não ajudou
+Biqueira News
+22 de janeiro de 2025 às 19:55
+Não necessariamente
+Reportar abuso
+Ajudou (5) Não ajudou
+Cassiano Emilio Da Silva
+4 de fevereiro de 2025 às 10:18
+Correto é: O investigador vai cumprir o procedimento "e" não vai identificar o suspeito errado, o juiz não anulará a prova "ou" não soltará o acusado. A negação do "e" é "ou".
+Reportar abuso
+Ajudou (4) Não ajudou
+2
+Q3664420
+Administração de Recursos Materiais UEPS ou LIFO (Último a Entrar, Primeiro a Sair)
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração, Economia, Contabilidade e Direito - 2025
+Texto associado
+A respeito da gestão de cadeias de suprimentos e da manutenção de equipamentos, julgue os itens que se seguem.
+Em uma cadeia de suprimentos de alto desempenho, o mercado varejista decide, de forma independente e autônoma, onde manter os estoques.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+74.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Karla
+26 de fevereiro de 2025 às 16:01
+Para que a empresa tenha sucesso em sua cadeia de suprimentos, todos os departamentos precisam estar envolvidos e devem atuar de forma integrada. Afinal, só assim é possível assegurar que cada estágio da cadeia funcione corretamente e NÃO DE FORMA INDEPENDENTE E AUTÔNOMA como diz a questão. Resposta: Errada!!!!
+Reportar abuso
+Ajudou (8) Não ajudou
+3
+Q3664301
+Direito Administrativo Contratos Administrativos
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração, Economia, Contabilidade e Direito - 2025
+Texto associado
+Considerando as disposições da Lei n.º 14.133/2021, julgue os próximos itens, referentes a contratos administrativos.
+Aos contratos administrativos são aplicáveis, de forma subsidiária, os princípios da teoria geral dos contratos e as normas do direito privado.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+78.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+CN
+Cirilo Neto
+26 de fevereiro de 2025 às 14:29
+Questão correta
+Reportar abuso
+Ajudou (1) Não ajudou
+4
+Q3663183
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Engenharia Civil - 2025
+Texto associado
+Texto CG1A1
+
+Observando os mineiros trabalharem, você percebe, por um breve instante, como são diferentes os universos habitados por diferentes pessoas. Os subterrâneos onde se escava o carvão são uma espécie de mundo à parte, e é fácil viver toda uma vida sem jamais ouvir falar dele. É provável que a maioria das pessoas até prefira não ouvir falar dele. E, contudo, esse mundo é a contraparte indispensável do nosso mundo da superfície. Praticamente tudo que fazemos, desde tomar um sorvete até atravessar o Atlântico, desde assar um filão de pão até escrever um romance, envolve usar carvão, direta ou indiretamente. Para todas as artes da paz, o carvão é necessário; e, se a guerra irrompe, é ainda mais necessário. Em épocas de revolução, o mineiro precisa continuar trabalhando, do contrário a revolução tem que parar, pois o carvão é essencial tanto para a revolta como para a reação. Seja lá o que for que aconteça na superfície, as pás e picaretas têm que continuar escavando sem trégua — ou fazendo uma pausa de algumas semanas, no máximo. Porém, de modo geral, não temos consciência disso; todos sabemos que “precisamos de carvão”, mas raramente, ou nunca, nos lembramos de tudo o que está envolvido no processo para se obter carvão.
+Aqui estou eu escrevendo, sentado diante da minha confortável lareira a carvão. De quinze em quinze dias, a carroça de carvão para na porta e uns homens de blusão de couro trazem o carvão para dentro de casa em sacos robustos, cheirando a piche, e o despejam no depósito de carvão embaixo da escada. É só muito raramente, quando faço um esforço mental bem definido, que estabeleço a conexão entre esse carvão e o penoso trabalho realizado lá longe, nas minas. É apenas “carvão”, algo que eu preciso ter, uma coisa escura que chega misteriosamente, vinda de nenhum lugar em especial, como o maná, só que devemos pagar por ele.
+Seria fácil atravessar de carro todo o norte da Inglaterra sem lembrar, nem uma só vez, que, dezenas de metros abaixo da estrada, os mineiros estão atacando o carvão com suas picaretas. E, contudo, são eles que estão fazendo seu carro andar. O mundo deles lá embaixo, iluminado por suas lâmpadas, é tão necessário para o mundo da superfície, da luz do dia, como a raiz é necessária para a flor.
+
+George Orwell. O caminho para Wigan Pier. Trad. Isa Mara Lando. São Paulo: Companhia das Letras, 2010 (com adaptações).
+
+Em relação às ideias do texto CG1A1, julgue os itens que se seguem.
+O texto contrapõe duas dimensões distintas: a subterrânea, caracterizada pelo trabalho árduo dos mineiros em meio à completa escuridão, e a da superfície, exposta à luz do dia.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+41.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+EB
+Eduardo Becker Sapper
+25 de fevereiro de 2025 às 12:31
+Entendi que não existe uma completa escuridão, haja vista que os mineiros utilizam iluminação artificial para poderem trabalhar. Vejamos: "O mundo deles lá embaixo, iluminado por suas lâmpadas, é tão necessário para o mundo da superfície, da luz do dia, como a raiz é necessária para a flor." Outro ponto que analisei é que não há a mínima possibilidade do mineiro exercer as atividades dele em meio a completa escuridão. Por fim, alguém pode questionar que se for retirado a iluminação artificial, eles estariam na completa escuridão. Até concordo, mas se for assim, caso se retire a nossa iluminação artificial no período noturno, também ficaríamos na completa escuridão.
+Reportar abuso
+Ajudou (6) Não ajudou
+5
+Q3601048
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Ensino Médio - Área: Língua Portuguesa - 2025
+Texto associado
+Ao primeiro contato com um texto qualquer, por mais simples que ele pareça, normalmente o leitor se defronta com a dificuldade de encontrar unidade por trás de tantos significados que ocorrem na sua superfície. Numa crônica ou numa pequena fábula, por exemplo, surgem personagens diferentes, lugares e tempos desencontrados e ações as mais diversas. Na primeira leitura, parece impossível encontrar qualquer ponto para o qual convirjam tantas variáveis e que dê unidade à aparente desordem. Mas, quando se trata de um bom texto, por trás do aparente caos, há ordem. Quando, após várias leituras, encontra-se o fio condutor, a primeira impressão de desagregação cede lugar à percepção de que o texto tem harmonia e coerência. Para exemplificar o que foi dito, vamos ler uma pequena fábula de Monteiro Lobato e tentar demonstrar que, a partir da observação dos dados concretos da superfície, pode-se chegar à compreensão de significados mais abstratos, que dão unidade e organização ao texto.
+
+José Luiz Fiorin; Francisco Platão Savioli.
+Para entender o texto: leitura e redação. São Paulo: Ática, 2007, p. 35.
+
+Considerando as informações e estruturas linguísticas do texto precedente, julgue os seguintes itens.
+No segundo período, são mencionados elementos contextuais que, devido a sua caracterização, confirmam a dificuldade encontrada pelo leitor diante de um texto.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+80.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Marcio De Albuquerque Silva
+8 de fevereiro de 2025 às 17:55
+O segundo período enumera os elementos que podem trazer dificuldades ao leitor. - "surgem personagens diferentes, lugares e tempos desencontrados e ações as mais diversas"
+
+Reportar abuso
+Ajudou (19) Não ajudou
+Lujhgsa Dar
+7 de fevereiro de 2025 às 20:32
+lembrando que os pontos finais dividem o texto em período
+
+Reportar abuso
+Ajudou (12) Não ajudou
+PH
+Pedro Henrique
+21 de fevereiro de 2025 às 11:51
+A alternativa correta é Certo.
+No segundo período, o texto descreve que o leitor se defronta com "personagens diferentes, lugares e tempos desencontrados e ações as mais diversas". Essa descrição aponta para a dificuldade que o leitor encontra ao primeiro contato com um texto, ou seja, há uma referência explícita à dificuldade de encontrar unidade em um texto devido à aparente desordem de elementos, confirmando a ideia de dificuldade no entendimento inicial do texto.
+Reportar abuso
+Ajudou (2) Não ajudou
+RI
+Reginaldo Igor De Campos
+16 de fevereiro de 2025 às 13:54
+Seria otimo, um comentário dos professores para dar um norte melhor de entendimento, a nós alunos.
+Reportar abuso
+Ajudou (1) Não ajudou
+N
+Nascimento
+27 de fevereiro de 2025 às 18:46
+A afirmativa está certa.
+
+Fundamentação:
+No segundo período do texto, são mencionados elementos contextuais como "personagens diferentes," "lugares e tempos desencontrados," e "ações as mais diversas." Esses elementos são descritos como variáveis que inicialmente parecem desconectadas e que contribuem para a impressão de desagregação e dificuldade de encontrar unidade no texto. Isso confirma a dificuldade encontrada pelo leitor diante de um texto, pois a primeira leitura pode dar a impressão de que é impossível encontrar um ponto de convergência que unifique essas variáveis.
+
+Portanto, a caracterização desses elementos contextuais reforça a ideia de que, ao primeiro contato, o leitor pode encontrar dificuldades em perceber a unidade e a ordem por trás do texto.
+Reportar abuso
+Ajudou (0) Não ajudou
+6
+Q3595397
+Administração de Recursos Materiais Tipos de Classificação de Materiais
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Patrimônio - 2025
+Texto associado
+Com relação à administração de recursos materiais, julgue os itens subsequentes.
+A tipologia escolhida para a classificação de materiais pode ser flexibilizada em função da dinâmica e dos processos organizacionais.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+93.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jelkirleide Santos Brito
+9 de fevereiro de 2025 às 13:42
+Sim, a tipologia de classificação de materiais pode ser flexibilizada de acordo com a dinâmica e os processos organizacionais.
+A classificação de materiais é uma etapa importante na organização de uma empresa, pois evita falhas de produção devido à falta de peças em estoque.
+Reportar abuso
+Ajudou (12) Não ajudou
+SH
+Sarah Helen Pereira Sardeiro
+21 de fevereiro de 2025 às 10:50
+A afirmação está correta porque a classificação de materiais é uma ferramenta de gestão que deve ser adaptável para refletir a dinâmica interna (processos organizacionais) e externa (mercado e ambiente de negócios) de cada empresa.
+A flexibilidade na tipologia permite que as organizações otimizem a gestão de estoques, reduzam custos, melhorem a eficiência e atendam aos seus objetivos estratégicos de forma mais eficaz.
+
+Reportar abuso
+Ajudou (2) Não ajudou
+Alessandro Macedo
+27 de fevereiro de 2025 às 14:47
+Certo:
+A tipologia de materiais é a classificação dos materiais de acordo com as suas propriedades e estruturas e características.
+
+Flexibilidade: interfaces entre os diverso tipos de classificação.
+
+Reportar abuso
+Ajudou (0) Não ajudou
+7
+Q3660556
+Língua Portuguesa Sentidos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - FUNPRESP-EXE - Analista de Previdência Complementar - Área: Administração e Planejamento - 2025
+Texto associado
+Sentimos a dor, mas não a ausência da dor; sentimos a inquietação, mas não a ausência da inquietação; o temor, mas não a segurança. Sentimos o desejo e o anelo, como sentimos a fome e a sede; mas, uma vez satisfeitos, tudo acaba, assim como o bocado que, uma vez engolido, deixa de existir para a nossa sensação. Enquanto possuímos os três maiores bens da vida, saúde, mocidade e liberdade, não temos consciência deles, e só os apreciamos depois de os havermos perdido, porque esses também são bens negativos. Só notamos os dias felizes da nossa vida passada depois de darem lugar aos dias de tristeza. À medida que os nossos prazeres aumentam, tornam-nos cada vez mais insensíveis; o hábito já não é um prazer. Por isso mesmo, a nossa faculdade de sofrer é mais viva; todo hábito suprimido causa um sentimento doloroso. As horas correm tanto mais rápidas quanto mais agradáveis são, tanto mais demoradas quanto mais tristes, porque o gozo não é positivo, diferentemente da dor, cuja presença se faz sentir. O aborrecimento dá-nos a noção do tempo; a distração tira-a. Não se poderia absolutamente imaginar uma grande e viva alegria se esta não sucedesse a uma grande miséria, porque nada há que possa atingir um estado de alegria serena e durável; o mais que se consegue fazer é distrair, satisfazer a vaidade. É por este motivo que todos os poetas são obrigados a colocar os seus heróis em situações cheias de ansiedades e de tormentos, a fim de os livrarem delas: drama e poesia épica só nos mostram homens que lutam, que sofrem mil torturas, e cada romance oferece-nos em espetáculo os espasmos e as convulsões do pobre coração humano. Voltaire, o feliz Voltaire, que tão favorecido foi pela natureza, pensa como eu, quando diz: “A felicidade não passa de um sonho; só a dor é real”. E acrescenta: “Há oitenta anos que o experimento; não sei fazer outra coisa senão resignar-me e dizer a mim mesmo que as moscas nasceram para serem comidas pelas aranhas, e os homens, para serem devorados pelos pesares”.
+
+Arthur Schopenhauer. Dores do mundo. Rio de Janeiro: Edições de Ouro – Coleção Universidade (com adaptações).
+
+Julgue os itens a seguir, referentes às ideias e a aspectos linguísticos do texto precedente.
+O texto expressa, de modo irônico, o entendimento de que saúde, mocidade e liberdade são alegrias passageiras, que acabam tão logo começam a ser desfrutadas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+69.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MB
+Mateus Bezerra Fernandes
+24 de fevereiro de 2025 às 09:13
+ERRADO.
+Ao meu ver, o texto de Arthur Schopenhauer, além de não ter um viés irônico, e sim ilustrativo, não aborda especificamente a simples passagem dos estados de saúde, mocidade e liberdade, mas uma correlação destes com os seus opostos (doença, velhice e reclusão), de maneira a traçar como parâmetro do estado de felicidade o grau de tristeza sentida pelo individuo.
+Reportar abuso
+Ajudou (10) Não ajudou
+Felipe Menegate Nascimento
+27 de fevereiro de 2025 às 11:53
+A resposta correta é Errado.
+O texto não expressa essa ideia de forma irônica, mas sim de maneira filosófica e reflexiva, coerente com a visão pessimista de Schopenhauer. Além disso, ele não afirma que saúde, mocidade e liberdade são alegrias passageiras que desaparecem ao serem desfrutadas, mas sim que são bens negativos, ou seja, não os percebemos enquanto os temos, apenas quando os perdemos.
+A ironia implicaria um tom de sarcasmo ou contradição velada, o que não ocorre no texto.
+Reportar abuso
+Ajudou (1) Não ajudou
+8
+Q3664418
+Administração de Recursos Materiais Just-In-Time
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração, Economia, Contabilidade e Direito - 2025
+Texto associado
+A respeito da gestão de cadeias de suprimentos e da manutenção de equipamentos, julgue os itens que se seguem.
+O modelo just in time é um exemplo de reação à demanda com a movimentação de quantidades superiores ao consumo real.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+83.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Elvisnei Neri De Sousa
+27 de fevereiro de 2025 às 09:14
+Just in Time (JIT) é uma metodologia de gestão da produção que visa produzir apenas o que é necessário, no momento certo. O objetivo é eliminar o desperdício e o excesso de estoque.
+Reportar abuso
+Ajudou (5) Não ajudou
+9
+Q3639248
+Língua Portuguesa Sentidos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade: Engenharia Mecânica - 2025
+Texto associado
+Uma curiosa característica da historiografia geral, política e social foi a relativamente pequena atenção dada à história da justiça ou, se quisermos ser mais limitados, à história do Poder Judiciário.
+Pode-se levantar uma hipótese: a justiça foi percebida como um poder alheio àquilo que se chamou comumente política a partir do século XIX, ou seja, a luta e a disputa para ocupar posições de governo, de mando em geral e de decisão em lugar dos outros.
+Uma segunda hipótese: os historiadores não se sentem à vontade com um campo muito específico, como são o direito e o dos juristas. O direito se constitui em esfera especial e profissional à qual se tem acesso apenas por meio de um curso universitário, enquanto a política permite acesso aos lugares de poder por meio de eleições e não exige, pois, nenhum preparo intelectual determinado. Qualquer um do povo pode ser político, mas nem todos podem ser juristas ou juízes profissionais.
+
+José Reinaldo de Lima Lopes. História da justiça e do processo no Brasil do século XIX. Curitiba: Juruá, 2017, p. 9-10 (com adaptações).
+
+Julgue os itens que se seguem, relativos ao conteúdo do texto precedente e a aspectos linguísticos a ele pertinentes.
+O texto informa que um dos fatores responsáveis pela falta de histórias da justiça é o seu distanciamento da política, tomada como espaço de luta e de disputa para “ocupar posições de governo, de mando em geral e de decisão em lugar dos outros”.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+54.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MN
+Marcio Nogueira Da Cruz Saldanha
+12 de fevereiro de 2025 às 11:53
+Errada
+
+O texto informa que um dos fatores responsáveis pela falta de histórias da justiça é o seu distanciamento da política, tomada como espaço de luta e de disputa para “ocupar posições de governo, de mando em geral e de decisão em lugar dos outros”.
+
+A meu ver o erro está em afirmar que um dos fatores responsáveis pela falta de histórias da justiça é (...). O texto não informa fator e sim uma 'HIPOTESE'
+Reportar abuso
+Ajudou (39) Não ajudou
+Maria Fernanda Moliterno Santos
+17 de fevereiro de 2025 às 17:54
+Hipótese
+Reportar abuso
+Ajudou (5) Não ajudou
+Felipe Menegate Nascimento
+17 de fevereiro de 2025 às 11:43
+" a justiça foi percebida como um poder alheio àquilo que se chamou comumente política a partir do século XIX, "
+
+Já na questão o erro está em:
+O texto informa que um dos fatores responsáveis pela falta de histórias da justiça é o seu distanciamento da política, tomada como espaço de luta e de disputa para “ocupar posições de governo, de mando em geral e de decisão em lugar dos outros”.
+
+
+Reportar abuso
+Ajudou (3) Não ajudou
+N
+Nascimento
+27 de fevereiro de 2025 às 18:53
+Trecho do Texto Original:
+"Uma curiosa característica da historiografia geral, política e social foi a relativamente pequena atenção dada à história da justiça ou, se quisermos ser mais limitados, à história do Poder Judiciário.
+Pode-se levantar uma hipótese: a justiça foi percebida como um poder alheio àquilo que se chamou comumente política a partir do século XIX, ou seja, a luta e a disputa para ocupar posições de governo, de mando em geral e de decisão em lugar dos outros."
+
+Análise:
+O texto sugere que uma das hipóteses para a relativamente pequena atenção dada à história da justiça é que a justiça foi percebida como um poder alheio à política. A política é descrita como um espaço de luta e disputa para "ocupar posições de governo, de mando em geral e de decisão em lugar dos outros".
+A chave aqui é a expressão "pode-se levantar uma hipótese" seguida de "a justiça foi percebida como um poder alheio àquilo que se chamou comumente política". Isso indica que a justiça e o Poder Judiciário foram vistos como separados da arena política, que é caracterizada pela disputa para ocupar posições de poder. Esse distanciamento da justiça em relação à política é apontado como um dos fatores que explicam por que a história da justiça não recebeu tanta atenção na historiografia.
+
+Portanto, a afirmação de que "o texto informa que um dos fatores responsáveis pela falta de histórias da justiça é o seu distanciamento da política, tomada como espaço de luta e de disputa para ocupar posições de governo, de mando em geral e de decisão em lugar dos outros" está fundamentada no texto, pois reflete diretamente a hipótese apresentada pelo autor.
+
+Pela análise acima, a afirmativa está correta, uma vez que a hipótese sugere que a percepção de justiça como um poder alheio à política contribui para a falta de histórias da justiça.
+Reportar abuso
+Ajudou (0) Não ajudou
+PF
+Petrus Fontes
+24 de fevereiro de 2025 às 13:36
+Um dos significados de 'alheio' no Dicio (Dicionário On-line) é "que se mantém distante; afastado, arredado". Distanciamento = afastamento. Ajude-me, CEBRASPE!
+
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+10
+Q3641092
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área Apoio Especializado - Especialidade: Suporte Técnico - 2025
+Texto associado
+The Moodbeam wristband, resembling a fitness tracker, is designed to help employers monitor the emotional well-being of remote workers. The device features two buttons: yellow for happy and blue for sad, allowing employees to log their feelings throughout the workweek. Managers can then access this data via an online dashboard, gaining insights into their team’s emotional state. Originally created by co-founder Christina Colmer McHugh to help her daughter communicate feelings, Moodbeam aims to bridge the gap left by in-person interactions, giving employers a way to “check in” with staff working from home.
+One user of the Moodbeam wristband, the UK charity Brave Mind, has found it helpful. Trustee Paddy Burtt noted that an employee’s struggle with workload and disillusionment only came to light through the data, underscoring the device’s potential to surface unseen issues. With mental health issues like anxiety and depression costing the global economy approximately $ 1 trillion annually in lost productivity, tools like Moodbeam are gaining traction. Studies indicate a growing need for mental health support, especially as remote work and blurred work-life boundaries exacerbate stress.
+Other companies are also exploring solutions. In San Francisco, Modern Health connects employees to mental health resources, including therapy and meditation, based on a brief questionnaire. Similarly, Microsoft has developed a “virtual commute” feature within Teams, prompting users to reflect on their day and their schedule tasks, and to meditate to help distinguish between work and personal time. As more people work remotely, these innovations aim to provide accessible support for mental resilience and emotional well-being.
+
+Internet: <bbc.com> (adapted).
+According to the previous text, judge the following items.
+The Moodbeam wristband was created to track the emotional state of employees, generating data for employers.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+23.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Raniele Juvencio Dos Santos Pereira
+17 de fevereiro de 2025 às 10:18
+A pulseira foi inicialmente criada para fins pessoais ("Originally created by co-founder Christina Colmer McHugh to help her daughter communicate feelings"), só depois foi usada para fins profissionais.
+
+Reportar abuso
+Ajudou (6) Não ajudou
+R
+Rbf
+20 de fevereiro de 2025 às 12:01
+Está certo que foi usado para isso, mas nao foi criada para este fim. Como a Raniele comentou.
+Reportar abuso
+Ajudou (1) Não ajudou
+TP
+Thaina Peixoto De Oliveira
+16 de fevereiro de 2025 às 09:44
+Employees = funcionários, employers = chefes. Não entendi o gabarito
+Reportar abuso
+Ajudou (1) Não ajudou
+Bruno Caixeta Silva
+27 de fevereiro de 2025 às 12:09
+Jéssica, o certo é employers=chefes/ empregadores, employees=funcionários.
+
+O erro é que originalmente foi criado para outro fim, como colocou a Raniele.
+Reportar abuso
+Ajudou (0) Não ajudou
+Vitoria Luiza Vital Cassiano
+14 de fevereiro de 2025 às 22:20
+???
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+11
+Q3663371
+Administração de Recursos Materiais Cadastro e Seleção de Fornecedores
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração - 2025
+Texto associado
+Em determinado órgão público da administração direta federal responsável pelo armazenamento de grande volume de dados digitais, o computador utilizado como servidor deve ser substituído por um de maior capacidade de processamento e armazenamento, após 3 anos de uso, conforme avaliação por comissão especial permanente que o considerou ocioso.
+
+A partir dessa situação hipotética, julgue os itens a seguir, a respeito do bem móvel a ser substituído.
+O computador a ser substituído é considerado inservível.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+28.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Angela Priscila Batista Moura
+25 de fevereiro de 2025 às 05:35
+Conforme decreto 9373/18 Art. 3º Para que seja considerado inservível, o bem será classificado como: I - ocioso - bem móvel que se encontra em perfeitas condições de uso, mas não é aproveitado; II - recuperável - bem móvel que não se encontra em condições de uso e cujo custo da recuperação seja de até cinquenta por cento do seu valor de mercado ou cuja análise de custo e benefício demonstre ser justificável a sua recuperação; III - antieconômico - bem móvel cuja manutenção seja onerosa ou cujo rendimento seja precário, em virtude de uso prolongado, desgaste prematuro ou obsoletismo; ou IV - irrecuperável - bem móvel que não pode ser utilizado para o fim a que se destina devido à perda de suas características ou em razão de ser o seu custo de recuperação mais de cinquenta por cento do seu valor de mercado ou de a análise do seu custo e benefício demonstrar ser injustificável a sua recuperação.
+Reportar abuso
+Ajudou (6) Não ajudou
+MQ
+Mônica Quirino
+26 de fevereiro de 2025 às 12:06
+A maia está dizendo que o gabarito da banca está errado. Aqui no app está como certo. Qual é o correto afinal? Sei que no caso hipotético “ocioso” é condição para inservível, o que torna a questão correta. Mas, pela “lógica” da maia, ele não é necessariamente inservível para utilidade em outro local, o que concorda com o gabarito “errado”, e faz sentido até. O concurseiro não tem um dia de paz kkkkkkrying
+Reportar abuso
+Ajudou (1) Não ajudou
+12
+Q3663559
+Língua Portuguesa Sentidos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Especialista em Recursos Minerais - Área Direito - 2025
+Texto associado
+Texto CG4A1
+
+Globalmente, as mulheres representam de 8% a 17% da força de trabalho na mineração. O Brasil está na ponta positiva do espectro, com representação média feminina de 17% — ainda que os números sejam mais baixos que os do setor industrial brasileiro em geral, em que esse percentual fica em torno de 25%. Na alta liderança, as mulheres representam 20% dos cargos de chefia e 21% dos conselhos administrativos na mineração.
+De acordo com uma pesquisa global da McKinsey, além de colocar em prática valores de igualdade e equidade, a diversidade melhora o desempenho operacional. Equipes diversas são mais produtivas, aderindo 11% mais ao cronograma de produção; têm práticas mais seguras, com uma frequência de acidentes 67% menor; e são mais criativas e resilientes.
+Signatária dos Princípios de Empoderamento da Mulher da ONU, uma mineradora global criou, em 2018, um programa de trainee 100% feminino e, no ano seguinte, realizou seu primeiro processo seletivo exclusivo para mulheres engenheiras, analistas e gestoras. A medida tem impulsionado o índice de participação feminina da empresa, que passou de 13% para 22% entre 2019 e 2022.
+Há, ainda, um obstáculo anterior, como aponta uma gerente de governança do setor: “A mineração tem muitos cargos em ciências exatas, mas não encontramos muitas universitárias nesses cursos”.
+De fato, se, por um lado, as brasileiras têm maior grau de escolaridade do que os homens, por outro, elas são minoria nos cursos de STEM (ciências, tecnologia, engenharias e matemática): 10% das universitárias e 28% de homens universitários estão matriculados em graduações nessas áreas.
+A fim de vencer esse obstáculo, mineradoras globais passaram a oferecer, em parceria com universidades, bolsas de estudos para mulheres nas áreas de engenharia e ciências exatas.
+
+Internet: <braziljournal.com> (com adaptações)
+
+Julgue os itens que se seguem, referentes às ideias do texto CG4A1.
+De acordo com o texto, apenas 10% das mulheres brasileiras estão matriculadas em cursos de graduação nas áreas de STEM.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+58.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+DM
+Daniel Meireles Birenbaum
+25 de fevereiro de 2025 às 13:20
+10% das mulheres universitárias
+Reportar abuso
+Ajudou (5) Não ajudou
+Jasmim
+26 de fevereiro de 2025 às 13:44
+O texto diz "10% das universitárias e 28% de homens universitários estão matriculados em graduações nessas áreas" aborda a questão sobre as mulheres universitárias.
+A alternativa afirma "10% das mulheres brasileiras" dando a entender que engloba toda a população de mulheres no Brasil logo, está errado pois o texto afirma 10% das universitárias (apenas mulheres que estão na universidade) e não 10% das mulheres no Brasil (englobando toda a população feminina).
+Reportar abuso
+Ajudou (1) Não ajudou
+13
+Q3640491
+Matemática Probabilidade
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário -Área: Análise de Dados - 2025
+Texto associado
+Um perito avalia o risco de sinistros, considerando as seguintes probabilidades de ocorrência de diferentes tipos de eventos, como acidentes de trânsito e furtos.
+
+I A probabilidade de um segurado sofrer um acidente de trânsito (A) é de 20%, ou seja, P(A) = 0,2.
+II A probabilidade de um segurado ser vítima de furto (F) é de 15%, isto é, P(F) = 0,15.
+III A probabilidade de um segurado sofrer ambos os eventos (A e F) é P(A e F) 5%.
+
+Com base nessas informações, julgue os seguintes itens.
+A probabilidade de um segurado ter sido vítima de furto, dado que ele sofreu um acidente, é de 25%.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+37.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Everton Henrique De Moura
+12 de fevereiro de 2025 às 15:09
+errei por causa do enunciado kk
+Reportar abuso
+Ajudou (2) Não ajudou
+Lucas
+14 de fevereiro de 2025 às 06:31
+A cebraspe às vezes viaja, ele quer saber a chances de alguém que sofreu um acidente tem de ser furtado. Para isso você deve dividir a probabilidade de ambos eventos pela chance do acidente para isolar esse caso apenas
+Reportar abuso
+Ajudou (1) Não ajudou
+Tales Gonçalves Malheiros
+27 de fevereiro de 2025 às 06:27
+P(F∣A)=P(A∩F) / P(A) , onde
+P(A)=0,2 (probabilidade de sofrer um acidente)
+P(F)=0,15P(F) = 0,15
+P(A∩F)=0,05 (probabilidade de sofrer ambos os eventos)
+na formula :
+5/20=0,25 = 25%
+Reportar abuso
+Ajudou (0) Não ajudou
+Beatriz Dourado
+25 de fevereiro de 2025 às 11:13
+Não entendi. O segurado ter sido vítima de furto, dado que ele sofreu um acidente, não é o mesmo que ele sofrer ambos os eventos?
+Reportar abuso
+Ajudou (0) Não ajudou
+14
+Q3663281
+Língua Portuguesa Sentidos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Especialista em Recursos Minerais - Área TI/Operações - 2025
+Texto associado
+Texto CG4A1
+
+Globalmente, as mulheres representam de 8% a 17% da força de trabalho na mineração. O Brasil está na ponta positiva do espectro, com representação média feminina de 17% — ainda que os números sejam mais baixos que os do setor industrial brasileiro em geral, em que esse percentual fica em torno de 25%. Na alta liderança, as mulheres representam 20% dos cargos de chefia e 21% dos conselhos administrativos na mineração.
+De acordo com uma pesquisa global da McKinsey, além de colocar em prática valores de igualdade e equidade, a diversidade melhora o desempenho operacional. Equipes diversas são mais produtivas, aderindo 11% mais ao cronograma de produção; têm práticas mais seguras, com uma frequência de acidentes 67% menor; e são mais criativas e resilientes.
+Signatária dos Princípios de Empoderamento da Mulher da ONU, uma mineradora global criou, em 2018, um programa de trainee 100% feminino e, no ano seguinte, realizou seu primeiro processo seletivo exclusivo para mulheres engenheiras, analistas e gestoras. A medida tem impulsionado o índice de participação feminina da empresa, que passou de 13% para 22% entre 2019 e 2022.
+Há, ainda, um obstáculo anterior, como aponta uma gerente de governança do setor: “A mineração tem muitos cargos em ciências exatas, mas não encontramos muitas universitárias nesses cursos”.
+De fato, se, por um lado, as brasileiras têm maior grau de escolaridade do que os homens, por outro, elas são minoria nos cursos de STEM (ciências, tecnologia, engenharias e matemática): 10% das universitárias e 28% de homens universitários estão matriculados em graduações nessas áreas.
+A fim de vencer esse obstáculo, mineradoras globais passaram a oferecer, em parceria com universidades, bolsas de estudos para mulheres nas áreas de engenharia e ciências exatas.
+Internet: <braziljournal.com> (com adaptações).
+Julgue os itens seguintes, acerca de aspectos linguísticos e do vocabulário empregado no texto CG4A1.
+
+No penúltimo parágrafo, com o emprego das expressões “por um lado” e “por outro”, o autor do texto evidencia o antagonismo entre os dois fatos apresentados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+20.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MN
+Marcio Nogueira Da Cruz Saldanha
+25 de fevereiro de 2025 às 10:40
+GABARITO OFICIAL: E
+GABARITO PRETENDIDO: C
+
+As expressões, de fato, indicam o antagonismo, ou seja, a oposição entre as ideias:
+Por um lado: maior escolaridade
+Por outro: minoria nos cursos de STEM.
+
+A oposição é lógica pela expectativa haver muitas universitárias nesses cursos, já que as mulheres são maioria na universidade. Esses dados são opostos, poderiam até ser ligados por uma conjunção adversativa:
+As mulheres são maioria no nível superior, MAS são minoria em cursos de exatas.
+De fato, se, por um lado, as brasileiras têm maior grau de escolaridade do que os homens, por outro, elas são minoria nos cursos de STEM (ciências, tecnologia, engenharias e matemática): 10% das universitárias e 28% de homens universitários estão matriculados em graduações nessas áreas.
+
+Fonte: https://www.estrategiaconcursos.com.br/blog/concurso-anm-recursos/
+Reportar abuso
+Ajudou (4) Não ajudou
+Carlos Eduardo De Melo Gomes
+24 de fevereiro de 2025 às 20:22
+Gran, cadê o texto?
+Reportar abuso
+Ajudou (0) Não ajudou
+15
+Q3663392
+Administração de Recursos Materiais Indicadores de Estoques
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração - 2025
+Texto associado
+Julgue os itens subsecutivos, que versam a administração de material e patrimônio no governo federal.
+No caso de desaparecimento de um livro técnico, mesmo que reconhecidamente de pequeno valor econômico, o dirigente do departamento de administração ou da unidade equivalente deve providenciar sindicância e(ou) inquérito para apuração de responsabilidades.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+27.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AP
+Antonio Paulo
+26 de fevereiro de 2025 às 11:24
+A questão afirma que sempre deve ser instaurada sindicância ou inquérito para apurar o desaparecimento de um livro técnico, independentemente do seu valor. No entanto, a norma permite que bens de pequeno valor econômico sejam baixados apenas com uma justificativa administrativa, sem necessidade de sindicância ou inquérito, caso não haja indícios de dolo ou culpa grave.
+Portanto, a obrigação de instaurar sindicância no caso citado pela questão não está correta conforme a norma vigente.
+Reportar abuso
+Ajudou (8) Não ajudou
+Lisley Gomes
+25 de fevereiro de 2025 às 16:48
+Não entendi o porquê de estar errada a questão
+Reportar abuso
+Ajudou (4) Não ajudou
+Karla
+26 de fevereiro de 2025 às 16:08
+@Lisley acredito que deva ser pela palavra DEVE de obrigação, no meu entendimento da questão e tbém da banca CESPE que gosta de brincar com essas palavras... o DEVER de instaurar sindicância pega um tanto pesado pois acredito que o dirigente do departamento PODE instaurar ou não tomando nesse caso outras providências mais suaves primeiramente.
+Reportar abuso
+Ajudou (1) Não ajudou
+16
+Q3663350
+Administração Financeira e Orçamentária - AFO Estrutura Programática
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração - 2025
+Texto associado
+A respeito de gestão pública, julgue os itens subsecutivos.
+A classificação programática da despesa pública é estruturada com base em programas e suas respectivas ações.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+96.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Nataline Oliveira
+27 de fevereiro de 2025 às 13:45
+Classificação de despesa estruturada em programas, composto por ações, que podem ser do tipo projeto, atividade ou operação especial. Na esfera federal, as ações são desdobradas em subtítulos (localizador do gasto). O objetivo é identificar a finalidade do gasto, os bens e serviços que dele resultam e os locais em que serão alocados os recursos. Esta classificação é composta por doze dígitos: 1º ao 4º (programa); 5º ao 8º (ação); 9º ao 12º (subtítulo).
+
+fonte: https://www.congressonacional.leg.br/legislacao-e-publicacoes/glossario-orcamentario/-/orcamentario/termo/classificacao_programatica
+Reportar abuso
+Ajudou (2) Não ajudou
+17
+Q3639264
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade: Psicologia - 2025
+Texto associado
+Analisando-se a literatura produzida sobre justiça restaurativa desde o final da década de 70 do século passado, verifica-se que há diferentes abordagens, produzidas por estudiosos dos mais diversos campos do conhecimento (filosofia, psicologia social, antropologia, ciências jurídicas, pedagogia, assistência social, entre outros), incluídos acadêmicos, facilitadores de justiça restaurativa, servidores públicos e entusiastas da justiça restaurativa que buscam disseminar e fortalecer a sua implementação em nível institucional.
+Dada essa pluralidade de abordagens, surgiram diversas definições de justiça restaurativa na literatura ao longo das últimas décadas, razão pela qual alguns autores atuais apontam que o conceito de justiça restaurativa ainda estaria “em aberto”. Contudo, parece haver na literatura certo consenso de que tal pluralidade seria algo positivo, por possibilitar a adaptação do conceito a diferentes contextos culturais. Alguns autores também sugerem que a justiça restaurativa seria um conceito “guarda-chuva”, ou seja, um conceito que abarca uma vasta gama de formulações, desde que sejam conservados os elementos essenciais da justiça restaurativa.
+
+Fernanda Carvalho Dias de Oliveira Silva. A experiência e o saber da experiência da justiça restaurativa no Brasil: práticas, discursos e desafios. São Paulo: Blucher, 2021, p. 37-38 (com adaptações).
+
+A respeito das ideias e de aspectos discursivos e linguísticos do texto precedente, julgue os itens subsecutivos.
+Segundo as informações do texto, o fim da década de 70 do século passado marcou o início da abordagem do conceito de justiça restaurativa em diferentes áreas do saber.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+50.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Camila Maria Ambrosio Dos Santos
+13 de fevereiro de 2025 às 14:40
+(Errado)
+A referência temporal utilizada no texto apenas delimita o período em que foi produzida a literatura analisada. Afirmar que esse período coincide com o início da abordagem do conceito de justiça restaurativa extrapola o entendimento do texto. 👇🏽
+
+“Analisando-se a literatura produzida sobre justiça restaurativa desde o final da década de 70 do século passado, verifica-se que há diferentes abordagens, produzidas por estudiosos dos mais diversos campos do conhecimento (filosofia, psicologia social, antropologia, ciências jurídicas, pedagogia, assistência social, entre outros) ...”
+Reportar abuso
+Ajudou (58) Não ajudou
+Ezequiel De Andrade Feitosa
+15 de fevereiro de 2025 às 17:49
+A Pesquisa de revisão bibliográfica teve referência a partir do final década de 70. O texto não mencionou em nenhum momento esse "marco".
+Reportar abuso
+Ajudou (16) Não ajudou
+Ashely
+20 de fevereiro de 2025 às 11:07
+ERRADO
+
+"Analisando-se a literatura produzida sobre justiça restaurativa desde o final da década de 70 do século passado..."
+
+Final da década de 70 é que começou a análise, mas não mencionou nada sobre o inicio da abordagem do conceito.
+Reportar abuso
+Ajudou (3) Não ajudou
+Emulado
+20 de fevereiro de 2025 às 09:40
+Perfeito Milla
+Reportar abuso
+Ajudou (2) Não ajudou
+N
+Nascimento
+27 de fevereiro de 2025 às 18:24
+Trecho do Texto Original:
+"Analisando-se a literatura produzida sobre justiça restaurativa desde o final da década de 70 do século passado, verifica-se que há diferentes abordagens, produzidas por estudiosos dos mais diversos campos do conhecimento (filosofia, psicologia social, antropologia, ciências jurídicas, pedagogia, assistência social, entre outros), incluídos acadêmicos, facilitadores de justiça restaurativa, servidores públicos e entusiastas da justiça restaurativa que buscam disseminar e fortalecer a sua implementação em nível institucional."
+
+Análise:
+O texto menciona que a literatura sobre justiça restaurativa tem sido produzida desde o final da década de 70 do século passado. Isso sugere que o conceito de justiça restaurativa começou a ser abordado e desenvolvido em diferentes áreas do conhecimento a partir dessa época.
+
+Possível Motivo para a Discordância da Banca:
+A banca pode ter considerado a afirmação errada se interpretou que a justiça restaurativa já era discutida antes do final da década de 70 e que a produção literária apenas se intensificou nesse período. Outra possibilidade é que a banca tenha um entendimento diferente sobre o início da abordagem do conceito em diversas áreas do saber.
+
+Em algumas situações, a banca pode ter uma interpretação específica baseada em outras fontes ou em detalhes que não estão explícitos no texto apresentado.
+
+
+Conclusão:
+Embora o texto indique que a literatura sobre justiça restaurativa começou a ser produzida desde o final da década de 70, a banca pode ter considerado outros fatores ou interpretações ao avaliar a questão. Isso pode levar a uma diferença na análise e na resposta esperada.
+
+É possível que a banca tenha considerado a afirmação errada devido ao uso do termo "diferentes abordagens". 
+
+A questão de afirmar que houve um marco pode ser interpretada de forma diferente com base no texto fornecido. Embora o texto mencione que a literatura sobre justiça restaurativa começou a ser produzida desde o final da década de 70, ele não especifica que houve um marco exato naquele momento para o início das diferentes abordagens.
+O texto destaca que desde então, diversas abordagens foram desenvolvidas por estudiosos de vários campos do conhecimento. Portanto, pode-se entender que a produção literária começou a se diversificar ao longo do tempo, sem necessariamente estabelecer um marco específico no final da década de 70.
+A banca pode ter interpretado que a afirmação de um "marco" sugere um ponto de início exato para as diferentes abordagens, o que não está claramente definido no texto. Dessa forma, a resposta correta depende da interpretação precisa do que está sendo perguntado.
+Reportar abuso
+Ajudou (0) Não ajudou
+18
+Q3164332
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+Julgue os próximos itens, relativos a extração e representação de conhecimento, ontologias, tecnologias semânticas e OWL (Ontology Web Language).
+Entidades são os blocos de construção fundamentais das ontologias OWL 2 e definem o vocabulário de uma ontologia; assim, o conjunto de entidades constitui a assinatura de uma ontologia.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+80.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Genissis Das Gracas Januaria
+20 de março de 2024 às 22:56
+Entidades são os componentes essenciais das ontologias OWL (Web Ontology Language). Elas representam os conceitos, objetos ou indivíduos que desejamos modelar em uma ontologia. As entidades incluem:
+Classes:
+Representam grupos de indivíduos com características semelhantes.
+Por exemplo, a classe “Animal” pode incluir indivíduos como “Cachorro”, “Gato” e “Elefante”.
+Indivíduos:
+São instâncias específicas de uma classe.
+Por exemplo, “Fido” é um indivíduo da classe “Cachorro”.
+Propriedades:
+Descrevem as relações entre classes e indivíduos.
+Por exemplo, a propriedade “temPeso” pode relacionar um indivíduo “Elefante” com um valor numérico de peso.
+Axiomas:
+São declarações que estabelecem regras ou restrições sobre as entidades.
+Por exemplo, “Todo Cachorro é um Animal” é um axioma.
+As entidades formam a base para a criação de ontologias ricas e estruturadas, permitindo a representação de conhecimento complexo e a inferência automática sobre os dados. 🌐🧠
+Reportar abuso
+Ajudou (9) Não ajudou
+19
+Q3175420
+Administração de Recursos Materiais Administração de Compras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Em relação a compras no setor privado, julgue os itens subsequentes.
+O espaço virtual, disponibilizado pela web, permite a redução dos custos de transação no processo de compras.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+89.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Claudineia Ferreira Da Silva Alves
+2 de abril de 2024 às 21:39
+O espaço virtual disponibilizado pela web realmente facilita a redução dos custos de transação no processo de compras. Isso ocorre porque a utilização de plataformas online para compras permite a automatização de processos, a comunicação mais ágil entre fornecedores e compradores, a comparação de preços de forma rápida e a redução de intermediários. .
+
+Fonte: comentário no QC
+
+Reportar abuso
+Ajudou (36) Não ajudou
+20
+Q3436681
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Text I
+Despite the tricky and life-threatening relationship between Paleolithic humans and the megafauna that comprised so much of their environment, twentieth-century scholars tended to claim cave art as evidence of an unalloyed triumph for our species. It was a “great spiritual symbol,” of a time when “man had just emerged from a purely zoological existence, when instead of being dominated by animals, he began to dominate them.” But the child-like and highly stylized stick figures found in caves do not radiate triumph. By the standards of our own time, they are excessively self-effacing and, compared to the animals portrayed around them, pathetically weak.
+While twentieth-century archeologists tended to solemnize prehistoric art as “magico-religious” or “shamanic,” today’s more secular viewers sometimes detect a vein of sheer silliness. India’s Mesolithic rock art portrays few human stick figures; those that are portrayed have been described by modern viewers as “comical,” “animalized” and “grotesque.” As Judith Thurman wrote about the artists, “despite their penchant for naturalism, rarely did they choose to depict human beings, and then did so with a crudeness that smacks of mockery.”
+But who are they mocking, other than themselves and, by extension, their distant descendants, ourselves? Of course, our reactions to Paleolithic art may bear no connection to the intentions or feelings of the artists. Yet there are reasons to believe that Paleolithic people had a sense of humor not all that dissimilar from our own.
+Barbara Ehrenreich. The Humanoid Stain. Later on.
+Internet: <https://leisureguy.ca> (adapted).
+Based on text I, judge whether the following statements are right (C) or wrong (E).
+The text stresses the difference between the opinions of cave artists and of modern art scholars in terms of the concept of the artistic genius.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+50.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Antônio Carlos
+26 de setembro de 2024 às 10:51
+Errei aqui e errei na hora da prova rs
+Reportar abuso
+Ajudou (0) Não ajudou

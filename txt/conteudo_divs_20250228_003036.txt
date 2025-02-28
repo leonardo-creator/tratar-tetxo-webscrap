@@ -1,0 +1,362 @@
+1
+Q3605698
+Raciocínio Lógico Verdade e Validade
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+Considere que o investigador cumpra o procedimento e identifique corretamente o suspeito. Nesse caso, presumindo-se verdadeira a proposição P, é correto afirmar que o juiz não anulará a prova nem soltará o acusado.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+2
+Q3664420
+Administração de Recursos Materiais UEPS ou LIFO (Último a Entrar, Primeiro a Sair)
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração, Economia, Contabilidade e Direito - 2025
+Texto associado
+Em uma cadeia de suprimentos de alto desempenho, o mercado varejista decide, de forma independente e autônoma, onde manter os estoques.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+3
+Q3663183
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Engenharia Civil - 2025
+Texto associado
+O texto contrapõe duas dimensões distintas: a subterrânea, caracterizada pelo trabalho árduo dos mineiros em meio à completa escuridão, e a da superfície, exposta à luz do dia.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+4
+Q3664301
+Direito Administrativo Contratos Administrativos
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração, Economia, Contabilidade e Direito - 2025
+Texto associado
+Aos contratos administrativos são aplicáveis, de forma subsidiária, os princípios da teoria geral dos contratos e as normas do direito privado.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+5
+Q3639248
+Língua Portuguesa Sentidos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade: Engenharia Mecânica - 2025
+Texto associado
+O texto informa que um dos fatores responsáveis pela falta de histórias da justiça é o seu distanciamento da política, tomada como espaço de luta e de disputa para “ocupar posições de governo, de mando em geral e de decisão em lugar dos outros”.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+6
+Q3601048
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Ensino Médio - Área: Língua Portuguesa - 2025
+Texto associado
+No segundo período, são mencionados elementos contextuais que, devido a sua caracterização, confirmam a dificuldade encontrada pelo leitor diante de um texto.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+7
+Q3595397
+Administração de Recursos Materiais Tipos de Classificação de Materiais
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Patrimônio - 2025
+Texto associado
+A tipologia escolhida para a classificação de materiais pode ser flexibilizada em função da dinâmica e dos processos organizacionais.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+8
+Q3641092
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área Apoio Especializado - Especialidade: Suporte Técnico - 2025
+Texto associado
+The Moodbeam wristband was created to track the emotional state of employees, generating data for employers.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+9
+Q3663371
+Administração de Recursos Materiais Cadastro e Seleção de Fornecedores
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração - 2025
+Texto associado
+O computador a ser substituído é considerado inservível.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+10
+Q3663559
+Língua Portuguesa Sentidos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Especialista em Recursos Minerais - Área Direito - 2025
+Texto associado
+De acordo com o texto, apenas 10% das mulheres brasileiras estão matriculadas em cursos de graduação nas áreas de STEM.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+11
+Q3640491
+Matemática Probabilidade
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário -Área: Análise de Dados - 2025
+Texto associado
+A probabilidade de um segurado ter sido vítima de furto, dado que ele sofreu um acidente, é de 25%.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+12
+Q3663392
+Administração de Recursos Materiais Indicadores de Estoques
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração - 2025
+Texto associado
+No caso de desaparecimento de um livro técnico, mesmo que reconhecidamente de pequeno valor econômico, o dirigente do departamento de administração ou da unidade equivalente deve providenciar sindicância e(ou) inquérito para apuração de responsabilidades.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+13
+Q3663281
+Língua Portuguesa Sentidos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Especialista em Recursos Minerais - Área TI/Operações - 2025
+Texto associado
+Julgue os itens seguintes, acerca de aspectos linguísticos e do vocabulário empregado no texto CG4A1.
+
+No penúltimo parágrafo, com o emprego das expressões “por um lado” e “por outro”, o autor do texto evidencia o antagonismo entre os dois fatos apresentados.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+14
+Q3660556
+Língua Portuguesa Sentidos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - FUNPRESP-EXE - Analista de Previdência Complementar - Área: Administração e Planejamento - 2025
+Texto associado
+O texto expressa, de modo irônico, o entendimento de que saúde, mocidade e liberdade são alegrias passageiras, que acabam tão logo começam a ser desfrutadas.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+15
+Q3664418
+Administração de Recursos Materiais Just-In-Time
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração, Economia, Contabilidade e Direito - 2025
+Texto associado
+O modelo just in time é um exemplo de reação à demanda com a movimentação de quantidades superiores ao consumo real.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+16
+Q3639264
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade: Psicologia - 2025
+Texto associado
+Segundo as informações do texto, o fim da década de 70 do século passado marcou o início da abordagem do conceito de justiça restaurativa em diferentes áreas do saber.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+17
+Q3663350
+Administração Financeira e Orçamentária - AFO Estrutura Programática
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração - 2025
+Texto associado
+A classificação programática da despesa pública é estruturada com base em programas e suas respectivas ações.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+18
+Q3164332
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+Entidades são os blocos de construção fundamentais das ontologias OWL 2 e definem o vocabulário de uma ontologia; assim, o conjunto de entidades constitui a assinatura de uma ontologia.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+19
+Q3175420
+Administração de Recursos Materiais Administração de Compras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+O espaço virtual, disponibilizado pela web, permite a redução dos custos de transação no processo de compras.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+20
+Q3436681
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+The text stresses the difference between the opinions of cave artists and of modern art scholars in terms of the concept of the artistic genius.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro

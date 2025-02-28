@@ -1,0 +1,990 @@
+1
+Q3193044
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Analista - Área: Administração de Banco de Dados - 2024
+Texto associado
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), julgue os itens subsequentes.
+A lei não se aplica ao tratamento de dados pessoais provenientes de fora do território nacional que não sejam objeto de uso compartilhado de dados com agentes de tratamento brasileiros, desde que o país de proveniência proporcione grau de proteção de dados pessoais adequado ao previsto na lei.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+80.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+PP
+Priscyla Prado
+8 de maio de 2024 às 16:36
+art. 4º NÃO SE APLICA
+IV - provenientes de fora do território nacional e que não sejam objeto de comunicação, uso compartilhado de dados com agentes de tratamento brasileiros ou objeto de transferência internacional de dados com outro país que não o de proveniência, desde que o país de proveniência proporcione grau de proteção de dados pessoais adequado ao previsto nesta Lei.
+Reportar abuso
+Ajudou (47) Não ajudou
+Michelle Ferreira Da Cunha
+28 de janeiro de 2025 às 17:45
+Gabarito C
+
+Art. 4º Esta Lei não se aplica ao tratamento de dados pessoais:
+I - realizado por pessoa natural para fins exclusivamente particulares e não econômicos;
+II - realizado para fins exclusivamente:
+a) jornalístico e artísticos; ou
+b) acadêmicos, aplicando-se a esta hipótese os arts. 7º e 11 desta Lei;
+III - realizado para fins exclusivos de:
+a) segurança pública;
+b) defesa nacional;
+c) segurança do Estado; ou
+d) atividades de investigação e repressão de infrações penais; ou
+IV - provenientes de fora do território nacional e que não sejam objeto de comunicação, uso compartilhado de dados com agentes de tratamento brasileiros ou objeto de transferência internacional de dados com outro país que não o de proveniência, desde que o país de proveniência proporcione grau de proteção de dados pessoais adequado ao previsto nesta Lei.
+Reportar abuso
+Ajudou (7) Não ajudou
+Julia Fim Puhl
+30 de junho de 2024 às 21:06
+art 4 da LGPD
+Reportar abuso
+Ajudou (6) Não ajudou
+2
+Q3164341
+Tecnologia da Informação Mineração de Dados (Data Mining)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+No que se refere à análise e à mineração de dados, julgue os próximos itens.
+A mineração de dados pode ser entendida como um subconjunto da análise de dados, pois é usada para descobrir padrões ocultos em conjuntos de dados brutos, enquanto o enfoque da análise de dados se encontra no exame dos conjuntos de dados para a obtenção de conclusões precisas.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+79.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AS
+Alexandre Silva Sousa
+1 de abril de 2024 às 15:19
+De fato, a mineração de dados é um subconjunto da análise de dados.
+A análise de dados é um campo mais amplo que envolve a exploração, interpretação e visualização de conjuntos de dados para obter insights e tomar decisões informadas. A mineração de dados, por sua vez, se concentra na descoberta de padrões, tendências e relações ocultas nos dados, muitas vezes utilizando algoritmos e técnicas estatísticas avançadas. Portanto, enquanto a análise de dados se concentra em examinar os dados para obter conclusões precisas, a mineração de dados é utilizada para descobrir padrões e informações que podem não ser imediatamente óbvias.
+Reportar abuso
+Ajudou (24) Não ajudou
+ND
+Natanael De Sousa Leite
+1 de abril de 2024 às 14:14
+A mineração de dados é, de fato, uma parte da análise de dados. Enquanto a análise de dados se concentra em fazer inferências a partir de um conjunto de dados, a mineração de dados se concentra em encontrar padrões ocultos e informações não aparentes nos dados brutos. Portanto, a mineração de dados pode ser considerada um subconjunto da análise de dados, pois é uma técnica usada dentro da análise de dados para descobrir esses padrões ocultos.
+Reportar abuso
+Ajudou (8) Não ajudou
+3
+Q3143169
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Pesquisador P1 - Área: Biologia Celular e Molecular Língua Inglesa - 2024
+Texto associado
+Using your phone while on the toilet poses significant health risks, as warned by an expert, Dr. Sethi. Despite being a common habit, mindlessly scrolling or using your phone in the bathroom can lead to severe consequences. Dr. Sethi, a Harvard-trained stomach doctor, highlights that this practice, particularly during bowel movements, causes extended sitting that strains the rectum and anus, potentially resulting in hemorrhoids, anal fissures, and rectal prolapse.
+Furthermore, using phones in the bathroom makes them a breeding ground for bacteria, surpassing the hygiene levels of a public toilet seat. Dr. Sethi emphasizes the importance of avoiding phone usage while on the toilet or, if unavoidable, suggests disinfecting the phone afterward. Research spanning over a decade has consistently shown that phones harbor a significant amount of germs, including fecal matter.
+Despite these health warnings, over 65% of adults take their phones into the bathroom, with Spain having the highest usage rates (nearly 80%) and Germany the lowest (just under 55%). Interestingly, younger age groups, particularly those aged 26-41 and 18-25, are most likely to engage in this unhygienic behavior. Apart from health concerns, there’s the practical risk of dropping the phone into the toilet, with a fifth of respondents in the United States admitting to this mishap.
+
+Internet: <www.mirror.co.uk> (adapted).
+
+Based on the previous text, judge the following items.
+Although it is a usual habit to scroll one’s phone while in the bathroom, it poses minor risks to someone’s health.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+81.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MS
+Miguel Silva
+22 de fevereiro de 2024 às 15:38
+"Using your phone while on the toilet poses significant health risks"
+Errado.
+Reportar abuso
+Ajudou (5) Não ajudou
+4
+Q3163374
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Pesquisador - Área: Saúde Avançada - Biossensores e Biofabricação - 2024
+Texto associado
+There have been reports that researchers at OpenAI had made a “breakthrough” in Artificial Intelligence (AI). Some media agencies report that such researchers had come up with a new way to make powerful AI systems and had created a new model, called Q. Star, that was able to perform grade-school-level math.
+Researchers have for years tried to get AI models to solve math problems. Language models like ChatGPT and GPT-4 can do some math, but not very well or reliably.
+People who worry about whether AI poses an existential risk to humans, one of OpenAI’s founding concerns, fear that such capabilities might lead to rogue AI. Safety concerns might arise if such AI systems are allowed to set their own goals and start to interface with a real physical or digital world in some ways, says Katie Collins, a PhD researcher at the University of Cambridge.
+However, while math capability might take us a step closer to more powerful AI systems, solving these sorts of math problems doesn’t signal the birth of a superintelligence.
+Internet:<technologyreview.com> (adapted).
+:
+About the ideas and vocabulary of text presented above, judge the following items.
+ChatGPT is a language AI model that solves math problems reliably.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+71.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Thalita Silva
+31 de março de 2024 às 22:21
+Researchers have for years tried to get AI models to solve math problems. Language models like ChatGPT and GPT-4 can do some math, but not very well or reliably.
+
+
+Durante anos, os pesquisadores tentaram fazer com que modelos de IA resolvessem problemas matemáticos. Modelos de linguagem como ChatGPT e GPT-4 podem fazer algumas contas, mas não muito bem ou de forma confiável.
+Reportar abuso
+Ajudou (3) Não ajudou
+5
+Q3418381
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista de Tecnologia da Informação - Área Sistemas de Informação - 2024
+Texto associado
+O setor público enfrenta o desafio particular de oferecer serviços públicos cada vez melhores a uma população gradualmente mais bem informada, mais consciente de seus direitos e com expectativas crescentes quanto ao papel do Estado. Devido aos recursos limitados, desenvolver serviços públicos inovadores tem sido visto crescentemente como fator fundamental para sustentar um alto nível de serviços para cidadãos e negócios, bem como para enfrentar desafios sociais e aprimorar o bem-estar social da população.
+Diante desse cenário, o discurso científico sobre inovação em compras públicas ganhou maior atenção nas últimas décadas. A União Europeia reconheceu as compras públicas como instrumento de inovação e de provimento de mercados pioneiros para novos produtos, definindo-as como compras de bens e serviços que ainda não existem, que precisam ser aperfeiçoados ou que requerem pesquisa e inovação para atender às necessidades especificadas pelos usuários.
+As compras públicas representam grande parte da execução da despesa pública. Entre países da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), a média de gastos públicos representa 12% do GDP (equivalente ao PIB) por ano. No Brasil, anualmente o governo federal gasta, em média, 5% do PIB em compras apenas de bens e serviços. Quando se incluem nos cálculos as despesas efetuadas por estados, municípios e estatais, o percentual chega próximo a 15% do PIB, ou R$ 900 bilhões.
+
+Internet: http://www.realp.unb.br/jspui/ (com adaptações).
+
+Considerando as ideias e os aspectos linguísticos do texto apresentado, julgue os itens que se seguem.
+Segundo as informações do texto, a média de gastos anual nas diferentes esferas de governo no Brasil é maior que a média de gastos públicos por ano que se verifica em países da OCDE.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Andre2
+15 de setembro de 2024 às 17:18
+"Entre países da... (OCDE), a média de gastos públicos representa 12% do GDP (equivalente ao PIB) por ano. No Brasil, anualmente... Quando se incluem nos cálculos as despesas efetuadas por estados, municípios e estatais, o percentual chega próximo a 15% do PIB..."
+Reportar abuso
+Ajudou (9) Não ajudou
+Ronaldo Chaves
+13 de setembro de 2024 às 22:38
+C 15% mais.
+Reportar abuso
+Ajudou (5) Não ajudou
+Mateus Augusto
+11 de novembro de 2024 às 21:56
+Gente, mas a média do Brasil ser 15% não implica dizer que ela é maior do que a média de gastos dos países da OCDE só pelo fato do percentual ser maior, não? Porque, em valores brutos, a média da OCDE pode ser 1 trilhão, por exemplo. Matemática básica... Ao meu ver, está errada a questão. Alguém me corrija, por favor.
+Reportar abuso
+Ajudou (4) Não ajudou
+Danrlei Mendes Costa
+24 de dezembro de 2024 às 18:00
+A média na esfera federal é menor. A esfera federal também é uma esfera de governo, logo gabarito Incorreto
+Reportar abuso
+Ajudou (0) Não ajudou
+Danrlei Mendes Costa
+24 de dezembro de 2024 às 17:58
+Ué, mas a questão está generalizando demais. Somente é menor na esfera estadual e municipal. Na federal é menor, 5%. Logo a questão extrapolou a informação. A questão está incorreta.
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+6
+Q3192997
+Tecnologia da Informação Modelagem multidimensional
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Analista - Área: Administração de Banco de Dados - 2024
+Texto associado
+A respeito de modelagem relacional, modelagem dimensional e normalização das estruturas de dados, julgue os itens que se seguem.
+Na modelagem dimensional, as métricas estão contidas na tabela de fatos, enquanto o caráter quantitativo das informações descritivas está armazenado na tabela dimensões.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+54.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Bq Oliveira
+12 de junho de 2024 às 14:48
+A questão afirma o seguinte:
+
+as métricas estão contidas na tabela de fatos
+
+informações descritivas estão armazenadas na tabela dimensões
+
+A expressão "caráter quantitativo" veio para confundir. Mas as afirmativas em si estão corretas.
+Reportar abuso
+Ajudou (16) Não ajudou
+Hyuri Mamede
+30 de outubro de 2024 às 09:34
+Como nosso companheiro Bq Oliveira comentou, parece confuso mas está correto. A dimensão pode conter atributos numéricos, embora o objetivo principal seja o contexto descritivo e qualitativo. Na CESPE, questão incompleta não é errada, resposta CERTO.
+Seria errado se colocasse "unicamente, exclusivamente, apenas o carater quantitativo"
+Reportar abuso
+Ajudou (2) Não ajudou
+Danilo Fernandes
+7 de setembro de 2024 às 19:07
+Questão confusa, afinal as tabelas dimensões contém informações de caráter qualitativo e não quantitativo.
+Reportar abuso
+Ajudou (2) Não ajudou
+Leonardo Lima
+8 de novembro de 2024 às 11:05
+Questão parece ter partes inconsistentes, Tabela Dimensões armazena informações Qualitativos, não Quantitativos.
+Reportar abuso
+Ajudou (0) Não ajudou
+7
+Q3175428
+Administração de Recursos Materiais Administração de Compras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Em relação a compras no setor privado, julgue os itens subsequentes.
+A liquidez elevada de determinado fornecedor pode indicar maiores possibilidades de negociação dos prazos de pagamento.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+81.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Maicon Nunes Da Cruz
+18 de março de 2024 às 08:14
+Certo. Liquidez elefada de um determinado fornecedor, ou seja, elevada capacidade de transformar seus ativos em dinheiro para pagar suas obrigações, o torna mas propício às negociações dos prazos para pagamento.
+Reportar abuso
+Ajudou (66) Não ajudou
+ED
+Ederivania De Souza Dos Santos Carvalho
+6 de janeiro de 2025 às 11:16
+Segue comentário do prof do tec:
+
+A liquidez de um fornecedor, que reflete sua capacidade de atender a obrigações de curto prazo, pode efetivamente influenciar sua disposição para negociar termos de pagamento mais flexíveis com os compradores. Um fornecedor com alta liquidez geralmente possui mais recursos financeiros disponíveis, o que pode permitir a ele oferecer termos de pagamento mais extensos sem prejudicar suas operações ou fluxo de caixa.
+Fornecedores com liquidez elevada podem se sentir mais confortáveis em aceitar prazos de pagamento prolongados, pois possuem uma margem de segurança financeira que lhes permite gerir eficazmente suas obrigações mesmo que recebam pagamentos de clientes em intervalos mais espaçados.
+Por outro lado, fornecedores com liquidez restrita podem precisar de pagamentos mais rápidos para sustentar suas operações diárias e cumprir com suas próprias obrigações financeiras. Nessas situações, a margem para negociação de prazos de pagamento pode ser limitada, pois atrasos nos recebimentos podem impactar diretamente sua capacidade operacional e financeira.
+Um exemplo simples que corrobora o gabarito seria o de um fornecedor de materiais de construção com alta liquidez. Este fornecedor tem recursos financeiros suficientes para cobrir suas despesas operacionais e, portanto, pode se dar ao luxo de oferecer a uma empresa de construção um prazo de pagamento de 60 dias para uma grande compra de materiais, ao invés do prazo padrão de 30 dias.
+ Fonte: VIANA, J. J. Administração de Materiais: um enfoque prático. São Paulo: Atlas, 2000.
+Reportar abuso
+Ajudou (9) Não ajudou
+8
+Q3178957
+Administração Geral Estrutura Organizacional
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Técnico Ministerial - Área Assistente Administrativo - 2024
+Texto associado
+Julgue os itens seguintes, relativos a organizações modernas e a suas estruturas e critérios de departamentalização.
+Organização formal caracteriza-se como a organização oficialmente estabelecida, embasada na divisão racional do trabalho e na diferenciação e integração de seus órgãos.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+92.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Jerryvaldo Sousa Martins
+20 de maio de 2024 às 12:42
+A organização formal é caracterizada pela estrutura oficial e deliberada de uma entidade, com a divisão clara e racional das funções, papéis e responsabilidades. Isso garante que cada membro ou setor tem um objetivo específico, promovendo eficiência através da especialização e integração coordenada de suas atividades. Essa estrutura formal é essencial para alcançar os objetivos organizacionais de maneira ordenada e eficaz.
+Reportar abuso
+Ajudou (157) Não ajudou
+Luanda Da Câmara Moreira
+17 de junho de 2024 às 14:22
+TEC CONCURSOS
+
+
+Na lição de Chiavenato.
+(...) a organização pode ser visualizada sob dois aspectos:
+Organização formal: é a organização baseada em uma divisão racional do trabalho, na diferenciação e integração de seus órgãos e representada através do organograma. É a organização planejada, isto é, a que está oficialmente no papel, aprovada pela direção e comunicada a todos os participantes por meio de manuais de organização, descrições de cargos, de organogramas e de regras e regulamentos internos. É a organização formalizada oficialmente,
+Organização informal: é a organização que emerge espontânea e naturalmente entre as pessoas que ocupam posições na organização formal e a partir dos relacionamentos interpessoais como ocupantes de cargos. A organização informal surge a partir das relações de amizades (ou de antagonismos) entre as pessoas e do surgimento de grupos informais que não aparecem no organograma ou em qualquer outro documento da organização formal.
+Reportar abuso
+Ajudou (95) Não ajudou
+Carlos Henrique
+25 de outubro de 2024 às 22:16
+CERTO!
+
+Em uma organização formal, há uma clara divisão de funções e responsabilidades entre diferentes departamentos ou unidades (diferenciação). Ao mesmo tempo, esses diferentes departamentos precisam trabalhar juntos e se coordenar para atingir os objetivos da organização como um todo (integração). Então, apesar de cada órgão ter suas próprias funções específicas, todos devem estar alinhados e conectados para garantir o bom funcionamento da organização.
+Reportar abuso
+Ajudou (6) Não ajudou
+KS
+Kenildean Silva Rodrigues
+14 de setembro de 2024 às 10:32
+A organização formal é representada por meio do organograma. Nele, é possível visualizar o desenho que demonstra a estrutura organizacional, os cargos, as funções, as áreas ou departamen- tos, em seus respectivos níveis hierárquicos. A estrutura formal focaliza o sistema de autoridade, responsabilidade, divisão de trabalho, comunicação e processo decisório. São princípios fundamentais da organização formal: a) Divisão do trabalho: é a decomposição de um processo complexo em pequenas tarefas, proporcionando maior produtividade, melhorando a eficiência organizacional e o desempenho dos envolvidos e reduzindo custos de produção. b) Especialização: considerada uma consequência da divisão do trabalho. Cada cargo passa a ter funções específicas, assim como cada tarefa. c) Hierarquia: divisão da empresa e, camadas hierárquicas. A hierarquia visa assegurar que os subordinados aceitem e executem rigorosamente as ordens e orientações dadas pelos seus superiores. d) Amplitude administrativa: também chamada de amplitude de controle ou amplitude de comando – determina o número de funcionários que um administrador consegue dirigir com eficiência e eficácia. A estrutura organizacional que apresenta pequena amplitude de controle é a aguda ou vertical. São características da organização informal: a) Relação de coesão ou de antagonismo: representam as relações criadas entre as pessoas, em diferentes áreas da organização, de simpatia ou antipatia. b) Status: os indivíduos assumem certa posição social nos grupos informais, independente do seu posicionamento na organização formal. c) Colaboração espontânea: reflete a espontaneidade da colaboração das pessoas na organização informal. d) Possibilidade da oposição à organização formal: há possibilidade da organização informal se opor à organização formal. Quando isso ocorre, demonstra desequilíbrio e falta de engajamento aos objetivos organizacionais ou dificuldades enfrentadas pela alta administração para gerar um clima adequado às relações humanas. A organização informal caracteriza-se por grupos formados a partir de interesses, atitudes e comportamentos comuns, inspirados por formadores de opinião e influenciadores de atitudes. Não está representada no organograma e caracteriza-se, entre outros fatores, por atitudes e comportamentos. Ygor Loureiro 30 Sinopses Fiscais e) Padrões de relações e atitudes: as atitudes e os padrões de relacionamento aceitáveis traduzem as intenções do grupo. f) Mudanças de níveis e alterações dos grupos informais: quando há alteração na organização formal, os grupos informais tendem a acompanhar, pois os participantes do grupo passam a se relacionar com outras pessoas, de diferentes camadas. g) A organização informal transcende a organização formal: a organização informal se estabelece por espontaneidade, relações de afetividade, identificação entre as pessoas. Logo, sua natureza e duração transcendem as interações e relações formais. h) Padrões de desempenho nos grupos informais: depende da motivação dos integrantes, pode ser inferior ou, até mesmo, superior ao que fora definido pela empresa. O grupo, quando está motivado, alcançará um elevado padrão de desempenho. Porém, quando há desarmonia ou oposição, o padrão de desempenho será baixo.
+Reportar abuso
+Ajudou (2) Não ajudou
+9
+Q3418341
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+Texto CB4A1-I
+
+Existem desde previsões de que a inteligência artificial (IA) substituirá os seres humanos e eliminará uma lista de profissões até alegações de que ela contribuirá para “o uso humano dos seres humanos” (parafraseando-se o subtítulo do livro de 1954 do matemático considerado fundador da cibernética, Norbert Wiener), liberando-os para usarem melhor o tempo enquanto assume as tarefas repetitivas.
+Um grupo de pesquisadores de diversos países produziu a publicação Inteligência Liberada — um argumento para a IA na educação, para demonstrar os benefícios da IA para a educação.
+É importante, nesse ponto, definir o que é a IA aplicada na educação — algo que vem sendo estudado no meio acadêmico há mais de três décadas. Para os autores da publicação mencionada, IA corresponde a “sistemas de computador que foram projetados para interagir com o mundo por meio de capacidades (por exemplo, percepção visual e reconhecimento de fala) e comportamentos inteligentes (por exemplo, avaliar as informações disponíveis e, em seguida, tomar a ação mais sensata para atingir um objetivo declarado) que seriam considerados essencialmente humanos”.
+Um dos objetivos do uso da IA na educação é abrir a chamada “caixa-preta do aprendizado”, ou, em outras palavras, contribuir para uma compreensão mais profunda e detalhada de como o aprendizado realmente acontece (por exemplo, como é influenciado pelo contexto socioeconômico e físico dos alunos ou por tecnologia).
+Nesse contexto, a IA na educação oferece a possibilidade de uma aprendizagem mais personalizada, flexível, inclusiva e envolvente. Além disso, as ferramentas fornecem informações não apenas sobre o que está sendo aprendido, mas também como está sendo aprendido e como os alunos estão se sentindo. Ainda, a IA pode ajudar os professores a criar ambientes de aprendizagem colaborativa e a atender as necessidades de seus alunos por meio de técnicas de mineração de dados educacionais para “rastrear” o comportamento dos alunos.
+
+Internet: <observatoriodeeducacao.institutounibanco.org.br> (com adaptações).
+
+A respeito do texto CB4A1-I e das ideias nele veiculadas, julgue os itens que se seguem.
+Segundo o texto, o contexto socioeconômico e físico dos alunos é o principal fator que influencia seu aprendizado.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+82.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Renata
+17 de setembro de 2024 às 19:33
+Olá, colegas!
+
+Gabarito: errado. Acredito que houve extrapolação.
+
+Veja o que diz o texto:
+
+"Um dos objetivos do uso da IA na educação é abrir a chamada “caixa-preta do aprendizado”, ou, em outras palavras, contribuir para uma compreensão mais profunda e detalhada de como o aprendizado realmente acontece (por exemplo, como é influenciado pelo contexto socioeconômico e físico dos alunos ou por tecnologia).
+Reportar abuso
+Ajudou (17) Não ajudou
+F
+Felipe
+11 de outubro de 2024 às 16:56
+A palavra "exemplo" expõe um sentido de múltiplas ideias.
+
+Gabarito: errado
+Reportar abuso
+Ajudou (10) Não ajudou
+Y
+Yan
+11 de novembro de 2024 às 09:26
+Errado.
+Em momento algum o texto menciona que o contexto socioeconômico e físico dos alunos é o PRINCIPAL fator que influencia seu aprendizado.
+
+4° parágrafo: Um dos objetivos do uso da IA na educação é abrir a chamada “caixa-preta do aprendizado”, ou, em outras palavras, contribuir para uma compreensão mais profunda e detalhada de como o aprendizado realmente acontece (por exemplo, como é influenciado pelo contexto socioeconômico e físico dos alunos ou por tecnologia).
+Reportar abuso
+Ajudou (4) Não ajudou
+10
+Q3405798
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Fisioterapeuta - 2024
+Texto associado
+Texto CG2A1
+
+O desenvolvimento da educação sanitária, a partir dos Estados Unidos da América, esteve associado à saúde pública, tendo sido instrumento das ações de prevenção das doenças, e caracterizou-se pela transmissão de conhecimento. No entanto, mesmo que realizada de forma massiva, como no caso das campanhas sanitárias no Brasil, a perspectiva não contemplava a dimensão histórico-social do processo saúde-doença.
+Com o movimento pela reforma sanitária no Brasil, as críticas mais contundentes relacionavam-se ao fato de que o social não era considerado na prática da saúde pública, senão em perspectiva restrita, de modo que a educação passou a ser uma atividade paralela, cuja finalidade seria a de auxiliar a efetivação dos objetivos eminentemente técnicos dos programas de saúde pública.
+Entretanto, em uma perspectiva crítica, a educação parte da análise das realidades sociais, buscando revelar as suas características e as relações que as condicionam e as determinam. Essa perspectiva pode ater-se à explicação das finalidades reprodutivistas dos processos educativos ou trabalhar no âmbito de suas contradições, buscando transformar essas finalidades, estabelecendo como meta a construção de sujeitos e de projetos societários transformadores.
+Da mesma forma, no campo da saúde, a compreensão do processo saúde-doença como expressão das condições objetivas de vida, isto é, como resultante das condições de habitação, alimentação, educação, renda, meio ambiente, trabalho, transporte, emprego, lazer, liberdade, acesso e posse da terra e acesso a serviços de saúde, descortina a saúde e a doença como produções sociais, passíveis de ação e transformação, e aponta também para um plano coletivo, e não somente individual, de intervenção.
+Essa maneira de conceber a saúde tem sido caracterizada como um conceito ampliado, pois não reduz a saúde à ausência de doença, promovendo a ideia de que uma situação de vida saudável não se resolve somente com a garantia do acesso aos serviços de saúde, mas depende, sobretudo, da garantia de condições de vida dignas que, em conjunto, podem proporcionar a situação de saúde. Nesse sentido, são indissociáveis o conceito de saúde e a noção de direito social.
+
+Márcia V. Morosini, Angélica F. Fonseca e Isabel B. Pereira. Educação em saúde. In: Dicionário da Educação Profissional em Saúde. Internet: <www.sites.epsjv.fiocruz.br> (com adaptações).
+
+A partir das ideias suscitadas pelo texto CG2A1, julgue os itens seguintes.
+No texto, é patente a ideia de que a situação de saúde corresponde, necessariamente, à ausência de doença, de modo que, para solucionar os problemas de saúde da população, basta a garantia do acesso pleno e irrestrito de todo cidadão aos serviços de atenção básica.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+94.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Julia Saturnino Das Chagas
+9 de setembro de 2024 às 16:55
+pois não reduz a saúde à ausência de doença, promovendo a ideia de que uma situação de vida saudável não se resolve somente com a garantia do acesso aos serviços de saúde, mas depende, sobretudo, da garantia de condições de vida dignas que, em conjunto, podem proporcionar a situação de saúde.
+Reportar abuso
+Ajudou (5) Não ajudou
+Testes Testes
+6 de janeiro de 2025 às 11:10
+Errado
+Reportar abuso
+Ajudou (0) Não ajudou
+11
+Q3129164
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão de Dados Corporativos - 2024
+Texto associado
+Acerca de técnicas de modelagem de BI (business intelligence), de big data e de linguagem de manipulação de dados (DML), julgue os itens que se seguem.
+Variedade, uma das métricas de big data, é caracterizada por armazenar e processar uma quantidade de dados muito maior do que os bancos de dados tradicionais foram projetados para suportar, incluindo os bancos de dados relacionais paralelos.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+69.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+DM
+Davi Manoel Dias Nóbrega Carvalho Costa
+10 de fevereiro de 2024 às 00:05
+O correto seria Volume no lugar de Variedade!
+Reportar abuso
+Ajudou (42) Não ajudou
+Damiao Vicente Correia Junior
+17 de fevereiro de 2024 às 07:51
+A variedade está relacionada aos dados de diferentes origens e tipos(estruturados, semiestruturados e não estruturados). O que a questão descreveu aí foi o volume.
+Reportar abuso
+Ajudou (35) Não ajudou
+Julio Cesar Santos Da Silva
+11 de março de 2024 às 11:09
+O enunciado fala sobre "quantidade de dados muitos maior do que banco de dados" o que remete a VOLUME e não a VARIEDADE de dados.
+Reportar abuso
+Ajudou (16) Não ajudou
+Tiago Rocha
+10 de maio de 2024 às 17:29
+errado, isso é VOLUME, variedade tem a ver com diversificação.
+Reportar abuso
+Ajudou (3) Não ajudou
+ND
+Natanael De Sousa Leite
+14 de maio de 2024 às 21:21
+A capacidade de armazenar e processar grandes volumes de dados é uma característica da métrica volume, não variedade.
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+12
+Q3178887
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Técnico Ministerial - Área: Técnico de Contabilidade - 2024
+Texto associado
+Texto CG2A1
+Foi em 1975 que a Organização das Nações Unidas (ONU) começou a celebrar o dia 8 de março como o Dia Internacional das Mulheres, na busca por evidenciar a discussão sobre a importância da igualdade de gênero, do combate à violência e da garantia dos direitos de meninas e mulheres. Mas a celebração tem suas origens no começo do século XX, em manifestações ligadas aos direitos das mulheres trabalhadoras.
+A data passou a ser definitivamente estabelecida a partir do dia 8 de março de 1917, com a realização de uma manifestação de operárias por pão e paz, na atual cidade de São Petersburgo, na Rússia. Nove anos antes, em 8 de março de 1908, já havia ocorrido um encontro massivo em Nova Iorque, nos Estados Unidos da América (EUA), em defesa do sufrágio universal, com a presença de um comitê feminino local para apoiar o voto das mulheres.
+No Brasil, as mulheres só passaram a exercer o direito ao voto em 1932. As casadas, porém, só o puderam fazer em 1934, e até 1962 elas só podiam trabalhar fora se o marido anuísse.
+Atualmente, a presença das mulheres na educação brasileira é forte. Hoje, as meninas apresentam, inclusive, maior sucesso na trajetória escolar. Entre a população adulta com mais de 25 anos de idade, 49,5% das mulheres e 45% dos homens concluíram o ensino médio, de acordo com dados da PNAD Contínua 2018. No ensino superior, elas compõem 55% das matrículas de graduação. Na docência, esse fato se repete: elas também são maioria.
+Ainda assim, nem tudo é um mar de rosas. Conforme as mulheres vão progredindo na carreira acadêmica, por exemplo, esse cenário muda. No Brasil, apenas um em cada quatro pesquisadores seniores são mulheres. A maternidade e a desigualdade na divisão das tarefas domésticas são alguns dos fatores que dificultam o equilíbrio entre a vida profissional e pessoal das mulheres — mas não dos homens.
+Internet: <www.cenpec.org.br> (com adaptações).
+Julgue os itens que se seguem, com base nas ideias veiculadas no texto CG2A1.
+
+Da leitura do texto é correto concluir que o cuidado com os filhos e a carga de trabalho doméstica interferem sobremaneira na progressão da carreira de homens e mulheres, gerando prejuízos para ambos.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+92.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Vinicius
+16 de março de 2024 às 16:02
+O texto indica que a maternidade e a desigualdade na divisão das tarefas domésticas são fatores que dificultam o equilíbrio entre a vida profissional e pessoal das mulheres, mas não dos homens.
+Reportar abuso
+Ajudou (39) Não ajudou
+Thiago Marcos Da Silva Reis
+31 de agosto de 2024 às 09:09
+Esquerdou,Acertou !
+Reportar abuso
+Ajudou (4) Não ajudou
+Alessandra
+26 de junho de 2024 às 21:47
+Gab. Errado.
+
+
+Ainda assim, nem tudo é um mar de rosas. Conforme as mulheres vão progredindo na carreira acadêmica, por exemplo, esse cenário muda. No Brasil, apenas um em cada quatro pesquisadores seniores são mulheres. A maternidade e a desigualdade na divisão das tarefas domésticas são alguns dos fatores que dificultam o equilíbrio entre a vida profissional e pessoal das mulheres — mas não dos homens.
+Reportar abuso
+Ajudou (3) Não ajudou
+Daniel Silva
+26 de abril de 2024 às 19:24
+ERRADO
+
+A maternidade e a desigualdade na divisão das tarefas domésticas são alguns dos fatores que dificultam o equilíbrio entre a vida profissional e pessoal das mulheres — mas não dos homens.
+
+Reportar abuso
+Ajudou (1) Não ajudou
+Maria
+22 de abril de 2024 às 08:57
+Gabarito Errado
+A maternidade e a desigualdade na divisão das tarefas domésticas são alguns dos fatores que dificultam o equilíbrio entre a vida profissional e pessoal das mulheres — mas não dos homens.
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 2
+13
+Q3133987
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Administrativo - 2024
+Texto associado
+Texto CB1A1
+
+Enquanto Singapura e Dublin lançaram suas réplicas digitais usando aprendizado de máquina para prever eventos e tendências futuras, países inteiros ainda não garantiram água potável e eletricidade para seus habitantes. Como a arquitetura reflete as sociedades, a acentuada desigualdade social em que vivemos continuará sendo refletida na arquitetura que construímos: algumas obras totalmente projetadas por inteligência artificial (IA), outras criadas manualmente e com modelos físicos em um escritório de arquitetura boutique, e a grande maioria sendo feita no local com papel e lápis, sem a intervenção direta de arquitetos. Talvez todos esses cenários coexistam na mesma cidade.
+O escritor Benjamin Labatut declarou: “se a inteligência artificial fosse capaz de pensar, teria pontos cegos; se conseguisse ser criativa, teria limites, pois limites são frutíferos; se fosse capaz de imitar nossa capacidade de raciocínio, talvez precisasse do (ou desenvolvesse o) nosso talento para a loucura. E se lhe faltasse compreensão, se não se importasse com a beleza e o horror que pode criar, então seria imprudente nos colocarmos em suas mãos.”.
+O futuro da arquitetura está na interseção entre inovação tecnológica e intenção humana. Em última instância, a agência humana — sociedade civil, políticos e partes interessadas — exerce uma influência significativa. O curso da história não está escrito em pedra, mas é moldado pelas decisões tomadas hoje, especialmente se a IA afeta nossos bolsos. A arquitetura, então, torna-se o resultado de decisões coletivas, em que os avanços da IA se cruzam com as aspirações e os valores da sociedade. É dentro desse jogo de interações que a evolução e o impacto da arquitetura encontram sua ressonância e seu significado.
+
+Nicolás Valencia. O impacto das ferramentas de inteligência artificial na arquitetura em 2024 (e além).
+Internet: <www.archdaily.com.br> (com adaptações).
+
+Com base nos sentidos e nas ideias expressos no texto CB1A1, julgue os itens a seguir.
+De acordo com o texto, a sociedade espelha a arquitetura.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+54.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+GM
+Gabriela Macedo De Oliveira
+31 de janeiro de 2024 às 15:27
+a arquitetura reflete as sociedades
+
+2º período do 1º parágrafo.
+Reportar abuso
+Ajudou (84) Não ajudou
+JM
+Jhonathan Mike
+5 de fevereiro de 2024 às 19:44
+Seria o contrário. Pena que foi falta de atenção da minha parte. O correto seria "A arquitetura espelha a sociedade"
+Reportar abuso
+Ajudou (61) Não ajudou
+Daniel Silva
+8 de fevereiro de 2024 às 20:58
+Como a arquitetura reflete as sociedades
+
+AO CONTRARIO
+Reportar abuso
+Ajudou (17) Não ajudou
+JM
+Jessica Melo De Morais
+7 de fevereiro de 2024 às 09:28
+Segundo período do primeiro parágrafo:
+
+"Como a arquitetura reflete as sociedades, a acentuada desigualdade social em que vivemos continuará sendo refletida na arquitetura que construímos: (...)"
+Reportar abuso
+Ajudou (12) Não ajudou
+MA
+Murillo Alves Nascimento
+8 de fevereiro de 2024 às 10:33
+Como a arquitetura reflete as sociedades, a acentuada desigualdade social em que vivemos continuará sendo refletida na arquitetura
+Reportar abuso
+Ajudou (5) Não ajudou
+Página 1 de 3
+14
+Q3128918
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+No que diz respeito à logística, julgue os itens a seguir.
+A possibilidade de mecanização do sistema de arrumação de cargas caracteriza uma desvantagem de se adotar um sistema de informação aplicada à logística.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+91.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Juliane
+11 de fevereiro de 2024 às 14:31
+A mecanização integrada a um sistema de informação é benéfico para a logística, incluindo maior eficiência e produtividade, melhoria na precisão e segurança, redução de custos, melhor tomada de decisões e integração com outros sistemas. Exemplos de sistemas de informação incluem SAP SCM, Oracle SCM, e sistemas de gestão de armazéns como Manhattan Associates WMS. Escolher os sistemas certos é crucial para o sucesso da implementação.
+Reportar abuso
+Ajudou (23) Não ajudou
+Manuella O Nascimento
+30 de janeiro de 2024 às 16:43
+ERRADO
+Mecanização do sistema é uma baita de uma vantagem.
+Reportar abuso
+Ajudou (11) Não ajudou
+FJ
+Felipe José De Aguiar
+12 de março de 2024 às 22:11
+Todo sistema de informação aplicado tem como objetivo a automatizar, simplificar, agilizar, entre outras, um processo logístico. Portanto é sempre uma vantagem sua aplicação (de forma correta).
+Reportar abuso
+Ajudou (3) Não ajudou
+15
+Q3129099
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão e Acompanhamento de Projetos e Programas em CT&I - 2024
+Texto associado
+No que se refere à ciência de dados, julgue os itens a seguir.
+Encontrar informações ocultas nos dados corresponde a um campo explorado na ciência de dados.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+94.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jussara Cristiane Dos Santos
+30 de agosto de 2024 às 06:30
+A afirmação está correta. Encontrar informações ocultas nos dados é uma parte fundamental da ciência de dados. Esse campo interdisciplinar utiliza métodos científicos, processos, algoritmos e sistemas para extrair conhecimento e insights de dados estruturados e não estruturados.
+Reportar abuso
+Ajudou (3) Não ajudou
+16
+Q3129139
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão de Dados Corporativos - 2024
+Texto associado
+Julgue os itens seguintes, a respeito de ETL e de manipulação, tratamento e visualização de dados.
+No processo de ETL, extrair refere-se à obtenção de dados e envolve ocupar-se com diferentes tipos de esquemas e regras em vários sistemas de origem.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+86.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jussara Cristiane Dos Santos
+30 de agosto de 2024 às 06:32
+A afirmação está correta. No processo de ETL (Extract, Transform, Load), a etapa de extração envolve a obtenção de dados de várias fontes, que podem ter diferentes esquemas e regras. Isso é essencial para garantir que os dados sejam coletados de maneira consistente e possam ser transformados e carregados adequadamente no sistema de destino.
+Reportar abuso
+Ajudou (10) Não ajudou
+17
+Q3129050
+Legislação Federal Do Tratamento de Dados Pessoais pelo Poder Público
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Desenvolvimento e Arquitetura de Software - 2024
+Texto associado
+Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados), julgue os itens subsecutivos.
+A Lei Geral de Proteção de Dados aborda o tratamento de dados pessoais e se aplica também à administração pública.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+96.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Maycon Meireles
+31 de janeiro de 2024 às 17:31
+Art. 1º Esta Lei (LGPD) dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
+
+Parágrafo único. As normas gerais contidas nesta Lei são de interesse nacional e devem ser observadas pela União, Estados, Distrito Federal e Municípios. (Incluído pela Lei nº 13.853, de 2019) Vigência
+Reportar abuso
+Ajudou (39) Não ajudou
+Jussara Cristiane Dos Santos
+11 de setembro de 2024 às 06:21
+INCORRETO.
+A LGPD prevê a possibilidade de suspensão temporária como uma medida de segurança e proteção dos dados pessoais, especialmente em casos de violação de dados ou quando necessário para garantir os direitos dos titulares dos dados.
+
+LGPD - Art. 20
+
+Reportar abuso
+Ajudou (1) Não ajudou
+18
+Q3129152
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão de Dados Corporativos - 2024
+Texto associado
+Julgue os itens a seguir, a respeito de mineração de dados, de arquitetura dos dados e de modelagem de dados.
+Modelos de dados lógicos fornecem maiores detalhes acerca dos conceitos e relacionamentos no domínio em consideração, indicando atributos de dados, como tipos de dados e seus respectivos comprimentos, e relacionamentos entre entidades, além de informar como será organizado e quais regras de negócios estão envolvidas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+33.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Bq Oliveira
+10 de junho de 2024 às 16:30
+
+1 - Modelos de Dados Conceituais: define o que o sistema contém. Normalmente, os arquitetos de dados e as partes interessadas em negócios são os usuários que criam modelos conceituais de dados. Estes tipos são construídos com a intenção de organizar e definir conceitos e regras comerciais. Eles têm diferentes tipos de submodelos, tais como o modelo de dados semânticos e o modelo de dados comerciais.
+2 - Modelos de Dados Lógicos: define como um sistema deve ser implementado e não é específico de um banco de dados. Os usuários que geralmente criam MDLs são arquitetos de dados e analistas de negócios. Estes modelos são usados como base para modelos de dados físicos, pois distinguem as relações e atributos de cada entidade.
+3 - Modelos de Dados Físicos: como o sistema será implementado para um sistema específico de gerenciamento de banco de dados. É aqui que os projetistas e desenvolvedores do banco de dados entram para criar modelos de dados físicos que são expansões dos modelos lógicos e conceituais. Estes modelos são projetados para fins comerciais.
+Reportar abuso
+Ajudou (8) Não ajudou
+JC
+Jean Christopher De Oliveira Pinheiro
+8 de novembro de 2024 às 18:23
+Questão errada! Analisando ela com calma. Parte correta: Modelos lógicos fornecem mais detalhes do que os conceituais, incluindo atributos de dados, relacionamentos entre entidades e regras de negócio. Parcialmente correta: Modelos lógicos indicam tipos de dados de forma genérica, mas não seus comprimentos específicos. Imprecisa: Modelos lógicos informam como será organizada a implementação dos dados; isso é papel do modelo físico.
+Reportar abuso
+Ajudou (2) Não ajudou
+GD
+Geisiany Da Silva Stork
+16 de maio de 2024 às 14:01
+O que tem de errado na questão?
+Reportar abuso
+Ajudou (1) Não ajudou
+19
+Q3129301
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão de Dados Corporativos - 2024
+Texto associado
+Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados), julgue os itens subsecutivos.
+Segundo a Lei n.º 13.709/2018, o titular dos dados pessoais tem assegurado o direto de obter informações a respeito do tratamento dos seus dados.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+99.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Nataline Oliveira
+13 de fevereiro de 2024 às 01:28
+LEI 13.709/2018
+Art. 18. O titular dos dados pessoais tem direito a obter do controlador, em relação aos dados do titular por ele tratados, a qualquer momento e mediante requisição:
+I - confirmação da existência de tratamento;
+II - acesso aos dados;
+III - correção de dados incompletos, inexatos ou desatualizados;
+IV - anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto nesta Lei;
+V - portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa e observados os segredos comercial e industrial, de acordo com a regulamentação do órgão controlador;
+V - portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa, de acordo com a regulamentação da autoridade nacional, observados os segredos comercial e industrial; (Redação dada pela Lei nº 13.853, de 2019) Vigência
+VI - eliminação dos dados pessoais tratados com o consentimento do titular, exceto nas hipóteses previstas no art.
+16 desta Lei;
+VII - informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados;
+VIII - informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa;
+IX - revogação do consentimento, nos termos do § 5º do art. 8º desta Lei.
+
+Reportar abuso
+Ajudou (47) Não ajudou
+Pedro Sousa
+30 de agosto de 2024 às 14:56
+Art. 18. O titular dos dados pessoais tem direito a obter do controlador, em relação aos dados do titular por ele tratados, a qualquer momento e mediante requisição:
+I - confirmação da existência de tratamento;
+II - acesso aos dados;
+III - correção de dados incompletos, inexatos ou desatualizados;
+IV - anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto nesta Lei;
+V - portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa e observados os segredos comercial e industrial, de acordo com a regulamentação do órgão controlador;
+V - portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa, de acordo com a regulamentação da autoridade nacional, observados os segredos comercial e industrial; (Redação dada pela Lei nº 13.853, de 2019) Vigência
+VI - eliminação dos dados pessoais tratados com o consentimento do titular, exceto nas hipóteses previstas no art. 16 desta Lei;
+VII - informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados;
+VIII - informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa;
+IX - revogação do consentimento, nos termos do § 5º do art. 8º desta Lei.
+Reportar abuso
+Ajudou (5) Não ajudou
+20
+Q3128825
+Língua Inglesa Sinônimos | Synonymous
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista de Infraestrutura de Tecnologia da Informação - 2024
+Texto associado
+Businesses are starting to introduce new options for tipping at self-checkout machines, putting even more pressure on customers amid rising inflation costs. Despite having zero interaction with employees during transactions, self-checkout machines at places such as coffee shops, bakeries, airports, and sports stadiums are giving customers the option to leave the typical 20% tip, according to a report from the Wall Street Journal.
+Business owners believe that the prompt for a tip can boost staff pay and increase gratuities — but customers are questioning where and to whom the extra cash is going, considering self-checkout is done by the customers themselves. “They’re cutting labor costs by doing self-checkout. So what’s the point of asking for a tip? And where is it going?” are some of the questions customers ask. But tipping researchers claim this is a way for companies to put the responsibility of paying employees on the customer rather than increasing employee salaries themselves. Self-tipping is viewed by many customers as a way to guilt-trip the person into tipping on something when they typically wouldn’t.
+Many companies told the Journal that these tipping prompts are optional, and the extra gratuity is split between all employees. However, experts say that tips at a self-checkout machine might never even get to an actual employee since protections for tipped workers in the federal Fair Labor Standards Act don’t extend to machines.
+
+Internet: <https://nypost.com> (adapted).
+
+According to the previous text, judge the following items.
+The word “Despite” in the sentence “Despite having zero interaction with employees during transactions” (second sentence of the first paragraph) can be correctly replaced by In spite of, maintaining both the meaning of the fragment and its correction.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+66.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lannister J
+30 de janeiro de 2024 às 14:13
+despite e in spite of possuem o mesmo significado = apesar de
+Reportar abuso
+Ajudou (22) Não ajudou

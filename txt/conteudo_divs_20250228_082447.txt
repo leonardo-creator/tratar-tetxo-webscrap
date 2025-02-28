@@ -1,0 +1,362 @@
+1
+Q3543788
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - STJ - Analista Judiciário - Área Suporte em Tecnologia da Informação - 2024
+Texto associado
+No texto, a autora põe em xeque o conceito de direitos humanos e demonstra duvidar da sua real aplicabilidade desde seu surgimento no século XVIII, mesmo que tenham sido assegurados na Declaração dos Direitos do Homem e do Cidadão.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+2
+Q3418338
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+Depreende-se da leitura do texto que os pesquisadores participantes da publicação mencionada no segundo parágrafo acreditam que, nos próximos anos, a IA gerará benefícios só para a educação.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+3
+Q3554660
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Medicina do Trabalho - 2024
+Texto associado
+Para atingir o seu propósito comunicativo, a autora constrói seu texto combinando as tipologias expositiva e narrativa.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+4
+Q3177983
+Raciocínio Lógico Lógica Proposicional - (Lógica de Primeira Ordem)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão de T.I - Segurança da Informação - 2024
+Texto associado
+A proposição “A solicitação da empresa Beta será atendida no prazo de 30 dias, e a empresa Alfa solicitou o registro de programa de computador.” é verdadeira.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+5
+Q3134080
+Raciocínio Lógico Negação de Proposições compostas
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Técnico - Área Financeiro - 2024
+Texto associado
+A negação da proposição P1 pode ser expressa corretamente como “Existe ao menos um profissional competente sem criatividade e sem sensibilidade social.”.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+6
+Q3549119
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Tecnologia da Informação - 2024
+Texto associado
+Na organização das ideias do primeiro parágrafo do texto, o conteúdo do segmento “mas com enredo, personagens ou ambientes inventados” se opõe à informação anterior segundo a qual a ficção pode ser representada por uma fantasia, uma ficção científica, ou um romance comum.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+7
+Q3312347
+Administração de Recursos Materiais Noções da Gestão de Compras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Analista Administrativo - 2024
+Texto associado
+São três os critérios a serem negociados com os fornecedores em uma compra eficiente: preço, prazo de entrega e condições de pagamento.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+8
+Q3312318
+Administração de Recursos Materiais Classificação quanto à Aplicação
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+O critério de armazenagem por agrupamento baseia-se na influência que um material pode ter sobre o outro, de modo que devam ser mantidos em ambientes distintos.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+9
+Q3554316
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área: Administrativa - 2024
+Texto associado
+De acordo com o texto, ao reclamar seus direitos, os consumidores brasileiros usam um critério pessoal de justiça derivado de sua falta de conhecimento acerca das leis, dos seus direitos e de como eles devem ser observados.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+10
+Q3554473
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Medicina do Trabalho - 2024
+Texto associado
+Julgue os itens a seguir com base nas ideias apresentadas no texto CB1A1-II.
+
+De acordo com o texto, dada a natureza do jornalismo, matérias jornalísticas de natureza ficcional são inconcebíveis considerando-se a definição popular de ficção.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+11
+Q3163388
+Raciocínio Lógico Negação de Proposições compostas
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Pesquisador - Área: Saúde Avançada - Manufatura Aditiva, Simulação Computacional - 2024
+Texto associado
+A negação da proposição P pode ser escrita como: Ou eu topo assumir o cargo, ou meu salário aumenta em 100%.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+12
+Q3543643
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - STJ - Analista Judiciário - Área: Judiciária - 2024
+Texto associado
+A crítica do autor à sociedade escravagista da época fica explícita na observação sobre a venda de máscaras de ferro em lojas especializadas do ramo.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+13
+Q3232462
+Administração de Recursos Materiais Cadastro e Seleção de Fornecedores
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Suprimentos de Bens e Serviços Júnior - Área Administração - 2024
+Texto associado
+Caso o departamento de compras de uma empresa privada necessite adquirir uma nova matéria-prima, os procedimentos realizados para pesquisar, identificar e cadastrar o fornecedor incluem-se entre as atividades de seleção e avaliação do fornecedor.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+14
+Q3519030
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCDF - Auditor de Controle Externo - Área Tecnologia da Informação - 2024
+Texto associado
+According to the text, Nobell Foods works to implement a more efficient supply chain for the production of dairy cheese.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+15
+Q3221258
+Administração de Recursos Materiais Classificação Pela Importância Operacional - Classificação XYZ
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+Os itens relacionados à indispensabilidade ou ao grau de dificuldade de sua obtenção no mercado devem ser classificados segundo sua importância operacional.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+16
+Q3221264
+Administração de Recursos Materiais Classificação Pelo Valor do Consumo - Classificação ABC
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+Ao classificar os materiais para organizá-los no estoque, Amélia deve utilizar a metodologia da curva ABC, que estabelece a importância dos materiais em função do valor expresso pela quantidade do item a ser armazenado em determinado período.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+17
+Q3175499
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Em um canal reverso de reuso, há uma extensão do uso de um produto de pós-consumo, com uma função diferente daquela para a qual ele foi concebido e com algum tipo de remanufatura.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+18
+Q3177966
+Raciocínio Lógico Negação da proposição disjuntiva exclusiva
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Tecnologista - Área: Propriedade Industrial Língua Inglesa - 2024
+Texto associado
+A negação da proposição “Ou o jornalista é muito mal informado ou age de má-fé” pode ser corretamente expressa por “O jornalista é muito mal informado se, e somente se, age de má-fé”.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+19
+Q3548952
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Tecnologia da Informação - 2024
+Texto associado
+O direito do consumidor é um conjunto de normas que regulamenta, entre outras ações, o comportamento do fornecedor conforme os anseios e desejos dos consumidores.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+20
+Q3193044
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Analista - Área: Administração de Banco de Dados - 2024
+Texto associado
+A lei não se aplica ao tratamento de dados pessoais provenientes de fora do território nacional que não sejam objeto de uso compartilhado de dados com agentes de tratamento brasileiros, desde que o país de proveniência proporcione grau de proteção de dados pessoais adequado ao previsto na lei.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro

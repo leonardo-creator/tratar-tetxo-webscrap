@@ -1,0 +1,1188 @@
+1
+Q3235078
+Administração de Recursos Materiais Previsão para os Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Agente Administrativo - 2024
+Texto associado
+Julgue os próximos itens, relativos à administração de patrimônio, materiais e logística.
+O sistema de máximos-mínimos é indicado para casos em que houver dificuldade para determinar o consumo.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+75.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Renata Tavares Nascimento
+16 de agosto de 2024 às 08:01
+
+Esse sistema consiste em estimar os estoques máximos (Emax) e mínimo (Emin) para cada ítem, em função de uma expectativa de consumo previsto para determinado período de tempo. A partir daí, calcula-se o ponto de pedido (PP).
+
+É utilizado quando há muita dificuldade para determinar o consumo ou quando ocorre variação no tempo de reposição.
+
+Fonte:
+
+https://estudonet.com.br/detalhe.asp?idcurso=5&keepThis=true&TB_iframe=true&height=550&width=850#:~:text=Sistema%20de%20M%C3%A1ximos%20M%C3%ADnimos,para%20determinado%20per%C3%ADodo%20de%20tempo.
+Reportar abuso
+Ajudou (34) Não ajudou
+2
+Q3312338
+Administração de Recursos Materiais Classificação quanto à Perecibilidade
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Analista Administrativo - 2024
+Texto associado
+No que se refere à gestão de estoques na administração pública, julgue os itens subsequentes.
+O dimensionamento do estoque de segurança resume-se aos seguintes fatores: tempo médio de tramitação do processo de aquisição do material; perecibilidade do material; volume do material; e impacto financeiro na organização.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+41.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Jemima Raulino Da Conceição
+12 de agosto de 2024 às 17:39
+GABARITO: ERRADO
+
+Nas palavras de Chiavenato, "dimensionamento de estoque significa estabelecer os níveis de estoque adequados ao abastecimento da produção sem resvalar nos dois extremos de excessivo estoque ou de estoque insuficiente".
+Resumindo: Chiavenato diz que Dimensionamento é dizer:
+1. quais os materiais que devem permanecer em estoque;
+2. qual o volume de estoque será necessário e
+3. quando os estoques devem ser reabastecidos.
+Fonte: QC
+...........................................................................................................................................
+...........................................................................................................................................
+Não to mandei eu? ESFORÇA-TE, e tem bom ânimo;
+NÃO temas, nem te espantes;
+porque o Senhor teu Deus é contigo,
+por onde quer que andares.
+Josué 1:9 / Biblia Sagrada
+
+Reportar abuso
+Ajudou (58) Não ajudou
+Ashely
+30 de dezembro de 2024 às 15:41
+Os principais fatores que influenciam o dimensionamento do estoque de segurança são:
+
+variabilidade da demanda
+
+variabilidade do tempo de reposição
+
+confiabilidade dos fornecedores
+
+tempo médio de tramitação do processo de aquisição do material
+
+perecibilidade do material
+
+volume do material
+
+impacto financeiro na organização
+Reportar abuso
+Ajudou (14) Não ajudou
+Acilia Ambrosi
+24 de janeiro de 2025 às 14:31
+Quais aspectos devem ser considerados no estoque de segurança?
+1. Demanda Variável
+Flutuações no consumo ou nas vendas.
+Estimativas baseadas em históricos ou previsões de demanda.
+2. Tempo de Reposição
+Intervalo entre o pedido ao fornecedor e a chegada do produto.
+Possíveis atrasos no transporte ou na produção.
+3. Nível de Serviço Desejado
+Meta de evitar rupturas (ex.: 95% ou 99% de disponibilidade).
+Quanto maior o nível de serviço, maior será o estoque de segurança necessário.
+4. Variabilidade no Fornecimento
+Inconsistências no prazo ou na quantidade fornecida.
+Possibilidade de indisponibilidade de insumos.
+5. Custo do Estoque
+Custos de armazenagem (espaço, energia, segurança).
+Impacto financeiro de manter capital investido em produtos.
+6. Produto e Ciclo de Vida
+Natureza do item (perecível, sazonal, ou durável).
+Fase no ciclo de vida do produto (lançamento, maturidade ou declínio).
+7. Histórico de Problemas
+Frequência de situações imprevistas que já ocorreram (greves, mudanças climáticas, etc.).
+8. Tecnologia de Gestão
+Uso de sistemas de ERP para cálculo automatizado.
+Monitoramento em tempo real de estoques.
+Reportar abuso
+Ajudou (2) Não ajudou
+Hyago Vinicius Guimaraes
+5 de janeiro de 2025 às 14:00
+Essa questão eu não sei não...
+Reportar abuso
+Ajudou (2) Não ajudou
+3
+Q3419642
+Administração de Recursos Materiais Custos de Falta de Estoque
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+Acerca da gestão de estoques nas organizações, julgue os itens que se seguem.
+A acentuação de custos de estoque acontece quando o estoque mantido é inferior à demanda, acarretando a falta do item de material em um momento em que ele é requisitado.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+57.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Andreia Regina Da Silva Aureliano
+4 de outubro de 2024 às 22:44
+Acentuação de custos de estoques: É quando mantemos na organização produtos que não tem demanda. Ou seja, o contrario que diz a questão.
+Reportar abuso
+Ajudou (24) Não ajudou
+Wellington Paula Da Silva Junior
+15 de dezembro de 2024 às 14:44
+Errado,
+Acentuação do custo de estoque, ocorre quando o volume de materiais armazenados aumenta, o que gera:
+custo elevado de manutenção, capital imobilizado, depreciação entre outros. Isso ocorre geralmente, por excesso de compras,
+previsão inadequada e falta de controle no inventário.
+Reportar abuso
+Ajudou (8) Não ajudou
+Maria Eduarda Santos
+3 de janeiro de 2025 às 17:48
+o custo citado na questão é o custo de falta.
+Reportar abuso
+Ajudou (4) Não ajudou
+Luis Sérgio
+11 de janeiro de 2025 às 16:18
+Ruptura de estoque.
+Reportar abuso
+Ajudou (1) Não ajudou
+4
+Q3418783
+Administração de Recursos Materiais Custos dos Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Ministerial - Área Administração - 2024
+Texto associado
+A respeito da previsão e do controle de estoque nas organizações, julgue os itens seguintes.
+Nas organizações públicas, grandes estoques de materiais não implicam economia de escala.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+84.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Elisa Montagna
+11 de outubro de 2024 às 13:22
+• Grandes estoques podem implicar economia de escala = a aquisição de itens de material em maiores quantidades usualmente implica a prática de preços menos significativos, se comparado com compras de menores vultos.
+ENAP
+Reportar abuso
+Ajudou (19) Não ajudou
+5
+Q3221268
+Administração de Recursos Materiais Custos de Falta de Estoque
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+Julgue os seguintes itens, relacionados à gestão de estoques nas organizações.
+Os custos de falta de estoque ocorrem quando o estoque mantido é inferior à demanda, o que acarreta a falta do item no momento de sua necessidade.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+88.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+CD
+Claudio De Jesus
+6 de janeiro de 2025 às 15:27
+A alternativa C (Certo) está correta.
+
+Justificativa:
+Os custos de falta de estoque ocorrem quando a quantidade de itens em estoque é insuficiente para atender à demanda, resultando na indisponibilidade do produto ou material no momento necessário. Isso pode causar atrasos nas operações, perda de vendas, insatisfação de clientes ou usuários e até custos adicionais para aquisição emergencial de materiais. Portanto, a afirmação está correta.
+Reportar abuso
+Ajudou (2) Não ajudou
+6
+Q3234902
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Assistente Social - 2024
+Texto associado
+Texto CB2A1
+
+Levanto cedo, faço minhas abluções, ponho a chaleira no fogo para fazer café e abro a porta do apartamento — mas não encontro o pão costumeiro. No mesmo instante, me lembro de ter lido alguma coisa nos jornais da véspera sobre a “greve do pão dormido”. De resto não é bem uma greve, é um locaute, greve dos patrões, que suspenderam o trabalho noturno; acham que, obrigando o povo a tomar seu café da manhã com pão dormido, conseguirão não sei bem o que do governo.
+Está bem. Tomo o meu café com pão dormido, que não é tão ruim assim. E, enquanto tomo café, vou me lembrando de um homem modesto que conheci antigamente. Quando vinha deixar o pão à porta do apartamento, ele apertava a campainha, mas, para não incomodar os moradores, avisava gritando:
+— Não é ninguém, é o padeiro!
+Interroguei-o uma vez: como tivera a ideia de gritar aquilo? “Então você não é ninguém?”
+Ele abriu um sorriso largo. Explicou que aprendera aquilo de ouvido. Muitas vezes lhe acontecera bater a campainha de uma casa e ser atendido por uma empregada ou outra pessoa qualquer, e ouvir uma voz que vinha lá de dentro perguntando quem era; e ouvir a pessoa que o atendera dizer para dentro: “não é ninguém, não senhora, é o padeiro”. Assim ficara sabendo que não era ninguém...
+Ele me contou isso sem mágoa nenhuma e se despediu ainda sorrindo. Eu não quis detê-lo para explicar que estava falando com um colega, ainda que menos importante. Naquele tempo eu também, como os padeiros, fazia o trabalho noturno. Era pela madrugada que deixava a redação de jornal, quase sempre depois de uma passagem pela oficina — e muitas vezes saía já levando na mão um dos primeiros exemplares rodados, o jornal ainda quentinho da máquina, como pão saído do forno.
+Ah, eu era rapaz, eu era rapaz naquele tempo! E às vezes me julgava importante porque, no jornal que levava para casa, além de reportagens ou notas que eu escrevera sem assinar, ia uma crônica ou um artigo com o meu nome. O jornal e o pão estariam bem cedinho na porta de cada lar; e dentro do meu coração eu recebi a lição de humildade daquele homem entre todos útil e entre todos alegre; “não é ninguém, é o padeiro!”
+E assobiava pelas escadas.
+
+Rubem Braga. O padeiro (com adaptações).
+
+Acerca das ideias e de aspectos linguísticos do texto CB2A1, julgue os itens que se seguem.
+Infere-se do primeiro período do texto, pela sequência das ações enumeradas, um único sentido para a palavra “abluções”: o de orações.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+61.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Luanda Da Câmara Moreira
+14 de maio de 2024 às 09:29
+Ablução = Lavagem do corpo ou de parte dele.
+
+https://www.dicio.com.br/ablucao/
+Reportar abuso
+Ajudou (54) Não ajudou
+Andre2
+5 de julho de 2024 às 15:44
+"Ablução" pode também representar, metonimicamente, o sentido de "oração. Portanto, o que está errado na assertiva é a expressão 'único sentido'.
+Reportar abuso
+Ajudou (29) Não ajudou
+Erik De Sousa Reis
+29 de junho de 2024 às 17:41
+Ablução é o mesmo que asseio
+Reportar abuso
+Ajudou (11) Não ajudou
+Anderson Thiago Monteiro Da Silva
+23 de setembro de 2024 às 20:48
+"Ablução é o mesmo que asseio". Homi, o que peste é asseio? kkkk
+
+Reportar abuso
+Ajudou (8) Não ajudou
+Nelson Jose Da Silva
+15 de julho de 2024 às 18:30
+Ablução (do latim ablutio, "lavagem") é um rito presente em muitas religiões, entre as quais o cristianismo, o judaísmo, o Islão e o hinduismo. A ablução é um rito de purificação, com símbolos, atos e significados variados em diversas situações.
+Reportar abuso
+Ajudou (5) Não ajudou
+Página 1 de 2
+7
+Q3418388
+Administração de Recursos Materiais Custos de Falta de Estoque
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Administrativo - Área Administração - 2024
+Texto associado
+A respeito da previsão e do controle de estoque nas organizações, julgue os itens seguintes.
+O cálculo do estoque de segurança de determinado item circunscreve-se aos atrasos no tempo de reposição e ao aumento imprevisto no consumo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+61.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Nelson
+7 de dezembro de 2024 às 22:53
+Errado.
+
+O cálculo do estoque de segurança não se limita a atrasos e incertezas no consumo. Analisando a fórmula do estoque de segurança, percebemos a essência dessa medida. Vejamos:
+
+A fórmula para calcular o estoque de segurança (ES) é ES = DM x TE, onde DM é a demanda média de vendas diárias e TE é o tempo de entrega dos produtos em dias.
+
+Portanto, a afirmação está errada.
+Reportar abuso
+Ajudou (13) Não ajudou
+Tiago De Barros
+1 de janeiro de 2025 às 14:48
+Gabarito: E
+
+Circunscreve-se = limita-se, restringe-se, exclusivamente
+Reportar abuso
+Ajudou (8) Não ajudou
+Matheus Emanuel Pereira De Melo
+28 de novembro de 2024 às 19:59
+Fundamentação: Art. 52. Compete privativamente ao Senado Federal:
+I - processar e julgar o Presidente e o Vice-Presidente da República nos crimes de responsabilidade...;
+VIII - aprovar, previamente, a alienação ou concessão de quaisquer dos bens imóveis da União...
+
+A Maia deu uma fumada louca. É para isso que a gente paga?
+Reportar abuso
+Ajudou (5) Não ajudou
+RF
+Raiane Fontineles Da Silva
+7 de dezembro de 2024 às 11:31
+PARA MIM TÁ CERTO KKK
+PARA BANCA TÁ ERRADO.
+Reportar abuso
+Ajudou (1) Não ajudou
+Letícia
+6 de fevereiro de 2025 às 20:02
+Tá difícil estudar com o Gran Ultimamente! Nem a Maia está mais confiável em suas respostas!
+Reportar abuso
+Ajudou (0) Não ajudou
+8
+Q3418344
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista de Tecnologia da Informação - Área Segurança da Informação - 2024
+Texto associado
+Responsible state fiscal policy requires more than just balancing the current year’s budget. It must also include ensuring that the budget is on a sustainable path. Otherwise, policymakers cannot have the lasting impact they hope for. This risk is especially high in the aftermath of the COVID-19 pandemic. Record budget surpluses, driven largely by federal pandemic aid, empowered states to adopt historically large tax cuts and spending increases from 2021 to 2023.
+State leaders must be able to assess whether their decisions will be affordable over the long term or will jeopardize their ability to solve state problems or even sustain programs and services in the future. Unfortunately, the nature of state budget processes discourages such long-term thinking. State policymakers devote much of their time to developing, enacting, and implementing annual or biennial budgets, a prime opportunity to achieve immediate policy goals.
+One key strategy for changing this short-term focus is for states to use long-term budget assessments and budget stress tests to regularly measure risks, anticipate potential shortfalls, and identify ways to address impending challenges. Long-term budget assessments project revenue and spending several years into the future, and stress tests estimate the size of temporary budget shortfalls that would result from recessions or other economic events and gauge whether states are prepared for these events.
+
+Internet:https://www.pewtrusts.org/en/ (adapted).
+
+Considering the ideas conveyed in the previous text, as well as its linguistic aspects, judge the following items.
+The author believes the risk of a fiscal policy not having its expected long-term impacts is increased in the years following the COVID-19 pandemic.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+63.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Felipe Menegate Nascimento
+9 de janeiro de 2025 às 17:02
+C - Certo
+O autor acredita que o risco de uma política fiscal não ter os impactos esperados no longo prazo é maior nos anos após a pandemia de COVID-19. O texto menciona especificamente que o risco é "especialmente alto" após a pandemia, quando os superávits orçamentários recordes e os cortes de impostos e aumentos de gastos adotados pelos estados podem não ser sustentáveis a longo prazo.
+Reportar abuso
+Ajudou (0) Não ajudou
+9
+Q3175458
+Administração de Recursos Materiais Administração de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Julgue os itens que se seguem, acerca da gestão de estoques.
+Denominam-se estoques ocasionais as quantidades de produtos adquiridas em excesso no período de baixas de vendas para permitir a regularidade do atendimento à demanda nos períodos de alta previstos ao longo do ano.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+67.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Camilla Bruna Dias De Souza
+18 de março de 2024 às 11:21
+Errado
+Estoque ocasional = estoque de segurança
+Reportar abuso
+Ajudou (56) Não ajudou
+IC
+Isabella Camargo De Menezes
+28 de maio de 2024 às 19:04
+O estoque mencionado na afirmativa é o estoque de antecipação.
+Reportar abuso
+Ajudou (30) Não ajudou
+AD
+Alexsandro De Souza Ferreira
+25 de outubro de 2024 às 17:19
+O conceito dado refere- se ao conceito de estoque de ANTECIPAÇÃO ou SAZONAL. Em gestão de materiais a classificação ' estoque ocasional' nem existe. Invenção da banca
+Reportar abuso
+Ajudou (17) Não ajudou
+ED
+Ederivania De Souza Dos Santos Carvalho
+13 de janeiro de 2025 às 09:29
+Segue comentário do prof do tec:
+
+Para Bertaglia.
+Estoque de antecipação: é aplicado para produtos com comportamento sazonal de demanda, como fabricantes de sorvetes, ovos de Páscoa, calendários, equipamentos de ar-condicionado, etc. Esses produtos enfrentam condições diferenciadas de demanda
+Sendo assim, o tipo de estoque descrito na questão se aproxima ao estoque de antecipação ou sazonal, em que são formados estoques para enfrentar sazonalidades conhecidas no comportamento de demanda, em que se adquire produtos em excesso deliberadamente, considerando uma previsão de alta demanda futura.
+Geralmente, estoque ocasional refere-se, em geral, a uma acumulação de produtos ou materiais que não faz parte do estoque regular ou permanente da empresa, e não necessariamente está relacionado apenas à compra excessiva em períodos de baixa venda para atender demandas futuras altas.
+A gestão de estoques visa equilibrar a disponibilidade de produtos com a demanda prevista, minimizando tanto a falta quanto o excesso de materiais. Estoques ocasionais podem surgir por diversas razões, incluindo, mas não se limitando a, compras especulativas, alterações inesperadas na demanda ou na oferta, e até erros na previsão de vendas.
+ Referência: Bertaglia, Paulo R. Logística e gerenciamento da cadeia de abastecimento 4ED. (4th edição). Editora Saraiva, 2020.
+Reportar abuso
+Ajudou (1) Não ajudou
+10
+Q3134985
+Raciocínio Lógico Equivalências Lógicas - (Proposições Logicamente equivalentes)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente de Tecnologia da Informação - 2024
+Texto associado
+P1: “Todo profissional competente tem criatividade ou sensibilidade social.”
+P2: “Todo profissional competente tem criatividade e sensibilidade social.”
+
+Considerando as proposições lógicas P1 e P2, julgue os itens subsequentes.
+A proposição P2 é equivalente à proposição “Se o profissional não tem criatividade e não tem sensibilidade social, então ele não é competente.”.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+65.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lorena Soares De Oliveira Rocha
+28 de fevereiro de 2024 às 08:21
+A proposição equivalente seria: "Se o profissional não tem criatividade OU não tem sensibilidade social, então ele não é competente".
+Resultado da contrapositiva do "se, então" da proposição P2 - Você deve negar as 2 partes e inverter a ordem das proposições, e negação do "e" é "ou".
+Reportar abuso
+Ajudou (89) Não ajudou
+Fernando Novais Dos Santos
+6 de maio de 2024 às 13:34
+A equivalência da conjunção é apenas a inversão das proposições simples de lugar.
+P∧Q = Q∧P
+
+Reportar abuso
+Ajudou (28) Não ajudou
+AN
+Anderson Nogueira
+22 de abril de 2024 às 18:08
+Até onde sei não existe equivalência do conectivo (E)
+
+Reportar abuso
+Ajudou (9) Não ajudou
+Layla Ferreira Da Silva
+19 de dezembro de 2024 às 21:04
+Equivalência da negação do conectivo E é o OU.
+Reportar abuso
+Ajudou (2) Não ajudou
+Camilla Bruna Dias De Souza
+1 de março de 2024 às 15:27
+Errado
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 2
+11
+Q3418781
+Administração de Recursos Materiais Técnicas Quantitativa
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Ministerial - Área Administração - 2024
+Texto associado
+A respeito da previsão e do controle de estoque nas organizações, julgue os itens seguintes.
+A predileção é uma técnica de previsão de demanda de estoque realizada com base em informações qualitativas, tais como pesquisas de opinião e informações prestadas por colaboradores experientes.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+86.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+ED
+Ederivania De Souza Dos Santos Carvalho
+20 de janeiro de 2025 às 08:48
+Segue comentário do prof do tec:
+
+A assertiva está CORRETA
+ De fato, a predileção é uma técnica de previsão de demanda que utiliza informações qualitativas. Essa abordagem se baseia em métodos subjetivos, como: pesquisas de opinião com clientes e fornecedores; informações fornecidas por colaboradores experientes, que possuem conhecimento prático e entendimento das operações; julgamentos e intuições de especialistas. Esses métodos qualitativos são bastantes úteis quando não há dados históricos suficientes ou quando fatores externos podem influenciar a demanda de forma imprevisível.
+    Segundo Fenili (2016)
+As técnicas para a previsão de demanda podem se valer de informações qualitativas e/ou quantitativas. De modo geral, podem ser agrupadas em três categorias principais, a saber:
+ Predileção: neste caso, a previsão é feita mediante informações qualitativas, tais como pesquisas de opinião, informações prestadas por funcionários experientes etc. 
+Explicação: há a correlação entre o comportamento da demanda em períodos recentes com outra variável quantitativa de evolução conhecida. Por exemplo, pode-se traçar um paralelo entre a evolução da demanda e o incremento do número de clientes internos/externos da organização, o número de contratos firmados etc.
+Projeção: é uma técnica quantitativa, que prima unicamente pelo tratamento de dados de uma série histórica de consumo, de forma a obter a previsão para períodos subsequentes.
+GABARITO: CERTO.
+ Referências:
+FENILI, Renato Ribeiro. Gestão de materiais. ENAP. 2016. 
+Reportar abuso
+Ajudou (5) Não ajudou
+Rafaela José Dos Santos
+1 de janeiro de 2025 às 10:09
+Estou pensando seriamente em cancelar minha assinatura, o GRAN está deixando a desejar, gabaritos divergentes e nenhum professor para comentar e responder.
+Reportar abuso
+Ajudou (5) Não ajudou
+Romulo Augusto Rezende Linhares
+10 de janeiro de 2025 às 11:54
+Tem o comentário em vídeo, acima, que explica a questão. Seria muito bom se o sistema de questões sempre apresentasse um comentário em vídeo e um comentário do professor. Melhor ainda, se também tivesse algum link que levasse diretamente a algum material didático relacionado ao assunto da questão.
+
+Quanto aos erros de gabarito, também tenho visto isso. Muitos comentários da Maia são incoerentes e não há mais como solicitar um comentário do professor. Penso que o sistema do Gran pode ser melhorado com a inclusão de comentários de professsores em todas as questões e, principalmente, com a volta do botão que permitia solicitar o comentário do professor. Também seria bom incluirem um botão para informar erros nos comentários da Maia, além da opção "não ajudou".
+Reportar abuso
+Ajudou (3) Não ajudou
+12
+Q3221279
+Administração de Recursos Materiais Compras Governamentais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+Julgue os itens a seguir, a respeito de compras nas organizações.
+As compras do setor público diferem das compras das organizações privadas apenas no que diz respeito à exigência de licitação pública em relação àquele.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+80.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Manuella O Nascimento
+16 de maio de 2024 às 11:53
+ERRADO
+A pública tem que prestar contas, justificar a necessidade, buscar atender ao maior número de pessoas, entre outros.
+Reportar abuso
+Ajudou (27) Não ajudou
+Taylon Bezerra Da Silva
+27 de abril de 2024 às 22:01
+Licitação Pública:
+No setor público, a licitação é obrigatória para aquisições de bens e serviços acima de determinados valores. Ela visa garantir a transparência, competitividade e eficiência nas compras governamentais.
+Nas organizações privadas, a escolha de fornecedores pode ser mais flexível e não necessariamente envolve licitações formais.
+Regulamentação e Normas:
+O setor público está sujeito a leis, regulamentos e normas específicas que regem as compras governamentais. Essas regras visam garantir o uso adequado dos recursos públicos.
+As organizações privadas têm mais liberdade para definir suas próprias políticas e procedimentos de compras.
+Objetivos e Prioridades:
+O setor público prioriza objetivos como eficiência, equidade, economicidade e interesse público.
+As organizações privadas podem priorizar objetivos diferentes, como lucratividade, qualidade, agilidade e satisfação do cliente.
+Fonte de Recursos:
+O setor público utiliza recursos provenientes de impostos e orçamento público para suas compras.
+As organizações privadas utilizam recursos próprios ou financiamento privado.
+Controle e Prestação de Contas:
+O setor público está sujeito a um alto nível de controle, prestação de contas e auditorias.
+As organizações privadas têm menos escrutínio externo nesse sentido.
+Portanto, a exigência de licitação pública é apenas uma das muitas diferenças entre as compras no setor público e privado.
+Reportar abuso
+Ajudou (15) Não ajudou
+Cinthia Maria De Andrade Pinheiro
+23 de abril de 2024 às 18:18
+Gabarito: Errado
+
+Não somente a respeito disso. Há, ainda, a finalidade de bem-estar da sociedade e a presença de cláusulas exorbitantes, as quais permitem poderes e privilégios extraordinários à Administração Pública.
+
+Fonte: aluno do QConcursos (adaptada)
+Reportar abuso
+Ajudou (10) Não ajudou
+Ruthyelem Rodrigues
+14 de fevereiro de 2025 às 16:42
+Quando virem a palavra "APENAS",desconfiem ..
+Reportar abuso
+Ajudou (0) Não ajudou
+13
+Q3312154
+Administração de Recursos Materiais Contratos Administrativos
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+Acerca da gestão de contratos, julgue os itens a seguir.
+Em decorrência do poder de controle dos contratos administrativos pela administração pública, o particular contratado é destituído de autonomia na execução do contrato e as responsabilidades técnicas e econômicas concernentes ao objeto contratual são integralmente absorvidas pelo poder público.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+88.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tiago De Barros
+9 de janeiro de 2025 às 14:35
+Gabarito: E.
+
+Embora a administração pública tenha o poder de controle e fiscalização sobre os contratos administrativos, isso não significa que o particular contratado seja destituído de autonomia na execução do contrato, nem que todas as responsabilidades técnicas e econômicas sejam absorvidas pelo poder público.
+Autonomia do Contratado:
+O particular contratado mantém certa autonomia na execução do contrato, especialmente no que diz respeito às decisões técnicas e operacionais necessárias para cumprir suas obrigações contratuais. A administração pública supervisiona, mas não executa o contrato.
+Responsabilidades do Contratado:
+O contratado continua responsável pelo cumprimento das obrigações contratuais, incluindo a qualidade da execução, cumprimento de prazos e responsabilidade técnica pelos serviços ou obras realizados.
+As responsabilidades econômicas, como custos operacionais, materiais e mão de obra, também são do contratado, salvo disposições contratuais específicas.
+Poder de Controle da Administração:
+A administração pública exerce o controle e a fiscalização para garantir que o contratado cumpra o contrato de acordo com os termos acordados, respeitando o interesse público.
+Esse controle não exime o contratado de suas responsabilidades. Pelo contrário, a fiscalização visa assegurar que o contratado execute suas obrigações de maneira adequada.
+Portanto, o poder de controle da administração não elimina a autonomia e as responsabilidades do particular contratado na execução do contrato.
+Reportar abuso
+Ajudou (10) Não ajudou
+HL
+Humberto Luiz Da Costa Braga
+14 de fevereiro de 2025 às 16:36
+Lei 14.133 Art. 102. Na contratação de obras e serviços de engenharia, o edital poderá exigir a prestação da garantia na modalidade seguro-garantia e prever a obrigação de a seguradora, em caso de inadimplemento pelo contratado, assumir a execução e concluir o objeto do contrato, hipótese em que:
+Reportar abuso
+Ajudou (0) Não ajudou
+14
+Q3177985
+Raciocínio Lógico Lógica Proposicional - (Lógica de Primeira Ordem)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão de T.I - Segurança da Informação - 2024
+Texto associado
+Entre os serviços prestados pelo INPI, estão o registro de marca, o de patente e o de programa de computador. Considere que as empresas Alfa, Beta e Gama tenham solicitado, cada uma, apenas um dos serviços citados, que os serviços tenham sido diferentes para cada empresa e que haja prazos para as solicitações serem respondidas, sendo estes diferentes para cada tipo de serviço. Além disso, considere verdadeira cada proposição a seguir.
+
+I “A empresa Beta fez uma solicitação de registro de patente.”
+II “A solicitação de marca é respondida em 15 dias.”
+III “A solicitação da empresa Gama será respondida em 10 dias.”
+
+Essas informações estão logicamente reunidas na tabela-verdade a seguir. Note que, se o relacionamento entre o elemento da linha e o da coluna for verdadeiro, a letra V aparecerá no cruzamento da relação. A letra F indica que o relacionamento é falso.
+
+
+serviço
+prazo
+registro de marca
+registro de patente
+registro de programa de
+computador
+10 dias
+15 dias
+30 dias
+empresa
+Alfa
+
+F
+
+
+
+
+Beta
+F
+V
+F
+
+
+
+Gama
+
+F
+
+V
+
+
+prazo
+10 dias
+F
+
+
+
+
+
+15 dias
+V
+F
+F
+
+
+
+30 dias
+F
+
+
+
+
+
+
+A partir dessa situação hipotética, bem como considerando a tabela-verdade precedente e seu completo preenchimento, julgue os itens que se seguem.
+A proposição “A empresa Alfa solicitou o registro de programa de computador.” é verdadeira.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+63.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Leonardo Veiga Jeronymo
+26 de março de 2024 às 14:09
+I “A empresa Beta fez uma solicitação de registro de patente.”
+II “A solicitação de marca é respondida em 15 dias.”
+III “A solicitação da empresa Gama será respondida em 10 dias.”
+A chave para a resolução é entender que se Gama será respondida em 10 dias, é porque não será respondida em 15, logo não terá feito registro de marca. Beta já fez registro de patente, ou seja, só sobra ter feito registro de computador para Gama. Daí é possível ir preenchendo a tabela com as inferências lógicas, de modo a concluir que “A empresa Alfa solicitou o registro de programa de computador.” é FALSA e não verdadeira, logo item ERRADO.
+TABELA COMPLETA preenchida:
+https://drive.google.com/file/d/1n92sTBod6Gh1AoW0E25vXkGHQIx7Pcfc/view?usp=sharing
+
+OBS: coloquei no google drive, porque não consegue editar ela formatada aqui.
+
+Reportar abuso
+Ajudou (75) Não ajudou
+Naama
+23 de abril de 2024 às 11:10
+M | P | C | 10 | 15 | 30
+AL v f f f v f
+BE f v f f f v
+GA f f v v f f
+10 f f v
+15 v f f
+30 f v f
+
+*M = marca
+P = patente
+C = computador
+Reportar abuso
+Ajudou (11) Não ajudou
+DE
+Danielle Evangelista Da Rocha
+22 de maio de 2024 às 21:21
+A lógica é fundamental para resolver esse tipo de questão, especialmente ao verificar as afirmações textuais que podem conter distrações ou pegadinhas. Em alguns casos, utilizar uma tabela de verdadeiro e falso pode auxiliar na verificação da veracidade das proposições. Compreender o conceito é extremamente importante.
+
+A questão pede para analisar: A proposição “A empresa Alfa solicitou o registro de programa de computador.” é verdadeira.
+
+Observe a seguinte parte da questão: 'Além disso, considere verdadeira cada proposição a seguir.'
+I. “A empresa Beta fez uma solicitação de registro de patente.”
+II. “A solicitação de marca é respondida em 15 dias.”
+III. “A solicitação da empresa Gama será respondida em 10 dias.”
+
+Em nenhum momento é mencionada a empresa Alfa, o que torna impossível responder diretamente com base apenas nas afirmações fornecidas. Entretanto, ao consultar o gráfico e sabendo que as afirmações não são pertinentes à empresa Alfa, exceto se a questão perguntasse em quanto tempo seria respondida a solicitação de marca, é possível encontrar a resposta."
+Reportar abuso
+Ajudou (10) Não ajudou
+Lucas Alves Da Silva
+6 de dezembro de 2024 às 12:15
+Boa tarde pessoal, acho que a virada de chave para entender essa questão é a seguinte:
+O que o enunciado nos diz?
+A empresa beta solicitou Registro de patente;
+Ele diz também que a solicitação de marca é respondida em 15 dias, logo a empresa Gama não pode ter feito solicitação de marca, pois a solicitação que ela fez leva 10 dias para ser respondida;
+Se a empresa Gama não pode ser solicitação de marca nem registro de patente, que já foi feito pela empresa Beta, então só pode ser registro de programa de computar.
+
+Temos:
+Empresa alfa - Solicitação de marca;
+Empresa beta - Registro de patente;
+Empresa gama - Registro de programa de computador.
+
+Agora só atribuir os respectivos prazos de resposta:
+Sabemos que solicitação de marca leva 15 dias, pois está no enunciado;
+Sabemos também que a solicitação da empresa Gama leva 10 dias;
+Então o que sobra são 30 dias para a empresa Beta.
+
+Agora temos:
+Empresa alfa - Solicitação de marca; 15 dias.
+Empresa beta - Registro de patente; 30 dias.
+Empresa gama - Registro de programa de computador. 10 dias.
+
+Agora pra finalizarmos a questão. a banca nos diz:
+A empresa Alfa solicitou o registro de programa de computador.” é verdadeira.
+A proposição apresentada é falsa, pois como vimos a empresa Alfa solicitou um registro de marca.
+
+Não desista, Deus ordena que sejamos fortes e corajosos, pois Ele estará conosco onde quer que andemos.
+Reportar abuso
+Ajudou (4) Não ajudou
+Anani Soares Amaral
+30 de setembro de 2024 às 11:21
+Gente, tem algum vídeo no yt explicando essa questão?
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+15
+Q3542917
+Administração Geral Estrutura Organizacional
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - STJ - Analista Judiciário - Área: Administrativa - 2024
+Texto associado
+A respeito das ferramentas de análise de cenários, do balanced scorecard e das características das organizações formais modernas, julgue os próximos itens.
+A estrutura organizacional matricial admite dois supervisores para os trabalhadores, sendo um do próprio departamento e um do projeto.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+84.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+5 de janeiro de 2025 às 15:39
+Certo.
+Na estrutura organizacional matricial, os trabalhadores têm, de fato, dois supervisores: um do seu departamento funcional (como o departamento de marketing, finanças, etc.) e outro do projeto (que lidera a equipe do projeto específico). Essa estrutura é comum em organizações que precisam gerenciar projetos complexos e, ao mesmo tempo, manter a especialização funcional. Ela visa equilibrar a autoridade funcional e a autoridade do projeto, facilitando a coordenação entre diferentes áreas da organização.
+Reportar abuso
+Ajudou (8) Não ajudou
+16
+Q3542208
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - STJ - Analista Judiciário - Área: Administrativa - 2024
+Texto associado
+Por quase dois séculos, apesar da controvérsia provocada pela Revolução Francesa, a Declaração dos Direitos do Homem e do Cidadão encarnou a promessa de direitos humanos universais. Em 1948, quando as Nações Unidas adotaram a Declaração Universal dos Direitos Humanos, seu artigo 1.º dizia: “Todos os seres humanos nascem livres e iguais em dignidade e direitos”. Em 1789, o artigo 1.º da Declaração dos Direitos do Homem e do “Os permanecem livres e iguais em direitos”. Cidadão já havia proclamado: homens nascem e permanecem livres e iguais em direitos”.
+As origens dos documentos não nos dizem necessariamente nada de significativo sobre as suas consequências. Importa realmente que o esboço tosco de Jefferson tenha passado por 86 alterações feitas por ele mesmo, pelo Comitê dos Cinco ou pelo Congresso? A Declaração da Independência dos Estados Unidos da América (EUA) não tinha natureza constitucional. Declarava simplesmente intenções, e passaram-se quinze anos antes que os estados finalmente ratificassem uma Bill of Rights, muito diferente, em 1791. A Declaração dos Direitos do Homem e do Cidadão afirmava salvaguardar as liberdades individuais, mas não impediu o surgimento de um governo francês que reprimiu os direitos, e futuras constituições francesas — houve muitas delas — formularam declarações diferentes ou passaram sem nenhuma declaração.
+Ainda mais perturbador é que aqueles que, com tanta confiança, declaravam, no final do século XVIII, que os direitos eram universais vieram a demonstrar que tinham algo muito menos inclusivo em mente. As pessoas não ficaram surpresas por eles considerarem que as crianças, os insanos, os prisioneiros ou os estrangeiros eram incapazes ou indignos de plena participação no processo político, pois pensavam da mesma maneira. Mas eles também excluíam aqueles sem propriedade, os escravos, os negros livres, em alguns casos as minorias religiosas e, sempre e por toda parte, as mulheres. Em anos recentes, essas limitações a “todos os homens” provocaram muitos comentários, e alguns estudiosos até questionaram se as declarações tinham um verdadeiro significado de emancipação.
+Os fundadores, os que estruturaram e os que redigiram as declarações, têm sido julgados elitistas, racistas e misóginos por sua incapacidade de considerar todos verdadeiramente iguais em direitos.
+Como é que esses homens, vivendo em sociedades construídas sobre a escravidão, a subordinação e a subserviência aparentemente natural, chegaram a imaginar homens nada parecidos com eles, e, em alguns casos, também mulheres, como iguais? Se pudéssemos compreender como isso veio a acontecer, compreenderíamos melhor o que os direitos humanos significam para nós hoje em dia.
+
+Lynn Hunt. A invenção dos direitos humanos: uma história. Tradução de Rosaura Eichenberg. São Paulo: Companhia das Letras, 2009, p. 15-16 (com adaptações).
+
+A respeito de aspectos linguísticos do texto precedente bem como das ideias nele veiculadas, julgue os próximos itens.
+Dada a polissemia do vocábulo homem, seria possível interpretar que os direitos previstos no artigo 1.º da Declaração dos Direitos do Homem e do Cidadão abrangeriam um grupo restrito de pessoas.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+41.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ashely
+1 de janeiro de 2025 às 12:40
+CERTO
+
+As pessoas não ficaram surpresas por eles considerarem que as crianças, os insanos, os prisioneiros ou os estrangeiros eram incapazes ou indignos de plena participação no processo político, pois pensavam da mesma maneira. Mas eles também excluíam aqueles sem propriedade, os escravos, os negros livres, em alguns casos as minorias religiosas e, sempre e por toda parte, as mulheres. Em anos recentes, essas limitações a “todos os homens” provocaram muitos comentários, e alguns estudiosos até questionaram se as declarações tinham um verdadeiro significado de emancipação.
+Reportar abuso
+Ajudou (6) Não ajudou
+K
+Kalynara
+15 de janeiro de 2025 às 08:08
+Polissemia é a propriedade de uma palavra ou expressão que apresenta vários sentidos além de seu sentido original. As palavras polissêmicas guardam uma relação de sentido entre si, o que as diferencia das palavras homônimas. Ex.: Manga: 1. Parte do vestuário onde se enfia o braço. 2. Qualquer peça em forma de tubo que reveste ou protege outra peça. 3. O fruto da mangueira.
+Reportar abuso
+Ajudou (0) Não ajudou
+17
+Q3221274
+Administração de Recursos Materiais Custos de Falta de Estoque
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+Julgue os seguintes itens, relacionados à gestão de estoques nas organizações.
+Os custos de riscos de estoques estão associados a potenciais perdas, furtos, roubos e avarias.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+CD
+Claudio De Jesus
+6 de janeiro de 2025 às 15:30
+A alternativa C (Certo) está correta.
+Justificativa:
+Os custos de riscos de estoques referem-se a despesas associadas a perdas, furtos, roubos, avarias e obsolescência dos itens armazenados. Esses custos representam um dos desafios da gestão de estoques, pois impactam diretamente a eficiência e a economia das operações. Para mitigá-los, é essencial adotar medidas de segurança, controles rigorosos e boas práticas de armazenagem. Assim, a afirmação está correta.
+
+Mitigar significa reduzir ou amenizar os efeitos negativos de algo. No contexto de gestão de estoques, mitigar riscos significa adotar ações e estratégias para diminuir ou minimizar os impactos de possíveis problemas, como perdas, furtos ou avarias nos produtos armazenados. O objetivo é diminuir as consequências adversas, garantindo maior eficiência e segurança nos processos.
+
+Reportar abuso
+Ajudou (6) Não ajudou
+AA
+Alvaro Alberto De Morais
+18 de fevereiro de 2025 às 11:25
+Há custos financeiros significativos em manter estoques também. Essa inclusive é grande razão do desenvolvimento do modelo just in time. O que motivou a criação do just in time foram razões mais financeiras que logísticas. Inclusive porque os custos financeiros são certos, enquanto os citados na questão, não. Principalmente no Brasil onde a taxa de juros é muito alta e os custos de capital de giro são proibitivos.
+Reportar abuso
+Ajudou (0) Não ajudou
+18
+Q3193115
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Analista - Área Análise de Sistemas - 2024
+Texto associado
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), julgue os itens subsequentes.
+A lei não se aplica ao tratamento de dados pessoais provenientes de fora do território nacional que não sejam objeto de uso compartilhado de dados com agentes de tratamento brasileiros, desde que o país de proveniência proporcione grau de proteção de dados pessoais adequado ao previsto na lei.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+69.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Maria Imaculada Da Silva Mesquita
+2 de julho de 2024 às 14:42
+Art. 4º Esta Lei não se aplica ao tratamento de dados pessoais:
+
+IV - provenientes de fora do território nacional e que não sejam objeto de comunicação, uso compartilhado de dados com agentes de tratamento brasileiros ou objeto de transferência internacional de dados com outro país que não o de proveniência, desde que o país de proveniência proporcione grau de proteção de dados pessoais adequado ao previsto nesta Lei.
+Reportar abuso
+Ajudou (84) Não ajudou
+Claudirene Rodrigues Dos Santos
+18 de fevereiro de 2025 às 08:47
+A LGPD não se aplica ao tratamento de dados pessoais (art. 4º):
+
+realizado por pessoa natural para fins exclusivamente particulares e não econômicos;
+
+realizado para fins exclusivamente:
+a) jornalístico e artísticos; ou
+b) acadêmicos, aplicando-se a esta hipótese os arts. 7º e 11 da LGPD;
+
+realizado para fins exclusivos de:
+a) segurança pública;
+b) defesa nacional;
+c) segurança do Estado; ou
+d) atividades de investigação e repressão de infrações penais; ou
+
+provenientes de fora do território nacional e que não sejam objeto de comunicação, uso compartilhado de dados com agentes de tratamento brasileiros ou objeto de transferência internacional de dados com outro país que não o de proveniência, desde que o país de proveniência proporcione grau de proteção de dados pessoais adequado ao previsto na LGPD.
+
+COMPLEMENTANDO
+
+O tratamento de dados pessoais realizado para fins exclusivos de: segurança pública, defesa nacional, segurança do Estado ou atividades de investigação e repressão de infrações penais:
+
+será regido por legislação específica, que deverá prever medidas proporcionais e estritamente necessárias ao atendimento do interesse público, observados o devido processo legal, os princípios gerais de proteção e os direitos do titular previstos na LGPD.
+
+É vedado por pessoa de direito privado, exceto em procedimentos sob tutela de pessoa jurídica de direito público, que serão objeto de informe específico à autoridade nacional e que deverão observar que em nenhum caso a totalidade dos dados pessoais de banco de dados poderá ser tratada por pessoa de direito privado, salvo por aquela que possua capital integralmente constituído pelo poder público.
+
+A autoridade nacional emitirá opiniões técnicas ou recomendações referentes às exceções previstas e deverá solicitar aos responsáveis relatórios de impacto à proteção de dados pessoais.
+
+   Reportar abuso
+Ajudou (4) Não ajudou
+Julia Fim Puhl
+30 de junho de 2024 às 20:42
+art 4 da LGPD
+Reportar abuso
+Ajudou (4) Não ajudou
+19
+Q3143256
+Administração Financeira e Orçamentária - AFO Estágios/Etapas da Despesa Pública
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Economia Língua Inglesa - 2024
+Texto associado
+Com relação a despesas públicas, julgue os itens seguintes.
+O pagamento é o terceiro estágio da despesa pública e somente será efetuado quando ordenado, após sua regular liquidação.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+75.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+PV
+Pedro Vieira De Gouvea Teixeira
+22 de março de 2024 às 10:17
+A questão está mal formulado, a banca deveria ter explicitado no comando da questão que ela se refere ao terceiro estágio da etapa de EXECUÇÃO da Despesa Pública, se não abre margem para uma interepretação em que o item está incorreto.
+Reportar abuso
+Ajudou (68) Não ajudou
+MP
+Miguel Pereira Barros
+21 de março de 2024 às 09:20
+Pela lei, consideram-se três estágios: empenho, liquidação e pagamento. Na noção ampliada que entra a fixação. Logo, gabarito correto.
+Reportar abuso
+Ajudou (55) Não ajudou
+AM
+Antonio Matheus Erick Lima Antunes
+21 de fevereiro de 2024 às 21:00
+Creio eu,Bruno,que a banca considera os 3 estágios pela lei 4.320,e não pela do MCASP.
+Reportar abuso
+Ajudou (21) Não ajudou
+GP
+Guilherme Paulino De Oliveira
+13 de março de 2024 às 15:20
+Complicado isso aí. O próprio material da Gran fala que são 4 estágios (Planejamento [Fixação], Empenho, Liquidação e Pagamento) e que a EXECUÇÃO da despesa compreende os três últimos estágios. Mas enfim, para essa banca, considerar os três estágios expressos na 4.320/64...
+Reportar abuso
+Ajudou (18) Não ajudou
+Allisson Marcelino Carboni
+29 de fevereiro de 2024 às 18:56
+Cabe recurso.
+Reportar abuso
+Ajudou (3) Não ajudou
+Página 1 de 3
+20
+Q3419045
+Direito Administrativo Contratos Administrativos
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Ministerial - Área Direito - 2024
+Texto associado
+No que tange ao processo administrativo, às licitações e contratos administrativos, à Lei de Acesso à Informação e à Lei Geral de Proteção de Dados Pessoais, julgue os itens seguintes.
+Diante da constatação de qualquer infringência à lei, o contrato administrativo deve ser necessariamente invalidado, em respeito ao princípio da indisponibilidade do interesse público.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+85.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Carlos Henrique
+14 de outubro de 2024 às 17:21
+Errado.
+
+A invalidade de um contrato administrativo em razão de infringência à lei não é automática.
+Primeiro, é necessário avaliar a gravidade da infração, a possibilidade de correção do ato e os impactos da invalidade do contrato.
+A administração pública deve sempre buscar soluções que preservem o interesse público, evitando a invalidade automática quando uma medida menos drástica pode resolver a questão.
+Reportar abuso
+Ajudou (42) Não ajudou
+Thiago
+26 de fevereiro de 2025 às 17:49
+E - Errado
+"Diante da constatação de qualquer infringência à lei, o contrato administrativo deve ser necessariamente invalidado"
+Incorreto. Nem toda infringência à lei resulta na invalidação automática do contrato administrativo. A administração pública deve avaliar a gravidade da irregularidade, seus efeitos sobre o contrato e o interesse público envolvido.
+"Em respeito ao princípio da indisponibilidade do interesse público"
+Parcialmente correto. O princípio da indisponibilidade do interesse público estabelece que a administração pública não pode dispor livremente dos interesses coletivos, devendo agir sempre em conformidade com a lei e em benefício da sociedade. No entanto, esse princípio não exige a invalidação automática do contrato diante de qualquer irregularidade. A administração deve buscar a solução que melhor preserve o interesse público, o que pode incluir a regularização do contrato ou a aplicação de sanções menos drásticas.
+
+Reportar abuso
+Ajudou (0) Não ajudou

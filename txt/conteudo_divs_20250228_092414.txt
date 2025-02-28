@@ -1,0 +1,1105 @@
+1
+Q3128847
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração de Pessoal - 2024
+Texto associado
+A lawyer used ChatGPT to prepare a court filing. It went horribly awry.
+A lawyer who relied on ChatGPT to prepare a court filing on behalf of a man suing an airline is now all too familiar with the artificial intelligence (AI) tool’s shortcomings — including its propensity to invent facts.
+Roberto Mata sued Colombian airline Avianca last year, alleging that a metal food and beverage cart injured his knee on a flight to Kennedy International Airport in New York. When Avianca asked a Manhattan judge to dismiss the lawsuit based on the statute of limitations, his lawyer submitted a brief based on research done by ChatGPT.
+While ChatGPT can be useful to professionals in numerous industries, including the legal profession, it has proved itself to be both limited and unreliable. In this case, the AI invented court cases that didn’t exist, and asserted that they were real. The fabrications were revealed when Avianca’s lawyers approached the case’s judge, saying they couldn’t locate the cases cited in Mata’s lawyers’ brief in legal databases.
+“It seemed clear when we didn’t recognize any of the cases in their opposition brief that something was amiss,” said the airline’s lawyer. And soon they figured it was some sort of chatbot of some kind. On the other hand, the passenger’s lawyer said that it was the first time he’d used ChatGPT for work and, therefore, he was unaware of the possibility that its content could be false.
+
+Internet: <www.cbsnews.com> (adapted).
+
+Based on the preceding text, judge the items that follow.
+It is correct to infer from the text that, due to the lawyer’s expertise, he had used ChatGPT for work before.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+59.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Thayna Marques
+31 de janeiro de 2024 às 20:34
+On the other hand, the passenger’s lawyer said that it was the first time he’d used ChatGPT for work .
+O advogado disse que tinha sido a primeira vez que ele utilizou o chatGPT para trabalho (it was..)
+Reportar abuso
+Ajudou (25) Não ajudou
+Romulo Estevam De Araujo Lima
+21 de maio de 2024 às 22:07
+A lawyer used ChatGPT to prepare a court filing. It went horribly awry.
+Um advogado usou o ChatGPT para preparar um processo judicial. Tudo deu terrivelmente errado.
+
+A lawyer who relied on ChatGPT to prepare a court filing on behalf of a man suing an airline is now all too familiar with the artificial intelligence (AI) tool’s shortcomings — including its propensity to invent facts.
+Um advogado que confiou no ChatGPT para preparar um processo judicial em nome de um homem que processava uma companhia aérea está agora muito familiarizado com as deficiências da ferramenta de inteligência artificial (IA) – incluindo a sua propensão para inventar factos.
+
+Roberto Mata sued Colombian airline Avianca last year, alleging that a metal food and beverage cart injured his knee on a flight to Kennedy International Airport in New York. When Avianca asked a Manhattan judge to dismiss the lawsuit based on the statute of limitations, his lawyer submitted a brief based on research done by ChatGPT.
+Roberto Mata processou a companhia aérea colombiana Avianca no ano passado, alegando que um carrinho de metal para alimentos e bebidas machucou seu joelho durante um voo para o Aeroporto Internacional Kennedy, em Nova York. Quando a Avianca pediu a um juiz de Manhattan que rejeitasse a ação com base na prescrição, seu advogado apresentou um pedido baseado em pesquisa feita pelo ChatGPT.
+
+While ChatGPT can be useful to professionals in numerous industries, including the legal profession, it has proved itself to be both limited and unreliable. In this case, the AI invented court cases that didn’t exist, and asserted that they were real. The fabrications were revealed when Avianca’s lawyers approached the case’s judge, saying they couldn’t locate the cases cited in Mata’s lawyers’ brief in legal databases.
+Embora o ChatGPT possa ser útil para profissionais de vários setores, incluindo a profissão jurídica, ele provou ser limitado e pouco confiável. Neste caso, a IA inventou processos judiciais que não existiam e afirmou que eram reais. As invenções foram reveladas quando os advogados da Avianca abordaram o juiz do caso, dizendo que não conseguiam localizar os casos citados na petição dos advogados de Mata nas bases de dados jurídicas.
+
+“It seemed clear when we didn’t recognize any of the cases in their opposition brief that something was amiss,” said the airline’s lawyer. And soon they figured it was some sort of chatbot of some kind. On the other hand, the passenger’s lawyer said that it was the first time he’d used ChatGPT for work and, therefore, he was unaware of the possibility that its content could be false.
+“Parecia claro, quando não reconhecemos nenhum dos casos na petição da oposição, que algo estava errado”, disse o advogado da companhia aérea. E logo eles perceberam que era algum tipo de chatbot. Por outro lado, o advogado do passageiro disse que foi a primeira vez que utilizou o ChatGPT para trabalho e, por isso, desconhece a possibilidade do seu conteúdo ser falso.
+
+
+Based on the preceding text, judge the items that follow.
+It is correct to infer from the text that, due to the lawyer’s expertise, he had used ChatGPT for work before.
+C - Certo
+E - Errado
+
+
+Com base no texto anterior, julgue os itens a seguir.
+É correto inferir do texto que, devido à expertise do advogado, ele já havia utilizado o ChatGPT para trabalhar anteriormente.
+
+C- Certo
+
+E - Errado
+Reportar abuso
+Ajudou (2) Não ajudou
+2
+Q3123994
+Direito Constitucional Ordem Econômica e Financeira - Título VII da CF - artigos 170 a 192
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MMA - Analista Ambiental - 2024
+Texto associado
+Considerando as disposições da Constituição Federal, julgue os itens a seguir.
+São princípios gerais da atividade econômica do Estado a propriedade privada, a livre concorrência e a defesa do meio ambiente.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+73.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Thais Bueno
+25 de janeiro de 2024 às 11:10
+Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa, tem por fim assegurar a todos existência digna, conforme os ditames da justiça social, observados os seguintes princípios:
+I - soberania nacional;
+II - propriedade privada;
+III - função social da propriedade;
+IV - livre concorrência;
+V - defesa do consumidor;
+
+VI - defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus processos de elaboração e prestação; (Redação dada pela Emenda Constitucional nº 42, de 19.12.2003)
+VII - redução das desigualdades regionais e sociais;
+VIII - busca do pleno emprego;
+
+IX - tratamento favorecido para as empresas de pequeno porte constituídas sob as leis brasileiras e que tenham sua sede e administração no País. (Redação dada pela Emenda Constitucional nº 6, de 1995)
+Parágrafo único. É assegurado a todos o livre exercício de qualquer atividade econômica, independentemente de autorização de órgãos públicos, salvo nos casos previstos em lei. (Vide Lei nº 13.874, de 2019)
+Reportar abuso
+Ajudou (369) Não ajudou
+Maria Andreza Marques Da Silva
+31 de janeiro de 2024 às 12:48
+Art. 170.
+.
+I - soberania nacional;
+II - *propriedade privada*;
+III - função social da propriedade;
+IV - *livre concorrência*;
+V - defesa do consumidor;
+VI - *defesa do meio ambiente*;
+VII - redução das desigualdades regionais e sociais; VIII - busca do pleno emprego;
+IX - tratamento favorecido para as empresas de pequeno porte constituídas sob as leis brasileiras e que tenham sua sede e administração no País.
+Reportar abuso
+Ajudou (77) Não ajudou
+Miguel
+16 de fevereiro de 2024 às 08:21
+Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa, tem por fim assegurar a todos existência digna, conforme os ditames da justiça social, observados os seguintes princípios:
+I - soberania nacional;
+II - propriedade privada;
+III - função social da propriedade;
+IV - livre concorrência;
+V - defesa do consumidor;
+VI - defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus processos de elaboração e prestação;
+VII - redução das desigualdades regionais e sociais;
+VIII - busca do pleno emprego;
+IX - tratamento favorecido para as empresas brasileiras de capital nacional de pequeno porte.
+IX - tratamento favorecido para as empresas de pequeno porte constituídas sob as leis brasileiras e que tenham sua sede e administração no País.
+Parágrafo único. É assegurado a todos o livre exercício de qualquer atividade econômica, independentemente de autorização de órgãos públicos, salvo nos casos previstos em lei. (Vide Lei nº 13.874, de 2019)
+Reportar abuso
+Ajudou (35) Não ajudou
+João Guilherme Holanda Justino
+23 de março de 2024 às 16:23
+Artigo 170 da CF-88
+Reportar abuso
+Ajudou (3) Não ajudou
+Andre Luiz
+7 de janeiro de 2025 às 23:23
+Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa, tem por fim assegurar a todos existência digna, conforme os ditames da justiça social, observados os seguintes princípios:
+I - soberania nacional;
+II - propriedade privada;
+III - função social da propriedade;
+IV - livre concorrência;
+V - defesa do consumido
+VI - defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus processos de elaboração e prestação;         (Redação dada pela Emenda Constitucional nº 42, de 19.12.2003)
+
+
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 2
+3
+Q3175452
+Administração de Recursos Materiais Administração de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Julgue os itens que se seguem, acerca da gestão de estoques.
+Quando o ponto de desacoplamento da demanda está no cliente, como no segmento de vestuário, os custos com estoques e fretes são maiores.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+64.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Viviane
+21 de maio de 2024 às 22:21
+Ponto de desacoplamento (DP) é quando a produção deixa de ser empurrada e passa a ser puxada. Portanto, sai da padronização e passa a ser customizada.
+Reportar abuso
+Ajudou (152) Não ajudou
+Maria Gabriela
+12 de dezembro de 2024 às 10:14
+CERTA, Quando o ponto de desacoplamento da demanda está no cliente, como no segmento de vestuário, os custos aumentam devido à necessidade de manter estoques elevados para pronta entrega e ao uso de fretes rápidos e mais caros. Estratégias como previsão de demanda e otimização logística ajudam a mitigar esses custos.
+Reportar abuso
+Ajudou (46) Não ajudou
+4
+Q3175501
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Acerca de logística, julgue os itens que se seguem.
+Um sistema de gerenciamento eletrônico de documentos limita-se ao gerenciamento de arquivos digitais.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+91.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erik De Cerqueira Wanderley
+5 de agosto de 2024 às 16:32
+A dica é saber que um documento físico pode ser digitalizado, logo, o sistema de gerenciamento eletrônico de documentos não se limita aos arquivos digitais
+
+Reportar abuso
+Ajudou (54) Não ajudou
+Maria Gabriela
+12 de dezembro de 2024 às 10:20
+ERRADA, um sistema de gerenciamento eletrônico de documentos (GED) não se limita apenas ao gerenciamento de arquivos digitais. Ele também envolve a digitalização de documentos físicos, organização, armazenamento, compartilhamento, controle de acesso, e busca de informações de forma eficiente. Além disso, inclui funcionalidades como versionamento, automação de workflows e conformidade com normas regulatórias. É uma solução abrangente para gerenciar documentos em diversos formatos e suportar processos organizacionais.
+Reportar abuso
+Ajudou (10) Não ajudou
+5
+Q3406301
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Procurador - 2024
+Texto associado
+Texto CG1A1
+
+A defesa das florestas deveria ser objeto de um tratado internacional que reunisse o maior número de Estados, para que elas se tornassem intocáveis. Repito: a sobrevivência da nossa espécie depende da funcionalidade desses ecossistemas. Sem florestas suficientes, não existe chance real de podermos reverter a tendência de crescimento do CO2. O desmatamento deveria ser tratado como um crime contra a humanidade e punido como tal. Porque é disso que se trata. A proteção das florestas e sua manutenção, bem como a obrigação de manter intactos o solo, o ar e a água, deveriam fazer parte das constituições de todos os Estados, não apenas desta nossa Constituição da Nação das Plantas. Deveriam ser ensinadas nas escolas para crianças e adultos, em todos os lugares. Diretores de cinema deveriam fazer filmes, escritores deveriam escrever livros. Todos estão convocados a se mobilizar, e se vocês acham que é exagero e não veem motivo real para se levantar do sofá e defender o meio ambiente e as florestas, saibam que essa é a única emergência global real. A maioria dos problemas que afligem a humanidade hoje, mesmo que aparentemente distantes, está relacionada ao risco ambiental e consiste apenas na ponta de um iceberg, se não tratarmos o tema com a devida firmeza e eficiência.
+
+Stefano Mancuso. A nação das plantas. São Paulo: Ubu Editora, 2024, p. 78 (com adaptações)
+
+Com base nas ideias veiculadas no texto CG1A1, julgue os seguintes itens.
+De acordo com o texto, a importância das florestas decorre de seu papel na possibilidade de retroceder a tendência de aumento de CO2.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+78.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alvaro Lincoln
+4 de setembro de 2024 às 16:30
+Sem florestas suficientes, não existe chance real de podermos reverter a tendência de crescimento do CO2
+Reportar abuso
+Ajudou (30) Não ajudou
+Eduardo
+19 de setembro de 2024 às 14:00
+Questao incompleta é considerada verdade pra CESPE
+Reportar abuso
+Ajudou (22) Não ajudou
+Andre2
+9 de outubro de 2024 às 16:05
+"Reverter", como está no texto-base, é diferente de "retroceder", como está na assertiva.
+Sem florestas suficientes, não existe chance real de podermos reverter a tendência de crescimento do CO2.
+... a importância das florestas decorre de seu papel na possibilidade de retroceder a tendência de aumento de CO2.
+Mesmo assim, a Cebraspe considerou correta - anotar e não esquecer.
+Reportar abuso
+Ajudou (9) Não ajudou
+LF
+Lucas F. França
+28 de novembro de 2024 às 12:26
+Significado de Reverter
+
+verbo transitivo indireto
+
+Retornar a um estado anterior; retroceder: reverter ao ponto de partida.
+
+Fonte: Dicio
+Reportar abuso
+Ajudou (4) Não ajudou
+Joao
+4 de outubro de 2024 às 16:19
+Questao incompleta como é CESPE preferi nao marcar
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+6
+Q3418751
+Legislação Federal Do Tratamento de Dados Pessoais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista - Área Infraestrutura de TI - 2024
+Texto associado
+Conforme o que preconiza a LPGD para o encarregado de dados, julgue os itens subsequentes.
+Cabe ao encarregado aceitar reclamações e comunicações dos titulares de dados.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+81.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+DS
+David Silva
+18 de outubro de 2024 às 19:32
+Artigo 41.
+
+§ 2º As atividades do encarregado consistem em:
+I - aceitar reclamações e comunicações dos titulares, prestar esclarecimentos e adotar providências;
+II - receber comunicações da autoridade nacional e adotar providências;
+III - orientar os funcionários e os contratados da entidade a respeito das práticas a serem tomadas em relação à proteção de dados pessoais; e
+IV - executar as demais atribuições determinadas pelo controlador ou estabelecidas em normas complementares.
+Reportar abuso
+Ajudou (71) Não ajudou
+Josue Ferreira Santos
+27 de dezembro de 2024 às 13:21
+a questão não está errada!!!
+
+Reportar abuso
+Ajudou (7) Não ajudou
+7
+Q3418776
+Administração de Recursos Materiais Gestão Patrimonial
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Ministerial - Área Administração - 2024
+Texto associado
+Julgue os itens a seguir, relativos às atividades básicas da administração de material e patrimônio nas organizações.
+Cabem ao setor de administração patrimonial o estabelecimento de procedimentos formais das atividades de gestão patrimonial e a realização da avaliação dos bens móveis e imóveis da organização.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+94.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Maria Gabriela
+14 de dezembro de 2024 às 11:48
+Sim, a afirmação está correta. O setor de administração patrimonial desempenha um papel crucial na gestão eficiente dos bens de uma organização, e suas principais responsabilidades incluem:
+Estabelecimento de procedimentos formais de gestão patrimonial: Definir processos, políticas e normativas que garantam o controle, a manutenção e a atualização do inventário dos bens móveis e imóveis da organização.
+Avaliação dos bens: Realizar análises periódicas para determinar o valor real, depreciação ou apreciação dos bens patrimoniais, considerando critérios como valor de mercado, tempo de uso e condição dos itens.
+Além disso, o setor também é responsável por registrar aquisições, alienações, baixas e transferências, promovendo a transparência e o cumprimento de normas legais e contábeis. Se precisar de mais detalhes ou exemplos práticos, posso ajudar!
+Reportar abuso
+Ajudou (19) Não ajudou
+8
+Q3181076
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANAC - Especialista em Regulação de Aviação Civil - Área 3 - 2024
+Texto associado
+No que se refere a modelagem dimensional, mineração de dados e big data, julgue os itens subsequentes.
+Em big data, a premissa variedade refere-se ao acréscimo dos volumosos tipos de dados semiestruturados e não estruturados aos tradicionais conjuntos de dados estruturados das organizações, responsável por impor desafios contextuais adicionais para o armazenamento, o tratamento e a análise dos dados dessas organizações.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+76.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tiago Rocha
+13 de maio de 2024 às 16:27
+dados semiestruturados e não estruturados = "variedade" / "diversificação"
+Reportar abuso
+Ajudou (16) Não ajudou
+AS
+Alexandre Silva Sousa
+3 de abril de 2024 às 00:40
+Sim, na mineração de dados, a tarefa de classificação consiste em atribuir rótulos ou categorias a registros de dados com base em suas características. Essa tarefa envolve a descoberta de uma função que mapeie os dados de entrada para os rótulos de saída predefinidos.
+Redes neurais e back-propagation são tipos de algoritmos que se aplicam à tarefa de classificação.
+As redes neurais são modelos computacionais inspirados no funcionamento do cérebro humano e são capazes de aprender padrões complexos nos dados. O algoritmo de back-propagation é frequentemente utilizado para treinar redes neurais, ajustando os pesos das conexões entre os neurônios para minimizar a diferença entre as saídas previstas e os rótulos reais dos dados de treinamento.
+Reportar abuso
+Ajudou (12) Não ajudou
+Bq Oliveira
+6 de junho de 2024 às 17:28
+A variedade no contexto do Big Data se refere à inclusão de dados semi-estruturados e não estruturados, além dos tradicionais dados estruturados. Isso implica em desafios adicionais para o armazenamento, tratamento e análise dos dados, pois os dados não estruturados e semi-estruturados podem não se encaixar nos modelos tradicionais de bancos de dados.
+Reportar abuso
+Ajudou (11) Não ajudou
+9
+Q3190358
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANAC - Especialista em Regulação de Aviação Civil - Área 1 - 2024
+Texto associado
+According to researchers in Mechanical Engineering at Penn State University, hummingbirds have extreme aerial agility and flight forms, which is why many drones and other aerial vehicles are designed to mimic hummingbird movement. Using a novel modeling method, Professor Bo Cheng and his team of researchers gained new insights into how hummingbirds produce wing movement, which could lead to design improvements in flying robots.
+“We essentially reverse-engineered the inner working of the wing musculoskeletal system — how the muscles and skeleton work in hummingbirds to flap the wings,” said first author and Penn State mechanical engineering graduate student Suyash Agrawal. “The traditional methods have mostly focused on measuring activity of a bird or insect when they are in natural flight or in an artificial environment where flight-like conditions are simulated. But most insects and, among birds specifically, hummingbirds are very small. The data that we can get from those measurements are limited.”
+Penn State researchers used muscle anatomy literature, computational fluid dynamics simulation data and wing-skeletal movement information captured using micro-CT and X-ray methods to inform their model. They also used an optimization algorithm based on evolutionary strategies, known as the genetic algorithm, to calibrate the parameters of the model. According to the researchers, their approach is the first to integrate these disparate parts for biological fliers.
+With this model, the researchers uncovered previously unknown principles of hummingbird wing actuation. While Cheng emphasized that the results from the optimized model are predictions that will need validation, he said that it has implications for technological development of aerial vehicles.
+Internet: <www.labmanager.com> (adapted).
+Judge the following items according to the previous text.
+
+According to the text, Penn State researchers were the first to use the genetic algorithm to investigate flying patterns.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+52.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+LA
+Lucas Assis
+2 de novembro de 2024 às 13:40
+Que pergunta mais sacana, no texto tem as informações :v
+
+Penn State researchers used muscle anatomy literature, computational fluid dynamics simulation data and wing-skeletal movement information captured using micro-CT and X-ray methods to inform their model. They also used an optimization algorithm based on evolutionary strategies, known as the genetic algorithm, to calibrate the parameters of the model. According to the researchers, their approach is the first to integrate these disparate parts for biological fliers.
+Reportar abuso
+Ajudou (5) Não ajudou
+10
+Q3190359
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANAC - Especialista em Regulação de Aviação Civil - Área 1 - 2024
+Texto associado
+According to researchers in Mechanical Engineering at Penn State University, hummingbirds have extreme aerial agility and flight forms, which is why many drones and other aerial vehicles are designed to mimic hummingbird movement. Using a novel modeling method, Professor Bo Cheng and his team of researchers gained new insights into how hummingbirds produce wing movement, which could lead to design improvements in flying robots.
+“We essentially reverse-engineered the inner working of the wing musculoskeletal system — how the muscles and skeleton work in hummingbirds to flap the wings,” said first author and Penn State mechanical engineering graduate student Suyash Agrawal. “The traditional methods have mostly focused on measuring activity of a bird or insect when they are in natural flight or in an artificial environment where flight-like conditions are simulated. But most insects and, among birds specifically, hummingbirds are very small. The data that we can get from those measurements are limited.”
+Penn State researchers used muscle anatomy literature, computational fluid dynamics simulation data and wing-skeletal movement information captured using micro-CT and X-ray methods to inform their model. They also used an optimization algorithm based on evolutionary strategies, known as the genetic algorithm, to calibrate the parameters of the model. According to the researchers, their approach is the first to integrate these disparate parts for biological fliers.
+With this model, the researchers uncovered previously unknown principles of hummingbird wing actuation. While Cheng emphasized that the results from the optimized model are predictions that will need validation, he said that it has implications for technological development of aerial vehicles.
+Internet: <www.labmanager.com> (adapted).
+Judge the following items according to the previous text.
+
+The research findings presented in the text have yielded numerous advancements for the aerospace industry.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+47.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+ER
+Elizabeth Rose Assumpcao Harris
+6 de novembro de 2024 às 22:33
+No primeiro parágrafo, o texto diz que o professor e sua equipe obtiveram novos insights a respeito do movimento das asas de beija-flores, e no último parágrafo o professor diz que os resultados obtidos são previsões, que necessitarão de validação. O texto termina com o professor dizendo que a descoberta possui implicações para o desenvolvimento tecnológico de veículos aéreos. Se os resultados ainda precisam de validação e "possuem implicações" mas ainda não geraram nada concreto, não podemos dizer que os resultados da pesquisa trouxeram muitos avanços para a indústria aeroespacial.
+Reportar abuso
+Ajudou (10) Não ajudou
+11
+Q3221251
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Biblioteconomia - 2024
+Texto associado
+Back in October 2011, Stanford professors launched three free online courses, open to the public. One by one, these courses went massive, with enrollments topping 100.000 students each. Soon the media was calling these courses MOOCs, short for massive open online courses.
+Since then, more than 1.200 universities around the world have launched free online courses. In addition to the larger global MOOC platforms, many national governments around the world have launched their own country-specific MOOC platforms, including India, Italy, Israel, Mexico and Thailand.
+After a decade of popularization, in 2021, over 220 million students had signed up for at least one course on one of these platforms, and 40 million did so in 2021 alone. MOOCs and MOOC platforms are still growing, even after the crazy “Year of the MOOC” prompted by the pandemic and travel restrictions.
+At Class Central, we try to catalog as many MOOCs as possible, and our listing currently includes more than 150.000 of them, from MOOC platforms and other online learning platforms. But due to limited resources, we cannot index every single one. If you’re looking for MOOCs from around the world, this list is our best attempt to catalog all different MOOC platforms that are out there.
+Internet: <https://classcentral.com> (adapted).
+Keeping in mind the ideas expressed above and the linguistic aspects of the text, judge the following items.
+It is correct to conclude from the text that the total number of students who signed up for the three free online courses offered by Stanford in 2011 was higher than 300.000.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+48.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AD
+Alessandra De Abreu Arruda
+12 de maio de 2024 às 16:00
+Errei a questão, mas o significado de topping no texto não é até e sim superar, senão, vejamos:
+
+
+Tradução de "topping" em português
+cobertura f
+recheio m
+revestimento superior
+espléndido
+excelente
+topping
+no topo
+superando
+liderando
+cobrir
+
+Fonte: https://context.reverso.net/traducao/ingles-portugues/topping
+
+O texto, por ser de inglês britânico, pode confundir com os que já são acostumados com inglês americano, mas há significado para topping ser usado no sentido de superar, como over, entre outros.
+Reportar abuso
+Ajudou (14) Não ajudou
+AU
+Andre Unes
+22 de abril de 2024 às 10:45
+Discordo do gabarito: O texto menciona :" ...with enrollments topping 100.000 students each." ( Com ATÉ 100.000 inscrições). O enunciado da questão afirma que está ACIMA de 300.000 inscrições. O gabarito deveria ser ERRADO.
+Reportar abuso
+Ajudou (7) Não ajudou
+Joao Victor De Sales Dantas
+29 de maio de 2024 às 15:05
+O detalhe da questão está na palavra *EACH* que significa "cada". Logo, cada um dos 3 cursos abertos gratuitamente tiveram mais de 100.000 inscritos. Gabarito: C
+Reportar abuso
+Ajudou (6) Não ajudou
+12
+Q3221265
+Administração de Recursos Materiais Classificação quanto à Aplicação
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+Amélia trabalha na área de administração de recursos materiais de uma organização e acaba de receber diversos itens para organizar no estoque, nos quais se incluem resmas de papel.
+
+Considerando essa situação hipotética, julgue os itens seguintes, acerca da classificação de materiais.
+As resmas de papel A4 são exemplos de materiais aplicados em diversos setores da organização, podendo, portanto, ser classificadas por Amélia como materiais de consumo geral.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+94.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Sabrina De Matos Nonato
+19 de maio de 2024 às 23:41
+É possível classificar o material de acordo com a sua aplicação na empresa. Viana classifica os materiais como materiais produtivos, materiais improdutivos, materiais de consumo geral (aplicados em diversos setores da empresa) e materiais de manutenção.
+Reportar abuso
+Ajudou (45) Não ajudou
+Virlande Pereira Fonseca
+21 de junho de 2024 às 22:46
+@Manuella Nascimento, eu seguir o memso pensamneto que o seu, porem ao ver que a banca era cespe eu mudei na hora kkkkkkk, levei em conta somente a palavra consumo ,
+materias de consumo classificados como aqueles que tem perda da sua indetidade, a prazo maximo de dois anos, onde conforme adotado pelo Manual de Contabilidade Aplicada ao Setor Público, para que os materias sejam considerados de consumo, devam atender apenas uns dos criterios como :
+I– Durabilidade, quando o material em uso normal perde ou tem reduzidas as suas
+condições de funcionamento, no prazo máximo de dois anos;
+II – Fragilidade, cuja estrutura esteja sujeita a modificação, por ser quebradiço ou
+deformável, caracterizando-se pela irrecuperabilidade e/ou perda de sua identidade;
+III – Perecibilidade, quando sujeito a modificações (químicas ou físicas) ou que se
+deteriora ou perde sua característica normal de uso;
+IV – Incorporabilidade, quando destinado à incorporação a outro bem, não podendo
+ser retirado sem prejuízo das características do principal; e
+V – Transformabilidade, quando adquirido para fim de transformação.”
+Reportar abuso
+Ajudou (14) Não ajudou
+Manuella O Nascimento
+16 de maio de 2024 às 11:39
+Fiquei na dúvida, pois a Lei n. 4.320/64 define MATERIAL DE CONSUMO, mas não de consumo geral.
+Não sei qual seria a referência para essa questão.
+Reportar abuso
+Ajudou (7) Não ajudou
+KS
+Kamille Serpa Dos Santos
+31 de outubro de 2024 às 10:37
+Quando terão comentários de professores?
+é triste ter que procurar explicações nos comentários de alunos, pois a maia não passa nenhuma confiabilidade.
+Reportar abuso
+Ajudou (3) Não ajudou
+13
+Q3221276
+Administração de Recursos Materiais Cadastro e Seleção de Fornecedores
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+Julgue os itens a seguir, a respeito de compras nas organizações.
+Além de dados e informações tradicionais, nos cadastros de fornecedores voltados às compras inteligentes, podem ser incluídos as condições de atendimento de pós-venda, o custo de embalagens e os custos diferenciados por acréscimos ou reduções de quantidades.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+93.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ashely
+29 de agosto de 2024 às 11:39
+Item correto
+
+
+Isso reflete uma abordagem moderna na gestão de compras, onde a análise de fornecedores vai além do preço e da qualidade do produto, considerando também aspectos que podem impactar o custo total de aquisição e a satisfação do cliente final.
+Reportar abuso
+Ajudou (30) Não ajudou
+Maria Gabriela
+17 de dezembro de 2024 às 17:41
+O item está correto.
+Nos cadastros de fornecedores voltados às compras inteligentes, além de informações tradicionais, como preços e prazos de entrega, também é importante incluir aspectos como condições de atendimento pós-venda, custo de embalagens e custos diferenciados por acréscimos ou reduções de quantidades, para uma gestão mais completa e eficiente.
+Reportar abuso
+Ajudou (6) Não ajudou
+14
+Q3221278
+Administração de Recursos Materiais Centralização ou Descentralização
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+Julgue os itens a seguir, a respeito de compras nas organizações.
+Uma das utilidades da estrutura centralizada de compras consiste na redução da possibilidade de haver compras duplicadas.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+93.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+V
+Viviane
+26 de junho de 2024 às 10:14
+VANTAGENS DA CENTRALIZAÇÃO:
+MAIOR ESPECIALIZAÇÃO
+MAIOR DESCONTO
+MAIOR CONTROLE
+DESVANTAGENS DA CENTRALIZAÇÃO:
+RIGIDEZ
+LENTIDÃO
+NEM SEMPRE ATENDE A DEMANDA LOCAL
+Reportar abuso
+Ajudou (34) Não ajudou
+Naiane Mota De Oliveira
+26 de dezembro de 2024 às 21:09
+Certo.
+Uma das utilidades da estrutura centralizada de compras consiste na redução da possibilidade de haver compras duplicadas.
+Centralizando evita duplicações de compras e redundância.
+Reportar abuso
+Ajudou (3) Não ajudou
+15
+Q3134911
+Raciocínio Lógico Verdades e Mentiras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista de Infraestrutura de Tecnologia da Informação - 2024
+Texto associado
+Em um jogo investigativo, um dos objetivos é coletar pistas para descobrir o culpado de um crime. Em determinada ambientação, cinco senhores, cada um usando um chapéu de determinada cor — branco, cáqui, preto, verde e vermelho —, participavam de um jantar, quando a luz da mansão apagou. Passado o apagão, foi constatado que o senhor de chapéu cáqui estava morto. Em uma etapa do jogo, já haviam sido coletados os seguintes depoimentos dos outros quatro cavalheiros:
+
+Senhor de chapéu verde: “O senhor de chapéu vermelho é inocente.”
+Senhor de chapéu vermelho: “Se o senhor de chapéu preto e o senhor de chapéu verde são inocentes, então o senhor de chapéu branco mentiu em seu depoimento.”
+Senhor de chapéu branco: “O senhor de chapéu preto é inocente.”
+Senhor de chapéu preto: “O senhor de chapéu verde mentiu em seu depoimento.”
+
+Sabendo que apenas um dos depoentes mentiu e que apenas um dos senhores assassinou o senhor de chapéu cáqui, julgue os itens seguintes.
+Apenas um dos senhores é, ao mesmo tempo, o assassino e o mentiroso.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+59.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Breno
+19 de fevereiro de 2024 às 11:42
+Senhor de chapéu preto: “O senhor de chapéu verde mentiu em seu depoimento.”
+Com base nisso, conclui-se que o senhor de chapéu verde é mentiroso
+Em seguida, utilizando da mentira do senhor de chapéu verde, é possível assumir que o senhor vermelho de chapéu vermelho é o assassino. Se você notar, o vermelho pode dizer tudo falso que ainda a alternativa será verdadeira por conta da regra do SE-ENTÃO.
+Consequentemente, há um mentiroso e um assassino, o que diverge do que a questão está dizendo.
+Alternativa errada.
+
+Reportar abuso
+Ajudou (28) Não ajudou
+AS
+Alexandre Silva Sousa
+11 de abril de 2024 às 14:36
+A questão fala que, considerando que apenas 1 dos depoimentos foi mentiroso, há apenas a possibilidade de 1 pessoa ser ao mesmo tempo mentiroso e assassino. Mas na verdade há 2 possibilidades (o de vermelho e o de preto).
+
+(0) Se o de verde mentiu, quer dizer que o de vermelho é o assassino.
+(0) Se o de branco mentiu, quer dizer que o de preto é o assassino.
+(1) Se o de vermelho mentiu, não é possível tirar nenhuma outra conclusão, qualquer um pode ser o assassino.
+(2) Se o de preto mentiu, isso apenas quer dizer que o de verde falou a verdade, mas o assassino pode ser qualquer um, exceto o de vermelho.
+Reportar abuso
+Ajudou (8) Não ajudou
+JP
+Jaíne Pereira
+16 de fevereiro de 2024 às 09:13
+Vamos analisar cada depoimento:
+Senhor de chapéu verde: Ele afirma que o senhor de chapéu vermelho é inocente.
+Senhor de chapéu vermelho: Ele implica que, se o senhor de chapéu preto e o senhor de chapéu verde forem inocentes, então o senhor de chapéu branco mentiu.
+Senhor de chapéu branco: Ele declara que o senhor de chapéu preto é inocente.
+Senhor de chapéu preto: Ele afirma que o senhor de chapéu verde mentiu.
+Se analisarmos esses depoimentos, podemos identificar algumas coisas:
+O senhor de chapéu verde disse que o senhor de chapéu vermelho é inocente.
+O senhor de chapéu branco disse que o senhor de chapéu preto é inocente.
+O senhor de chapéu preto disse que o senhor de chapéu verde mentiu.
+Essas informações não nos levam diretamente a uma solução, então devemos procurar inconsistências.
+Se o senhor de chapéu verde está mentindo, isso implicaria que o senhor de chapéu vermelho é culpado. Isso contradiz o depoimento do senhor de chapéu vermelho, que diz que o senhor de chapéu preto e o senhor de chapéu verde são inocentes.
+Por outro lado, se o senhor de chapéu preto está mentindo, isso implicaria que o senhor de chapéu verde é culpado. Isso também contradiz o depoimento do senhor de chapéu verde, que diz que o senhor de chapéu vermelho é inocente.
+Portanto, ambos os senhores de chapéu verde e preto não podem estar mentindo simultaneamente, pois isso resultaria em uma contradição.
+Assim, apenas um dos senhores é o assassino e o mentiroso, o que nos leva à conclusão de que o senhor de chapéu verde é o culpado, e o senhor de chapéu preto está dizendo a verdade.
+Reportar abuso
+Ajudou (8) Não ajudou
+LN
+Lucas Navarro
+1 de maio de 2024 às 12:48
+Assumindo que o de chapéu preto disse é verdade, então, pela sentença do verde, o senhor de chapéu vermelho seria culpado.
+Se o senhor de chapéu vermelho é culpado então o senhor de chapéu preto e verde seriam inocentes.Para a afirmação do senhor de chapéu vermelho ser verdade precisaria que a afirmação de que o de chapéu branco mentiu fosse verdadeira ou ele estaria mentindo. Dessa forma, ou branco ou vermelho estariam mentindo junto com verde e pelo enunciado há apenas um mentiroso, logo contradição.Portanto, o senhor de chapéu preto mentiu.
+Sabendo que o senhor de chapéu preto mentiu, pelas afirmações do verde e do branco sabemos que o vermelho e o preto são inocentes restando apenas o de chapéu branco e o de chapéu verde como possíves culpados. Além disso também sabemos que a afirmação "o senhor de chapéu branco mentiu" é falsa porque quem mentiu foi o de preto. Dessa forma, para afirmação do vermelho ser verdadeira, é necessário que a expressão "o senhor de chapéu preto e o senhor de chapéu verde são inocentes" seja falsa.
+Como o senhor de chapéu preto é inocente pela frase do senhor de chapéu branco, logo o senhor de chapéu verde é o culpado.
+Então temos um assassino e um mentiroso, porém não é a mesma pessoa.
+Reportar abuso
+Ajudou (3) Não ajudou
+EG
+Eduardo Guatimosim
+8 de janeiro de 2025 às 13:33
+Nesse tipo de questão, quem acusa alguém de mentiroso, é onde está a contradição. Assim:
+Contradição
+Senhor de chapéu preto: “O senhor de chapéu verde mentiu em seu depoimento.”
+Senhor de chapéu verde: “O senhor de chapéu vermelho é inocente.”
+
+Como entre os quatro, apenas  um dos depoentes mentiu, conclui-se que há 1 mentira e 3 verdades.
+Dado que a contradição está entre os depoimentos dos senhores de chapéu preto e verde, as demais afirmações dos senhores de chapéu branco e vermelho são, necessariamente, verdadeiras.
+
+Assim:
+Senhor de chapéu branco: “O senhor de chapéu preto é inocente.” - isso é verdade. Logo, não foi o senhor de chapéu preto
+Senhor de chapéu vermelho: “Se o senhor de chapéu preto e o senhor de chapéu verde são inocentes, então o senhor de chapéu branco mentiu em seu depoimento.” - aqui há uma condicional, cujo primeiro elemento é unido pela conjunção "e".
+
+Como ela se trata de uma afirmação verdadeira, e já sabemos que o senhor de chapéu branco disse a verdade, então a condicional precisa resultar em falso. Por se tratar de uma condicional, ainda que seu resultado seja falso, isso não torna a afirmação mentirosa.
+
+Nesse caso como já sabemos o senhor de chapéu preto é inocente, o primeiro termo da condicional precisa ser falso, a fim de resultar em (V e F) = F.
+Assim, retiramos que o senhor de chapéu verde não pode ser inocente
+
+Para facilitar a visualização, reescrevendo a afirmação do Senhor de chapéu vermelho:
+“Se o senhor de chapéu preto é inocente e o senhor de chapéu verde é inocentes, então o senhor de chapéu branco mentiu em seu depoimento.”
+
+Como o senhor de chapéu branco não mentiu, temos: Se o senhor chapéu preto é inocente e o senhor chapéu verde não é inocente, então o senhor de chapéu branco não mentiu.
+
+Desse modo, como sabemos que o senhor de chapéu verde é o culpado, a afirmação do Senhor de chapéu preto: “O senhor de chapéu verde mentiu em seu depoimento.” é a mentira, pois de fato o senhor de chapéu verde falou a verdade, qual seja, "O senhor de chapéu vermelho é inocente." e de fato ele é, pois o culpado é o senhor de chapéu verde.
+
+Conclusão:
+Quem mentiu: senhor de chapéu preto
+Culpado: senhor de chapéu verde
+
+Gabarito: Errado.
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+16
+Q3270105
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANTT - Especialista em Regulação de Serviços de Transportes Terrestres - Área Economia Conhecimentos Básicos. - 2024
+Texto associado
+Há muitas especulações sobre qual meio de transporte teria sido “inventado” primeiro, desde o início da evolução humana, antes mesmo do surgimento da escrita. Referentemente a esse período, o fato é que muito pouco pode ser comprovado, o que nos deixa com algumas hipóteses e poucas certezas.
+É provável que o ser humano tenha pensado em formas de solucionar problemas como transportar sua caça ou transpor obstáculos, mas afirmar com exatidão que isso se transformou em algum meio de transporte da forma como conhecemos hoje é bem mais complicado.
+Sabemos que o homem pré-histórico se deslocava em função do clima e da oferta de alimentos. Os pés humanos foram os primeiros responsáveis por esses deslocamentos. A melhor solução para o transporte a partir dessa época surgiu com a domesticação de animais selvagens. O homem pode ter notado a facilidade de lidar com determinadas espécies animais a ponto de utilizar sua força para transportar seus pertences.
+
+Oswaldo Dias dos Santos Junior. Transportes turísticos. Curitiba, InterSaberes, 2014, p. 20 (com adaptações).
+
+Julgue os itens subsequentes, em relação aos sentidos e aspectos linguísticos do texto precedente.
+De acordo com o texto, na Pré-História, os deslocamentos dos seres humanos eram mais eficientes quando efetuados com os próprios pés do que quando realizados por intermédio de animais.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+93.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lorrane
+22 de maio de 2024 às 07:59
+Os pés humanos foram os primeiros responsáveis por esses deslocamentos.
+
+O texto não fala que foram os mais eficientes
+Reportar abuso
+Ajudou (83) Não ajudou
+Wesley Araujo
+30 de maio de 2024 às 11:13
+O homem pode ter notado a facilidade de lidar com determinadas espécies animais a ponto de utilizar sua força para transportar seus pertences.
+Refere que o uso dos animais eram mais eficientes e mais fortes para transportar seus pertences. Logo, gabarito Errado.
+Não desista, Deus é contigo!
+Reportar abuso
+Ajudou (51) Não ajudou
+Vinicius
+11 de julho de 2024 às 11:56
+Finalmente, irmãos, tudo o que for verdadeiro, tudo o que for nobre, tudo o que for correto, tudo o que for puro, tudo o que for amável, tudo o que for de boa fama, se houver algo de excelente ou digno de louvor, pensem nessas coisas. - Filipenses 4:8
+Reportar abuso
+Ajudou (18) Não ajudou
+Larissa
+27 de maio de 2024 às 18:17
+Extrapolação
+
+... Os pés humanos foram os primeiros responsáveis por esses deslocamentos. A melhor solução para o transporte a partir dessa época surgiu com a domesticação de animais selvagens. O homem pode ter notado a facilidade de lidar com determinadas espécies animais a ponto de utilizar sua força para transportar seus pertences.
+
+Não há comparação de qual foi mais eficientes
+Reportar abuso
+Ajudou (12) Não ajudou
+Eduardo Bittar
+22 de maio de 2024 às 16:38
+Concordo com a colega,porque o argumento do enunciado não se encontra no texto.
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+17
+Q3391663
+Língua Inglesa Sinônimos | Synonymous
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEPLAG CE - Analista de Planejamento e Orçamento – Área: Planejamento e Orçamento Inglês - 2024
+Texto associado
+Digital technology is everywhere, and it is changing the way citizens behave. From working patterns to the day-to-day services we use and the places we live, there is no aspect of modern life that remains untouched by digital tools and solutions. This represents both the biggest challenge and opportunity for public sector organizations as they seek to engage citizens and create future-proofed, sustainably-minded societies.
+The public sector plays a key role in setting the sustainability agenda for society, including the approach to circularity and recycling. While private sector companies can greatly influence the successful achievement of sustainability targets, the public sector bears the responsibility for outlining how society can achieve these goals more broadly at both national and local levels. By embracing the same digital technologies that are transforming their citizens’ lives, public sector organizations can help pivot society towards a more sustainable tomorrow.
+In addition, there has been a rise of smart cities and the circular economy. Urban areas account for 75% of global carbon dioxide emissions, and the 100 cities with the greatest footprints account for 18% of global emissions. But there are more than 70 cities worldwide pledging to become carbon neutral by 2050.
+Public sector actors can fuel sustainable transformation by releasing capital to invest in sustainable city transformation projects and smart cities. By tapping into the value of data and green infrastructure, smart cities can combat climate risks and become more resilient to the many unexpected events of today’s increasingly unpredictable world. These cities can support the decoupling of resource use and environmental impacts by diffusing circular economy approaches to production and consumption.
+
+Internet: <pulse.microsoft.com> (adapted).
+
+Based on the ideas presented in the previous text, as well as on its linguistic aspects, judge the following items.
+The segment “more than”, in the last sentence of the third paragraph, can be correctly replaced with over than without changing the meaning of the text.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+45.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tiago De Barros
+30 de dezembro de 2024 às 13:00
+Templete: "E"
+
+No, the segment "more than" cannot be correctly replaced with "over than" without changing the meaning of the text.
+The phrase "over than" is grammatically incorrect. The correct options are either "more than" or simply "over". For example:
+Correct: "But there are more than 70 cities worldwide pledging to become carbon neutral by 2050."
+Correct: "But there are over 70 cities worldwide pledging to become carbon neutral by 2050."
+Incorrect: "But there are over than 70 cities worldwide pledging to become carbon neutral by 2050."
+
+Reportar abuso
+Ajudou (6) Não ajudou
+18
+Q3392790
+Administração de Recursos Materiais Supply Chain Management - SCM
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEPLAG CE - Analista de Gestão Pública – Área: Governança e Gestão Corporativa Inglês - 2024
+Texto associado
+Na figura a seguir, que representa a gestão logística da cadeia produtiva de roupa de tecido do tipo jeans, as caixas e as setas numeradas indicam, respectivamente, os atores e os fluxos dos subsistemas logísticos.
+
+
+A partir das informações precedentes, e considerando aspectos de gestão logística e patrimonial a elas relacionados, julgue os itens que se seguem.
+A Logística 4.0 tem foco na agilidade da comunicação entre os atores da cadeia, para maior controle e sincronização, com o menor risco, e busca eliminar o desperdício, como está ilustrado na figura, que apresenta o fluxo direto e reverso da logística.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Wesley Gomes Epifanio
+9 de dezembro de 2024 às 10:49
+
+Logística 4.0 é um conceito associado à Quarta Revolução Industrial e refere-se à aplicação de tecnologias avançadas na logística para otimizar operações, aumentar a eficiência e melhorar a tomada de decisão. Ela é caracterizada pela integração de dados em tempo real, automação, inteligência artificial e conectividade. Essa abordagem transforma a logística em um processo mais inteligente, ágil e adaptável às demandas dinâmicas do mercado.
+
+Principais características da Logística 4.0:
+Digitalização dos Processos:
+Uso de sistemas digitais para gerenciar a cadeia de suprimentos, reduzindo o uso de papel e aumentando a eficiência.
+Conectividade e IoT (Internet das Coisas):
+Sensores e dispositivos conectados permitem monitoramento em tempo real de cargas, veículos e equipamentos.
+Automação e Robótica:
+Veículos autônomos, robôs em armazéns e drones para entregas otimizam operações e reduzem custos.
+Big Data e Análise de Dados:
+Coleta e análise de grandes volumes de dados ajudam na previsão de demandas, identificação de gargalos e planejamento estratégico.
+Inteligência Artificial (IA):
+Algoritmos de aprendizado de máquina otimizam rotas, gerenciam estoques e melhoram a experiência do cliente.
+Blockchain:
+Utilizado para garantir transparência e segurança no rastreamento de mercadorias e documentos.
+Personalização:
+Oferece soluções sob medida para clientes, como entregas personalizadas e gestão de pedidos em tempo real.
+Reportar abuso
+Ajudou (10) Não ajudou
+19
+Q3435833
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANATEL - Especialista em Regulação de Serviços Públicos de Telecomunicações - Área Engenharia - 2024
+Texto associado
+Texto CB1A6
+
+De todas as inovações óbvias que surgiram no século XXI, poucas são tão invisíveis como a mudança na maneira de perceber o tempo.
+O controle do tempo na comunicação até o final do século XX decorria especialmente de uma característica: a programação. Com o controle dos meios de produção e distribuição da informação, fosse ela qual fosse, o cenário temporal dispunha também de uma estrutura hierárquica de controle. Era possível traçar e agenciar cronogramas complexos e prazos de entrega. O que basicamente mudou?
+A comunicação não mudou. Mudaram os meios. Todos têm acesso às redes. Nelas a produção de conteúdo é incessante. O conteúdo é produzido por todos. A estrutura não é mais regida por uma lógica de programação, mas por uma lógica de fluxo. Nesse novo ecossistema, impera uma economia da atenção e, sendo a atenção um recurso escasso, é preciso a todo tempo escolher algo a que dedicar a atenção e, dedicada a atenção, devemos reagir rapidamente com as mudanças necessárias. Aqui aparecem claramente as diferenças do tempo em um ecossistema em fluxo permanente. As mudanças também devem ser permanentes. Isso em comunicação se traduz em não esperar mais longos prazos para dar respostas. Até o século passado, o furo de um veículo de comunicação só poderia ser ultrapassado 24 horas depois: na próxima edição. Hoje um furo de reportagem é imediatamente absorvido em rede, compartilhado, respondido e repercutido por todos os concorrentes. Em uma sociedade que se comunica em fluxo, é preciso avaliar diariamente onde estão os impedimentos e o que deve ser priorizado, e redefinir foco e estratégia. A comunicação também passa a lidar com o provisório, com o possível e com o impermanente.
+Saber como equilibrar o tempo nessa pressão imediatista é o grande desafio do século XXI. Há saberes que só se atingem com reflexão, laços que só se formam com experiências reais compartilhadas. Saber desligar o celular, parar de responder emails para completar uma tarefa, ler um livro inteiro e principalmente saber conversar com os outros são habilidades cada vez mais valorizadas em uma sociedade digital, exatamente por serem habilidades capazes de dilatar o tempo em que vivemos, formas de transformar o fluxo que consome nossa atenção em momento no qual nós consumimos o mundo.
+
+Margot Pavan. O tempo e a comunicação digital no século XXI. Internet: <www.jornaldocomercio.com> (com adaptações).
+
+Julgue os itens que se seguem, relativos às ideias veiculadas no texto CB1A6.
+Em sua análise da transformação ocorrida na transmissão de informação no século XXI, a autora direciona uma crítica à produção e disseminação de conteúdos superficiais e pouco confiáveis pelas mídias digitais.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+73.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alex Sandro Phillipe Silva Pimentel
+2 de outubro de 2024 às 10:25
+A autora diz no texto, em suma, que o fluxo de informações atual é muito alto e que determinadas habilidades de comunicação, tais como: saber desligar o celular, parar de responder e-mails para completar uma tarefa, ler um livro inteiro e principalmente saber conversar com os outros, estão cada vez mais valorizadas em contraponto ao imediatismo ocasionado pela sociedade digital, que faz parecer que o tempo está se tornando cada vez mais escasso.
+Reportar abuso
+Ajudou (22) Não ajudou
+Renata Moreira
+11 de novembro de 2024 às 19:27
+Eu marquei certo, mas revendo a questão, entendo que é errada sim. Há realmente uma crítica da autora, mas somente quanto à forma de transmissão das informações atualmente. Contudo, ela não chega a considerar que as informações transmitidas sejam superficiais nem pouco confiáveis.
+Reportar abuso
+Ajudou (15) Não ajudou
+Caio Leite
+5 de outubro de 2024 às 17:55
+Questão um pouco difícil. Eu marquei Errado porque achei que a crítica dela foi muito sutil, mas que deu pra perceber uma leve crítica às modernidades tecnologicas, deu...
+Reportar abuso
+Ajudou (9) Não ajudou
+Alvaro Lincoln
+27 de setembro de 2024 às 19:13
+Em momento algum do texto tem uma opinião da autora
+Reportar abuso
+Ajudou (8) Não ajudou
+Adriana De Souza Schillreff
+19 de novembro de 2024 às 02:41
+A autora não ataca diretamente as mídias sociais e a produção de conteúdo raso, apesar de induzidos a isso. Por não ser uma crítica claramente abordada no texto está errada.
+Reportar abuso
+Ajudou (6) Não ajudou
+Página 1 de 2
+20
+Q3312297
+Administração de Recursos Materiais Intuitu Personae ou Pessoalidade
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+A respeito das compras no setor público, julgue os itens subsequentes.
+Em uma organização, o perfil adequado de servidor para desempenhar funções no setor de compras requer habilidades como a de tratar os potenciais fornecedores com isonomia e a de priorizar os interesses da organização.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+94.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+RK
+Rayssa Kawany
+30 de outubro de 2024 às 18:26
+Luiz, levando em consideração que a licitação ocorre entre a Administração e um terceiro, automaticamente "priorizar os interesses da organização" é o mesmo que dizer que o ato é feito em prol do interesse público.
+Reportar abuso
+Ajudou (13) Não ajudou
+Luiz Felipe
+23 de setembro de 2024 às 16:08
+priorizar os interesses da organização não colocaria em detrimento o interesse público?
+Reportar abuso
+Ajudou (2) Não ajudou

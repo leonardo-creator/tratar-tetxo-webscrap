@@ -1,0 +1,1065 @@
+1
+Q3177960
+Raciocínio Lógico Número de Linhas de uma Tabela-Verdade ( número de valorações)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Tecnologista - Área: Propriedade Industrial Língua Inglesa - 2024
+Texto associado
+Ao comentar em uma rede social a respeito de informações veiculadas por um jornalista, certo internauta escreveu: “Ou o jornalista é muito mal informado ou age de má-fé. Em minha opinião, as duas coisas.”
+
+Com base no texto precedente e nos aspectos de lógica sentencial, julgue os itens seguintes.
+A tabela-verdade associada à proposição “Ou o jornalista é muito mal informado ou age de má-fé” possui 4 linhas.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Juliana Lara
+11 de maio de 2024 às 13:17
+FOQUEM APENAS NESTA PREPOSIÇÃO
+
+“Ou o jornalista é muito mal informado ou age de má-fé”
+
+(A v B)
+
+Meu povo temos duas preposição A e B então usem a fórmula
+Total = 2^p
+t=2²=2x2
+Espero ter ajudado
+Bons estudos !!!
+
+" Aprenda com o ontem. Viva o hoje. tenha esperança para o amanhã."
+Albert Einstein
+Reportar abuso
+Ajudou (116) Não ajudou
+Larissa
+20 de maio de 2024 às 17:31
+Temos 2 PROPOSIÇÃO
+
+“Ou o jornalista é muito mal informado ou age de má-fé” (conectivo OU/OU).
+Sendo P e Q respectivamente
+
+A formula é 2^n (2 elevado a N)
+N é o número de proposições existente, na questão são 2 (P e Q)
+Portanto 2x2 = 4
+
+GABARITO CERTO
+Reportar abuso
+Ajudou (31) Não ajudou
+Laiane Ricardo De Araujo
+15 de junho de 2024 às 15:22
+eu diria que 2 duas linhas, porque só existe um sujeito na frase.
+Reportar abuso
+Ajudou (3) Não ajudou
+Vanderson De Matos Barbosa
+17 de janeiro de 2025 às 14:04
+Sonhando com esse tipo de questão na minha prova, PCMG VIBRA!!
+Reportar abuso
+Ajudou (1) Não ajudou
+Leticia Lima Da Silva
+18 de novembro de 2024 às 23:46
+Dá até medo de errar kkkk
+
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 2
+2
+Q3436353
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Texto IV
+Assim como aquela senhora hopi que conversava com a pedra, sua irmã, tem um monte de gente que fala com montanhas. No Equador, na Colômbia, em algumas dessas regiões dos Andes, você encontra lugares onde as montanhas formam casais. Tem mãe, pai, filho, tem uma família de montanhas que troca afeto, faz trocas. E as pessoas que vivem nesses vales fazem festas para essas montanhas, dão comida, dão presentes, ganham presentes das montanhas. (...)
+O tipo de humanidade zumbi que estamos sendo convocados a integrar não tolera tanto prazer, tanta fruição de vida. (...)
+O Rio Doce, que nós, os Krenak, chamamos de Watu, nosso avô, é uma pessoa, não um recurso, como dizem os economistas. (...)
+A conclusão ou compreensão de que estamos vivendo uma era que pode ser identificada como Antropoceno deveria soar como um alarme nas nossas cabeças. (...)
+Ailton Krenak. Ideias para adiar o fim do mundo. São Paulo: Companhia das Letras, 2019.
+Em relação a aspectos linguísticos e estilísticos do texto IV, julgue (C ou E) os itens que se seguem.
+No último parágrafo, o autor utiliza um neologismo para denominar a era que marca o momento atual em que vive a humanidade.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+62.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Sabrina
+22 de outubro de 2024 às 05:47
+neologismo é uma palavra, expressão ou significado novo que é introduzido em uma língua. Esses novos termos podem surgir de várias formas, como:
+Criação de novas palavras: termos inventados para descrever conceitos, objetos ou fenômenos que antes não existiam (ex.: "googlar" – pesquisar algo no Google).
+Adaptação de palavras estrangeiras: palavras de outras línguas que são adaptadas para o uso corrente em uma nova língua (ex.: "smartphone").
+Novos significados para palavras já existentes: quando uma palavra ganha um novo sentido que antes não fazia parte de seu uso comum (ex.: "viral" no contexto de internet, referindo-se a algo que se espalha rapidamente).
+Os neologismos muitas vezes refletem mudanças culturais, tecnológicas e sociais.
+Reportar abuso
+Ajudou (11) Não ajudou
+V
+Vanessa
+12 de novembro de 2024 às 16:39
+A única opção plausível para considerar "Antropoceno" como um neologismo é porque se trata de uma adaptação de palavra estrangeira, "vem do grego anthropos, que significa humano, e kainos, que significa novo." Ela não foi criada pelo autor desse texto, nem foi atribuída a ela um novo significado nesse texto. Considerando que a prova é para diplomata, penso que faz sentido uma questão dessa, pois a profissão requer conhecimento em outras línguas. Fora isso acho uma questão bem ridícula.
+Reportar abuso
+Ajudou (7) Não ajudou
+T
+Thais
+11 de novembro de 2024 às 06:51
+Eu não consegui identificar o uso do neologismo no último parágrafo. Alguém pode me explicar, por favor?
+Reportar abuso
+Ajudou (3) Não ajudou
+3
+Q3518295
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCDF - Auditor de Controle Externo - Área: Arquivologia - 2024
+Texto associado
+Considerando o que dispõe a Lei Geral de Proteção de Dados Pessoais (LGPD), julgue os itens a seguir.
+O acesso a dados pessoais tratados pelo controlador, caso solicitado por seu titular, será providenciado, mediante requisição do titular devidamente justificada, em formato simplificado ou por meio de declaração clara e completa, desde que autorizado pela autoridade nacional de proteção de dados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+72.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+GD
+Gabriela De Grande Guerreiro
+29 de novembro de 2024 às 09:16
+JUSTIFICATIVA - Errado. Na LGPD, não é prevista a condição de autorização da autoridade nacional para a disponibilização dos dados pessoais ao próprio titular. Segue parte da redação dos arts.18 e 19 da LGPD:
+Art. 18. O titular dos dados pessoais tem direito a obter do controlador, em relação aos dados do titular por ele tratados, a qualquer momento e mediante requisição: I confirmação da existência de tratamento; II acesso aos dados;(...)
+Art. 19. A confirmação de existência ou o acesso a dados pessoais serão providenciados, mediante requisição do titular:I em formato simplificado, imediatamente; ou II por meio de declaração clara e completa, que indique a origem dos dados, a inexistência de registro, os critérios utilizados e a finalidade do tratamento, observados os segredos comercial e industrial, fornecida no prazo de até 15 (quinze) dias, contado da data do requerimento do titular.
+Reportar abuso
+Ajudou (32) Não ajudou
+Bianca Damacena
+8 de janeiro de 2025 às 19:24
+O titular tem direito a receber, a qualquer momento, do controlador. Não precisa de autorização da autoridade nacional para que ele obtenha informações sobre seus próprios dados.
+Reportar abuso
+Ajudou (19) Não ajudou
+JO
+Juliana Oliveira De Almeida
+14 de fevereiro de 2025 às 13:00
+Acho que o erro tb está em dizer que é "devidamente justificada"...
+Reportar abuso
+Ajudou (2) Não ajudou
+Erveson Alan Costa Santos
+23 de dezembro de 2024 às 10:44
+Não confundir com o art. 27.
+Reportar abuso
+Ajudou (2) Não ajudou
+Felipe Menegate Nascimento
+8 de janeiro de 2025 às 14:14
+O acesso à informação é simplificado.
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 2
+4
+Q3555616
+Tecnologia da Informação Banco de Dados
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Técnico Judiciário - Área Programação de Sistemas - 2024
+Texto associado
+Em relação a banco de dados em memória, soluções para Big Data e dados estruturados e não estruturados, julgue os itens que se seguem.
+Documentos de uma empresa e postagens nas redes sociais são exemplos de dados estruturados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+84.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Marco Antonio Da Silva Junior
+12 de fevereiro de 2025 às 09:05
+Errado, pois postagens em redes socias são DADOS NÃO ESTRUTURADOS.
+
+
+
+
+Reportar abuso
+Ajudou (3) Não ajudou
+Matheus
+24 de fevereiro de 2025 às 16:52
+Postagens geralmente utilizam dados do tipo JSON, que evidentemente são dados semiestruturados.
+Reportar abuso
+Ajudou (0) Não ajudou
+5
+Q3193114
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Analista - Área Análise de Sistemas - 2024
+Texto associado
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), julgue os itens subsequentes.
+Encarregado é a pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+86.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+A
+Alex
+15 de abril de 2024 às 15:53
+Art. 5º:
+VIII - encarregado: pessoa indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD);
+Reportar abuso
+Ajudou (52) Não ajudou
+V
+Viviane
+5 de fevereiro de 2025 às 09:45
+A questão trouxe a definição de "OPERADOR"
+Reportar abuso
+Ajudou (9) Não ajudou
+JC
+Jeane Cantuaria Figueiredo
+25 de fevereiro de 2025 às 13:28
+Encarregado: essoa indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD)
+Reportar abuso
+Ajudou (0) Não ajudou
+6
+Q3418389
+Administração de Recursos Materiais Tipos de Demanda
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Administrativo - Área Administração - 2024
+Texto associado
+A respeito da previsão e do controle de estoque nas organizações, julgue os itens seguintes.
+A predileção é uma técnica de previsão de demanda de estoque realizada com base em informações qualitativas, tais como pesquisas de opinião e informações prestadas por colaboradores experientes.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+77.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Romulo Augusto Rezende Linhares
+11 de janeiro de 2025 às 14:44
+O comentário da Maia dá a entender que o gabarito está errado.
+
+Podem pedir para algum professor comentar, por favor?
+Reportar abuso
+Ajudou (4) Não ajudou
+7
+Q3312368
+Administração de Recursos Materiais Critérios e Técnicas de Armazenagem
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Analista Administrativo - 2024
+Texto associado
+Julgue os itens subsecutivos, referentes ao recebimento e à armazenagem de materiais nas organizações públicas.
+No sistema de estocagem livre, os materiais são armazenados nos espaços vazios no almoxarifado, o que reduz o risco de existência de material perdido em estoque.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+79.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Ashely
+22 de julho de 2024 às 00:43
+Errado, o sistema de estocagem livre pode levar a dificuldades no controle e na localização dos itens armazenados, aumentando o risco de perda de materiais.
+Reportar abuso
+Ajudou (35) Não ajudou
+Andressa Roseti De Gouvea
+20 de agosto de 2024 às 11:28
+Pelo contrário! Aumento a incidência de materiais "perdidos" no armazém.
+Reportar abuso
+Ajudou (17) Não ajudou
+Angela Costa
+26 de fevereiro de 2025 às 04:40
+Estocagem Livre: ganha espaço, perde tempo Estocagem Fixa: ganha tempo, perde espaço
+Reportar abuso
+Ajudou (0) Não ajudou
+8
+Q3129841
+Língua Inglesa Advérbios e conjunções | Adverbs and conjunctions
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão e Acompanhamento de Projetos e Programas em CT&I - 2024
+Texto associado
+Businesses are starting to introduce new options for tipping at self-checkout machines, putting even more pressure on customers amid rising inflation costs. Despite having zero interaction with employees during transactions, self-checkout machines at places such as coffee shops, bakeries, airports, and sports stadiums are giving customers the option to leave the typical 20% tip, according to a report from the Wall Street Journal.
+Business owners believe that the prompt for a tip can boost staff pay and increase gratuities — but customers are questioning where and to whom the extra cash is going, considering self-checkout is done by the customers themselves. “They’re cutting labor costs by doing self-checkout. So what’s the point of asking for a tip? And where is it going?” are some of the questions customers ask. But tipping researchers claim this is a way for companies to put the responsibility of paying employees on the customer rather than increasing employee salaries themselves. Self-tipping is viewed by many customers as a way to guilt-trip the person into tipping on something when they typically wouldn’t.
+Many companies told the Journal that these tipping prompts are optional, and the extra gratuity is split between all employees. However, experts say that tips at a self-checkout machine might never even get to an actual employee since protections for tipped workers in the federal Fair Labor Standards Act don’t extend to machines.
+
+Internet: <https://nypost.com> (adapted).
+
+According to the previous text, judge the following items.
+The word “Despite” in the sentence “Despite having zero interaction with employees during transactions” (second sentence of the first paragraph) can be correctly replaced by In spite of, maintaining both the meaning of the fragment and its correction.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+70.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Aline Nunes Lins Martins
+24 de fevereiro de 2024 às 18:43
+Cuidado:
+Despiste => In Spite of = apesar de
+Despiste pode ser tb desprezar ou menosprezar
+Reportar abuso
+Ajudou (24) Não ajudou
+Ingrid Anajja Galvão Nogueira
+28 de janeiro de 2025 às 10:13
+Despiste - In spite of: Apesar de
+DespiSE - desprezar
+
+DESPISE | tradução de inglês para português - Cambridge Dictionary
+@Aline e @Jessyca
+Reportar abuso
+Ajudou (0) Não ajudou
+9
+Q3436401
+Língua Portuguesa Classes de palavras (classes gramaticais)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Texto V
+Quando os jornais anunciaram para o dia 1.º deste mês uma parede de açougueiros, a sensação que tive foi muito diversa da de todos os meus concidadãos. Vós ficastes aterrados; eu agradeci o acontecimento ao céu. Boa ocasião para converter esta cidade ao vegetarismo.
+Não sei se sabem que eu era carnívoro por educação e vegetariano por princípio. Criaram-me a carne, mais carne, ainda carne, sempre carne. Quando cheguei ao uso da razão e organizei o meu código de princípios, incluí nele o vegetarismo; mas era tarde para a execução. Fiquei carnívoro. Era a sorte humana; foi a minha. Não importa, o homem é carnívoro.
+Deus, ao contrário, é vegetariano. Para mim, a questão do paraíso terrestre explica-se clara e singelamente pelo vegetarismo. Deus criou o homem para os vegetais, e os vegetais para o homem.
+Enfim, chegou o dia 1.º de março; quase todos os açougues amanheceram sem carne. Chamei a família; com um discurso mostrei-lhe que a superioridade do vegetal sobre o animal era tão grande, que devíamos aproveitar a ocasião e adotar o são e fecundo princípio vegetariano. Ervas, ervas santas, puras, em que não há sangue; todas as variedades das plantas, que não berram nem esperneiam, quando lhes tiram a vida. Convenci a todos; não tivemos almoço nem jantar, mas dois banquetes. Nos outros dias a mesma cousa.
+O vegetarismo é pai dos simples. Os vegetarianos não se batem; têm horror ao sangue. Eu não me dou por apóstolo único desta grande doutrina. Creio até que os temos aqui, anteriores a mim, e, — singular aproximação! — no próprio conselho municipal. Só assim explico a nota jovial que entra em alguns debates sobre assuntos graves e gravíssimos.
+Machado de Assis. Carnívoros e vegetarianos. In: A Semana, 1892 (com adaptações).
+Ainda com base no texto V, julgue (C ou E) os itens que se seguem, relativos a seus aspectos morfossintáticos e semânticos.
+Em “Os vegetarianos não se batem” (último parágrafo), o pronome “se” que acompanha a forma verbal tem sentido reflexivo, estando subentendida a expressão a si mesmos ao final da oração.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+43.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Christine Costa Dos Santos
+26 de setembro de 2024 às 08:33
+A afirmativa é ERRADA.
+No trecho “Os vegetarianos não se batem”, o pronome “se” que acompanha o verbo “bater” não possui sentido reflexivo, mas sim recíproco. Isso significa que a ação expressa pelo verbo é praticada mutuamente entre os sujeitos, ou seja, os vegetarianos não lutam uns com os outros.
+Explicação detalhada:
+Pronome Reflexivo vs. Pronome Recíproco:
+Pronome Reflexivo: indica que o sujeito pratica a ação sobre si mesmo. Exemplo: “Ela se penteia” (ela penteia a si mesma).
+Pronome Recíproco: indica que a ação é praticada mutuamente entre dois ou mais sujeitos. Exemplo: “Eles se cumprimentaram” (eles cumprimentaram um ao outro).
+Análise da frase:
+Sujeito: “Os vegetarianos” (plural).
+Verbo pronominal: “se batem”.
+O verbo “bater-se”, quando acompanhado de “se” e com sujeito no plural, geralmente indica uma ação recíproca.
+Interpretação da frase:
+Errado (reflexivo): Se interpretássemos como reflexivo, entenderíamos que cada vegetariano não agride a si mesmo individualmente, o que não faz sentido lógico no contexto.
+Correto (recíproco): Entendemos que os vegetarianos não brigam entre si, não agridem uns aos outros.
+Expressão subentendida:
+A expressão subentendida ao final da oração é “uns aos outros”, e não “a si mesmos”.
+Portanto, o correto seria: “Os vegetarianos não se batem uns aos outros”.
+Conclusão:
+O pronome “se” na frase tem sentido recíproco, não reflexivo.
+A afirmativa erra ao dizer que o “se” tem sentido reflexivo com a expressão “a si mesmos” subentendida.
+Conceito gramatical relevante:
+Verbos Pronominais Recíprocos: São aqueles em que a ação é mútua entre os sujeitos. O pronome “se” indica reciprocidade quando o sujeito é plural e a ação ocorre entre os integrantes do sujeito. Exemplos:
+“Os amigos se abraçaram” (eles abraçaram uns aos outros).
+“As equipes se enfrentaram” (uma equipe enfrentou a outra).
+Portanto, a afirmativa é incorreta ao atribuir sentido reflexivo ao pronome “se” na frase apresentada, quando, na verdade, ele tem sentido recíproco.
+
+Resposta em:
+https://forum.clippingcacd.com.br/t/questao-8-item-2-portugues-1a-fase-cacd-2024-em-os-vegetarianos-nao-se-batem-ultimo-paragraf/2099/2
+Reportar abuso
+Ajudou (267) Não ajudou
+R. Silva
+27 de setembro de 2024 às 00:01
+“A si mesmos”, não. O sentido é: “uns nos outros”.
+Reportar abuso
+Ajudou (64) Não ajudou
+Luiz Henrique
+19 de outubro de 2024 às 17:14
+Uso da partícula "se"
+• Pronome Reflexivo: Indica que a ação do sujeito recai sobre ele mesmo.
+Exemplo: "Ela se machucou." (Ela machucou a si mesma)
+• Pronome Recíproco: Ação mútua entre dois ou mais sujeitos.
+Exemplo: "Eles se cumprimentaram." (Um cumprimentou o outro)
+• Índice de Indeterminação do Sujeito: O sujeito é indeterminado, e o verbo aparece na 3ª pessoa do singular. "verbos preposicionados"
+Exemplo: "Precisa-se de funcionários." (Não se sabe quem precisa)
+• Pronome Apassivador (Voz Passiva Sintética): Indica que o verbo está na voz passiva, concordando com o sujeito paciente.
+Exemplo: "Vendem-se casas." (Casas são vendidas)
+• Parte Integrante do Verbo: Alguns verbos são pronominais e exigem o uso de "se".
+Exemplo: "Ela se arrependeu." (O verbo "arrepender-se" requer o pronome)
+• Pronome Expletivo ou de Realce: Sem função sintática, apenas enfatiza a oração.
+Exemplo: "Os amigos se reuniram." (O uso de "se" apenas reforça a ideia de reunião)
+• Conjunção Subordinativa Condicional: Introduz orações subordinadas condicionais.
+Exemplo: "Se você estudar, passará no exame." (Introduz uma condição)
+• Conjunção Integrante: Introduz orações subordinadas substantivas completivas.
+Exemplo: "Não sei se ele virá." (Introduz uma dúvida)
+
+Reportar abuso
+Ajudou (26) Não ajudou
+Márcio
+6 de dezembro de 2024 às 18:45
+Para analisar se o pronome "se" em "Os vegetarianos não se batem" tem sentido reflexivo e se a expressão "a si mesmos" está subentendida, sigamos um processo didático:
+
+Passo 1: Identificar a função do pronome "se" na oração
+Na frase "Os vegetarianos não se batem", o pronome "se" acompanha o verbo "batem" e desempenha uma função pronominal. Precisamos determinar se ele indica:
+Reflexividade: Quando a ação do sujeito recai sobre ele mesmo (eles batem a si mesmos).
+Outras possibilidades:
+Indicação de reciprocidade (uns aos outros).
+Voz passiva sintética (são batidos).
+Parte integrante do verbo (pronominal).
+Passo 2: Análise do sentido da frase
+O texto afirma que "Os vegetarianos não se batem", indicando que não entram em conflito físico ou brigam entre si.
+O contexto sugere que a ação ocorre entre os sujeitos envolvidos, ou seja, há reciprocidade, e não reflexividade.
+Se a ideia fosse reflexiva, o significado seria de que cada vegetariano bate em si mesmo, o que não faz sentido no texto.
+
+Passo 3: Diferenciar reflexividade e reciprocidade
+Reflexividade: A ação recai sobre o próprio sujeito. Exemplo:
+Ele se penteia (ele penteia a si mesmo).
+Reciprocidade: A ação ocorre entre os indivíduos do sujeito plural. Exemplo:
+Eles se abraçaram (uns aos outros).
+No texto, o pronome "se" tem função de reciprocidade, indicando que os vegetarianos não brigam uns com os outros.
+
+Passo 4: Conclusão sobre a afirmativa
+A afirmativa diz que o pronome "se" tem sentido reflexivo, com o significado de a si mesmos. Isso está incorreto, pois o sentido correto é de reciprocidade (uns aos outros).
+
+Resposta final
+A afirmativa está Errada.
+
+Referencial Teórico
+Evanildo Bechara - Moderna Gramática Portuguesa: O pronome reflexivo pode ter função reflexiva (ação do sujeito sobre si mesmo) ou recíproca (ação entre sujeitos). É o contexto que define sua função.
+Celso Cunha e Lindley Cintra - Nova Gramática do Português Contemporâneo: A reciprocidade ocorre em sujeitos compostos ou plurais, com o pronome indicando ação mútua.
+Reportar abuso
+Ajudou (10) Não ajudou
+A
+Adriana
+26 de fevereiro de 2025 às 08:35
+Se batem - uns aos outros
+Reportar abuso
+Ajudou (0) Não ajudou
+10
+Q3392806
+Administração de Recursos Materiais Depreciação
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEPLAG CE - Analista de Gestão Pública – Área: Governança e Gestão Corporativa Inglês - 2024
+Texto associado
+Acerca de gestão do patrimônio, julgue os itens a seguir.
+A quantidade de horas em que uma máquina opera diariamente não interfere no resultado do cálculo da sua depreciação para alienação no futuro.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+91.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Vitória Pereira Silva
+26 de fevereiro de 2025 às 23:33
+A alternativa correta é a E) Errado. JUSTIFICATIVA: A quantidade de horas em que uma máquina opera diariamente influencia diretamente no resultado do cálculo da sua depreciação para alienação no futuro. Quanto mais a máquina é utilizada, maior será o desgaste e, consequentemente, maior será a depreciação. EXPLICAÇÃO: A depreciação é a perda de valor de um bem ao longo do tempo devido ao uso, desgaste ou obsolescência. No caso de máquinas, o uso intenso acelera o desgaste e reduz a vida útil do equipamento, o que impacta diretamente no cálculo da depreciação.
+Reportar abuso
+Ajudou (0) Não ajudou
+11
+Q3545743
+Administração Geral Estrutura Organizacional
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Técnico Judiciário - Área Técnico-Administrativa - 2024
+Texto associado
+Acerca das características básicas das organizações formais modernas, julgue os itens que se seguem.
+A estrutura organizacional funcional é amplamente recomendada para a administração pública federal, pois suas finalidades de especialização e centralização garantem a eficiência na prestação de serviços públicos em qualquer contexto administrativo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+78.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Viviane Martins Saraiva Arruda Nogueira
+21 de janeiro de 2025 às 22:40
+Ninguém garante nada, muito menos em qualquer contexto. Nada é absoluto.
+Reportar abuso
+Ajudou (6) Não ajudou
+Erveson Alan Costa Santos
+21 de fevereiro de 2025 às 09:56
+Errado.
+Embora a estrutura organizacional funcional possa ser eficaz em determinados contextos, ela nem sempre é a melhor escolha para a administração pública federal, especialmente quando se busca eficiência na prestação de serviços públicos em um ambiente complexo e dinâmico.
+
+A estrutura funcional é caracterizada pela especialização e centralização, o que pode, em alguns casos, resultar em dificuldade de comunicação e lentidão na tomada de decisões, especialmente em grandes organizações públicas, onde é necessário coordenar diversas áreas com diferentes objetivos.
+Além disso, a centralização excessiva pode reduzir a flexibilidade e a autonomia de áreas locais ou de campo, impactando negativamente a agilidade na resposta às necessidades da população.
+
+Modelos mais descentralizados ou matriciais podem ser mais eficazes, permitindo maior flexibilidade, colaboração interdepartamental e adaptação às mudanças.
+Reportar abuso
+Ajudou (2) Não ajudou
+Grazyele Soares
+11 de janeiro de 2025 às 19:59
+Acredito que é por afirmar que "garantem".
+Reportar abuso
+Ajudou (2) Não ajudou
+Maria
+12 de dezembro de 2024 às 13:23
+Alguém saberia explicar essa questão?Obrigado.
+Reportar abuso
+Ajudou (1) Não ajudou
+Jorge Nicolau Chaves Akel Hauache
+18 de janeiro de 2025 às 10:10
+Creio que seja a palavra centralização, que tem uma conotação negativa no âmbito da adm pública e se opõe a eficiência
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+12
+Q3348933
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANA - Especialista em Regulação de Recursos Hídricos e Saneamento Básico – Especialidade 2 - 2024
+Texto associado
+Texto CBIA1
+
+O Comentário Geral n.º15 do Comitê de Direitos Econômicos, Sociais e Culturais (CDESC) da ONU é claro ao apontar para a necessidade de proteger os ecossistemas, em especial o aquático, contra a poluição, pois ter acesso a uma água poluída não representa, de fato, o gozo do direito humano à água. Nessas condições, há risco de comprometimento imediato da saúde individual e coletiva, o que afeta outros direitos humanos, como o direito à saúde e ao bem-estar. Antes disso, a Agenda 21, aprovada na Conferência das Nações Unidas sobre o Meio Ambiente e (CNUMAD), 1992, recomendou que funções hidrológicas, biológicas e químicas dos ecossistemas, para que se assegure água com qualidade.
+Em uma perspectiva menos antropocêntrica e mais Desenvolvimento em se preservem as ecocêntrica, em 2000, a Declaração da 4.º Cúpula do P7, composto dos sete países mais pobres do mundo, em seu primeiro princípio, trouxe a ideia de que a água é uma fonte de vida não substituível, a que todos os seres vivos têm direito, e sua conservação seria uma responsabilidade coletiva fundamental.
+A mesma declaração complementa o raciocínio, defendendo a necessidade de as culturas que defendem a água como um bem comum serem protegidas e reinventadas. E, nesse ponto, a Declaração da 4.º Cúpula do P7 e o Comentário Geral n.º 15 do CDESC convergem entre si, pois este último se refere à preocupação com o respeito à cultura e o acesso à água, nas formas tradicionais de uso por comunidades antigas e originárias, o que valoriza o componente da independência no conceito de segurança hídrica. O que aqui se chama simplisticamente de independência corresponde na verdade à minimização de uma relação de dependência e sujeição, por meio de mecanismos formais de cooperação, tanto interbacias como intrabacias hidrográficas. O quarto princípio da Declaração da 4.º Cúpula do P7 afirma que “a água deve contribuir para a solidariedade entre comunidades, países, sociedades, gerações e sexos”. Ao mesmo tempo reconhece que a água doce é distribuída de forma desigual em torno da Terra, e afirma que isso não deve ser utilizado como fator de exercício de poder.
+Carlos Hiroo Saito. Segurança hídrica e direito humano à água. Im: Ruscheinsky, Calgaro & Weber. Ética, direito socioambiental e democracia. Caxias do Sul: Educs, 2018, p. 100-101 (com adaptações).
+
+Com base nas ideias veiculadas no texto CBIAI, julgue os itens a seguir.
+De acordo com o texto, a Declaração da 4.º Cúpula do P7 distingue-se do Comentário Geral n.º 15 do CDESC e da Agenda 21 por ampliar o direito à água a todas as formas de vida.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+48.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+E
+Eliane
+29 de julho de 2024 às 16:20
+Sim. Esta correta.
+
+O Comentário Geral n.º15 : Necessidade de proteger os ecossistemas.
+Agenda 21: Sobre a qualidade da água.
+4.º Cúpula do P7: Água é uma fonte de vida não substituível, a que todos os seres vivos têm direito.
+Reportar abuso
+Ajudou (18) Não ajudou
+Miguel
+26 de agosto de 2024 às 08:56
+Sim, a afirmação está correta. De acordo com o texto, a Declaração da 4.ª Cúpula do P7 adota uma perspectiva menos antropocêntrica e mais ecocêntrica, ampliando o direito à água para todas as formas de vida, e não apenas para os seres humanos. Isso é diferente do enfoque do Comentário Geral n.º 15 do Comitê de Direitos Econômicos, Sociais e Culturais (CDESC) e da Agenda 21, que, embora também enfatizem a proteção dos ecossistemas e a qualidade da água, focam mais explicitamente nos direitos humanos e nos impactos sobre a saúde e o bem-estar humanos.
+A Declaração do P7, por outro lado, destaca que a água é uma fonte de vida essencial para todos os seres vivos e que sua conservação é uma responsabilidade coletiva. Essa perspectiva ecocêntrica implica reconhecer o valor intrínseco da água para todos os organismos e a importância de protegê-la para manter o equilíbrio e a integridade dos ecossistemas, o que representa uma ampliação do conceito de direito à água para além do âmbito estritamente humano.
+Reportar abuso
+Ajudou (4) Não ajudou
+13
+Q3128781
+Raciocínio Lógico Equivalências Lógicas - (Proposições Logicamente equivalentes)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração de Pessoal - 2024
+Texto associado
+Em certo mercado disputado por seis empresas, duas delas gozam de vantagem fiscal por operarem de fora do país. As proposições P e Q a seguir correspondem às regras desse mercado.
+
+P: “Se a empresa possuir gestão eficiente, prestar serviços de qualidade e tiver alta produtividade, então, se destacará no mercado mesmo se não gozar de vantagem fiscal.”
+Q: “Se uma das empresas do mercado possui vantagem fiscal, esse mercado não é isonômico.”
+
+Acerca dessa situação hipotética, julgue os itens seguintes.
+A proposição Q é equivalente à seguinte proposição: “Se o mercado é isonômico, as empresas desse mercado não possuem vantagem fiscal.”.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+77.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Paulo Thiago
+28 de maio de 2024 às 20:26
+"Se a banca pede a equivalência do Q, por que ela trocou 'uma das empresas' para 'as empresas' ou 'todas as empresas'?"
+Para quem também teve essa dúvida, segue abaixo a explicação detalhada:
+Para a equivalência do Se... Então, temos duas hipóteses:
+1.
+Nega a primeira proposição e mantém a segunda (NeyMar)
+Troca o Se... então... pelo OU
+( p -> q = ~p v q )
+2. (CONTRAPOSITIVA)
+Inverte as proposições
+NEGA todas as proposições
+Mantém o Se... então...
+( p -> q = ~q -> ~p )
+Como a banca adotou essa segunda opção (contrapositiva), vamos usá-la:
+Q: “Se uma das empresas do mercado possui vantagem fiscal, esse mercado não é isonômico.”
+(essa vírgula entre "fiscal" e "esse" indica o "então", que está oculto)
+p = uma das empresas do mercado possui vantagem fiscal
+q = esse mercado não é isonômico
+Negação:
+~p = as empresas do mercado não possuem vantagem fiscal
+~q = esse mercado é isonômico
+Resultado da equivalência (RESPOSTA):
+"Se o mercado é isonômico, as empresas desse mercado não possuem vantagem fiscal."
+Lembre-se que temos os QUANTIFICADORES UNIVERSAIS e os QUANTIFICADORES EXISTENCIAIS
+UNIVERSAIS:
+1. TODO
+2. NENHUM
+EXISTENCIAIS:
+1. EXISTE
+2. ALGUM
+3. PELO MENOS UM
+NEGAMOS OS UNIVERSAIS COM OS EXISTENCIAIS OU OS EXISTENCIAIS COM OS UNIVERSAIS.
+NÃO PODEMOS NEGAR UNIVERSAIS COM UNIVERSAIS, NEM EXISTENCIAIS COM EXISTENCIAIS.
+Por isso, na proposição Q há "uma das empresas" e, na sua equivalência, "as empresas" ou "todas as empresas".
+Reportar abuso
+Ajudou (29) Não ajudou
+Gabriel
+31 de janeiro de 2024 às 11:31
+Certo, trata-se da contrapositiva da condicional:
+
+onde: p -> q = = ~q -> ~p (inverta-se e negam as duas proposições)
+
+aplica na proposição Q: p -> ~q == q -> ~p
+Reportar abuso
+Ajudou (29) Não ajudou
+Joycilene Alves
+27 de abril de 2024 às 14:09
+Cruza negando
+Reportar abuso
+Ajudou (5) Não ajudou
+Gio Futura Apf
+24 de fevereiro de 2024 às 20:10
+Eu respondi pensando nesta regra Equivalência do SE: 1) caso: acrescento SE na frase e volto negando com a segunda parte da frase (então) nego a segunda parte. SE ~B →~A
+Reportar abuso
+Ajudou (3) Não ajudou
+AC
+Ana Carolina Teixeira Perussio Meirelles
+27 de janeiro de 2025 às 06:25
+SE O MERCADO É ISONOMICO, AS EMPRESAS DESSE MERCADO NÃO POSSUEM VANTAGEM FISCAL.
+
+EQUIVALENTE TEM DUAS OPÇÕES: INVERTE NEGANDO OU NEOUMA
+
+INVERTE NEGANDO
+SE AS EMPRESAS DESSE MERCADO POSSUEM VANTAGEM FISCAL ENTÃO O MERCADO NÃO É ISONOMICO.
+
+NEOUMA (NEGA A PRIMEIRA + OU + MANTÉM A SEGUNDA)
+O MERCADO NÃO É ISONOMICO OU AS EMPRESAS DESSE MERCADO NÃO POSSUEM VANTAGEM FISCAL
+
+Logo, está correto.
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 2
+14
+Q3555098
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Técnico Judiciário - Área Programação de Sistemas - 2024
+Texto associado
+Texto CB4A1
+
+Não se sabe exatamente se a primeira eleição a que Rui Barbosa concorreu foi para deputado provincial, na Bahia, em 1875.Vagou-se um cargo na Assembleia Provincial, em razão da morte de um de seus membros, João Victor de Carvalho. As províncias do Império foram divididas em distritos eleitorais de três deputados cada um, eleitos por maioria relativa de votos.
+A eleição dos membros das Assembleias Provinciais far-se-ia da mesma maneira que a dos deputados à Assembleia Geral, não havendo suplentes: no caso de “morte do deputado, opção por outro distrito, ou perda do seu lugar por qualquer motivo”, proceder-se-ia a uma nova eleição no mesmo distrito.
+Luiz Vianna Filho — que é, reconhecidamente, junto com João Mangabeira, um dos mais completos biógrafos de Rui — nega essa candidatura. E diz:
+“No prestimoso volume Correspondência, em que reuniu cartas e documentos de Rui Barbosa, publica o Sr. Homero Pires uma circular de Rui dirigida aos eleitores do 3.º Distrito, datada de 4 de outubro de 1875, e à qual pôs o Dr. Homero Pires a seguinte nota: ‘Somente em 1878 Rui Barbosa teve ingresso na Assembleia Legislativa Provincial da Bahia’. De fato, a circular existe em facsimile no arquivo da Fundação Casa Rui Barbosa. Entretanto, uma vez que essa nota pode suscitar equívoco, deve ser esclarecido que, na realidade, Rui, candidato em 1878, o foi nesse ano pela primeira vez. Até porque, em 1875, estava o Partido Liberal afastado das lides eleitorais, atitude que só foi modificada em 19 de março de 1876.”
+Vianna alega, ainda, que o próprio Rui, “ao responder à comissão promotora da candidatura dele pelo 1.º Distrito da Corte, em 1889, declara expressamente: ‘Nos cinco escrutínios em que corri os azares da luta eleitoral...’. Ora, os cinco escrutínios são os de 1878, o de 1881, o de 1884, o de 1886 e o de 1888”.
+Mas, se a circular é de 4 de outubro de 1875, não se sabendo se teria sido distribuída, a eleição, a que parece Rui ter concorrido, foi em 10 de janeiro daquele ano. E há um parecer da Comissão de Poderes da Assembleia, lido em 3 de março de 1875, que indica o resultado do pleito: Francisco José da Costa – 182 votos; Tenente Coronel Manuel Jerônimo Ferreira – 39 votos; Rui Barbosa – 6 votos; Cícero Emiliano Alcamim – 1 voto.
+O parecer conclui: “[...] considerando que se acha regular a referida eleição, contra a qual não houve reclamação, é de parecer que seja declarado deputado à Assembleia Provincial pelo 1.º Distrito o Dr. Francisco José da Costa, que obteve maior soma de votos”.
+
+Walter Costa Porto. Rui Barbosa e o voto. In: Estudos Eleitorais na História. v. 11, n.º 3, setembro/dezembro 2016. Brasília: Escola Judiciária eleitoral, 2017. Internet: <bibliotecadigital.tse.jus.br> (com adaptações).
+Julgue os itens que se seguem, de acordo com as ideias veiculadas no texto CB4A1.
+
+Conclui-se do texto que, para o biógrafo Luiz Vianna Filho, Rui Barbosa concorreu às eleições cinco vezes.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+69.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Camila Mesquita De Brito Krutschok
+2 de janeiro de 2025 às 16:18
+... o próprio Rui, “ao responder à comissão promotora da candidatura dele pelo 1.º Distrito da Corte, em 1889, declara expressamente: ‘Nos cinco escrutínios em que corri os azares da luta eleitoral...’. Ora, os cinco escrutínios são os de 1878, o de 1881, o de 1884, o de 1886 e o de 1888”....
+Reportar abuso
+Ajudou (2) Não ajudou
+15
+Q3555623
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Técnico Judiciário - Área Programação de Sistemas - 2024
+Texto associado
+Julgue os itens a seguir, a respeito de técnicas de ingestão de dados, análise de dados e Big Data.
+Na ingestão de dados, a arquitetura lambda utiliza o processamento em lote para fornecer visualizações das informações e utiliza a atualização em tempo real para ajudar os gestores a visualizarem dados críticos e urgentes.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+73.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Crisley Rios
+23 de janeiro de 2025 às 19:08
+O processamento em lote é como uma linha de montagem, onde as tarefas são agrupadas e executadas de forma eficiente e automatizada. É uma técnica ideal para tarefas que não exigem interação em tempo real e que podem ser processadas em grandes volumes.
+
+A arquitetura Lambda é uma abordagem para processamento de dados que combina a velocidade do processamento em tempo real com a precisão das análises em lote. Ela é ideal para aplicações que precisam lidar com grandes volumes de dados e que exigem tanto análises em tempo real quanto análises históricas.
+
+Fonte: Gemini
+Reportar abuso
+Ajudou (2) Não ajudou
+16
+Q3549144
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Biblioteconomia - 2024
+Texto associado
+Texto CB1A1-III
+
+Aprendemos desde cedo que a linguagem verbal serve para comunicar e frequentemente dizemos que o importante é a comunicação. Quando se fala em comunicação, muitas vezes, pensamos que se está falando na transmissão de informações. Comunicar não se limita, entretanto, a transmitir informações. Realmente, há momentos em que desejamos apenas fornecer uma informação, mas, muito frequentemente, temos outros objetivos, como: dar uma ordem, expressar um sentimento, fazer um pedido, exercer algum tipo de influência, fazer o outro mudar de opinião...
+O ser humano vive em sociedade, isto é, fazemos parte de grupos sociais e agimos em conjunto com nossos semelhantes; interagimos. Na verdade, é para interagir que nos comunicamos, falamos e escrevemos. Por isso, não podemos nos esquecer de que a comunicação, ou a interação, envolve mais do que simplesmente informação; envolve, sobretudo, alguma forma de ação sobre o outro.
+Ana Lúcia Tinoco Cabral. A força das palavras.
+São Paulo: Editora Contexto, 2010, p. 10-11 (com adaptações).
+
+Considerando os aspectos textuais e linguísticos do texto CB1A1-III, bem como as ideias nele veiculadas, julgue os itens seguintes.
+Para atingir o seu propósito comunicativo, a autora constrói seu texto combinando as tipologias expositiva e narrativa.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+70.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Mikaela Andrade
+5 de fevereiro de 2025 às 11:14
+Gabarito E
+O texto é predominantemente expositivo, a autora não está narrando uma história. A tipologia Narração diz respeito a movimento/uma sequência de acontecimentos: Ele caminhou, parou, olhou para o lado e pensou...
+
+Mantenha-se firme: "Não fui eu que ordenei a você? Seja forte e corajoso! Não se apavore nem desanime, pois o Senhor, o seu Deus, estará com você por onde você andar". Josué 1:09
+Reportar abuso
+Ajudou (3) Não ajudou
+Carlos Eduardo Oliveira Da Silva
+12 de janeiro de 2025 às 19:09
+Não tem exposição de ideias
+Reportar abuso
+Ajudou (0) Não ajudou
+17
+Q3549091
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Tecnologia da Informação - 2024
+Texto associado
+Texto CB1A1-II
+
+A palavra ficção nos remete a histórias inventadas (total ou parcialmente). Pode ser uma fantasia, que envolva monstros, heróis ou fantasmas, pode ser uma ficção científica, que envolva tecnologias que vão muito além daquelas que existem hoje, e também pode ser um romance comum, totalmente realista, mas com enredo, personagens ou ambientes inventados.
+Dessa forma, uma matéria jornalística jamais poderia ser considerada ficcional, já que um dos pilares do jornalismo é a busca pela verdade e a publicização das informações com precisão e veracidade. Um jornal que noticiasse ficções estaria ferindo um de seus princípios mais fundamentais.
+Apesar de essa definição de ficção ser bem popular, os críticos e teóricos de cinema franceses Jacques Aumont e Michel Marie afirmam que a ficção é uma forma de discurso que faz referência a personagens ou a ações que só existem na imaginação daquele que a escreve ou lê. Segundo eles, a ficção não é uma mentira, mas um simulacro da realidade, uma das possíveis maneiras de se representar o real.
+Assim, podemos dizer que todo relato é uma tentativa de representar a realidade por meio de palavras. Um relato de um acontecimento não é o próprio acontecimento em si. Os fatos ficam no passado, depois que acontecem. Qualquer tentativa de retomá-los no presente, por meio de uma história, será uma representação, será uma construção da mente de uma pessoa. Logo, será uma ficção.
+
+Lucia Mascarenhas de Miranda. A fronteira entre fato e ficção.
+In: Ciência Hoje, outubro de 2024.
+Internet: <cienciahoje.org.br> (com adaptações).
+
+Julgue os itens a seguir com base nas ideias apresentadas no texto CB1A1-II.
+Os críticos e teóricos de cinema Jacques Aumont e Michel Marie caracterizam a ficção como um simulacro da realidade, em uma oposição explícita à visão comum nos meios acadêmicos segundo a qual a ficção é uma mentira.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+58.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alberto Oliveira
+19 de janeiro de 2025 às 14:55
+Não é a visão do meio acadêmico e sim a visão popular. Gabarito Errado
+Reportar abuso
+Ajudou (3) Não ajudou
+18
+Q3555559
+Administração Financeira e Orçamentária - AFO Orçamento na Constituição Federal de 1988
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Contabilidade - 2024
+Texto associado
+No que concerne ao orçamento público, julgue os itens que se seguem.
+No Brasil, o ciclo orçamentário segue princípios e regras definidos pela Constituição Federal de 1988, pela Lei de Responsabilidade Fiscal e por outras normas específicas, e é dividido nas seguintes fases principais: planejamento, elaboração, aprovação, execução e controle/avaliação.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ana Loiola
+11 de janeiro de 2025 às 17:14
+Gab.: Certo
+
+No Brasil, o ciclo orçamentário é composto pelas seguintes fases principais:
+1. Planejamento: Definição das metas e prioridades do governo para o período.
+2. Elaboração: Preparação da proposta orçamentária pelo Poder Executivo, com base no planejamento estabelecido.
+3. Aprovação: Análise e aprovação da proposta pelo Poder Legislativo.
+4. Execução: Implementação das ações e programas previstos no orçamento aprovado.
+5. Controle/Avaliação: Monitoramento e avaliação da execução orçamentária, assegurando a conformidade com as leis e a eficiência na utilização dos recursos públicos.
+
+Impostante destacar que essas fases estão alinhadas com os princípios e regras definidos pela Constituição Federal de 1988, pela Lei de Responsabilidade Fiscal e por outras normas específicas.
+Reportar abuso
+Ajudou (5) Não ajudou
+19
+Q3554705
+Administração Geral Estrutura Organizacional
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Engenharia Elétrica - 2024
+Texto associado
+Acerca das funções da administração, do processo decisório e dos tipos de departamentalização na administração pública, julgue os itens que se seguem.
+A dimensão racional do planejamento corresponde ao poder de decisão envolvido na tomada de uma decisão estratégica.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+26.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Naiane Mota De Oliveira
+10 de janeiro de 2025 às 20:42
+Gabarito Errado.
+Dimensão racional do planejamento:
+Refere-se à abordagem analítica e estruturada utilizada para identificar problemas, analisar cenários, avaliar alternativas e tomar decisões baseadas em dados e evidências.
+Enfatiza o uso da razão e da objetividade para alinhar os objetivos organizacionais com as melhores escolhas estratégicas.
+Poder de decisão:
+Está relacionado à autoridade ou capacidade de influenciar e determinar uma decisão em um contexto organizacional.
+É uma questão mais política e hierárquica, ligada às relações de poder dentro da organização, e não necessariamente à dimensão racional.
+
+Reportar abuso
+Ajudou (33) Não ajudou
+20
+Q3554469
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Medicina do Trabalho - 2024
+Texto associado
+Texto CB1A1-II
+A palavra ficção nos remete a histórias inventadas (total ou parcialmente). Pode ser uma fantasia, que envolva monstros, heróis ou fantasmas, pode ser uma ficção científica, que envolva tecnologias que vão muito além daquelas que existem hoje, e também pode ser um romance comum, totalmente realista, mas com enredo, personagens ou ambientes inventados.
+Dessa forma, uma matéria jornalística jamais poderia ser considerada ficcional, já que um dos pilares do jornalismo é a busca pela verdade e a publicização das informações com precisão e veracidade. Um jornal que noticiasse ficções estaria ferindo um de seus princípios mais fundamentais.
+Apesar de essa definição de ficção ser bem popular, os críticos e teóricos de cinema franceses Jacques Aumont e Michel Marie afirmam que a ficção é uma forma de discurso que faz referência a personagens ou a ações que só existem na imaginação daquele que a escreve ou lê. Segundo eles, a ficção não é uma mentira, mas um simulacro da realidade, uma das possíveis maneiras de se representar o real.
+Assim, podemos dizer que todo relato é uma tentativa de representar a realidade por meio de palavras. Um relato de um acontecimento não é o próprio acontecimento em si. Os fatos ficam no passado, depois que acontecem. Qualquer tentativa de retomá-los no presente, por meio de uma história, será uma representação, será uma construção da mente de uma pessoa. Logo, será uma ficção.
+Lucia Mascarenhas de Miranda. A fronteira entre fato e ficção. In: Ciência Hoje, outubro de 2024. Internet: (com adaptações)
+Julgue os itens a seguir com base nas ideias apresentadas no texto CB1A1-II.
+
+Os críticos e teóricos de cinema Jacques Aumont e Michel Marie caracterizam a ficção como um simulacro da realidade, em uma oposição explícita à visão comum nos meios acadêmicos segundo a qual a ficção é uma mentira.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+70.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alberto Oliveira
+19 de janeiro de 2025 às 14:53
+Visão popular sobre a ficção, não fala sobre o meio acadêmico. Gabarito Errado
+Reportar abuso
+Ajudou (0) Não ajudou

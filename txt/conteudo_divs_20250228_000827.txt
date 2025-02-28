@@ -1,0 +1,818 @@
+1
+Q3641122
+Administração Geral Gestão de Projetos
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área: Administrativa - 2025
+Texto associado
+Acerca de gestão de processos e gestão de projetos, julgue os itens subsequentes.
+Na gestão de projetos, os entregáveis devem ser produtos ou serviços tangíveis.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+60.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriela
+13 de fevereiro de 2025 às 17:50
+
+Os entregáveis podem ser tangíveis, como: Documentos, Relatórios, Produtos físicos, Edifícios, Revistas ou jornais.
+
+Os entregáveis também podem ser intangíveis, como: Software, Serviços, Melhorias em processos, Programas de treinamento.
+
+(alexandre Gabriele QC)
+
+Reportar abuso
+Ajudou (30) Não ajudou
+2
+Q3641150
+Tecnologia da Informação Tabelas
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área Apoio Especializado - Especialidade: Desenvolvimento de Sistemas - 2025
+Texto associado
+No que se refere à modelagem de banco de dados relacional, julgue os itens seguintes.
+A relação muitos-para-muitos pode ser representada diretamente entre duas tabelas sem a necessidade de tabelas intermediárias.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+57.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Izadora Ferreira Purcino
+13 de fevereiro de 2025 às 16:08
+A relação muitos-para-muitos não pode ser representada diretamente entre duas tabelas sem a necessidade de tabelas intermediárias. Isso ocorre porque sistemas de bancos de dados relacionais normalmente não permitem implementar um relacionamento muitos-para-muitos direto entre duas tabelas.23 Para evitar problemas como a impossibilidade de identificar a qual registro específico um dado se refere, é necessário dividir o relacionamento muitos-para-muitos em dois relacionamentos um-para-muitos usando uma terceira tabela, chamada de tabela de associação.
+
+Tabela de associação: Essa tabela intermediária armazena as chaves estrangeiras de ambas as tabelas envolvidas no relacionamento muitos-para-muitos, permitindo que vários registros em uma tabela sejam associados a vários registros em outra tabela.
+
+Reportar abuso
+Ajudou (1) Não ajudou
+3
+Q3642940
+Direito Constitucional
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+À luz da jurisprudência do Supremo Tribunal Federal (STF), julgue os itens que se seguem, relativos ao Poder Legislativo, aos direitos e garantias fundamentais, e às funções essenciais à justiça.
+É constitucional o compartilhamento direto de dados cadastrais genéricos com os órgãos de persecução penal, para fins de investigação criminal, independentemente de autorização da justiça.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+52.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Mcsmcs
+12 de fevereiro de 2025 às 22:27
+É possível o compartilhamento, sem autorização judicial, dos relatórios de inteligência financeira da UIF e do procedimento fiscalizatório da Receita Federal com a Polícia e o Ministério Público.
+(RE 1055941, Relator(a): DIAS TOFFOLI, Tribunal Pleno, julgado em 04/12/2019, PROCESSO ELETRÔNICO DJe-243 DIVULG 05-10-2020 PUBLIC 06-10-2020 REPUBLICAÇÃO: DJe-052 DIVULG 17-03-2021 PUBLIC 18-03-2021)
+Reportar abuso
+Ajudou (12) Não ajudou
+4
+Q3640847
+Administração Geral Abordagem Sistêmica
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área Apoio Especializado - Especialidade: Contabilidade - 2025
+Texto associado
+Acerca das abordagens clássica e sistêmica da administração e da evolução da administração pública no Brasil após 1930, julgue os itens subsequentes.
+Ao se utilizar a abordagem sistêmica da administração, é pertinente adotar uma visão focada no todo e uma forma de pensamento sintético.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+67.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Nataline Oliveira
+13 de fevereiro de 2025 às 22:06
+Conceitos da abordagem sistêmica:
+Pensamento sistêmico: A mudança de perspectiva, de partes para o todo 
+Pensamento sintético: A tendência a juntar as coisas, em vez de separá-las 
+Visão sistêmica: A compreensão de cada uma das partes que compõem o negócio (o todo).
+Tomada de decisão sistêmica: A consideração de todo o negócio, e não apenas de um setor, na hora de tomar decisões 
+A abordagem sistêmica é baseada na Teoria Geral de Sistemas (TGS), criada pelo biólogo Ludwig von Bertalanffy. 
+
+FONTE: QC
+Reportar abuso
+Ajudou (15) Não ajudou
+Franciele Santos Da Silva
+13 de fevereiro de 2025 às 13:59
+O todo é o mesmo que holístico.
+Reportar abuso
+Ajudou (4) Não ajudou
+Verônica Mendonça
+12 de fevereiro de 2025 às 17:29
+não seria uma visão holística?
+Reportar abuso
+Ajudou (0) Não ajudou
+5
+Q3643008
+Administração Pública Políticas materiais
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+Julgue os itens seguintes, a respeito da administração pública indireta, dos atos administrativos e da requisição.
+Com relação ao seu aspecto material, o ato administrativo é regido pelo regime jurídico de direito público, e deve ser exarado em conformidade com a forma prevista no ordenamento jurídico.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+28.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jacqueline Kelly
+13 de fevereiro de 2025 às 15:49
+Gabarito: Errado
+A assertiva correta seria:
+
+"Com relação ao seu aspecto material, o ato administrativo deve estar em conformidade com o regime jurídico de direito público. Já seu aspecto formal deve seguir a forma prevista no ordenamento jurídico."
+
+Isso separa corretamente os conceitos de material (conteúdo/substância) e formal (forma de exteriorização).
+Qconcursos
+Reportar abuso
+Ajudou (16) Não ajudou
+6
+Q3639308
+Raciocínio Lógico
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade: Engenharia Mecânica - 2025
+Texto associado
+Considerando as características do raciocínio analítico e a estrutura da argumentação, julgue os itens que se seguem.
+Suponha que uma pessoa procure um livro em sua estante, não o ache e, diante disso, chegue à seguinte conclusão: “Alguma pessoa mexeu na minha estante e pegou o livro que procuro.”. Nesse caso, tal conclusão foi elaborada com base no raciocínio indutivo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+46.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Julia Bello De Menezes
+13 de fevereiro de 2025 às 21:29
+O raciocínio utilizado nesse caso é abdutivo, e não indutivo.
+A abdução ocorre quando, diante de um fato observado (o livro não está na estante), a pessoa formula uma hipótese explicativa (alguém pegou o livro). Esse tipo de raciocínio busca a melhor explicação possível para um fenômeno, mas não garante que a conclusão seja verdadeira.
+Já o raciocínio indutivo se baseia na observação de vários casos particulares para chegar a uma conclusão geral. Se a pessoa tivesse notado repetidamente que, sempre que um livro sumia, alguém da casa o havia pegado, aí sim poderíamos falar de indução.
+Reportar abuso
+Ajudou (4) Não ajudou
+7
+Q3639335
+Raciocínio Lógico
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade: Serviço Social - 2025
+Texto associado
+Julgue os itens que se seguem, referentes ao raciocínio analítico e à estrutura da argumentação.
+Na pergunta “Ela continua saindo do trabalho às 16 horas?”, há um conteúdo implícito.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+74.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Camila Maria Ambrosio Dos Santos
+13 de fevereiro de 2025 às 13:10
+(Correto)
+Quando é dito "ela continua" está implícito que a pessoa já vem praticando este hábito há algum tempo.
+Reportar abuso
+Ajudou (2) Não ajudou
+8
+Q3641204
+Administração Financeira e Orçamentária - AFO Classificação por Natureza da Receita (Níveis e Dígitos)
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área: Administrativa - 2025
+Texto associado
+Receitas e despesas públicas devem ser adequadamente apresentadas nos instrumentos de planejamento e nos relatórios de acompanhamento e prestação de contas para subsidiar as atividades de controle e transparência da execução orçamentária. A respeito das classificações orçamentárias, julgue os itens subsequentes.
+Tanto as receitas orçamentárias quanto os ingressos extraorçamentários devem ser classificados segundo a natureza da receita.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+54.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+A
+Adrianny
+12 de fevereiro de 2025 às 18:54
+
+
+A classificação por natureza da receita é um atributo específico das receitas orçamentárias, não se aplicando aos ingressos extraorçamentários.
+
+Ingressos Extraorçamentários: São recursos financeiros de caráter temporário, dos quais o Estado é mero depositário. Não representam novas receitas para o orçamento e não integram a Lei Orçamentária Anual (LOA). Exemplos incluem depósitos em caução, fianças e operações de crédito por antecipação de receita orçamentária (ARO).
+Reportar abuso
+Ajudou (34) Não ajudou
+9
+Q3639675
+Direito Constitucional
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área: Judiciária - 2025
+Texto associado
+Acerca do mandado de injunção, do mandado de segurança e dos Poderes Legislativo e Judiciário, julgue os itens que se seguem, à luz da jurisprudência do STF.
+Não é cabível a impetração de mandado de segurança com a finalidade de impugnar ato normativo geral e abstrato.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+64.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AC
+Alexsania Carolinne De Araujo Ferreira
+12 de fevereiro de 2025 às 14:22
+1. A lei em tese, como norma abstrata de conduta, não lesa qualquer direito individual, razão pela qual, na forma da Súmula 266 do Supremo Tribunal Federal, não é passível de impugnação por mandado de segurança. 2. O mandado de segurança não pode ser utilizado como mecanismo de controle abstrato da validade constitucional das leis e dos atos normativos em geral, posto não ser sucedâneo da ação direta de inconstitucionalidade.
+Reportar abuso
+Ajudou (12) Não ajudou
+10
+Q3639219
+Língua Portuguesa Sujeito indeterminado
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade: Engenharia Civil - 2025
+Texto associado
+O Poder Judiciário brasileiro tem em torno de 80 milhões de processos judiciais. Esse número é estarrecedor quando comparado com a população do país, cuja estimativa é de 203 milhões de brasileiros. Sendo assim, para pouco mais de dois brasileiros, há um processo judicial, o que representa uma situação praticamente insustentável sob o aspecto econômico, gerencial e jurídico.
+Já houve redução no tempo e no custo do processo judicial com a implantação do processo eletrônico, mas há muito o que fazer quando se depara com o tempo de resolutividade e os gastos para a manutenção do serviço de prestação jurisdicional: estima-se que, no ano de 2022, tenham sido gastos, só na justiça federal, R$ 12.369.100.765. Em relação ao custo processual, no ano de 2015, por exemplo, cada brasileiro desembolsou R$ 387,00 para manter o Poder Judiciário, o que equivalia a 1,3% do PIB. Se avaliarmos de 2009 a 2015, o crescimento foi de 31%. Em 2020, os gastos foram de R$ 479,16 por habitante.
+
+Grégore Moreira de Moura. Um sonho de desjudicialização. In: Revista do Tribunal Regional Federal da Sexta Região, v. 1, n.º 1, 2023, p. 10-11 (com adaptações).
+
+Em relação às ideias e propriedades linguísticas do texto precedente, julgue os itens a seguir.
+No segmento “quando se depara com o tempo de resolutividade e os gastos para a manutenção do serviço de prestação jurisdicional” (primeiro período do segundo parágrafo), o pronome “se” indica que o sujeito da oração é indeterminado.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+60.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Thayna
+12 de fevereiro de 2025 às 21:17
+Quem se depara? Não tem como dizer nem pelo contexto, sujeito indeterminado.
+Reportar abuso
+Ajudou (11) Não ajudou
+11
+Q3642303
+Tecnologia da Informação Sintaxe
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Análise de Sistemas de Informação - 2025
+Texto associado
+Acerca de técnicas de pré-processamento de dados não estruturados, julgue o próximo item.
+A técnica TF-IDF majora a importância de um termo que aparece muitas vezes em um documento e poucas vezes nos outros documentos de um mesmo corpus.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Edson David Soares De Souza
+20 de fevereiro de 2025 às 16:45
+A afirmativa está certa.
+Explicação:
+A técnica TF-IDF (Term Frequency - Inverse Document Frequency) é usada para atribuir pesos a termos em um conjunto de documentos, destacando palavras que são importantes em um documento específico, mas que não são comuns em todo o corpus.
+TF (Term Frequency): Mede a frequência de um termo em um documento específico. Quanto mais vezes o termo aparece no documento, maior é o seu peso.
+IDF (Inverse Document Frequency): Mede a raridade do termo no conjunto de documentos (corpus). Se um termo aparece em muitos documentos, ele recebe um peso menor, pois é considerado menos discriminativo.
+
+Fonte: ChatGPT
+Reportar abuso
+Ajudou (0) Não ajudou
+12
+Q3641167
+Administração Financeira e Orçamentária - AFO Orçamento-Programa ou Moderno
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área: Administrativa - 2025
+Texto associado
+Julgue os itens a seguir, referentes a técnicas orçamentárias.
+A expressão monetária dos recursos alocados é uma característica que distingue o orçamento-programa de outras técnicas orçamentárias.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+58.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+A
+Adrianny
+12 de fevereiro de 2025 às 18:58
+
+
+A alocação de recursos expressa em termos monetários é uma característica comum a todas as técnicas orçamentárias, e não um diferencial do orçamento-programa.
+Reportar abuso
+Ajudou (66) Não ajudou
+Gerliane Sales Costa Ferreira
+20 de fevereiro de 2025 às 13:45
+É UMA TÉCNICA COMUM A TODAS AS TÉCNICAS ORÇAMENTÁRIAS
+Reportar abuso
+Ajudou (8) Não ajudou
+Lovin
+20 de fevereiro de 2025 às 14:36
+Boa tarde.
+Pesquisando sobre questão, achei o seguinte material: https://repositorio.enap.gov.br/bitstream/1/2170/1/Or%C3%A7amento%20P%C3%BAblico%20Conceitos%20B%C3%A1sicos%20-%20M%C3%B3dulo%20%20%281%29.pdf
+Nesse material, é afirmado o seguinte:
+Em sua elaboração, o orçamento-programa tem uma lógica que o distingue de outros modelos. Essa lógica pode ser traduzida em fases que, ao serem cumpridas, dão a esse modelo toda a sua peculiaridade. Veja no quadro a seguir: (...) Determinação dos meios financeiros - expressão monetária dos recursos alocados
+essa afirmação está na página 10 do documento.
+pelo que entendi com esse material, é que a questão estaria certa.
+Reportar abuso
+Ajudou (2) Não ajudou
+13
+Q3639290
+Língua Portuguesa Reorganização e reescrita de orações e períodos
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade: Arquitetura - 2025
+Texto associado
+De acordo com o Plano das Nações Unidas sobre Discursos de Ódio, a prática do discurso de ódio se caracteriza como um tipo de comunicação falada, escrita ou comportamental que ataca ou utiliza linguagem pejorativa ou discriminatória em referência a uma pessoa ou grupo, com base em fatores de identidade, como religião, etnia, gênero, entre outros. Diferentemente da desinformação (prática não intencional de compartilhamento de informações imprecisas), ou da distribuição intencional de informações falsas com o intuito de provocar dano, o discurso de ódio se expressa de forma violenta contra grupos delimitados.
+O discurso de ódio online pode ser reproduzido em diferentes formatos, mas geralmente contém características típicas do meio digital, como o anonimato do(a) autor(a), o alcance expandido do ataque, a instantaneidade da mensagem e a formação de comunidades em torno do discurso.
+
+Eduardo Georjão Fernandes e Valentina Fonseca da Luz.
+O papel das políticas públicas no combate ao discurso de ódio na Internet.
+Internet: <agenciagov.ebc.com.br> (com adaptações).
+
+Considerando aspectos linguísticos do texto precedente e as ideias nele veiculadas, julgue os itens que se seguem.
+Sem prejuízo da correção gramatical e dos sentidos originais do texto, o trecho “De acordo com o Plano das Nações Unidas sobre Discursos de Ódio, a prática do discurso de ódio se caracteriza como um tipo de comunicação falada, escrita ou comportamental” (primeiro parágrafo) poderia ser reescrito da seguinte forma: Segundo o Plano das Nações Unidas sobre Discursos de Ódio, caracteriza-se essa prática como um tipo de comunicação (falada, escrita ou comportamental).
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+48.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Mim
+14 de fevereiro de 2025 às 18:14
+A frase original é:
+
+> "De acordo com o Plano das Nações Unidas sobre Discursos de Ódio, a prática do discurso de ódio se caracteriza como um tipo de comunicação falada, escrita ou comportamental."
+
+Se reescrevemos para:
+
+> "Segundo o Plano das Nações Unidas sobre Discursos de Ódio, caracteriza-se essa prática como um tipo de comunicação (falada, escrita ou comportamental)."
+
+O problema está na mudança de estrutura.
+A frase original é clara e direta, atribuindo a ação de "caracterizar" diretamente ao sujeito "a prática do discurso de ódio".
+Na reescrita proposta, a forma passiva "caracteriza-se essa prática" muda o foco e a clareza da frase.
+Reportar abuso
+Ajudou (11) Não ajudou
+14
+Q3639971
+Língua Portuguesa Reorganização e reescrita de orações e períodos
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade Medicina Clínica Geral - 2025
+Texto associado
+Texto CG4A1
+A degradação ambiental põe em risco a capacidade das crianças de atingir seu pleno potencial de desenvolvimento e tem implicações negativas em uma vasta gama de outros direitos. O desenvolvimento das crianças está interligado ao ambiente em que elas vivem. Os benefícios de um ambiente saudável para o desenvolvimento incluem aqueles ligados às oportunidades de experimentar atividades ao ar livre e de interagir e brincar em ambientes naturais, inclusive com o mundo animal.
+Devido aos seus padrões de atividade, ao seu comportamento e à sua fisiologia únicos, as crianças mais novas são particularmente suscetíveis aos riscos ambientais. Durante janelas de desenvolvimento de maior vulnerabilidade, a exposição a poluentes tóxicos, mesmo em níveis baixos, pode facilmente perturbar os processos de maturação do cérebro, dos órgãos e do sistema imunológico, além de causar doenças e deficiências durante e após a infância — às vezes após um período substancial de latência. Os efeitos dos contaminantes ambientais podem até persistir em gerações futuras. Os Estados devem considerar, de forma consistente e explícita, o impacto da exposição no início da vida a substâncias tóxicas e à poluição.
+Os Estados devem reconhecer cada fase da infância e sua importância para os estágios subsequentes de maturação e desenvolvimento, bem como as diferentes necessidades das crianças em cada uma dessas fases. Para a criação de um ambiente ideal para o direito ao desenvolvimento, os Estados devem considerar, de forma explícita e consistente, todos os fatores necessários para que crianças de todas as idades sobrevivam, desenvolvam-se e prosperem plenamente. Devem também conceber e implementar intervenções baseadas em evidências que enfrentem uma ampla gama de determinantes ambientais durante o curso da vida.
+Internet: <http://www.unicef.org/> (com adaptações).
+Julgue os itens que se seguem, referentes ao vocabulário e à estrutura linguística do texto CG4A1.
+O primeiro período do segundo parágrafo poderia ser reescrito, com manutenção dos sentidos originais e da correção do texto, da seguinte forma: Devido aos padrões de atividade, comportamento e fisiologia das crianças mais novas — que são únicos —, elas são particularmente suscetíveis aos riscos ambientais.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+45.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Mim
+14 de fevereiro de 2025 às 18:10
+O primeiro período do segundo parágrafo é:
+
+> "Devido aos seus padrões de atividade, ao seu comportamento e à sua fisiologia únicos, as crianças mais novas são particularmente suscetíveis aos riscos ambientais."
+
+A frase reescrita sugerida é:
+
+> "Devido aos padrões de atividade, comportamento e fisiologia das crianças mais novas — que são únicos —, elas são particularmente suscetíveis aos riscos ambientais."
+
+A reescrita proposta está errada porque a estrutura
+"Devido aos padrões de atividade, comportamento e fisiologia das crianças mais novas" não é equivalente a "Devido aos seus padrões de atividade, ao seu comportamento e à sua fisiologia únicos".
+
+No segundo caso, os termos "atividade", "comportamento" e "fisiologia" estão coordenados, enquanto no primeiro não há essa coordenação explícita.
+
+Além disso, o uso do pronome possessivo "seus" está ausente na reescrita, o que altera o sentido original de pertencimento dos padrões de atividade, comportamento e fisiologia às crianças mais novas.
+Reportar abuso
+Ajudou (3) Não ajudou
+RD
+Reginaldo Da Silva Ferreira
+20 de fevereiro de 2025 às 06:23
+Complementando o comentário do colega "Mim" assinalei errado pensando na ausência de paralelismo sintático entre os termos, visto que somente um possui a preposição "a"
+Reportar abuso
+Ajudou (1) Não ajudou
+15
+Q3639685
+Direito Constitucional
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área: Judiciária - 2025
+Texto associado
+No que se refere à administração pública e ao controle de constitucionalidade, julgue os itens seguintes, de acordo com o entendimento do STF.
+Os cargos em comissão destinam-se ao exercício de funções de direção, chefia e de caráter técnico.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+73.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriela Leite
+19 de fevereiro de 2025 às 16:01
+Item errado: funções de direção, chefia e assessoramento
+
+ART 37 CF
+V - as funções de confiança, exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão, a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destinam-se apenas às atribuições de direção, chefia e assessoramento;  
+Reportar abuso
+Ajudou (4) Não ajudou
+16
+Q3641078
+Direito Constitucional
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área: Administrativa - 2025
+Texto associado
+No que se refere ao Poder Judiciário e às funções essenciais à justiça, julgue os itens a seguir, de acordo com a CF.
+Poderão ser ajuizados processos contra a União na seção judiciária do Distrito Federal, ainda que o autor seja domiciliado em outro estado da Federação.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+82.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lovin
+19 de fevereiro de 2025 às 08:48
+Bom dia.
+Gabarito: CERTO.
+CF, Art. 109, § 2º As causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+Reportar abuso
+Ajudou (1) Não ajudou
+17
+Q3643023
+Administração Financeira e Orçamentária - AFO Função Distributiva
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+Em relação ao orçamento público no Brasil, julgue os itens subsequentes.
+Os orçamentos fiscal, da seguridade social e de investimentos das empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto terão entre suas funções a de reduzir desigualdades inter-regionais, segundo critério populacional.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+58.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+IL
+Igor Lourenço
+13 de fevereiro de 2025 às 21:55
+Somente os orçamentos fiscal e de investimentos possuem a função de reduzir as desigualdades sociais. O orçamento da seguridade social NÃO TEM essa função.
+Reportar abuso
+Ajudou (47) Não ajudou
+A
+Adrianny
+12 de fevereiro de 2025 às 19:52
+
+O orçamento fiscal e da seguridade social que entre suas funções é de reduzir desigualdades inter-regionais conforme a CF/88, no artigo 165:
+
+§ 5º A lei orçamentária anual compreenderá:
+
+I - o orçamento fiscal referente aos Poderes da União, seus fundos, órgãos e entidades da administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder Público;
+II - o orçamento de investimento das empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto;
+III - o orçamento da seguridade social, abrangendo todas as entidades e órgãos a ela vinculados, da administração direta ou indireta, bem como os fundos e fundações instituídos e mantidos pelo Poder Público.
+§ 7º Os orçamentos previstos no § 5º, I e II, deste artigo, compatibilizados com o plano plurianual, terão entre suas funções a de reduzir desigualdades inter-regionais, segundo critério populacional. (não sei se é possível mas parece que tem um erro de digitação no § 7º, deveria ser inciso I e III, se alguém puder explicar).
+
+
+Reportar abuso
+Ajudou (8) Não ajudou
+Hannder Lopes Vieira
+13 de fevereiro de 2025 às 17:03
+Adrianny, seguridade social não.
+Reportar abuso
+Ajudou (4) Não ajudou
+Estevao
+19 de fevereiro de 2025 às 16:44
+Para nao zerar na prova !
+Reportar abuso
+Ajudou (0) Não ajudou
+18
+Q3642942
+Direito Constitucional
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+À luz da jurisprudência do Supremo Tribunal Federal (STF), julgue os itens que se seguem, relativos ao Poder Legislativo, aos direitos e garantias fundamentais, e às funções essenciais à justiça.
+É direito fundamental do cidadão o sigilo inviolável de sua correspondência, sendo considerada ilícita a prova obtida mediante abertura de carta ou de pacote sem autorização judicial ou fora das hipóteses legais.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+89.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lovin
+19 de fevereiro de 2025 às 08:52
+Bom dia.
+Gabarito: CERTO.
+Ementa: CONSTITUCIONAL E PENAL. RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. PROVA OBTIDA POR MEIO DE ABERTURA DE ENCOMENDA POSTADA NOS CORREIOS. DIREITO AO SIGILO DE CORRESPONDÊNCIA. INADMISSIBILIDADE. RESERVA DE LEI E DE JURISDIÇÃO. RECURSO EXTRAORDINÁRIO QUE SE JULGA PROCEDENTE. 1. Além da reserva de jurisdição, é possível ao legislador definir as hipóteses fáticas em que a atuação das autoridades públicas não seriam equiparáveis à violação do sigilo a fim de assegurar o funcionamento regular dos correios. 2. Tese fixada: “sem autorização judicial ou fora das hipóteses legais, é ilícita a prova obtida mediante abertura de carta, telegrama, pacote ou meio análogo.” 3. Recurso extraordinário julgado procedente. (RE 1116949, Relator(a): MARCO AURÉLIO, Relator(a) p/ Acórdão: EDSON FACHIN, Tribunal Pleno, julgado em 18/08/2020, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-241 DIVULG 01-10-2020 PUBLIC 02-10-2020) INFO 993 STF
+FONTE: https://www.buscadordizerodireito.com.br/jurisprudencia/detalhes/116ce3668c6d5c744252b9a1cb67b8d4
+Reportar abuso
+Ajudou (2) Não ajudou
+19
+Q3643014
+Administração Financeira e Orçamentária - AFO Universalidade
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+No que concerne ao conceito de orçamento público, aos princípios orçamentários, ao ciclo orçamentário e ao processo orçamentário, julgue os itens a seguir.
+O princípio da universalidade prevê que todas as receitas e despesas estarão incluídas na lei orçamentária pelos seus totais, sendo proibidas quaisquer deduções.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+71.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Hannder Lopes Vieira
+13 de fevereiro de 2025 às 17:00
+Adrianny, creio que justificativa não é essa. Ele deu a descrição do Princípio do Orçamento Bruto que prevê que todas as receitas e despesas estarão incluídas na lei orçamentária pelos seus totais, sendo proibidas quaisquer deduções
+Reportar abuso
+Ajudou (15) Não ajudou
+RF
+Raiane Fontineles Da Silva
+19 de fevereiro de 2025 às 22:24
+O princípio da universalidade exige a inclusão de todas as receitas e despesas no orçamento público (art. 2º, Lei n. 4.320/1964),
+
+enquanto o princípio do orçamento bruto determina que as receitas e despesas sejam registradas em seus valores totais, vedando deduções (art. 6º, Lei n. 
+Reportar abuso
+Ajudou (5) Não ajudou
+Weniskley Coutinho Mariano
+17 de fevereiro de 2025 às 20:55
+Princípio do orçamento bruto: todas as receitas e despesas devem ser registradas pelos seus valores totais
+
+Princípio da universalidade: a lei orçamentária deve conter TODAS as receitas e despesas.
+Reportar abuso
+Ajudou (1) Não ajudou
+Vanderleia De Souza
+17 de fevereiro de 2025 às 12:13
+Na Lei 4.230/64
+Art. 6º Todas as receitas e despesas constarão da Lei de Orçamento pelos seus totais, vedadas quaisquer deduções. 
+
+lá não esta dizendo de forma explicita que se trata da principio do Orçamento Bruto, mas esse artigo se refere a ele.
+
+só para constar também errei essa questão, mas na prova não errarei kkk
+Reportar abuso
+Ajudou (1) Não ajudou
+A
+Adrianny
+12 de fevereiro de 2025 às 19:13
+
+
+A afirmação está em parte correta, pois o princípio da universalidade e o princípio do orçamento bruto estabelecem que todas as receitas e despesas devem ser incluídas na LOA pelos seus totais, sem deduções.
+No entanto, é importante considerar que existem algumas exceções e nuances na prática orçamentária, como as deduções da receita, operações intraorçamentárias, transferências constitucionais e legais, e o tratamento específico de rendimentos de aplicações financeiras, que não invalidam a regra geral, mas demonstram a complexidade da gestão orçamentária.
+
+IA
+Reportar abuso
+Ajudou (1) Não ajudou
+20
+Q3640864
+Administração Geral Gestão de Pessoas por Competências
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área Apoio Especializado - Especialidade: Contabilidade - 2025
+Texto associado
+Acerca de equilíbrio organizacional, desafios da gestão de pessoas, motivação e liderança, julgue os itens seguintes.
+Nas empresas competitivas, a busca pelo desenvolvimento contínuo dos talentos humanos é uma tarefa de todos, cabendo às unidades de gestão de pessoas o papel de catalisadoras das mudanças.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+93.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Maria Gabriela
+19 de fevereiro de 2025 às 08:22
+Certo.
+Nas empresas competitivas, o desenvolvimento contínuo dos talentos humanos não é responsabilidade exclusiva da área de Gestão de Pessoas, mas sim de toda a organização. No entanto, as unidades de gestão de pessoas atuam como catalisadoras das mudanças, promovendo estratégias, capacitações e um ambiente favorável ao aprendizado e à evolução dos colaboradores.
+Reportar abuso
+Ajudou (9) Não ajudou

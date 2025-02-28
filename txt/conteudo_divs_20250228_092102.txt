@@ -1,0 +1,1042 @@
+1
+Q3235297
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Auxiliar Administrativo - 2024
+Texto associado
+O precursor do que viria a ser um jornal foi o romano Acta Diurna, (Atos Diários), lançado em 59 a.C. Mas não se parecia com a publicação que você encontra na banca: era esculpido em pedra ou metal, conforme a época, e ficava exposto em locais públicos, como o Fórum de Roma. Todos os dias havia uma edição nova, que apresentava desde avisos oficiais do império, como decretos do imperador, decisões do Senado e de magistrados, até eventos da sociedade: nascimentos, casamentos e óbitos de cidadãos notáveis. Criado por ordem de Júlio César (100 a.C. – 44 a.C.), ele era guardado para fins de pesquisa e também tinha cópias enviadas para partes distantes do Império Romano, de modo que governadores ficassem a par de novas leis. Foi o Acta Diurna que introduziu a expressão latina publicare et propagare, que significa “tornar público e propagar”.
+
+Internet: <https://super.abril.com.br (com adaptações).
+
+Julgue os próximos itens, que dizem respeito às ideias do texto precedente e à sua estrutura linguística.
+A publicação romana Acta Diurna pode ser entendida como a originadora do jornal impresso dos dias atuais.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+81.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Camila Mesquita De Brito Krutschok
+3 de maio de 2024 às 18:57
+O precursor do que viria a ser um jornal foi o romano Acta Diurna
+
+Todos os dias havia uma edição nova
+
+tinha cópias enviadas para partes distantes do Império Romano
+
+“tornar público e propagar”.
+
+Caracteristicas do que conhecemos como jornal
+Reportar abuso
+Ajudou (94) Não ajudou
+Gabriela Barros Pimenta
+16 de maio de 2024 às 16:58
+O precursor do que viria a ser um jornal foi o romano Acta Diurna, (Atos Diários), lançado em 59 a.C.
+Reportar abuso
+Ajudou (20) Não ajudou
+Essena
+25 de junho de 2024 às 09:03
+CORRETO, a publicação romana Acta Diurna pode ser considerada a originadora do jornal impresso dos dias atuais, mesmo que com diferenças significativas em termos de formato e conteúdo.
+Análise:
+O texto destaca que o Acta Diurna apresentava características que o aproximam do conceito de jornal moderno: Periodicidade: Era publicado diariamente, com novas edições a cada dia. Conteúdo informativo: Abordava diversos temas de interesse público, incluindo avisos oficiais, eventos da sociedade e notícias do império.
+Função pública: Servia como meio de comunicação oficial do governo e também como fonte de informação para os cidadãos.
+* Apesar das semelhanças, o Acta Diurna também apresentava distinções importantes em relação aos jornais impressos modernos: Formato: Era esculpido em pedra ou metal, não impresso em papel.
+Meio de divulgação: Era exposto em locais públicos, não distribuído individualmente. Conteúdo: Não incluía notícias internacionais, análises ou opiniões, focando principalmente em avisos oficiais e eventos locais. Considerando o contexto histórico:
+* O Acta Diurna representava um marco na comunicação pública da época, estabelecendo o conceito de publicação periódica com conteúdo informativo e acessível ao público.
+* Essa inovação influenciou o desenvolvimento de outros meios de comunicação ao longo da história, culminando no surgimento do jornal impresso na forma que o conhecemos hoje.
+Portanto:
+Afirmar que o Acta Diurna é o "originador" do jornal impresso é uma simplificação, mas reconhece a importância histórica e conceitual dessa publicação.
+É importante ponderar as diferenças entre o Acta Diurna e os jornais modernos, contextualizando-as dentro da evolução da comunicação ao longo dos séculos.
+Em resumo:
+O Acta Diurna lançou as bases para o jornalismo moderno, introduzindo a ideia de publicação periódica com conteúdo informativo direcionado ao público.
+Embora não seja um equivalente direto dos jornais impressos atuais, o Acta Diurna representou um passo fundamental na história da comunicação e da informação.
+
+Reportar abuso
+Ajudou (11) Não ajudou
+Carla Gabriele Da Silva Nascimento
+4 de novembro de 2024 às 16:51
+Precusor: que ou o que se manifesta ou vem antes; dá origem a algo; que ou quem é o primeiro a apresentar determinadas ideias ou ações.
+Reportar abuso
+Ajudou (7) Não ajudou
+Patricia Ferreira Neto
+29 de maio de 2024 às 15:49
+Gabarito "certo"
+
+"O precursor do que viria a ser um jornal foi o romano Acta Diurna, (Atos Diários), lançado em 59 a.C."
+Reportar abuso
+Ajudou (7) Não ajudou
+Página 1 de 2
+2
+Q3163304
+Tecnologia da Informação Análise exploratória de dados
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Com base em obtenção, limpeza e pré-processamento de dados, julgue os próximos itens.
+Em um processo de análise de dados, os shadow systems não representam dados consolidados, por isso devem ser excluídos de todas as fases do projeto.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+89.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AS
+Alexandre Silva Sousa
+10 de abril de 2024 às 20:53
+Os shadow systems são sistemas não oficiais ou não autorizados que surgem dentro de uma organização e são utilizados pelos colaboradores para realizar tarefas específicas. Muitas vezes eles contêm dados que não estão integrados aos sistemas oficiais da empresa e podem representar um desafio em termos de integração e governança de dados. Mesmo assim, eles podem ter dados importantes a ponto de ser mais valioso realizar seu tratamento.
+Reportar abuso
+Ajudou (31) Não ajudou
+Juan Lucas Pacheco Bezerra
+15 de março de 2024 às 15:47
+Pelo meu entendimento, os Shadow Systems estão inseridos dentro dos SSG's (Sistemas de Suporte a Grupo), que não necessariamente são de conhecimento dos departamentos de TI.
+Reportar abuso
+Ajudou (2) Não ajudou
+3
+Q3519018
+Língua Inglesa Sinônimos | Synonymous
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCDF - Auditor de Controle Externo - Área Tecnologia da Informação - 2024
+Texto associado
+When a person (or team or firm or government) decides how to act in dealings with other people (or teams or firms or governments), there must be some cross-effect of their actions; what one does must affect the outcome for the other. For the interaction to become a strategic game, however, we need the participants’ mutual awareness of this cross-effect. What the other person does affects you; if you know this, you can react to his actions, or take advance actions to forestall the bad effects his future actions may have on you and to facilitate any good effects, or even take advance actions so as to alter his future reactions to your advantage. If you know that the other person knows that what you do affects him, you know that he will be taking similar actions. And so on. It is this mutual awareness of the cross-effects of actions and the actions taken as a result of this awareness that constitute the most interesting aspects of strategy.
+When each participant is significant in the interaction, either because each is a large player to start with or because commitments or private information narrow the scope of the relationship to a point where each is an important player within the relationship, we must think of the interaction as a strategic game. Such situations are the rule rather than the exception in business, in politics, and even in social interactions. Therefore, the study of strategic games forms an important part of all fields that analyze these matters.
+
+Avinash Dixit et al. Games of strategy. New York: W.W. Norton & Coadapted, 2015 (adapted).
+
+Considering to the preceding text, judge the items that follow.
+The sentence “For the interaction to become a strategic game, however, we need the participants’ mutual awareness of this cross-effect.” can be correctly rephrased as However, participants must be reciprocally aware of this cross-effect for the interaction to develop into a strategic game.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+68.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tiago De Barros
+30 de dezembro de 2024 às 13:04
+Template: C
+
+Yes, the sentence can be correctly rephrased as:
+"However, participants must be reciprocally aware of this cross-effect for the interaction to develop into a strategic game."
+This rephrasing maintains the original meaning and structure while slightly changing the phrasing for variety.
+Reportar abuso
+Ajudou (2) Não ajudou
+4
+Q3232820
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Segurança do Trabalho - 2024
+Texto associado
+Texto CB1A1-II
+Há 70 anos, em 3 de outubro de 1953, era criada a PETROBRÁS, uma empresa estatal que detinha o monopólio da prospecção e exploração do petróleo no território brasileiro. A criação da empresa foi fruto da campanha “O petróleo é nosso”, iniciada após a eleição de Getúlio Vargas para seu segundo período na Presidência.
+Sete décadas após sua criação, ficaram para trás o acento agudo e o foco exclusivo no território brasileiro. A PETROBRAS do século XXI opera em 14 países, prioritariamente nas áreas de exploração, produção, refino, comercialização e transporte de petróleo, gás natural e seus derivados, e ganhou reputação internacional no desenvolvimento de tecnologia avançada para a exploração petrolífera em águas profundas e ultraprofundas. Ficou para trás também o caráter 100% estatal. Atualmente, a PETROBRAS está organizada como sociedade de economia mista, submete-se às regras gerais da administração pública e não mais detém o monopólio da exploração do petróleo em território nacional. Seu papel, no entanto, vai além da obtenção de lucro e envolve aspectos como geração de emprego e renda, além da promoção do desenvolvimento local nos lugares onde instala suas unidades e empreendimentos. Estes, muitas vezes, se situam em regiões remotas, que não despertam o apetite de companhias privadas. Permanece, assim, uma empresa estratégica para diversos aspectos do desenvolvimento econômico do país.
+Renato Coelho. Jornal da UNESP, 3/10/2023 (com adaptações).
+A respeito dos sentidos e de aspectos linguísticos do texto CB1A1-II, julgue os itens que se seguem.
+É correto concluir das informações do texto que as atividades da PETROBRAS no exterior diminuíram o impacto da empresa no Brasil, o que levou à sua privatização.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+90.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Essena
+9 de maio de 2024 às 11:34
+ERRADO. As informações do texto não permitem concluir que as atividades da PETROBRÁS no exterior diminuíram o impacto da empresa no Brasil, o que levou à sua privatização.
+Análise:
+O texto apresenta a trajetória da PETROBRÁS ao longo de 70 anos, destacando sua evolução e importância para o desenvolvimento do país.
+Pontos-chave do texto que sustentam essa conclusão:
+Criação e monopólio inicial: A PETROBRÁS foi criada em 1953 com o monopólio da prospecção e exploração de petróleo no Brasil, em resposta à campanha "O petróleo é nosso".
+Expansão internacional: Nas últimas sete décadas, a empresa se expandiu para 14 países, atuando em diversas áreas do setor petrolífero.
+Desenvolvimento tecnológico: A PETROBRÁS se destacou internacionalmente pelo desenvolvimento de tecnologia para exploração em águas profundas e ultraprofundas.
+Mudanças na estrutura: A empresa deixou de ser 100% estatal, tornando-se uma sociedade de economia mista, e não detém mais o monopólio da exploração de petróleo no Brasil.
+Papel estratégico: A PETROBRÁS continua sendo fundamental para o desenvolvimento econômico do país, indo além da obtenção de lucro e promovendo o desenvolvimento local nas regiões onde atua.
+Observações:
+* O texto não apresenta nenhuma informação que indique que a expansão internacional da PETROBRÁS tenha diminuído seu impacto no Brasil.
+* As atividades da empresa no exterior, inclusive a transferência de tecnologia, podem gerar benefícios para o país, como a geração de divisas e o fortalecimento da presença brasileira no mercado internacional.
+* A privatização da PETROBRÁS é um tema complexo e controverso, com diversas argumentações a favor e contra. O texto não se propõe a discutir esse tema em profundidade.
+Conclusão:
+As informações do texto CB1A1-II demonstram a importância da PETROBRÁS para o Brasil, tanto em seu território nacional quanto no cenário internacional. A expansão da empresa para outros países não significa que seu impacto no Brasil tenha diminuído, mas sim que ela está buscando novas oportunidades de crescimento e desenvolvimento, o que pode trazer benefícios para o país como um todo. A privatização da PETROBRÁS é um tema que merece ser discutido de forma ampla e abrangente, considerando diferentes perspectivas e impactos potenciais.
+
+Reportar abuso
+Ajudou (99) Não ajudou
+Camila Mesquita De Brito Krutschok
+3 de maio de 2024 às 18:37
+extrapolação, em nehum momento foi falado em privatização
+Reportar abuso
+Ajudou (58) Não ajudou
+Larissa
+27 de maio de 2024 às 17:37
+Extrapolação.
+
+... Ficou para trás também o caráter 100% estatal. Atualmente, a PETROBRAS está organizada como sociedade de economia mista, submete-se às regras gerais da administração pública e não mais detém o monopólio da exploração do petróleo em território nacional.
+
+O texto informa que atualmente é uma como sociedade de economia mista.... ou seja, tanto público, tanto privado. Nesse caso não é 100% privatizada.
+Reportar abuso
+Ajudou (17) Não ajudou
+Showmaker
+30 de junho de 2024 às 11:04
+Nem é preciso ler o texto para saber que está errada essa afirmação. Quem estuda sobre Direito Administrativo sabe que a Petrobrás é uma Sociedade de Economia, ou seja, faz parte da administração indireta, não houve privatização alguma ainda.
+Reportar abuso
+Ajudou (8) Não ajudou
+Rodrigo Rianzi De Almeida Soares
+14 de julho de 2024 às 22:28
+ERRADO. O texto não permite inferir a afirmativa da questão.
+Reportar abuso
+Ajudou (6) Não ajudou
+Página 1 de 3
+5
+Q3238112
+Administração de Recursos Materiais Distribuição
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+Julgue os itens subsequentes, a respeito de logística reversa e fundamentos de logística.
+A logística reversa e a distribuição de produtos devem ser tratadas com a mesma seriedade, pois envolvem os mesmos elementos, como armazenagem, frete, estoque e fluxo de materiais.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+78.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Sara Mendes Da Silva
+5 de outubro de 2024 às 08:40
+A logística reversa consiste em um conjunto de atividades cujo objetivo é recolher, transportar e dar destino adequado aos produtos e materiais descartados pela sociedade, de forma que possam ser reutilizados, reciclados ou descartados de forma segura.
+Reportar abuso
+Ajudou (71) Não ajudou
+Maria Gabriela
+12 de dezembro de 2024 às 10:22
+
+CERTA, A logística reversa e a distribuição exigem igual seriedade, pois compartilham elementos como frete, estoque e armazenagem, mas têm objetivos diferentes: entrega ao cliente e retorno de produtos.
+Reportar abuso
+Ajudou (16) Não ajudou
+6
+Q3134612
+Direito Administrativo Licitações
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista Técnico - 2024
+Texto associado
+Com base na Lei n.º 14.133/2021 (Lei de Licitações), julgue os itens subsecutivos.
+Todos os atos praticados no processo licitatório são públicos.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+69.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Heitor De Oliveira Coelho
+13 de fevereiro de 2024 às 10:00
+Lei N. 14.133/21
+Art. 13. Os atos praticados no processo licitatório são públicos, ressalvadas as hipóteses de informações cujo sigilo seja imprescindível à segurança da sociedade e do Estado, na forma da lei.
+Reportar abuso
+Ajudou (791) Não ajudou
+Murilo Vidal
+13 de março de 2024 às 17:33
+Em algumas questões ela cobra a regra, em outras a exceção; COMO EU VOU ADIVINHAR ???
+Reportar abuso
+Ajudou (352) Não ajudou
+Gilmar Freitas Da Silva Junior
+11 de abril de 2024 às 14:43
+Quanto à regra e exceção é só pensar assim:
+Os atos praticados no processo licitatório são públicos?
+-Definitivamente sim, esta é a regra.
+Agora se perguntam: TODOS os atos praticados no processo licitatório são públicos?
+-Nesse caso, não. Nem todos são públicos, pois há atos que podem ser classificados como sigilosos.
+Reportar abuso
+Ajudou (334) Não ajudou
+Jamile
+5 de abril de 2024 às 17:50
+Segue o principio da publicidade. Nem tudo deve ser publicado, principalmente quando o sigilo é imprescindível. TEMOS QUE TER CUIDADO COM QUESTOES MUITO EXTREMISTAS
+Reportar abuso
+Ajudou (51) Não ajudou
+Viviane Souza De Farias
+24 de março de 2024 às 09:44
+@Murilo, esse é o trabalho da banca. Nós temos que saber a regra e a exceção, não tem outro jeito.
+Reportar abuso
+Ajudou (32) Não ajudou
+Página 1 de 5
+7
+Q3134872
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista de Sistemas da Informação - 2024
+Texto associado
+Julgue os itens a seguir, relativos à inteligência artificial (IA).
+Em machine learning, os sistemas podem usar aprendizado do tipo supervisionado, não supervisionado, autônomo ou gerenciado.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+69.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rodrigostoso
+25 de fevereiro de 2024 às 13:47
+Errado, em Machine Learning existem 3 tipos de aprendizados: Supervisionado, Não Supervisionado e Por reforço...
+
+Reportar abuso
+Ajudou (35) Não ajudou
+AS
+Alexandre Silva Sousa
+3 de abril de 2024 às 18:20
+Hoje em dia se fala até em 5 tipos principais de aprendizado em machine learning:
+Supervisionado
+Não supervisionado
+Semissupervisionado
+Por reforço
+Por transferência
+Reportar abuso
+Ajudou (18) Não ajudou
+Tiago Rocha
+11 de junho de 2024 às 21:22
+ERRADO, são apenas SUPERVISIONADO, NÃO SUPERVISIONADO, MISTO- SEMI SUPERVISIONADO, e POR REFORÇO.
+Reportar abuso
+Ajudou (3) Não ajudou
+8
+Q3128927
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+No que se refere à logística reversa, julgue os seguintes itens.
+A logística reversa relaciona-se com a proteção ao meio ambiente, pois propicia a reutilização de produtos e o aumento da reciclagem.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+87.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Manuella O Nascimento
+30 de janeiro de 2024 às 16:41
+CERTO
+Tipos de logística
+INTEGRADA envolve desde a matéria-prima até o produto final
+REVERSA retorno de produtos para reciclagem ou descarte adequado
+Reportar abuso
+Ajudou (92) Não ajudou
+Adolfo
+18 de março de 2024 às 18:46
+Logística Integrada: A logística integrada é um sistema que busca sincronizar a cadeia de suprimentos como um todo, desde a obtenção da matéria-prima até a entrega do produto final ao consumidor. Ela envolve a coordenação de várias ati-vidades, como compras, produção, armazenamento, transporte e distribuição. O objetivo é otimizar as operações, reduzir custos, melhorar a eficiência e garantir a satisfação do cliente.
+Logística Reversa: A logística reversa é o processo de planejamento, implemen-tação e controle do fluxo de produtos pós-consumo, sua logística e informações relacionadas desde o ponto de consumo até o ponto de origem. O objetivo é re-capturar valor ou realizar a disposição final adequada. Isso pode envolver a devo-lução de produtos para reciclagem, reutilização, remanufatura ou descarte ade-quado. A logística reversa é uma parte importante da responsabilidade ambiental e é cada vez mais relevante na economia circular moderna.
+
+Reportar abuso
+Ajudou (41) Não ajudou
+9
+Q3129583
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão e Acompanhamento de Projetos e Programas em CT&I - 2024
+Texto associado
+Acerca da análise de dados para tomada de decisão, da capacitação tecnológica e da competitividade, julgue o item a seguir.
+Business intelligence (BI) pode ser definido corretamente como um conjunto de tecnologias que dão suporte a decisões gerenciais por meio de informações internas e externas às organizações, tendo grande impacto na estratégia corporativa, na performance e na competitividade.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+94.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rodrigostoso
+25 de fevereiro de 2024 às 13:44
+Correto, BI é uma ferramenta/processo para inteligência de negócio
+
+Reportar abuso
+Ajudou (11) Não ajudou
+Quiteria Nascimento Dos Santos
+1 de junho de 2024 às 18:01
+A Business Intelligence BI é um método de melhorar a tomada de decisão baseada na análise de dados, que são coletados a partir de fontes internas e externas. É por isso que ela se tornou um recurso tão importante em uma vasta gama de empresas.
+Reportar abuso
+Ajudou (5) Não ajudou
+10
+Q3128841
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração de Pessoal - 2024
+Texto associado
+A lawyer used ChatGPT to prepare a court filing. It went horribly awry.
+A lawyer who relied on ChatGPT to prepare a court filing on behalf of a man suing an airline is now all too familiar with the artificial intelligence (AI) tool’s shortcomings — including its propensity to invent facts.
+Roberto Mata sued Colombian airline Avianca last year, alleging that a metal food and beverage cart injured his knee on a flight to Kennedy International Airport in New York. When Avianca asked a Manhattan judge to dismiss the lawsuit based on the statute of limitations, his lawyer submitted a brief based on research done by ChatGPT.
+While ChatGPT can be useful to professionals in numerous industries, including the legal profession, it has proved itself to be both limited and unreliable. In this case, the AI invented court cases that didn’t exist, and asserted that they were real. The fabrications were revealed when Avianca’s lawyers approached the case’s judge, saying they couldn’t locate the cases cited in Mata’s lawyers’ brief in legal databases.
+“It seemed clear when we didn’t recognize any of the cases in their opposition brief that something was amiss,” said the airline’s lawyer. And soon they figured it was some sort of chatbot of some kind. On the other hand, the passenger’s lawyer said that it was the first time he’d used ChatGPT for work and, therefore, he was unaware of the possibility that its content could be false.
+
+Internet: <www.cbsnews.com> (adapted).
+
+Based on the preceding text, judge the items that follow.
+The sentence “And soon they figured it was some sort of chatbot” can be correctly rephrased as And, before long, they realized it was some form of chatbot.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+64.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Raquel
+3 de fevereiro de 2024 às 16:21
+Before long = in the near future, soon
+
+Reportar abuso
+Ajudou (17) Não ajudou
+JG
+João Guilherme Rocha De Albuquerque
+31 de janeiro de 2024 às 12:57
+Entendo como errada. Before long=muito antes. E soon significa logo. Dessa forma, não poderia ser reescrita conforme proposto. Gabarito Errado para mim.
+Reportar abuso
+Ajudou (10) Não ajudou
+Ryukko
+7 de novembro de 2024 às 08:30
+joão guilherme, na verdade, before long, numa tradução mais direta seria "antes de muito tempo", ou, refraseando, "não muito depois", que passa sim a ideia de soon (logo após)
+Reportar abuso
+Ajudou (8) Não ajudou
+Monique Da Costa Sandin Bartole
+23 de fevereiro de 2024 às 12:35
+Berore long = soon; next; ready; betimes (= logo)
+Reportar abuso
+Ajudou (5) Não ajudou
+MN
+Marcella Niro Vargas Dutra
+1 de fevereiro de 2024 às 15:18
+Também entendo como errada, queria saber pq está correta?
+
+Reportar abuso
+Ajudou (3) Não ajudou
+Página 1 de 2
+11
+Q3128963
+Administração de Recursos Materiais Gestão Patrimonial
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+Julgue os próximos itens, relativos a recursos patrimoniais.
+Apenas imóveis de propriedade da União, das fundações públicas e das autarquias federais são cadastrados no sistema de gerenciamento dos imóveis de uso especial da União (SPIU).
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+83.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Matheus Pereira Costa
+31 de janeiro de 2024 às 15:38
+Adm direta e indireta, ou seja as Empresas públicas e Sociedade de economia mista também.
+Reportar abuso
+Ajudou (139) Não ajudou
+Camilla Bruna Dias De Souza
+4 de março de 2024 às 05:53
+Errado
+São cadastrados no sistema SPIU imóveis de propriedade da administração direta e indireta, incluindo empresas públicas e de economia mista.
+Sistema de gerenciamento dos imóveis de uso especial da União (SPIU)
+Reportar abuso
+Ajudou (71) Não ajudou
+Mauricio Da Rosa Vollino
+13 de março de 2024 às 16:25
+Errado.
+
+Sistema de Gerenciamento dos Imóveis de Uso Especial da União - SPIUnet:
+
+2 - Conceitos
+Imóveis de Uso Especial da União - São os imóveis de propriedade da União, os imóveis de terceiros que a União utiliza, os imóveis de propriedade das Fundações e Autarquias e os imóveis das Empresas Estatais dependentes, nos termos da Lei Complementar n.º 101, de 04 de maio de 2000, de acordo com a Portaria Interministerial Nº 322 de 23 de agosto de 2001, publicada no Diário Oficial no dia 27 de agosto, Ministério da Fazenda, Seção 1.
+
+Reportar abuso
+Ajudou (46) Não ajudou
+12
+Q3129852
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área Gestão Orçamentária e Financeira - 2024
+Texto associado
+A lawyer used ChatGPT to prepare a court filing. It went horribly awry.
+A lawyer who relied on ChatGPT to prepare a court filing on behalf of a man suing an airline is now all too familiar with the artificial intelligence (AI) tool’s shortcomings — including its propensity to invent facts.
+Roberto Mata sued Colombian airline Avianca last year, alleging that a metal food and beverage cart injured his knee on a flight to Kennedy International Airport in New York. When Avianca asked a Manhattan judge to dismiss the lawsuit based on the statute of limitations, his lawyer submitted a brief based on research done by ChatGPT.
+While ChatGPT can be useful to professionals in numerous industries, including the legal profession, it has proved itself to be both limited and unreliable. In this case, the AI invented court cases that didn’t exist, and asserted that they were real. The fabrications were revealed when Avianca’s lawyers approached the case’s judge, saying they couldn’t locate the cases cited in Mata’s lawyers’ brief in legal databases.
+“It seemed clear when we didn’t recognize any of the cases in their opposition brief that something was amiss,” said the airline’s lawyer. And soon they figured it was some sort of chatbot of some kind. On the other hand, the passenger’s lawyer said that it was the first time he’d used ChatGPT for work and, therefore, he was unaware of the possibility that its content could be false.
+
+Internet: <www.cbsnews.com> (adapted).
+
+Based on the preceding text, judge the items that follow.
+It is correct to infer from the text that, due to the lawyer’s expertise, he had used ChatGPT for work before.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+64.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ruthyele
+19 de março de 2024 às 09:23
+a alternativa é falsa porque de acordo com o texto era a primeira vez que ele havia usado o ChatGPT
+
+the passenger’s lawyer said that it was the first time he’d used ChatGPT for work and, therefore, he was unaware of the possibility that its content could be false.
+Reportar abuso
+Ajudou (19) Não ajudou
+13
+Q3419666
+Administração de Recursos Materiais Centralização ou Descentralização
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+Em relação às compras nas organizações públicas, julgue os itens subsequentes.
+Entre as vantagens da centralização de compras nas organizações públicas, estão o aumento da visão sistêmica das necessidades de aquisição e o fortalecimento do poder de negociação junto aos fornecedores.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+81.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ester
+6 de novembro de 2024 às 19:48
+Aumento da visão sistêmica das necessidades de aquisição:
+Ao centralizar as compras, a organização tem uma visão mais global e integrada das suas necessidades, o que facilita o planejamento e evita compras desnecessárias ou duplicadas. Isso permite uma gestão mais eficiente dos recursos e maior controle sobre o que está sendo adquirido.
+
+Fortalecimento do poder de negociação junto aos fornecedores:
+Quando as compras são centralizadas, a organização pode negociar em maior escala, o que normalmente resulta em melhores condições comerciais, como descontos, prazos de pagamento mais favoráveis ou condições de entrega melhores. O aumento no volume de compras tende a fortalecer o poder de barganha da instituição perante os fornecedores.
+Reportar abuso
+Ajudou (32) Não ajudou
+V
+Victoria
+16 de outubro de 2024 às 15:51
+Fortalecimento do poder de negociação junto aos fornecedores?? Essa nao seria uma característica das compras descentralizadas
+Reportar abuso
+Ajudou (14) Não ajudou
+Edilson Lima
+29 de outubro de 2024 às 06:03
+Como negociar quando se tem apenas um fornecedor? Acaba-se por perder poder de barganha.
+Reportar abuso
+Ajudou (8) Não ajudou
+Maria Eduarda Santos
+3 de janeiro de 2025 às 11:14
+Há maior poder de negociação porque se o setor de compras é centralizado, ele será responsável por fazer compras para a organização inteira, tendo pedidos maiores. Quanto maior o pedido maior o poder de barganha.
+Reportar abuso
+Ajudou (6) Não ajudou
+14
+Q3436322
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Texto II
+Um senhor que conheci fez-se uma celebridade em astronomia, com auxílio dos saraus que lhe eram oferecidos pelos amigos (...). E tudo isso com mais uns amigos dedicados a lhe oferecer bailes, por ocasião das suas portentosas descobertas nos céus ignotos, levaram o governo da Bruzundanga a nomeá-lo diretor (...).
+Para obviar tais inconvenientes, houve alguém que teve a ideia de “canalizar”, de “disciplinar” o entusiasmo do povo bruzundanguense, entusiasmo tão necessário às manifestações que lá há constantemente, e tão indispensáveis são ao fabrico de grandes homens que dirijam os destinos da grande e formosa República (...).
+Lima Barreto. Os bruzundangas. Brasília: Editora Universidade de Brasília, Coleção Biblioteca Básica Brasileira, 2023, p. 106 (com adaptações).
+
+No que se refere aos sentidos e aos aspectos linguísticos do texto II, julgue (C ou E) os itens seguintes.
+No segmento “nos céus ignotos” (segundo período do primeiro parágrafo), para expressar a natureza desconhecida do firmamento, o narrador atribui aos “céus” uma qualidade intrinsecamente humana.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+64.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+LL
+Leandro L
+26 de setembro de 2024 às 10:32
+Ignoto é um adjetivo que significa desconhecido, ignorado, obscuro ou incógnito.
+Reportar abuso
+Ajudou (156) Não ajudou
+Andre2
+9 de outubro de 2024 às 15:23
+O erro não tem a ver com o significado de "ignoto" (incógnito), mas sim com a "qualidade intrinsecamente humana" - inerente/própria.
+
+Reportar abuso
+Ajudou (112) Não ajudou
+Robson Oliveira
+6 de janeiro de 2025 às 10:46
+No segmento “nos céus ignotos”, o narrador não atribui uma qualidade intrinsecamente humana aos “céus”. A palavra “ignotos” significa desconhecido, mas não é uma qualidade exclusivamente humana. Portanto, a afirmação de que o narrador atribui uma qualidade intrinsecamente humana aos “céus” está incorreta.
+Reportar abuso
+Ajudou (4) Não ajudou
+15
+Q3178997
+Administração de Recursos Materiais Administração de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Técnico Ministerial - Área Assistente Administrativo - 2024
+Texto associado
+A respeito da gestão de estoques nas organizações, julgue os itens seguintes.
+Os materiais perecíveis podem ser considerados críticos por problemas de armazenagem ou transporte.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+88.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Mauricio Da Rosa Vollino
+13 de março de 2024 às 17:37
+Certo.
+
+Itens perecíveis perdem suas propriedades físico-químicas rapidamente:
+Vacinas
+Alimentos
+Testes laboratoriais
+
+São itens que devem ser aproveitados o quanto antes. Assim, sua armazenagem e transporte devem ser cuidadosamente calculados por serem considerados materiais críticos de difícil manuseio/ transporte/ estoque.
+Reportar abuso
+Ajudou (135) Não ajudou
+16
+Q3340568
+Administração de Recursos Materiais Vedação de Licitação
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Técnico Judiciário - Área: Administrativa - 2024
+Texto associado
+Julgue os itens subsecutivos, a respeito de compras nas organizações públicas.
+É vedado à administração pública realizar licitação restrita a fornecedores cadastrados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+73.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Joelma Mendonça De Sousa
+3 de agosto de 2024 às 10:00
+Lei 14.133/21
+
+Art. 87. Para os fins desta Lei, os órgãos e entidades da Administração Pública deverão utilizar o sistema de registro cadastral unificado disponível no Portal Nacional de Contratações Públicas (PNCP), para efeito de cadastro unificado de licitantes, na forma disposta em regulamento.
+[....]
+§ 3º A Administração poderá realizar licitação restrita a fornecedores cadastrados, atendidos os critérios, as condições e os limites estabelecidos em regulamento, bem como a ampla publicidade dos procedimentos para o cadastramento.
+Reportar abuso
+Ajudou (109) Não ajudou
+17
+Q3232469
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Projetos, Construção e Montagem Júnior - Área Instrumentação - 2024
+Texto associado
+Texto CB1A1-I
+Dizer que o petróleo é um elemento de influência nas relações geopolíticas contemporâneas é repetir o óbvio. Desde que ele se tornou a matriz energética básica da sociedade industrial e o elemento fundamental para o funcionamento da economia moderna, ter ou controlar as fontes de petróleo e as rotas por onde ele é transportado representa questão de vida ou morte para as sociedades contemporâneas.
+Quando pensamos na geopolítica do petróleo neste início do século XXI, o primeiro fato que nos vem à mente são os conflitos do Oriente Médio, como a guerra Irã-Iraque e a guerra do Golfo em 1990-1991. Reduzir esses conflitos ao elemento “petróleo” seria um erro, pois questões outras estavam e estão envolvidas. Contudo, não se deve esquecer que aí estão as maiores reservas petrolíferas do mundo.
+No entanto, se examinarmos com alguma atenção as notícias do dia a dia, veremos como o problema do petróleo dentro da geopolítica contemporânea não é algo que afeta apenas os países do Oriente Médio. A busca pelo “ouro negro” está tendo impacto em outras regiões do mundo.
+Em nível menor, países como o Brasil têm enfrentado os mesmos problemas das maiores potências no que se refere a suprir suas necessidades energéticas, e isso tende apenas a piorar. Aqui cabe uma reflexão sobre os efeitos geopolíticos da futura mudança da matriz energética global. Mesmo sendo algo pouco provável em curto e médio prazo, o próprio esgotamento do petróleo vai obrigar a economia global a convocar outras fontes de energia, como a nuclear ou as células de hidrogênio. As alterações na sociedade global que tal mudança provocará serão, evidentemente, imensas, mas ninguém parece ainda ter refletido a contento sobre seus impactos geopolíticos.
+João Fábio Bertonha. Notas sobre a geopolítica do petróleo no século XXI. In: Boletim de Análise de Conjuntura em Relações Internacionais, n.º 58, p. 9-10, 2005 (com adaptações).
+Acerca dos sentidos e de aspectos linguísticos do texto CB1A1-I, julgue os itens a seguir.
+Conforme a perspectiva defendida no texto, a questão petrolífera é o cerne da origem dos conflitos entre nações que ainda ocorrem em diferentes regiões do mundo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+58.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+LB
+Lucas Bessa De Araujo
+20 de abril de 2024 às 13:28
+Reduzir esses conflitos ao elemento “petróleo” seria um erro, pois questões outras estavam e estão envolvidas.
+Reportar abuso
+Ajudou (201) Não ajudou
+Essena
+9 de maio de 2024 às 10:47
+ERRADO. A perspectiva defendida no texto não afirma que a questão petrolífera é o único ou principal fator causador dos conflitos entre nações.
+O autor reconhece que outros fatores também estão envolvidos nos conflitos, como no Oriente Médio, onde "questões outras estavam e estão envolvidas".
+Pontos-chave do texto que sustentam essa conclusão:
+Parágrafo 2: "Reduzir esses conflitos ao elemento 'petróleo' seria um erro, pois questões outras estavam e estão envolvidas."
+Parágrafo 3: "No entanto, se examinarmos com alguma atenção as notícias do dia a dia, veremos como o problema do petróleo dentro da geopolítica contemporânea não é algo que afeta apenas os países do Oriente Médio."
+Parágrafo 4: "Em nível menor, países como o Brasil têm enfrentado os mesmos problemas das maiores potências no que se refere a suprir suas necessidades energéticas, e isso tende apenas a piorar."
+Embora o petróleo seja um fator importante nos conflitos geopolíticos, o texto apresenta uma visão mais complexa e multifacetada das causas dessas guerras.
+Outras ideias importantes do texto:
+* O petróleo é fundamental para a sociedade moderna e, por isso, o controle de suas fontes e rotas de transporte é estratégico para as nações.
+* A busca por petróleo afeta diversas regiões do mundo, não apenas o Oriente Médio.
+* O esgotamento do petróleo no futuro exigirá a mudança da matriz energética global, com impactos geopolíticos ainda incertos.
+Conclusão:
+O texto apresenta uma análise crítica da geopolítica do petróleo, reconhecendo sua importância, mas também considerando outros fatores que contribuem para os conflitos internacionais. A questão petrolífera é um elemento crucial, mas não o único ou principal determinante das guerras no mundo contemporâneo.
+
+Reportar abuso
+Ajudou (101) Não ajudou
+Patricia Lima
+29 de maio de 2024 às 05:58
+Os professores nem "existem" por aqui para comentar as questões.
+Reportar abuso
+Ajudou (65) Não ajudou
+Igor Vellasco
+4 de maio de 2024 às 15:03
+O que ocorre aqui é o fenômeno da extrapolação.
+Reportar abuso
+Ajudou (32) Não ajudou
+Uriel Bicharra
+21 de maio de 2024 às 22:38
+O texto defende que a questão petrolífera é um dos fatores. Não dá pra extrapolar daí que é o cerne da origem dos conflitos.
+
+Reportar abuso
+Ajudou (30) Não ajudou
+Página 1 de 3
+18
+Q3235230
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Auxiliar Administrativo - 2024
+Texto associado
+Texto CB3A1-I
+
+Tirar cochilos durante o dia pode ajudar a manter a saúde do cérebro à medida que envelhecemos, de acordo com um novo estudo. No entanto, pesquisas anteriores mostraram que cochilar em excesso também pode ser prejudicial.
+A soneca habitual foi relacionada a um maior volume total do cérebro, que está associado a um menor risco de demência e outras doenças, de acordo com pesquisadores ingleses e uruguaios.
+“Nossas descobertas sugerem que, para algumas pessoas, cochilos curtos durante o dia podem ser uma parte do quebra-cabeça que pode ajudar a preservar a saúde do cérebro à medida que envelhecemos”, disse uma das pesquisadoras, autora de um estudo publicado na revista Science.
+Embora o estudo tenha sido “bem conduzido”, as limitações incluem o fato de que os hábitos de cochilo foram autorrelatados, disse uma renomada pesquisadora que não participou da pesquisa. “Mesmo com essas limitações, este estudo é interessante porque acrescenta dados que indicam que o sono é importante para a saúde do cérebro”, disse ela.
+Internet: <https://www.cnnbrasil.com.br> (com adaptações)
+Julgue os itens que se seguem, relativos às ideias do texto CB3A1-I.
+Cochilos curtos podem ser benéficos para uma parcela da população, segundo estudo publicado na revista Science.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+85.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Arthur Almeida Assis
+2 de maio de 2024 às 13:45
+“Nossas descobertas sugerem que, PARA ALGUMAS PESSOAS, cochilos curtos durante o dia podem ser uma parte do quebra-cabeça que pode ajudar a preservar a saúde do cérebro à medida que envelhecemos”, disse uma das pesquisadoras, autora de um estudo publicado na revista SCIENCE
+Reportar abuso
+Ajudou (50) Não ajudou
+João Gabriel
+8 de maio de 2024 às 07:44
+Descordo do gabarito.
+Para mim a alternativa extrapola o texto.
+TRECHO: “Nossas descobertas sugerem que, para algumas pessoas, cochilos curtos durante o dia podem ser uma parte do quebra-cabeça que pode ajudar a preservar a saúde do cérebro à medida que envelhecemos”, disse uma das pesquisadoras, autora de um estudo publicado na revista Science.
+QUESTÃO: "Cochilos curtos podem ser benéficos para uma parcela da população, segundo estudo publicado na revista Science"
+MINHA OPINIÃO: quem disse que o estudo publicado por ela na revista Science é sobre esse assunto???
+Reportar abuso
+Ajudou (36) Não ajudou
+Antonio
+9 de junho de 2024 às 09:43
+não procurem pelo em ovo em questão da Cespe, então, vão acabar errando mesmo.
+Reportar abuso
+Ajudou (27) Não ajudou
+Daniel Silva
+28 de maio de 2024 às 20:04
+para algumas pessoas, cochilos curtos durante o dia podem ser uma parte do quebra-cabeça que pode ajudar a preservar a saúde do cérebro à medida que envelhecemos”,
+
+para uma parcela da população,
+Reportar abuso
+Ajudou (13) Não ajudou
+Showmaker
+30 de junho de 2024 às 10:11
+Segundo uma pesquisadoras, não segundo um estudo publicado na revista Science. Eu teria marcado a alternativa ''E'' se eu fosse inocente como antigamente ao começar a estudar para concursos, sem entender como as bancas fazem questões tortas de propósito, por isso eu marquei a alternativa ''C'' porque já sinto a sensação do perigo dessas cascas de banana das bancas. Fazem de propósito e nem adianta recurso. Às vezes é melhor só seguir o fluxo e deixar os detalhes para trás.
+Reportar abuso
+Ajudou (10) Não ajudou
+Página 1 de 3
+19
+Q3129048
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Desenvolvimento e Arquitetura de Software - 2024
+Texto associado
+Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados), julgue os itens subsecutivos.
+Segundo a Lei n.º 13.709/2018, o titular dos dados pessoais tem assegurado o direto de obter informações a respeito do tratamento dos seus dados.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+99.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+FA
+Flavia Augusta Freitas De Souza
+20 de fevereiro de 2024 às 15:58
+Art. 9º O titular tem direito ao acesso facilitado às informações sobre o tratamento de seus dados, que deverão ser disponibilizadas de forma clara, adequada e ostensiva acerca de, entre outras características previstas em regulamentação para o atendimento do princípio do livre acesso:
+Reportar abuso
+Ajudou (65) Não ajudou
+RA
+Rodrigo Antonio Garcia Horta
+29 de março de 2024 às 14:41
+Art. 18. O titular dos dados pessoais tem direito a obter do controlador, em relação aos dados do titular por ele tratados, a qualquer momento e mediante requisição.
+Reportar abuso
+Ajudou (17) Não ajudou
+Nataline Oliveira
+11 de novembro de 2024 às 13:15
+Questão correta, visto que também faz link com o princípio de livre acesso
+Reportar abuso
+Ajudou (1) Não ajudou
+Róberth Solskjaer
+2 de junho de 2024 às 11:33
+CERTO
+Reportar abuso
+Ajudou (0) Não ajudou
+20
+Q3133981
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Técnico - Área Financeiro - 2024
+Texto associado
+Texto CB1A1
+
+Enquanto Singapura e Dublin lançaram suas réplicas digitais usando aprendizado de máquina para prever eventos e tendências futuras, países inteiros ainda não garantiram água potável e eletricidade para seus habitantes. Como a arquitetura reflete as sociedades, a acentuada desigualdade social em que vivemos continuará sendo refletida na arquitetura que construímos: algumas obras totalmente projetadas por inteligência artificial (IA), outras criadas manualmente e com modelos físicos em um escritório de arquitetura boutique, e a grande maioria sendo feita no local com papel e lápis, sem a intervenção direta de arquitetos. Talvez todos esses cenários coexistam na mesma cidade.
+O escritor Benjamin Labatut declarou: “se a inteligência artificial fosse capaz de pensar, teria pontos cegos; se conseguisse ser criativa, teria limites, pois limites são frutíferos; se fosse capaz de imitar nossa capacidade de raciocínio, talvez precisasse do (ou desenvolvesse o) nosso talento para a loucura. E se lhe faltasse compreensão, se não se importasse com a beleza e o horror que pode criar, então seria imprudente nos colocarmos em suas mãos.”.
+O futuro da arquitetura está na interseção entre inovação tecnológica e intenção humana. Em última instância, a agência humana — sociedade civil, políticos e partes interessadas — exerce uma influência significativa. O curso da história não está escrito em pedra, mas é moldado pelas decisões tomadas hoje, especialmente se a IA afeta nossos bolsos. A arquitetura, então, torna-se o resultado de decisões coletivas, em que os avanços da IA se cruzam com as aspirações e os valores da sociedade. É dentro desse jogo de interações que a evolução e o impacto da arquitetura encontram sua ressonância e seu significado.
+
+Nicolás Valencia. O impacto das ferramentas de inteligência artificial na arquitetura em 2024 (e além).
+Internet: <www.archdaily.com.br> (com adaptações).
+
+Com base nos sentidos e nas ideias expressos no texto CB1A1, julgue os itens a seguir.
+Depreende-se do texto que o escritor Benjamin Labatut considera que a IA é dotada de inventividade.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+73.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+C
+Cristiane
+4 de fevereiro de 2024 às 18:37
+Iventividade: Poder criador, imaginação criativa
+Benjamin, diz ao contrário:
+“se a inteligência artificial fosse capaz de pensar, teria pontos cegos; se conseguisse ser criativa.....
+Reportar abuso
+Ajudou (398) Não ajudou
+Guilherme Galdino Da Silva
+6 de fevereiro de 2024 às 21:47
+No texto, o autor Benjamin, não declara que a IA é dotada de inventividade, ele diz o contrário, de que a IA não é tão criativa quanto o homem : “se a inteligência artificial fosse capaz de pensar", "se conseguisse ser criativa". Então seria a LETRA E (Errado)
+Reportar abuso
+Ajudou (111) Não ajudou
+Raissa
+20 de fevereiro de 2024 às 16:18
+O autor diz que a IA não tem a capacidade de pensar, dessa forma, consegue-se concluir que ela não possui a inventividade, visto que essa traz a ideia de imaginação, criatividade, conceitos que dependem da capacidade de pensar.
+Reportar abuso
+Ajudou (24) Não ajudou
+Daniel Silva
+8 de fevereiro de 2024 às 21:00
+ELE DIZ CASO A A.I PUDESSE TER ESSE PODER DE SER CRIATIVO
+Reportar abuso
+Ajudou (10) Não ajudou
+H
+Humbertoct200@hotmail.com
+18 de fevereiro de 2024 às 21:59
+o gabarito da banca errou, colocou como certa e a questão errada.
+Reportar abuso
+Ajudou (5) Não ajudou
+Página 1 de 4

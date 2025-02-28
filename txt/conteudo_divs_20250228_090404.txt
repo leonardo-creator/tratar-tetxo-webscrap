@@ -1,0 +1,1047 @@
+1
+Q3436747
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Text IV
+In the middle of July, Roger was making his first ministerial speech. I did not need reminding, having drafted enough of them, how much speeches mattered — to parliamentary bosses, to any kind of tycoon. Draft after draft: the search for the supreme, the impossible, the more than Flaubertian perfection; the scrutiny for any phrase that said more than it ought to say, so that each speech at the end was bound, by the law of official inexplicitness, to be more porridge-like than when it started out in its first draft. I had always hated writing drafts for other people, and nowadays got out of it. To Hector, to Douglas, it was part of the job, which they took with their usual patience, their usual lack of egotism: when a minister crossed out their sharp, clear English and went in for a literary composition of his own, they gave a wintry smile and let it stand.
+
+C. P. Snow. Corridors of Power. London: Penguin Books, 1972, p. 31.
+Considering the grammatical and semantic aspects of text IV, judge whether the following statements are right (C) or wrong (E).
+The text suggests that, when their original drafts were modified by a minister, Hector and Douglas would stand up to him and insist on retaining the sharp, clear English of the original.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+36.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriel Moccellin
+23 de dezembro de 2024 às 14:51
+O gabarito está incorreto.
+A passagem "their usual lack of egotism: when a minister crossed out their sharp, clear English and went in for a literary composition of his own, they gave a wintry smile and let it stand." (última sentença) claramente indica que Hector e Douglas cediam facilmente em relação as alterações propostas pelos ministros.
+Reportar abuso
+Ajudou (6) Não ajudou
+2
+Q3143167
+Língua Inglesa Advérbios e conjunções | Adverbs and conjunctions
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Pesquisador - Área: Processamento de Sinais Língua Inglesa - 2024
+Texto associado
+Does Snoozing Your Alarm Really Increase Sleepiness?
+
+Snoozing the alarm doesn’t necessarily mean you’ll feel groggy the rest of the day. But it’s important to get as much sleep as you can. Getting up early in the morning is no easy task for plenty of people. That’s why alarms are important — they ensure that you wake up at your desired time. However, nobody can deny how tempting it is to try and squeeze in a few more minutes of sleep.
+According to a survey, about 57 percent of people snooze in the morning, which is defined as needing multiple alarms to wake up. If you set a single alarm and snooze it repeatedly or set several alarms at regular intervals until the time you absolutely need to get up, you are a snoozer. Waking up on the first alarm is commonly recommended, but does it really make a difference if you are woken up by one alarm compared to several ones? In a recent sleep study, researchers examine how snoozing affects an individual’s health and sleep.
+According to the study, people snooze for a variety of reasons. Most of the participants said that they just can’t get up with only the first alarm. Some say they snooze because they feel comfortable in bed, while others do it because they feel less tired when they do get up. A researcher said that snoozing might be a sign that people are waking up because of important scheduled activities — like school or work — rather than because they have adequately rested.
+
+Internet: <www.discovermagazine.com> (adapted).
+
+According to the preceding text, judge the following items.
+The adverb “However” (last sentence of the first paragraph), can be correctly replaced by Therefore, without changing the meaning of the text.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+62.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+NC
+Natalya Carvalho Souza
+24 de fevereiro de 2024 às 11:51
+Sinônimos de HOWEVER:
+nevertheless
+nonetheless
+notwithstanding
+still
+yet
+
+SINÔNIMOS DE THEREFORE
+accordingly
+so
+then
+thus
+Strong matches
+consequently
+hence
+thence
+Reportar abuso
+Ajudou (31) Não ajudou
+Tamiris Custodio
+30 de abril de 2024 às 16:05
+However= contraste Therefore= consequência
+Reportar abuso
+Ajudou (9) Não ajudou
+Felipe Brasil Pereira
+22 de maio de 2024 às 08:09
+Therefore: Sentido conclusivo.
+Reportar abuso
+Ajudou (1) Não ajudou
+Karina Freire D Eca Nogueira Santos Dos Reis
+26 de dezembro de 2024 às 15:43
+However = nevertheless, nonetheless, conversely, but, on the other hand, though, whereas/while, still, yet.
+Therefore = consequently, thus, hence, as a result, for that reason, so, then..
+Reportar abuso
+Ajudou (0) Não ajudou
+3
+Q3232458
+Administração de Recursos Materiais Cadastro e Seleção de Fornecedores
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Suprimentos de Bens e Serviços Júnior - Área Administração - 2024
+Texto associado
+As empresas compradoras de matéria-prima necessitam ter um cadastro de fornecedores alinhados aos bons resultados das entregas. Logo, ter uma carteira de fornecedores que apresente um histórico dos materiais já fornecidos, com um sistema de informação que apresente, principalmente, os indicadores de desempenho de preço, técnica, retorno econômico e desconto, fortalece o processo de escolha de seus fornecedores. Considerando a seleção e a avaliação de fornecedores, julgue os itens subsequentes.
+Empresas privadas podem atribuir ao seu colaborador ocupante do cargo de comprador o ato discricionário de selecionar os fornecedores para solicitar o envio de pedido de proposta de preço, o que caracteriza um critério estabelecido para seleção de fornecedores.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+83.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+TL
+Thairine Lisboa Monteiro
+19 de setembro de 2024 às 14:47
+Devem prevalecer na escolha do fornecedor selecionado determinados critérios, como preço,
+qualidade do material a ser fornecido, condições de pagamento, possíveis descontos, prazos
+de entrega, confiabilidade quanto a prazos etc. O preço costuma ser o referencial mais
+importante na seleção dos fornecedores, quando os demais critérios são igualmente
+atendidos pelos outros.
+
+Fonte: resenhando Ponto Juris
+Reportar abuso
+Ajudou (18) Não ajudou
+Naiane Mota De Oliveira
+26 de dezembro de 2024 às 21:14
+Sim, o preço é um dos critérios para selecionar um fornecedor.
+Reportar abuso
+Ajudou (4) Não ajudou
+4
+Q3128819
+Administração Financeira e Orçamentária - AFO Plano Plurianual na CF/88
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista de Infraestrutura de Tecnologia da Informação - 2024
+Texto associado
+No que se refere à administração pública, seu orçamento e suas boas práticas, julgue os itens a seguir.
+O elemento organizativo central do plano plurianual (PPA) é o programa, que consiste em um conjunto articulado de ações orçamentárias, na forma de projetos, atividades e operações especiais, e ações não orçamentárias, com intuito de alcançar um objetivo específico.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jemima Raulino Da Conceição
+1 de março de 2024 às 15:52
+GABARITO: CERTO
+
+O item está correto. O elemento organizativo central do Plano Plurianual (PPA) é o programa. Um programa é um conjunto articulado de ações orçamentárias, incluindo projetos, atividades e operações especiais, além de ações não orçamentárias, todos direcionados para alcançar um objetivo específico. O PPA é o instrumento de planejamento de médio prazo que estabelece as diretrizes, os objetivos e as metas da administração pública para um período de quatro anos.
+
+LEMBRANDO (porque as Bancas adoram esse tema)
+ATIVIDADE= PERMANENTE
+PROJETO= TEMPORÁRIO
+OPERAÇÕES ESPECIAIS: NÃO GERAM UM BEM OU SERVIÇO no processo produtivo (SÃO DESPESAS DE AGREGAÇÃO NEUTRA)
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+Em outras palavras: MNEMÔNICO:
+ATIVIDADE FÍSICA= tem que ser pra vida toda, PERMANENTE
+PROJETO de PASSAR NO CONCURSO = TEMPORÁRIO
+OP. ESPECIAIS = DESPESAS DE AGREGAÇÃO NEUTRA (nem fede, nem cheira).
+Fonte: QC
+..................................................................................................................................................................................................................
+..................................................................................................................................................................................................................
+Não to mandei eu? ESFORÇA-TE, e tem bom ânimo;
+NÃO temas, nem te espantes;
+porque o Senhor teu Deus é contigo,
+por onde quer que andares.
+Josué 1:9
+
+Reportar abuso
+Ajudou (583) Não ajudou
+Natalia Ferreira Cintra
+22 de abril de 2024 às 19:07
+Correto.
+O PPA estabelece um programa. E programa pode ser definido como um conjunto de politicas públicas financiadas por ações orçamentárias ou não orçamentarias. As ações podem ser: projetos, atividades ou operações especiais.
+Reportar abuso
+Ajudou (96) Não ajudou
+Tatiana De Oliveira De Almeida
+9 de setembro de 2024 às 15:41
+Sobre a primeira parte do enunciado, não há dúvida: o programa é o elemento organizativo central do PPA.
+
+A segunda parte do enunciado não elenca o que consta ou não do PPA, mas apresenta a definição de "Programa", que também está correta.
+
+Conforme o Manual Técnico do Plano Plurianual 2024-2027 (MTPPA, p. 39): "os Programas representam o conjunto coordenado de ações governamentais financiadas por recursos orçamentários e não orçamentários visando à concretização do objetivo".
+
+Parece que a questão foi baseada no livro do Giacomoni (2012, p. 101, 102):
+
+"O elemento organizativo central do PPA é o Programa, entendido como um conjunto articulado de ações orçamentárias, na forma de projetos, atividades e operações especiais, e ações não orçamentárias, com intuito de alcançar um objetivo específico. [...]".
+Reportar abuso
+Ajudou (39) Não ajudou
+Ana
+13 de junho de 2024 às 21:58
+Eu achei que as operações especiais não constassem do PPA.
+Reportar abuso
+Ajudou (39) Não ajudou
+Priscila
+20 de junho de 2024 às 13:19
+O principal instrumento de planejamento orçamentário de médio prazo do Governo Federal é o Plano Plurianual (PPA). Ele define as diretrizes, os objetivos e as metas da administração pública federal, contemplando as despesas de capital (como, por exemplo, os investimentos) e outras delas decorrentes, além daquelas relativas aos programas de duração continuada. O PPA é estabelecido por lei, com vigência de quatro anos. Ele se inicia no segundo ano de mandato de um presidente e se prolonga até o final do primeiro ano do mandato de seu sucessor.
+Reportar abuso
+Ajudou (14) Não ajudou
+Página 1 de 3
+5
+Q3436386
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Texto V
+Quando os jornais anunciaram para o dia 1.º deste mês uma parede de açougueiros, a sensação que tive foi muito diversa da de todos os meus concidadãos. Vós ficastes aterrados; eu agradeci o acontecimento ao céu. Boa ocasião para converter esta cidade ao vegetarismo.
+Não sei se sabem que eu era carnívoro por educação e vegetariano por princípio. Criaram-me a carne, mais carne, ainda carne, sempre carne. Quando cheguei ao uso da razão e organizei o meu código de princípios, incluí nele o vegetarismo; mas era tarde para a execução. Fiquei carnívoro. Era a sorte humana; foi a minha. Não importa, o homem é carnívoro.
+Deus, ao contrário, é vegetariano. Para mim, a questão do paraíso terrestre explica-se clara e singelamente pelo vegetarismo. Deus criou o homem para os vegetais, e os vegetais para o homem.
+Enfim, chegou o dia 1.º de março; quase todos os açougues amanheceram sem carne. Chamei a família; com um discurso mostrei-lhe que a superioridade do vegetal sobre o animal era tão grande, que devíamos aproveitar a ocasião e adotar o são e fecundo princípio vegetariano. Ervas, ervas santas, puras, em que não há sangue; todas as variedades das plantas, que não berram nem esperneiam, quando lhes tiram a vida. Convenci a todos; não tivemos almoço nem jantar, mas dois banquetes. Nos outros dias a mesma cousa.
+O vegetarismo é pai dos simples. Os vegetarianos não se batem; têm horror ao sangue. Eu não me dou por apóstolo único desta grande doutrina. Creio até que os temos aqui, anteriores a mim, e, — singular aproximação! — no próprio conselho municipal. Só assim explico a nota jovial que entra em alguns debates sobre assuntos graves e gravíssimos.
+Machado de Assis. Carnívoros e vegetarianos. In: A Semana, 1892 (com adaptações).
+Considerando as ideias e os aspectos linguísticos do texto V, julgue (C ou E) os itens subsequentes.
+Na narrativa, a deflagração de um movimento paredista dos açougueiros é a situação que oportuniza ao narrador apresentar uma análise crítica de hábitos alimentares junto aos familiares.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+81.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MP
+Miguel Pereira Barros
+11 de outubro de 2024 às 08:39
+"Enfim, chegou o dia 1.º de março; quase todos os açougues amanheceram sem carne. Chamei a família; com um discurso mostrei-lhe que a superioridade do vegetal sobre o animal era tão grande, que devíamos aproveitar a ocasião e adotar o são e fecundo princípio vegetariano. Ervas, ervas santas, puras, em que não há sangue; todas as variedades das plantas, que não berram nem esperneiam, quando lhes tiram a vida. Convenci a todos; não tivemos almoço nem jantar, mas dois banquetes. Nos outros dias a mesma cousa".
+
+Pelos trechos destacados, percebe-se que o autor utilizou do protesto realizado pelos açougues como uma forma de embasar o seu discurso contra o consumo de carne e em prol de uma alimentação vegetariana. Gabarito: certo.
+Reportar abuso
+Ajudou (2) Não ajudou
+Alberto Oliveira
+13 de janeiro de 2025 às 20:00
+Movimento paredista me pegou
+Reportar abuso
+Ajudou (0) Não ajudou
+Y
+Yan
+11 de novembro de 2024 às 09:30
+Certo.
+
+1° Parágrafo: Quando os jornais anunciaram para o dia 1.º deste mês uma parede de açougueiros, a sensação que tive foi muito diversa da de todos os meus concidadãos. Vós ficastes aterrados; eu agradeci o acontecimento ao céu. Boa ocasião para converter esta cidade ao vegetarismo.
+4º Parágrafo: (...) Chamei a família; com um discurso mostrei-lhe que a superioridade do vegetal sobre o animal era tão grande, que devíamos aproveitar a ocasião e adotar o são e fecundo princípio vegetariano."
+Reportar abuso
+Ajudou (0) Não ajudou
+6
+Q3405829
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Médico - Área Clínica Geral - 2024
+Texto associado
+Texto CG1A1-I
+A expressão “inteligência artificial” é muito popular, tanto
+na literatura técnica quanto no imaginário popular. A sociedade
+se espanta com os prometidos ganhos em bem-estar e
+produtividade e se apavora com perspectivas apocalípticas
+relacionadas à inteligência artificial. Em muitos casos, o que se
+observa é a confusão entre inteligência artificial e toda e qualquer
+atividade que envolve aparelhos digitais. Muitas inovações
+recentes creditadas à inteligência artificial decorrem
+simplesmente da automatização de tarefas cotidianas ou do uso
+de tecnologias dominadas há algum tempo.
+É preciso filtrar um pouco os excessos e procurar se ater
+aos pontos que caracterizam mais fortemente as inteligências
+artificiais, mesmo que tenhamos uma definição vaga de
+inteligência artificial. Um agente inteligente, de forma geral, deve
+ser capaz de representar conhecimento e incerteza; de raciocinar;
+de tomar decisões; de aprender com experiências e instruções; de
+se comunicar e interagir com pares e com o mundo. Embora
+alguém possa imaginar cérebros biológicos artificiais, hoje toda a
+ação em inteligência artificial está centrada em computadores
+digitais construídos a partir de silício.
+Fabio G. Cozman e Hugo Neri. O que, afinal, é inteligência artificial?
+In: Fabio G. Cozman, Guilherme Ary Plonski e Hugo Neri (orgs).
+Inteligência artificial: avanços e tendências.
+São Paulo: Instituto de Estudos Avançados, 2021, p. 22-23 (com adaptações).
+Com base nas ideias do texto CG1A1-I, julgue os itens a seguir.
+Entende-se do texto que as pessoas, em geral, têm uma definição pouco precisa de inteligência artificial.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+83.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Andre2
+15 de setembro de 2024 às 17:25
+"A sociedade se espanta com os prometidos ganhos... se apavora com perspectivas apocalípticas relacionadas à inteligência artificial. Em muitos casos, o que se observa é a confusão entre inteligência artificial e toda e qualquer atividade que envolve aparelhos digitais."
+Reportar abuso
+Ajudou (9) Não ajudou
+Renata
+20 de setembro de 2024 às 11:00
+Bom dia, colegas!
+
+Gabarito: C
+
+" É preciso filtrar um pouco os excessos e procurar se ater aos pontos que caracterizam mais fortemente as inteligências artificiais, mesmo que tenhamos uma definição vaga de inteligência artificial."
+
+Foco na aprovação!
+Reportar abuso
+Ajudou (5) Não ajudou
+Rf
+8 de setembro de 2024 às 21:02
+Very easy
+Reportar abuso
+Ajudou (1) Não ajudou
+7
+Q3134558
+Administração de Recursos Materiais Inventários
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista Técnico - 2024
+Texto associado
+A respeito de gestão patrimonial, julgue os itens a seguir.
+O inventário de bens pode ser realizado de forma parcial, voltado ao controle de um subconjunto de bens da organização.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+86.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Alexandre Miranda Da Silva
+18 de dezembro de 2024 às 10:23
+A afirmativa está CORRETA. O inventário de bens pode ser realizado de forma parcial, focando em um subconjunto específico de bens da organização. Essa abordagem pode ser adotada por diversos motivos, como:
+Categoria de Bens: focar em categorias específicas, como equipamentos de informática, mobiliário ou veículos.
+Valor dos Bens: concentrar-se em bens de alto valor para garantir um controle mais rigoroso.
+Localização: realizar inventários em locais específicos, como diferentes filiais ou departamentos.
+Periodicidade: implementar inventários rotativos, onde diferentes conjuntos de bens são contados em diferentes períodos.
+A realização de inventários parciais pode aumentar a eficiência do processo, reduzir custos e minimizar a interrupção das operações diárias da organização. Além disso, permite uma verificação mais detalhada e frequente dos bens mais críticos ou de maior valor, contribuindo para uma gestão patrimonial mais eficaz.
+Reportar abuso
+Ajudou (10) Não ajudou
+8
+Q3235087
+Administração de Recursos Materiais Layout de Armazenagem
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Agente Administrativo - 2024
+Texto associado
+Julgue os próximos itens, relativos à administração de patrimônio, materiais e logística.
+Em um almoxarifado, deve-se buscar a menor quebra de espaço possível.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+83.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Christian Maciel
+5 de dezembro de 2024 às 16:00
+Quebra de espaço é a perda de espaço
+Reportar abuso
+Ajudou (28) Não ajudou
+J
+Jaqueline
+10 de janeiro de 2025 às 14:57
+Correto.
+Quebra de espaço são todos os espaços perdidos para a armazenagem existentes entre e ao redor dos lotes de carga armazenada
+Reportar abuso
+Ajudou (10) Não ajudou
+Bruna Kezya Silva De Oliveira
+8 de janeiro de 2025 às 15:10
+Certo.
+
+Em um almoxarifado, o objetivo é otimizar o uso do espaço para maximizar a capacidade de armazenamento e facilitar o acesso aos itens armazenados. A menor quebra de espaço possível significa aproveitar ao máximo o espaço disponível, minimizando áreas ociosas ou mal aproveitadas. Isso contribui para a eficiência na gestão dos materiais, reduzindo custos e melhorando o processo logístico.
+
+Fonte: ChatGPT.
+Reportar abuso
+Ajudou (3) Não ajudou
+9
+Q3312343
+Administração de Recursos Materiais Baixa e Alienação
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+Julgue os itens subsequentes, a respeito da gestão patrimonial nas organizações públicas.
+Um dos objetivos do inventário físico é verificar que um bem móvel não é necessário em determinada unidade administrativa.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+64.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Túlio Caetano
+16 de agosto de 2024 às 23:53
+O principal objetivo do inventário físico é verificar a existência, a quantidade e o estado dos bens móveis em uma unidade administrativa. Embora o inventário possa ajudar a identificar bens que não são mais necessários, essa não é sua finalidade principal. O foco está na precisão dos registros e na gestão adequada dos ativos.
+Reportar abuso
+Ajudou (40) Não ajudou
+Fernanda Claudia Ferreira
+9 de outubro de 2024 às 14:11
+Sim, um dos objetivos do inventário físico é verificar a necessidade e a adequação dos bens móveis nas diferentes unidades administrativas. Ao realizar o inventário físico, além de conferir a quantidade e o estado dos itens em estoque ou uso, a administração também avalia se cada bem está devidamente alocado e se realmente é necessário para o funcionamento da unidade onde se encontra.
+Reportar abuso
+Ajudou (18) Não ajudou
+GC
+Gustavo César Andrade De Souza
+14 de janeiro de 2025 às 20:18
+Os inventários físicos permitem:
+1. o ajuste dos dados escriturais de saldos e movimentações dos estoques com o saldo físico real nas instalações de armazenagem;
+2. a análise do desempenho das atividades do encarregado do almoxarifado através dos resultados obtidos no levantamento físico;
+3. o levantamento da situação dos materiais estocados no tocante ao saneamento dos estoques;
+4. o levantamento da situação dos equipamentos e dos materiais permanentes em uso e das suas necessidades de manutenção e reparos; e
+5. a constatação de que o bem móvel não é necessário naquela unidade
+
+Reportar abuso
+Ajudou (4) Não ajudou
+10
+Q3163299
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Com base em obtenção, limpeza e pré-processamento de dados, julgue os próximos itens.
+O objetivo da classificação na fase de pré-processamento é o particionamento de um grupo de documentos em subgrupos, com características em comum.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+36.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rodrigostoso
+18 de março de 2024 às 11:51
+Tem mais relação com agrupamento ou clusterização!
+Reportar abuso
+Ajudou (14) Não ajudou
+CF
+Camila Fontenele
+11 de maio de 2024 às 18:02
+O agrupamento, também conhecido como clusterização, é uma técnica de mineração de dados utilizada para categorizar os dados em classes, também chamadas de clusters, de acordo com as similaridades de cada item. Desse modo, ao analisar essas classes, padrões úteis de conhecimento podem ser descobertos.
+É importante salientar que, no agrupamento, os elementos dentro de cada classe são semelhantes entre si, porém, são diferentes quando comparados a itens de outras classes.
+Reportar abuso
+Ajudou (11) Não ajudou
+CF
+Camila Fontenele
+26 de junho de 2024 às 10:30
+A classificação pode ser sintetizada por um processo de discriminação de unidades em classes ou categorias. Assim, classificam-se sabores, amigos, clientes, eventos, entre outros, em categorias, tais como: doce/salgado/neutro e legal/ilegal.
+• Em um processo de mineração de dados, a classificação está especificamente voltada à atribuição de uma das classes predefinidas pelo analista a novos fatos ou objetos submetidos à classificação.
+• CESPE (2014) destacou que com o uso da classificação como técnica de Data Mining, busca-se a identificação de uma classe por meio de múltiplos atributos.
+• Essa técnica pode ser utilizada tanto para entender dados existentes quanto para prever como novos dados irão se comportar (EURIDITIONHOME, 2004) e também pode ser usada em conjunto com outras técnicas de mineração de dados.
+Reportar abuso
+Ajudou (3) Não ajudou
+11
+Q3312304
+Administração de Recursos Materiais Estratégias do Setor de Compras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+A respeito das compras no setor público, julgue os itens subsequentes.
+Nas compras públicas, o critério do preço econômico com a obtenção de um material de qualidade deve ser preponderante ao critério do menor preço simplesmente.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+57.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ana Loiola
+3 de janeiro de 2025 às 09:49
+Gab.: Certo
+
+No que diz respeito a compras ou Licitações a administração pública deve obter a compra mais vantajosa, entretanto isso não significa comprar o que é mais barato. Portanto, é preciso haver um equilíbrio entre qualidade e baixo custo.
+Reportar abuso
+Ajudou (15) Não ajudou
+TM
+Tales Malheiros
+31 de janeiro de 2025 às 06:48
+o resposta é certa, explicação :
+Nas compras públicas, o princípio da economicidade deve ser considerado em conjunto com a qualidade do material ou serviço adquirido. Isso significa que o critério do menor preço não deve ser aplicado de forma absoluta, mas sim ponderado com fatores como durabilidade, eficiência e custo-benefício a longo prazo.
+
+Reportar abuso
+Ajudou (2) Não ajudou
+HA
+Hacmony Amaro Dos Santos Junior
+17 de janeiro de 2025 às 14:30
+ana, então seria o valor agregado não? pois este leva em conta o valor e a qualidade
+Reportar abuso
+Ajudou (0) Não ajudou
+12
+Q3175378
+Administração de Recursos Materiais Classificação de Materiais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Julgue os itens seguintes, relativos à classificação de materiais.
+A classificação de materiais segundo propriedades físico-químicas pode apoiar a setorização de almoxarifados.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Juliano
+6 de novembro de 2024 às 15:27
+Certo
+Classificar materiais com base em suas propriedades físico-químicas, pode ajudar na organização dos almoxarifados por setores.
+Por exemplo, produtos inflamáveis podem ficar em um setor isolado, longe de fontes de calor, enquanto materiais corrosivos ficam em um espaço próprio com ventilação adequada. Essa setorização evita riscos de contaminação e acidentes, além de simplificar a localização e o controle de estoque.
+
+Reportar abuso
+Ajudou (46) Não ajudou
+FD
+Fabiano De Matos
+16 de abril de 2024 às 13:11
+????????
+Reportar abuso
+Ajudou (17) Não ajudou
+JM
+Jorge Mateus
+17 de outubro de 2024 às 20:48
+A questão está falando de um dos tipos de classificação, perecibilidade. Um item perecível é aquele que sofre alterações em suas propriedades físicas e químicas ao longo do tempo, perdendo assim a qualidade e a segurança para o consumo ou uso. TIPOS DE CLASSIFICAÇÃO a) Possibilidade de fazer ou comprar; b) Quanto ao valor de consumo c) Por demanda; d) Material de consumo e permante; e) Por periculosidade; f) Dificuldade de aquisição g) Mercado Fornecedor; h) Por perecibilidade; f) Por importância operacional – Classificação XYZ; g) Materiais Críticos.
+Reportar abuso
+Ajudou (16) Não ajudou
+Demian Medeiros Pena
+12 de dezembro de 2024 às 20:51
+Certo. Há almoxarifados por setor principalmente se houver itens perigosos. Eles devem ser isolados
+Reportar abuso
+Ajudou (2) Não ajudou
+JA
+Joshua Alves
+2 de fevereiro de 2025 às 00:28
+??????
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+13
+Q3221277
+Administração de Recursos Materiais Cadastro e Seleção de Fornecedores
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+Julgue os itens a seguir, a respeito de compras nas organizações.
+Embora a diligência junto aos fornecedores não conste como requisito das funções do setor de compras de uma organização, tais funções requerem que se assegure o efetivo suprimento de materiais e serviços nas quantidades e nos prazos demandados pelos clientes internos.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+68.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Manuella O Nascimento
+16 de maio de 2024 às 11:51
+ERRADO
+Diligência = esclarecimento, correção ou sanar dúvidas.
+
+Logo, a alternativa erra em afirmar que o setor de compras não faz DILIGÊNCIA com os fornecedores.
+Reportar abuso
+Ajudou (51) Não ajudou
+Ashely
+29 de agosto de 2024 às 10:53
+DILIGÊNCIA com os fornecedores é uma responsabilidade inerente ao setor de compras para assegurar o suprimento efetivo de materiais e serviços
+Reportar abuso
+Ajudou (20) Não ajudou
+AS
+Adrianna Silveira
+1 de fevereiro de 2025 às 22:21
+A diligência está implícita no setor de compras. Essa questão é bem complicada pelo fato de não está formalmente descrita a diligencia na função do setor de compras
+Reportar abuso
+Ajudou (0) Não ajudou
+14
+Q3232494
+Administração de Recursos Materiais Custos de Pedido
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Suprimentos de Bens e Serviços Júnior - Área Administração - 2024
+Texto associado
+Tendo em vista que os estoques são guardados nos almoxarifados e requerem principalmente processos de controle de entrada, acomodação e saída da área de armazenagem, julgue os itens seguintes, acerca da gestão de estoques e almoxarifados.
+Em um sistema de controle de estoques, o momento em que se atinge o nível de estoque mínimo é considerado o mais propício para que sejam feitos os pedidos de compras para renovação dos estoques.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+67.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+MP
+Miguel Pereira Barros
+30 de maio de 2024 às 15:22
+Na verdade, o melhor momento para fazer o pedido é antes de atingir o estoque mínimo, uma vez que terá maior tempo e capacidade para processar o pedido em função da demanda da organização, assim como separar a verba necessária para pagamento.
+Reportar abuso
+Ajudou (48) Não ajudou
+Romario
+8 de agosto de 2024 às 07:04
+O momento mais propício para fazer os pedidos de compras em um sistema de controle de estoques é quando se atinge o ponto de pedido (ou ponto de reposição), e não necessariamente o estoque mínimo. O ponto de pedido é determinado levando em consideração o tempo de ressuprimento e o consumo médio do material durante esse período, de forma que os itens possam ser repostos antes de atingir o nível mínimo de estoque.
+O estoque mínimo é o limite abaixo do qual o estoque não deve cair, pois pode representar um risco de ruptura de estoque, enquanto o ponto de pedido é calculado para evitar que isso aconteça.
+Reportar abuso
+Ajudou (30) Não ajudou
+TL
+Thairine Lisboa Monteiro
+30 de maio de 2024 às 21:22
+acredito que seja no ponto de pedido
+Reportar abuso
+Ajudou (14) Não ajudou
+15
+Q3312339
+Administração de Recursos Materiais Sistema de Revisões Periódicas
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Analista Administrativo - 2024
+Texto associado
+No que se refere à gestão de estoques na administração pública, julgue os itens subsequentes.
+No sistema de reposição periódica do estoque, o pedido de compra é realizado em intervalos de tempo variáveis.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+72.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Jemima Raulino Da Conceição
+12 de agosto de 2024 às 17:44
+GABARITO: ERRADO
+
+No sistema de reposição periódica do estoque, o pedido de compra é realizado em intervalos de tempo fixos.
+A revisão do estoque e a decisão de fazer um pedido de reposição ocorrem em momentos específicos, que são definidos previamente com base em políticas de estoque estabelecidas.
+Portanto, o item mencionado está incorreto. No sistema de reposição periódica, os pedidos de compra são feitos em intervalos de tempo fixos, não variáveis. Fonte: QC
+..................................................................................................................................................
+..................................................................................................................................................
+Os que semeiam em lágrimas segarão com alegria.
+Aquele que leva a preciosa semente, andando e chorando,
+voltará, sem dúvida, com alegria,
+trazendo consigo os seus molhos.
+Salmos 126:5,6 I (Bíblia Sagrada)
+Reportar abuso
+Ajudou (29) Não ajudou
+Ashely
+30 de dezembro de 2024 às 15:45
+ERRADO
+
+No sistema de reposição periódica do estoque, o pedido de compra é realizado em intervalos de tempo FIXO.
+Reportar abuso
+Ajudou (3) Não ajudou
+Geraldo Alves
+10 de janeiro de 2025 às 19:54
+Intervalos de tempo FIXO.
+Reportar abuso
+Ajudou (0) Não ajudou
+16
+Q3143243
+Administração Financeira e Orçamentária - AFO Tipos ou Espécies de Princípios Orçamentários
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Economia Língua Inglesa - 2024
+Texto associado
+Julgue os itens subsequentes, a respeito dos princípios e das técnicas aplicadas ao orçamento público, da lei orçamentária anual (LOA) e da lei de diretrizes orçamentárias (LDO).
+O Brasil adota o princípio da exclusividade orçamentária, segundo o qual a LOA não poderá conter dispositivo estranho à previsão da receita e à fixação da despesa, ressalvando-se as hipóteses expressamente previstas na Constituição Federal de 1988.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+90.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+AM
+Anderson Meneses De Oliveira
+27 de fevereiro de 2024 às 14:48
+Gabarito: certo
+O Brasil, de fato, adota o princípio da exclusividade orçamentária (também conhecido como princípio da pureza orçamentária), que é explicitado pelo Art. 165, § 8º da CF: "A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares e contratação de operações de crédito, ainda que por antecipação de receita, nos termos da lei.
+
+Reportar abuso
+Ajudou (172) Não ajudou
+MP
+Miguel Pereira Barros
+19 de fevereiro de 2024 às 14:15
+Certo, uma vez que as exceções previstas na lei incluem a abertura de créditos suplementares, especiais ou extraordinários.
+Reportar abuso
+Ajudou (40) Não ajudou
+Guilherme Portes Lucio
+21 de março de 2024 às 12:38
+O Princípio da Exclusividade Orçamentária estabelece que o orçamento público deve se limitar à previsão de receitas e à fixação de despesas, exceto em casos específicos de créditos suplementares e operações de crédito, que devem ser adequadamente justificados e autorizados.
+Reportar abuso
+Ajudou (15) Não ajudou
+Mayara
+4 de junho de 2024 às 23:28
+as exceções incluem a abertura de credito especial, suplementar extraordinário
+
+Reportar abuso
+Ajudou (3) Não ajudou
+Antonia Da Liberdade Mourao Da Silva
+31 de dezembro de 2024 às 15:58
+PRINCÍPIO DA EXCLUSIVIDADE: Veda conteúdo estranho na LOA, sendo a exceção os créditos suplementares e operações de crédito.
+
+LOA não poderá conter conteúdo estranho à previsão de receitas e à fixação de despesas, EXCETO nos casos de créditos suplementares e operações de crédito.
+
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+17
+Q3518297
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCDF - Auditor de Controle Externo - Área: Arquivologia - 2024
+Texto associado
+Considerando o que dispõe a Lei Geral de Proteção de Dados Pessoais (LGPD), julgue os itens a seguir.
+O uso compartilhado de dados pessoais de pessoa jurídica de direito público a pessoa de direito privado deve ser informado ao encarregado pelo tratamento de dados pessoais e dependerá de consentimento do titular dos dados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+47.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+GD
+Gabriela De Grande Guerreiro
+29 de novembro de 2024 às 09:18
+JUSTIFICATIVA - Errado. Segundo o art. 27 da LGPD, a informação deve ser prestada à autoridade nacional, com consentimento do titular. Não há a previsão de informação ao encarregado pelo tratamento de dados pessoais.
+Reportar abuso
+Ajudou (53) Não ajudou
+Erveson Alan Costa Santos
+23 de dezembro de 2024 às 10:42
+Art. 27. A comunicação ou o uso compartilhado de dados pessoais de pessoa jurídica de direito público a pessoa de direito privado será informado à autoridade nacional e dependerá de consentimento do titular, exceto:
+I - nas hipóteses de dispensa de consentimento previstas nesta Lei;
+II - nos casos de uso compartilhado de dados, em que será dada publicidade nos termos do inciso I do caput do art. 23 desta Lei; ou
+III - nas exceções constantes do § 1º do art. 26 desta Lei.
+
+Reportar abuso
+Ajudou (26) Não ajudou
+Bianca Damacena
+8 de janeiro de 2025 às 19:20
+A LGPD não exige que o uso compartilhado de dados seja informado ao encarregado, mas sim que o encarregado atue como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD).
+Reportar abuso
+Ajudou (10) Não ajudou
+Carlos Daniel Lima De Oliveira
+22 de janeiro de 2025 às 17:03
+Questão maldosa.
+"art. 27. A comunicação ou o uso compartilhado de dados pessoais de pessoa jurídica de direito público a pessoa de direito privado será informado à  e̶n̶c̶a̶r̶r̶e̶g̶a̶d̶o autoridade nacional e dependerá de consentimento do titular, exceto:..."
+A regra geral é que deverá haver o informe À ANPD e consentimento, mas há exceções.
+Reportar abuso
+Ajudou (6) Não ajudou
+Gustavo Andrade
+10 de janeiro de 2025 às 09:49
+Deve ser informado à ANPD, com o consentimento do titular dos dados, salvo em alguns casos em que o consentimento do titular não se faz necessário.
+
+Reportar abuso
+Ajudou (6) Não ajudou
+18
+Q3418786
+Administração de Recursos Materiais Armazenagem, Distribuição e Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Ministerial - Área Administração - 2024
+Texto associado
+No que se refere à gestão de almoxarifados nas organizações públicas, julgue os seguintes itens
+As atividades básicas da gestão de almoxarifado abrangem o recebimento, a classificação, a movimentação, a armazenagem e a distribuição interna dos materiais.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Brenda Loara Freitas Da Silva
+25 de janeiro de 2025 às 14:55
+Está faltando a entrada mas deu certo ✔️
+Reportar abuso
+Ajudou (1) Não ajudou
+19
+Q3312186
+Administração Pública Gerencialismo
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Analista Administrativo - 2024
+Texto associado
+A respeito das reformas da administração pública no Brasil, julgue os itens a seguir.
+Impessoalidade e combate a privilégios foram princípios norteadores da reforma da administração de pessoal empreendida pelo Estado brasileiro na década de 1930.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+79.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Ashely
+21 de julho de 2024 às 23:39
+Os princípios da administração burocrática clássica foram introduzidos no país através da criação, em 1936, do DASP — Departamento Administrativo do Serviço Público.
+Reportar abuso
+Ajudou (66) Não ajudou
+Elane Matos
+23 de julho de 2024 às 17:52
+A reforma burocrática na ápoca de GETÚLIO VARGAS, veio para combater o nepotismo e a corrupçao do PATRIMONIALISMO.
+Reportar abuso
+Ajudou (46) Não ajudou
+Daniele De Sousa Martins
+18 de outubro de 2024 às 08:53
+O modelo de gestão burocrático baseia-se nos princípios da impessoalidade, meritocracia, regras e regulamentos, hierarquia de autoridade, divisão do trabalho, racionalidade, formalidade, profissionalização, previsibilidade.
+Reportar abuso
+Ajudou (8) Não ajudou
+FS
+Felipe Santos
+1 de dezembro de 2024 às 10:59
+a reforma de 1930 teve como objetivo a tentativa de implantar a burocracia. E quais são algumas das características desse modelo? Exatamentea a impessoalidade e o combate a privilégios (a burocracia defendia a meritocracia).
+Reportar abuso
+Ajudou (2) Não ajudou
+Vlardison Barbosa
+31 de julho de 2024 às 17:06
+Certo
+Reportar abuso
+Ajudou (2) Não ajudou
+20
+Q3617822
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - FNDE - Engenharia Civil - 2024
+Texto associado
+Texto CB1A2
+A expressão racismo ambiental foi criada na década de 80 do século passado pelo Dr. Benjamin Franklin Chavis Jr., em meio a protestos contra o depósito de resíduos tóxicos no condado de Warren, no estado da Carolina do Norte (EUA), onde a maioria da população era negra.
+De acordo com a pensadora negra brasileira Tania Pacheco, o racismo ambiental é constituído por injustiças sociais e ambientais que recaem de forma implacável sobre etnias e populações mais vulneráveis. Não se configura apenas por meio de ações que tenham uma intenção racista, mas, igualmente, por meio de ações que tenham impacto “racial”, não obstante a intenção que lhes tenha dado origem.
+No Brasil, nas cidades e nos centros urbanos, o racismo ambiental tem um impacto significativo na população que vive em favelas e periferias, onde historicamente a maioria da população é negra. A falta de acesso a serviços básicos, como água potável e saneamento, de estrutura urbana e de condições de moradia digna afeta a saúde e a qualidade de vida dos moradores e agrava ainda mais os impactos das mudanças climáticas, ocasionando enchentes e deslizamentos.
+Algumas medidas que podem ser tomadas para diminuir o racismo ambiental incluem a criação de políticas públicas que levem em conta as desigualdades sociais e econômicas, a garantia do direito à participação das comunidades afetadas na tomada de decisão, a promoção da educação ambiental e a valorização do conhecimento tradicional das comunidades.
+Internet: <http://www.gov.br/secom> (com adaptações).
+Em relação às ideias veiculadas no texto CB1A2, julgue os itens que se seguem.
+O último parágrafo do texto apresenta exemplos de medidas tencionadas pelo governo para mitigar o racismo ambiental.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+32.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Mikaela Andrade
+10 de fevereiro de 2025 às 10:24
+"medidas tencionadas pelo governo para mitigar o racismo ambiental."
+todas as medida visam reduzir o racismo ambiental, no entanto, apenas políticas públicas são tencionadas pelo governo. Podem ser políticas afirmativas (não necessariamente o governo): garantir à participação das comunidades afetadas na tomada de decisão; promover educação ambiental e valorizar do conhecimento tradicional das comunidades.
+
+Algumas medidas (sujeito) que podem ser tomadas para diminuir o racismo ambiental incluem:
+1ºa criação de políticas públicas que levem em conta as desigualdades sociais e econômicas,
+2ºa garantia do direito à participação das comunidades afetadas na tomada de decisão,
+3º a promoção da educação ambiental e
+4º a valorização do conhecimento tradicional das comunidades.
+Reportar abuso
+Ajudou (0) Não ajudou

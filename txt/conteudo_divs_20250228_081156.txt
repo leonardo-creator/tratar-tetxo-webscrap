@@ -1,0 +1,1028 @@
+1
+Q3128970
+Administração de Recursos Materiais Materiais Permanentes e de Consumo
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+A respeito de recursos materiais e patrimoniais, julgue os itens subsequentes.
+Considere-se que as lixeiras plásticas de determinado órgão público do Distrito Federal durem, em média, dois anos, embora apresentem substancial deformação a partir de um ano de uso. Nesse caso, as referidas lixeiras são consideradas material permanente.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+81.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Manuella O Nascimento
+30 de janeiro de 2024 às 16:55
+ERRADO
+MATERIAL PERMANENTE tem duração de 2 ou mais anos.
+MATERIAL DE CONSUMO tem duração menor que 2 anos.
+Reportar abuso
+Ajudou (71) Não ajudou
+PV
+Pedro Vieira De Gouvea Teixeira
+29 de fevereiro de 2024 às 10:22
+Vale ressaltar que os Materiais de Consumo também apresentam PERDA de sua IDENTIDADE FÍSICA, e a questão afirma que as lixeiras apresentam substancial deformação.
+
+Logo, MATERIAL DE CONSUMO = Duração 2 ou mais Anos + Perda de Identidade Física
+Reportar abuso
+Ajudou (33) Não ajudou
+Matheus Pereira Costa
+31 de janeiro de 2024 às 15:51
+corrigindo a manuella material consumo tem duração <= 2 anos e o permanente > 2 anos
+
+https://www.slog.cefetmg.br/divisao-de-patrimonio-dipat/perguntas-frequentes/1-qual-a-diferenca-entre-material-permanente-e-material-de-consumo/
+Reportar abuso
+Ajudou (33) Não ajudou
+ED
+Ederivania De Souza Dos Santos Carvalho
+20 de janeiro de 2025 às 09:24
+Segue comentário do prof do tec:
+
+ERRADO. Elas não podem ser consideradas material permanente, pois perdem sua durabilidade (substancial deformação) em prazo inferior a 02 anos.
+Conforme os critérios da Portaria 448/2002 da Secretaria do Tesouro Nacional, os parâmetros para identificar um material como permanente incluem durabilidade, fragilidade, perecibilidade, incorporabilidade e transformabilidade. O material permanente deve ter durabilidade superior a dois anos sob condições normais de uso.
+As lixeiras em questão, mesmo que tenham uma durabilidade média de dois anos, sofrem uma deformação substancial após um ano. A deformação substancial pode ser interpretada como uma redução nas condições de funcionamento normais, enquadrando-se possivelmente no critério de fragilidade, já que sua estrutura está sujeita a modificação, caracterizando-se pela perda de sua identidade ou funcionalidade.
+Os critérios para a identificação do material como permanente são, de acordo com a Portaria 448/2002 da Secretaria do Tesouro Nacional:
+Art. 30 - Na classificação da despesa serão adotados os seguintes parâmetros excludentes, tomados em conjunto, para a identificação do material permanente:I - Durabilidade, quando o material em uso normal perde ou tem reduzidas as suas condições de funcionamento, no prazo máximo de 02 anos;II - Fragilidade, cuja estrutura esteja sujeita a modificação, por ser quebradiço ou deformável, caracterizando-se pela irrecuperabilidade e/ou perda de sua identidade;III - Perecibilidade, quando sujeito a modificações (químicas ou físicas) ou que se deteriora ou perde sua característica normal de uso;IV - Incorporabilidade, quando destinado à incorporação a outro bem, não podendo ser retirado sem prejuízo das características do principal; eV - Transformabilidade, quando adquirido para fim de transformação.
+ Fonte: Portaria 448/2002 da Secretaria do Tesouro Nacional
+Reportar abuso
+Ajudou (3) Não ajudou
+2
+Q3312288
+Administração de Recursos Materiais Classificação Pela Importância Operacional - Classificação XYZ
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+Julgue os itens que se seguem, acerca da classificação de materiais nas organizações públicas.
+De acordo com a classificação XYZ, os materiais da classe Z correspondem aos de baixa criticidade, cuja falta não implica paralisações na prestação dos serviços.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+88.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Carlos Henrique Dos Santos
+27 de agosto de 2024 às 09:12
+O que é a classificação XYZ?
+A classificação XYZ avalia o grau de criticidade ou imprescindibilidade dos itens no desenvolvimento das atividades realizadas. O trabalho teve como objetivo otimizar a gestão de estoques em uma farmácia hospitalar através da curva ABC e da classificação XYZ
+
+Classe X – Itens de baixa criticidade: a falta destes itens não acarreta em paradas, riscos de segurança ou danos ao patrimônio; há várias alternativas de materiais substitutos; o fornecimento dos itens é facilitado e rápido.
+Classe Y – Itens de criticidade média: a falta desses itens pode causar paradas na produção, riscos de segurança ou dados ao patrimônio; são itens relativamente fáceis de serem substituídos ou adquiridos em caso de falta;
+
+Classe Z – Itens de máxima criticidade: considerados imprescindíveis para o andamento dos trabalhos; sua falta certamente causará a parada das operações ou colocar as pessoas e o patrimônio em risco; são materiais que não podem ser substituídos por equivalentes; a aquisição desses materiais é complicada e demorada.
+Reportar abuso
+Ajudou (18) Não ajudou
+Pedro
+19 de dezembro de 2024 às 14:28
+Classe X: Itens de baixa criticidade, de fácil substituição e pouca importância.
+Classe Y: Itens de média criticidade, que podem ou não ter substitutos.
+Classe Z: Itens de alta criticidade, fundamentais e insubstituíveis na produção.
+
+Reportar abuso
+Ajudou (5) Não ajudou
+Lucas Pereira Borges
+20 de janeiro de 2025 às 22:46
+CERTO
+
+X → BaiXa
+Y → MedYa
+Z → Zuper / InZubstituível
+
+Classe X: Itens de baixa criticidade, de fácil substituição e pouca importância.
+Classe Y: Itens de média criticidade, que podem ou não ter substitutos.
+Classe Z: Itens de alta criticidade, fundamentais e insubstituíveis na produção.
+
+
+
+Reportar abuso
+Ajudou (3) Não ajudou
+3
+Q3175460
+Administração de Recursos Materiais Administração de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Julgue os itens que se seguem, acerca da gestão de estoques.
+Quanto maiores forem os lotes de compra, maiores serão os custos de recebimento por unidade recebida.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+69.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Camilla Bruna Dias De Souza
+18 de março de 2024 às 11:26
+Errado
+Ao contrário, haverá economia de escala.
+Reportar abuso
+Ajudou (52) Não ajudou
+Felipe Fraga
+2 de janeiro de 2025 às 06:56
+Aumenta o custo de armazenagem.
+Reportar abuso
+Ajudou (4) Não ajudou
+T
+Thais
+22 de janeiro de 2025 às 17:39
+Errado.
+
+Situação hipotética:
+Lote de 50 camisetas - Custo maior pelo recebimento por unidade
+Lote de 500 camisetas - Custo menor pelo recebimento por unidade
+
+Haverá aumento de custo de transporte, custos de armazenagem, custos de distribuição reversa e afins.
+Reportar abuso
+Ajudou (2) Não ajudou
+4
+Q3123969
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MMA - Analista Ambiental - 2024
+Texto associado
+Text CB1A8
+
+The idea of giving rights to animals has long been contentious, but a deeper look into the reasoning behind the philosophy reveals ideas that aren’t all that radical. Animal rights advocates want to distinguish animals from inanimate objects, as they are so often considered by exploitative industries and the law. The animal rights movement strives to make the public aware of the fact that animals are sensitive, emotional, and intelligent beings who deserve dignity and respect. But first, it’s important to understand what the term “animal rights” really means.
+Animal rights are moral principles grounded in the belief that non-human animals deserve the ability to live as they wish, without being subjected to the desires of human beings. At the core of animal rights is autonomy, which is another way of saying choice. In many countries, human rights are enshrined to protect certain freedoms, such as the right to expression, freedom from torture, and access to democracy. Of course, these choices are constrained depending on social locations like race, class, and gender, but generally speaking, human rights safeguard the basic tenets of what makes human lives worth living. Animal rights aim to do something similar, only for non-human animals.
+Animal rights come into direct opposition with animal exploitation, which includes animals used by humans for a variety of reasons, be it for food, as experimental objects, or even pets. Animal rights can also be violated when it comes to human destruction of animal habitats. This negatively impacts the ability of animals to lead full lives of their choosing.
+
+Internet: <thehumaneleague.org > (adapted).
+
+Considering the ideas and linguistic aspects of the text above, judge the items below.
+Lawyers who defend animal rights claim that animals and inanimate objects are different.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+29.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jose Henrique De Melo Luna
+29 de janeiro de 2024 às 16:07
+O erro da assertiva está em dizer que advogados (Lawyers) afirmam que animais e objetos inanimados são diferentes.
+Contudo, o texto não faz em momento algum menção a advogados.
+O que o texto menciona é que os defensores dos direitos dos animais (animal rights advocates) querem distinguir os animais dos objetos inanimados.
+Reportar abuso
+Ajudou (57) Não ajudou
+MS
+Miguel Silva
+12 de fevereiro de 2024 às 12:37
+Acredito que "advocates" nesse contexto pode ser entendido como "ativistas"
+Reportar abuso
+Ajudou (14) Não ajudou
+Jose Airton
+29 de janeiro de 2024 às 15:20
+Esse gabarito está errado.
+Reportar abuso
+Ajudou (1) Não ajudou
+Nayara Cavalcante Silva
+29 de janeiro de 2024 às 12:37
+Por que o item não está correto? Não entendi o gabarito.
+Reportar abuso
+Ajudou (0) Não ajudou
+5
+Q3221282
+Administração de Recursos Materiais Tipos de Licitação
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+No que se refere às compras no setor público, julgue os próximos itens, relativos a objeto e edital de licitação.
+Quando da elaboração do edital de licitação, deve-se atentar para o fato de que tipo de licitação diz respeito ao próprio procedimento licitatório, ou seja, ao modo de se proceder à licitação, ao passo que modalidade de licitação consiste no critério de julgamento utilizado pela administração pública para a seleção da proposta mais vantajosa.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+45.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gustavo Araujo
+6 de abril de 2024 às 19:36
+Tipo de licitação refere-se ao critério utilizado, enquanto modalidade de licitação refere-se ao procedimento em si. Gabarito: errado.
+Reportar abuso
+Ajudou (46) Não ajudou
+Manuella O Nascimento
+16 de maio de 2024 às 12:03
+ERRADO
+Conceitos invertidos
+MODALIDADE - modo de se proceder
+TIPO - critério utilizado
+Reportar abuso
+Ajudou (37) Não ajudou
+RF
+Raiane Fontineles Da Silva
+8 de novembro de 2024 às 15:37
+As Modalidades de licitação são: concorrência,pregão, leilão, concurso e dialogo competitivo.
+
+Os Tipos de licitação são: menor preço, melhor técnica, melhor técnica e preço, maior lance ou oferta e maior desconto.
+Reportar abuso
+Ajudou (14) Não ajudou
+RF
+Raiane Fontineles Da Silva
+8 de novembro de 2024 às 15:42
+"ao passo que TIPO DE LICITAÇÃO consiste no critério de julgamento utilizado pela administração pública para a seleção da proposta mais vantajosa."
+
+Reportar abuso
+Ajudou (3) Não ajudou
+NR
+Narleno Rodrigues Freire Junior
+23 de junho de 2024 às 00:27
+Alguém me explicaria melhor ?
+Reportar abuso
+Ajudou (3) Não ajudou
+Página 1 de 2
+6
+Q3418785
+Administração de Recursos Materiais Equipamentos para Armazenagem
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Ministerial - Área Administração - 2024
+Texto associado
+No que se refere à gestão de almoxarifados nas organizações públicas, julgue os seguintes itens
+Conquanto os materiais de armazenagem complexa dispensem infraestrutura de guarda especial, os colaboradores do almoxarifado devem paramentar-se com equipamentos de proteção individual ao lidar com esses materiais.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+81.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriele Viana
+7 de outubro de 2024 às 15:30
+Materiais de armazenagem complexa são inerentes a materiais cujos aspectos físicos (fragilidade, volume, peso
+e forma) ou químicos (volatilidade, combustibilidade, explosividade, oxidação, potencial
+de intoxicação, radiação e perecibilidade), carecem de medidas especiais em sua guarda.
+
+NÃO dispensão infraestrutura de guarda especial.
+
+
+Reportar abuso
+Ajudou (16) Não ajudou
+Ana Claudia Machado
+1 de fevereiro de 2025 às 16:00
+Não dispensam infraestrutura de guarda especial.
+Reportar abuso
+Ajudou (0) Não ajudou
+7
+Q3419697
+Administração de Recursos Materiais Conceito de Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+No que tange ao transporte e à estrutura para distribuição de materiais nas organizações públicas, julgue os itens que se seguem.
+Independentemente da obediência ao fluxo das operações de transporte, deve-se zelar pela segurança e satisfação dos colaboradores da área de logística da organização.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+41.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+GM
+Gabrielly Martins
+22 de outubro de 2024 às 18:38
+" Embora a segurança e a satisfação dos colaboradores sejam importantes, elas não podem ser tratadas de forma independente do fluxo das operações de transporte. A eficiência logística depende de um equilíbrio entre a segurança, a satisfação dos colaboradores e a obediência ao fluxo das operações."
+MAIA
+Reportar abuso
+Ajudou (24) Não ajudou
+Jose Geraldo De Andrade Filho
+27 de setembro de 2024 às 15:08
+Ué
+Reportar abuso
+Ajudou (3) Não ajudou
+RF
+Raiane Fontineles Da Silva
+8 de janeiro de 2025 às 11:09
+oxee.
+Reportar abuso
+Ajudou (1) Não ajudou
+Lukas Wendrysh
+31 de janeiro de 2025 às 16:18
+?????
+Reportar abuso
+Ajudou (0) Não ajudou
+Igor Ribeiro Silva
+19 de outubro de 2024 às 14:12
+?
+Reportar abuso
+Ajudou (0) Não ajudou
+8
+Q3175485
+Administração de Recursos Materiais Just-In-Time
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Julgue os seguintes itens, que versam sobre armazenagem e distribuição de materiais.
+A aplicação da filosofia just in time demanda altos níveis de estoques, o que implica custos significativos de inventário.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+91.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+TC
+Thais Caldas De Andrade
+16 de março de 2024 às 19:46
+filosofia Just-in-Time tem o objetivo de produzir a quantidade exata de um produto, de forma rápida e sem a necessidade de formação de estoques. Isso faz com que o produto chegue no seu destino no tempo correto, elimina o excesso de estoque e o desperdício, reduzindo custos decorrentes da falta de organização.
+Reportar abuso
+Ajudou (21) Não ajudou
+LM
+Leonardo Monteiro
+16 de maio de 2024 às 22:43
+O Just in Time, ou “no momento certo”, é uma filosofia de manufatura, onde a empresa busca produzir a quantidade exata para atender a demanda, comprando matéria prima no momento correto e entregando o produto no prazo estipulado. Evitando estoques em todo o processo produtivo.
+Reportar abuso
+Ajudou (2) Não ajudou
+Alexandre Henrique Paulo Santos
+17 de janeiro de 2025 às 12:57
+Just-in-Time (JIT) e Just-in-Case (JIC) são estratégias de gestão de estoque que se diferenciam na forma como as empresas armazenam e produzem mercadorias. O JIT visa reduzir desperdícios e produzir apenas o que é necessário, enquanto o JIC visa evitar a falta de estoque. Just-in-Time (JIT) O JIT produz mercadorias apenas quando há demanda O JIT reduz custos de manutenção de estoque O JIT é um sistema que "puxa" a produção O JIT foi introduzido na Toyota nos anos 50 Just-in-Case (JIC) O JIC estoca mercadorias com antecedência para evitar falta de estoque O JIC prioriza evitar atrasos na produção O JIC é uma alternativa logística ao JIT Ambas as estratégias podem trazer benefícios às empresas, mas também têm desvantagens.
+Reportar abuso
+Ajudou (0) Não ajudou
+Geraldo Alves
+10 de janeiro de 2025 às 23:00
+Tudo no momento certo.
+Reportar abuso
+Ajudou (0) Não ajudou
+K
+Kissya
+11 de junho de 2024 às 10:52
+Just in time-> estoque zero
+Reportar abuso
+Ajudou (0) Não ajudou
+9
+Q3238111
+Administração de Recursos Materiais Gestão da Cadeia de Suprimentos
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+Julgue os itens subsequentes, a respeito de logística reversa e fundamentos de logística.
+É relevante que a tecnologia da informação esteja presente de maneira segregada nos diversos processos logísticos, para que a cadeia de atividades funcione de forma eficiente.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+60.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Pedro Henrique De Almeida Antunes
+25 de maio de 2024 às 18:47
+O erro da questão é dizer que ocorre de maneira segregada. Deve ocorrer de forma integrada.
+Reportar abuso
+Ajudou (59) Não ajudou
+Amadeus Eduardo
+30 de novembro de 2024 às 16:53
+Ric, errados todos nós já saber queremos e explicações da resoluções da questão.
+Reportar abuso
+Ajudou (2) Não ajudou
+Jose Geraldo De Andrade Filho
+27 de setembro de 2024 às 15:05
+Segregada não CEBRASPE :)
+Reportar abuso
+Ajudou (0) Não ajudou
+R
+Ric
+22 de setembro de 2024 às 21:53
+ERRADO!!!
+Reportar abuso
+Ajudou (0) Não ajudou
+10
+Q3340540
+Administração de Recursos Materiais Sistemas de Controle de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Técnico Judiciário - Área: Administrativa - 2024
+Texto associado
+Julgue os itens que se seguem, relativos a classificação de materiais, gestão de estoques e armazenagem e recebimento.
+Considerando-se o adequado gerenciamento de estoques, é necessário estudar o ponto de pedido (PP) para definir o intervalo de ressuprimento (IR).
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+26.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Eduardo Casteluci
+16 de julho de 2024 às 15:19
+A afirmação está errada.
+
+Justificativa:
+
+O ponto de pedido (PP) e o intervalo de ressuprimento (IR) são conceitos distintos no gerenciamento de estoques, e um não é usado para definir o outro. Vamos entender melhor cada um deles:
+
+Ponto de Pedido (PP):
+O PP é o nível de estoque em que um novo pedido deve ser feito para repor os itens antes que eles se esgotem. Ele é calculado considerando o tempo de reposição (lead time) e a taxa de consumo ou demanda durante esse período.
+Fórmula: PP = Demanda diária média × Tempo de reposição
+
+Intervalo de Ressuprimento (IR):
+O IR é o período entre dois pedidos consecutivos. Ele pode ser constante (em sistemas de revisão periódica) ou variável (em sistemas de revisão contínua).
+No sistema de revisão contínua, o pedido é feito sempre que o estoque atinge o PP. No sistema de revisão periódica, os pedidos são feitos em intervalos de tempo fixos, e a quantidade a ser pedida é ajustada de acordo com o estoque disponível e o PP.
+
+Portanto, o adequado gerenciamento de estoques requer o estudo do ponto de pedido para garantir que o estoque seja reposto a tempo e não falte, mas não é correto afirmar que o PP define o intervalo de ressuprimento. O IR pode ser definido independentemente do PP, especialmente em sistemas de revisão periódica.
+
+Fonte: chatGPT
+Reportar abuso
+Ajudou (37) Não ajudou
+Alexandre Miranda Da Silva
+22 de outubro de 2024 às 08:29
+
+Incorreto.
+
+O Ponto de Pedido (PP) depende do Intervalo de Ressuprimento (IR) para ser definido. A afirmação inverte essa relação, tornando-a incorreta. O estudo do PP visa determinar quando um novo pedido deve ser feito, enquanto o IR indica o tempo que esse pedido levará para ser atendido.
+Reportar abuso
+Ajudou (13) Não ajudou
+DF
+Daniel Felipe Oliveira
+15 de dezembro de 2024 às 11:06
+que questão corna
+Reportar abuso
+Ajudou (12) Não ajudou
+Elisa Montagna
+16 de outubro de 2024 às 17:52
+Errado.
+O ponto de pedido (PP) é o nível de estoque no qual deve ser realizado um novo pedido de ressuprimento, para que os itens sejam reabastecidos antes de chegarem a níveis críticos. Já o intervalo de ressuprimento (IR) refere-se ao período entre os pedidos de reabastecimento. O adequado gerenciamento de estoques envolve calcular ambos, mas o PP é mais relacionado ao momento de acionar o ressuprimento e não diretamente à definição do IR. O IR é definido com base na demanda e no tempo de entrega dos fornecedores.
+Reportar abuso
+Ajudou (7) Não ajudou
+K
+Kalynara
+15 de janeiro de 2025 às 08:24
+Determina o momento e não o intervalo.
+Reportar abuso
+Ajudou (0) Não ajudou
+11
+Q3175505
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Acerca de logística, julgue os itens que se seguem.
+O porta-paletes é um tipo de estrutura de armazenagem que permite seletividade nas operações de carregamento.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+79.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Julia Serpa
+2 de maio de 2024 às 10:50
+A seletividade refere-se à capacidade de acessar facilmente cada palete individualmente, sem a necessidade de mover outros pallets. Isso proporciona flexibilidade e eficiência nas operações de armazenagem, permitindo que os operadores selecionem e movimentem as cargas de forma rápida e conveniente. Com o porta-paletes, os produtos são armazenados em prateleiras ou racks ajustáveis, permitindo fácil acesso aos itens armazenados, o que é essencial para o gerenciamento eficaz do estoque e a maximização do espaço disponível no armazém.
+
+Fonte: QCONCURSOS - @barbarapontes
+Reportar abuso
+Ajudou (28) Não ajudou
+12
+Q3177956
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão de T.I - Segurança da Informação - 2024
+Texto associado
+Considerando a legislação acerca de privacidade e proteção de dados, julgue os itens a seguir.
+É permitido o tratamento de dados pessoais durante estudos realizados por órgãos de pesquisas, sendo obrigatória a anonimização desses dados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+47.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+IV
+Ivania Vieira Da Silva Oliveira
+18 de março de 2024 às 20:52
+Art. 13. Na realização de estudos em saúde pública, os órgãos de pesquisa poderão ter acesso a bases de dados pessoais, que serão tratados exclusivamente dentro do órgão e estritamente para a finalidade de realização de estudos e pesquisas e mantidos em ambiente controlado e seguro, conforme práticas de segurança previstas em regulamento específico e que incluam, sempre que possível, a anonimização ou pseudonimização dos dados, bem como considerem os devidos padrões éticos relacionados a estudos e pesquisas.
+
+A questão fala que é OBRIGATÓRIA. Por essa razão está errada.
+Reportar abuso
+Ajudou (172) Não ajudou
+Luis Sérgio
+21 de março de 2024 às 11:58
+Art. 7º O tratamento de dados pessoais somente poderá ser realizado nas seguintes hipóteses:
+I - mediante o fornecimento de consentimento pelo titular;
+II - para o cumprimento de obrigação legal ou regulatória pelo controlador;
+III - pela administração pública, para o tratamento e uso compartilhado de dados necessários à execução de políticas públicas previstas em leis e regulamentos ou respaldadas em contratos, convênios ou instrumentos congêneres, observadas as disposições do Capítulo IV desta Lei;
+IV - para a realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;
+Reportar abuso
+Ajudou (62) Não ajudou
+Aaaaa
+13 de março de 2024 às 15:05
+de acordo com a lai, sim, mas com a lgpd, não
+Reportar abuso
+Ajudou (28) Não ajudou
+LC
+Larissa Coelho Rodrigues
+24 de março de 2024 às 07:52
+Sempre que possível....
+Reportar abuso
+Ajudou (14) Não ajudou
+Camilla Bruna Dias De Souza
+11 de abril de 2024 às 05:57
+Errado
+Sempre que possível.
+Reportar abuso
+Ajudou (11) Não ajudou
+Página 1 de 2
+13
+Q3175456
+Administração de Recursos Materiais Noções de Gestão de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Julgue os itens que se seguem, acerca da gestão de estoques.
+Em um mercado com alta concorrência, o lead time tende a ser menor.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+62.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Camilla Bruna Dias De Souza
+18 de março de 2024 às 11:33
+Certo
+Lead time = tempo de espera
+Em alta concorrência tende a ser menor pois as empresas irão trabalhar para serem mais eficientes reduzindo o tempo de espera.
+Reportar abuso
+Ajudou (123) Não ajudou
+LM
+Leonardo Monteiro
+16 de maio de 2024 às 22:41
+Lead time pode ser definido como um ciclo de produção. Ele é o tempo que um produto leva para chegar ao consumidor, desde o momento do pedido, passando por produção, despacho e entrega. Ou seja, é o tempo gasto pelo sistema de produção para que a matéria-prima se transforme em item finalizado, pronto para entrega.
+Reportar abuso
+Ajudou (21) Não ajudou
+Daniela Ferreira Batista
+26 de abril de 2024 às 15:56
+Lead time= tempo de espera.
+Reportar abuso
+Ajudou (10) Não ajudou
+14
+Q3232485
+Administração de Recursos Materiais Administração dos Almoxarifados
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Suprimentos de Bens e Serviços Júnior - Área Administração - 2024
+Texto associado
+Tendo em vista que os estoques são guardados nos almoxarifados e requerem principalmente processos de controle de entrada, acomodação e saída da área de armazenagem, julgue os itens seguintes, acerca da gestão de estoques e almoxarifados.
+O almoxarifado constitui uma área interna da organização, com certa demarcação ao ar livre ou em ambiente fechado, com ou sem cobertura, destinado a proteger e guardar os itens para que, em momento oportuno, eles sejam enviados aos setores solicitantes internos à organização.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+83.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alessandra Santos
+5 de fevereiro de 2025 às 20:14
+Errei por causa do ar livre com ou sem cobertura
+Reportar abuso
+Ajudou (1) Não ajudou
+Ellayne Kathryn
+20 de janeiro de 2025 às 14:37
+Certo
+Reportar abuso
+Ajudou (1) Não ajudou
+15
+Q3234918
+Língua Portuguesa Ortografia oficial e acentuação gráfica
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Arquiteto - 2024
+Texto associado
+Texto CB2A1
+
+Levanto cedo, faço minhas abluções, ponho a chaleira no fogo para fazer café e abro a porta do apartamento — mas não encontro o pão costumeiro. No mesmo instante, me lembro de ter lido alguma coisa nos jornais da véspera sobre a “greve do pão dormido”. De resto não é bem uma greve, é um locaute, greve dos patrões, que suspenderam o trabalho noturno; acham que, obrigando o povo a tomar seu café da manhã com pão dormido, conseguirão não sei bem o que do governo.
+Está bem. Tomo o meu café com pão dormido, que não é tão ruim assim. E, enquanto tomo café, vou me lembrando de um homem modesto que conheci antigamente. Quando vinha deixar o pão à porta do apartamento, ele apertava a campainha, mas, para não incomodar os moradores, avisava gritando:
+— Não é ninguém, é o padeiro!
+Interroguei-o uma vez: como tivera a ideia de gritar aquilo? “Então você não é ninguém?”
+Ele abriu um sorriso largo. Explicou que aprendera aquilo de ouvido. Muitas vezes lhe acontecera bater a campainha de uma casa e ser atendido por uma empregada ou outra pessoa qualquer, e ouvir uma voz que vinha lá de dentro perguntando quem era; e ouvir a pessoa que o atendera dizer para dentro: “não é ninguém, não senhora, é o padeiro”. Assim ficara sabendo que não era ninguém...
+Ele me contou isso sem mágoa nenhuma e se despediu ainda sorrindo. Eu não quis detê-lo para explicar que estava falando com um colega, ainda que menos importante. Naquele tempo eu também, como os padeiros, fazia o trabalho noturno. Era pela madrugada que deixava a redação de jornal, quase sempre depois de uma passagem pela oficina — e muitas vezes saía já levando na mão um dos primeiros exemplares rodados, o jornal ainda quentinho da máquina, como pão saído do forno.
+Ah, eu era rapaz, eu era rapaz naquele tempo! E às vezes me julgava importante porque, no jornal que levava para casa, além de reportagens ou notas que eu escrevera sem assinar, ia uma crônica ou um artigo com o meu nome. O jornal e o pão estariam bem cedinho na porta de cada lar; e dentro do meu coração eu recebi a lição de humildade daquele homem entre todos útil e entre todos alegre; “não é ninguém, é o padeiro!”
+E assobiava pelas escadas.
+
+Rubem Braga. O padeiro (com adaptações).
+
+Julgue os itens subsequentes, em relação a estruturas linguísticas do texto CB2A1.
+Tanto a forma “assobiava”, empregada no último parágrafo do texto, quanto a forma assoviava são admitidas pela ortografia oficial em vigor, tendo ambas o mesmo significado.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Karenn
+8 de maio de 2024 às 16:05
+As duas palavras existem na língua portuguesa e estão corretas. Podemos utilizar os verbos assobiar ou assoviar sempre que quisermos referir o ato de emitir um assobio ou assovio com a boca ou com um apito, ou seja, emitir um som agudo. A palavra assobiar é tida como a mais correta e socialmente aceita, sendo a mais utilizada.
+Fonte:https://www.dicio.com.br/assobiar-ou-assoviar
+Reportar abuso
+Ajudou (412) Não ajudou
+SN
+Simião Neto
+11 de maio de 2024 às 20:25
+As duas formas estão presentes no VOLP.
+
+ASSOVIAR
+ASSOBIAR
+Reportar abuso
+Ajudou (105) Não ajudou
+CC
+Camilla Cunha De Aquino
+22 de maio de 2024 às 05:30
+As duas são permitidas em face do fenômeno chamado de "variação linguística".
+Reportar abuso
+Ajudou (60) Não ajudou
+Jullianna Raposo De Martin Sampaio
+18 de junho de 2024 às 15:28
+Maia
+de a resposta errada
+Reportar abuso
+Ajudou (30) Não ajudou
+Cristofer Da Silva Serra
+30 de maio de 2024 às 22:17
+As duas formas estão corretas e podem ser usadas com o mesmo sentido, significando o barulho agudo provocado pela passagem do ar pelos lábios comprimidos
+
+Reportar abuso
+Ajudou (27) Não ajudou
+Página 1 de 4
+16
+Q3392828
+Administração de Recursos Materiais Compras Governamentais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEPLAG CE - Analista de Gestão Pública – Área: Governança e Gestão Corporativa Inglês - 2024
+Texto associado
+Julgue os itens subsequentes, a respeito dos processos de compras governamentais e do gerenciamento de materiais e estoques.
+O objetivo central da administração de recursos materiais no setor público é fomentar o mercado, mediante políticas de aquisição em grande escala e compras compartilhadas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+74.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+RF
+Raiane Fontineles Da Silva
+8 de novembro de 2024 às 15:09
+O objetivo principal é garantir a eficiência, transparência e a legalidade na gestão dos recursos públicos.
+Reportar abuso
+Ajudou (19) Não ajudou
+Nara
+4 de fevereiro de 2025 às 21:37
+Gab: ERRADO
+Reportar abuso
+Ajudou (1) Não ajudou
+17
+Q3539915
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Mossoró - Analista - Área Direito - 2024
+Texto associado
+Texto CB1A1-I
+
+A forma peculiar como se processou a independência da América portuguesa teve consequências fundamentais no seu subsequente desenvolvimento. Tendo-se transferido o governo português para o Brasil sob a proteção inglesa e tendo-se operado a independência da colônia sem descontinuidade na chefia do governo, os privilégios econômicos de que se beneficiava a Inglaterra em Portugal passaram automaticamente para o Brasil independente. Com efeito, se bem haja conseguido separar-se de Portugal em 1822, o Brasil necessitou de vários decênios mais para eliminar a tutela que, graças a sólidos acordos internacionais, mantinha sobre ele a Inglaterra. Esses acordos foram firmados em momentos difíceis e constituíam, na tradição das relações luso-inglesas, pagamentos em privilégios econômicos de importantes favores políticos. Os acordos de 1810 foram firmados contra a garantia da Inglaterra de que nenhum governo imposto por Napoleão em Portugal seria reconhecido. Por eles se transferiam para o Brasil todos os privilégios de que gozavam os ingleses em Portugal — inclusive os de extraterritorialidade — e se lhes reconhecia demais uma tarifa preferencial. Tudo indica que, negociando esses acordos, o governo português tinha estritamente em vista a continuidade da casa reinante em Portugal, enquanto os ingleses se preocupavam em firmar-se definitivamente na colônia, cujas perspectivas comerciais eram bem mais promissoras que as de Portugal.
+
+Celso Furtado. Formação econômica do Brasil. São Paulo:
+Cia das Letras, 2007, p. 69 (com adaptações).
+
+Considerando as ideias veiculadas no texto CB1A1-I e as relações de coesão nele estabelecidas, julgue os próximos itens.
+De acordo com o texto, nos acordos de 1810, convergiam os interesses políticos de Portugal e os econômicos da Inglaterra.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+62.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Acassio
+3 de janeiro de 2025 às 21:59
+CERTO
+
+É possível confirmar também no trecho do final do texto : Tudo indica que, negociando esses acordos, o governo português tinha estritamente em vista a continuidade da casa reinante em Portugal, enquanto os ingleses se preocupavam em firmar-se definitivamente na colônia, cujas perspectivas comerciais eram bem mais promissoras que as de Portugal.
+
+
+Reportar abuso
+Ajudou (2) Não ajudou
+18
+Q3193113
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Analista - Área Análise de Sistemas - 2024
+Texto associado
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), julgue os itens subsequentes.
+O tratamento de dados pessoais sensíveis somente poderá ocorrer quando o titular consentir, de forma específica e destacada, para finalidades específicas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+77.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+A
+Alex
+15 de abril de 2024 às 15:52
+O erro está no fato de que não é somente na circunstância citada que pode ocorrer o tratamento de dados (ver Art. 11. da LGPD)
+Reportar abuso
+Ajudou (17) Não ajudou
+VF
+Victoria Fabianne Barbosa De Medeiros
+17 de outubro de 2024 às 18:28
+Art. 11. O tratamento de dados pessoais sensíveis somente poderá ocorrer nas seguintes hipóteses:
+I - quando o titular ou seu responsável legal consentir, de forma específica e destacada, para finalidades específicas;
+II - sem fornecimento de consentimento do titular, nas hipóteses em que for indispensável para:
+a) cumprimento de obrigação legal ou regulatória pelo controlador;
+b) tratamento compartilhado de dados necessários à execução, pela administração pública, de políticas públicas previstas em leis ou regulamentos;
+c) realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais sensíveis;
+d) exercício regular de direitos, inclusive em contrato e em processo judicial, administrativo e arbitral, este último nos termos da Lei nº 9.307, de 23 de setembro de 1996 (Lei de Arbitragem) ;
+e) proteção da vida ou da incolumidade física do titular ou de terceiro;
+f) tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou autoridade sanitária; ou
+g) garantia da prevenção à fraude e à segurança do titular, nos processos de identificação e autenticação de cadastro em sistemas eletrônicos, resguardados os direitos mencionados no art. 9º desta Lei e exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais.
+Reportar abuso
+Ajudou (8) Não ajudou
+Gustavo Andrade
+10 de janeiro de 2025 às 10:24
+Atenção! Há inúmeras hipóteses para o tratamento dos dados pessoais sensíveis que independem do consentimento do titular destes dados - já listados pelo comentário da colega.
+Reportar abuso
+Ajudou (2) Não ajudou
+19
+Q3340555
+Administração de Recursos Materiais Classificação dos Bens Patrimoniais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Técnico Judiciário - Área: Administrativa - 2024
+Texto associado
+No que se refere à gestão patrimonial, julgue os itens a seguir.
+No inventário de uma entidade, podem ser relacionados os bens intangíveis, como uma patente ou um projeto para levantamento e composição dos bens patrimoniais.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+83.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Pedro
+19 de dezembro de 2024 às 14:40
+Sim, no inventário de uma entidade, podem ser incluídos bens intangíveis. Os bens intangíveis são ativos que não possuem uma existência física, mas que têm valor econômico para a entidade. Exemplos de bens intangíveis incluem patentes, marcas registradas, direitos autorais, franquias, listas de clientes, softwares desenvolvidos internamente e projetos em desenvolvimento.
+Fonte: QConcursos
+Reportar abuso
+Ajudou (7) Não ajudou
+Layane Nunes
+16 de dezembro de 2024 às 12:26
+bens intangíveis: aquilo que não se pode tocar!
+Reportar abuso
+Ajudou (4) Não ajudou
+20
+Q3555739
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Tecnologia da Informação - 2024
+Texto associado
+Acerca de bancos de dados NoSQL, de banco de dados em memória e de data lake, julgue os itens subsecutivos.
+Um data lake funciona como uma arquitetura de armazenamento que requer que todos os dados sejam estruturados e limpos antes de serem armazenados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+85.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+David Marques Ferreira
+28 de dezembro de 2024 às 13:47
+Errado! Um Data Lake é uma arquitetura de armazenamento de dados que não exige que os dados sejam estruturados e limpos antes de serem armazenados. A definição do enuciando está mais parecida com a de um Data Warehouse
+Reportar abuso
+Ajudou (3) Não ajudou

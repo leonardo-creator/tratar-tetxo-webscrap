@@ -1,0 +1,362 @@
+1
+Q3599904
+Língua Inglesa Gramática - Língua Inglesa
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor de Ensino Fundamental - Área: Inglês - 2025
+Texto associado
+Julgue os itens que seguem, relativos ao tratamento da produção escrita dos alunos.
+
+Para fins educacionais, o processo de elaboração de um texto escrito não requer revisão e reescrita, já que a versão inicial deve ser o parâmetro de avaliação do estudante.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+2
+Q3605779
+Administração Financeira e Orçamentária - AFO Estrutura Programática
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+Na estrutura programática do orçamento, os programas representam o conjunto coordenado de ações governamentais financiadas mediante recursos orçamentários e não orçamentários, visando-se à concretização do objetivo.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+3
+Q3596015
+Administração de Recursos Materiais Modalidades de Transporte
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+Entre os modais de transporte, o rodoviário é o mais utilizado no dia a dia pela população brasileira.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+4
+Q3643058
+Administração de Recursos Materiais Cadastro e Seleção de Fornecedores
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+Para seleção de fornecedores cadastrados numa empresa, devem ser avaliados: preço do frete, confiabilidade, distância, detalhes dos procedimentos de entrega e preço final do material/produto.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+5
+Q3641114
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área Apoio Especializado - Especialidade: Suporte Técnico - 2025
+Texto associado
+Only recently have scientists begun experimenting with the concept of living computers.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+6
+Q3643067
+Administração de Recursos Materiais Depreciação
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+O sistema de depreciação é diretamente proporcional à vida útil do bem patrimonial.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+7
+Q3595441
+Administração de Recursos Materiais Administração dos Almoxarifados
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Patrimônio - 2025
+Texto associado
+A fundação deve instalar extintores, sinalização de emergência e rotas de evacuação no almoxarifado, para garantir a segurança dos colaboradores e dos materiais, considerando riscos de incêndio e outros incidentes.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+8
+Q3599568
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor de Ensino Fundamental - Área: Inglês - 2025
+Texto associado
+According to the author, works of art of the past were produced for purposes which went beyond being beautiful.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+9
+Q3641131
+Administração de Recursos Materiais Gestão Patrimonial
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área: Administrativa - 2025
+Texto associado
+Na gestão patrimonial, consideram-se intangíveis recursos como equipamentos, instalações, marcas e produtos.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+10
+Q3643056
+Administração de Recursos Materiais Lote Econômico de Compras - LEC
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+O trade off entre os gastos com estocagem e com pedidos deve ser considerado para o cálculo do lote econômico de compra.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+11
+Q3643061
+Administração de Recursos Materiais Recebimento dos Materiais
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+O processo de recebimento de matéria-prima nas instalações da fábrica é finalizado com a recepção do representante do fornecedor e o procedimento de cadastramento no sistema.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+12
+Q3599570
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor de Ensino Fundamental - Área: Inglês - 2025
+Texto associado
+In the first paragraph, the author states that, in the past, no buildings were built without a practical purpose or reason.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+13
+Q3599576
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor de Ensino Fundamental - Área: Inglês - 2025
+Texto associado
+Children’s parents were not considered a source of information in the research mentioned in the text.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+14
+Q3595911
+Administração de Recursos Materiais Consulta
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+As solicitações de cotação não consistem em um pedido de venda, sendo analisadas quanto ao preço, à obediência às especificações, aos termos e às condições de venda, de entrega e modo de pagamento.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+15
+Q3595460
+Administração de Recursos Materiais Just-In-Time
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Patrimônio - 2025
+Texto associado
+No inventário periódico, opta-se por concentrar a conferência detalhada nos itens de maior valor, enquanto os materiais de menor valor são verificados ao longo do ano, durante o inventário rotativo, para a otimização dos recursos da equipe de patrimônio.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+16
+Q3599574
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor de Ensino Fundamental - Área: Inglês - 2025
+Texto associado
+Based on the text, it is correct to infer that black girls are less likely to play outdoors than white boys are.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+17
+Q3599783
+Língua Portuguesa Classes de palavras (classes gramaticais)
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor - Área: Redação - 2025
+Texto associado
+Os termos “o”, em “Ninguém o pode dizer” (antepenúltimo período), e “lá”, em “mas lá não temos nenhuma” (último período), pertencem a classes morfológicas distintas, porém ambos funcionam no texto como elementos de retomada anafórica.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+18
+Q3663419
+Administração de Recursos Materiais Verticalização ou Horizontalização
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração - 2025
+Texto associado
+A utilização da técnica de horizontalização no almoxarifado permite otimizar os espaços de armazenamento, a partir da instalação de estantes e empilhadeiras com alcance até a posição mais alta da estante.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+19
+Q3664356
+Administração de Recursos Materiais
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração, Economia, Contabilidade e Direito - 2025
+Texto associado
+A acumulação de estoques em níveis considerados apropriados é necessária para o bom funcionamento do sistema produtivo com demanda latente, visto que os estoques representam um médio investimento financeiro.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+20
+Q3660576
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - FUNPRESP-EXE - Analista de Previdência Complementar - Área: Administração e Planejamento - 2025
+Texto associado
+De acordo com o texto, é preocupante o fato de 65% das mulheres com mais de 45 anos de idade não ter nenhum investimento financeiro.
+C
+Certo
+E
+Errado
+Responder
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro

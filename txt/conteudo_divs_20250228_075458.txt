@@ -1,0 +1,851 @@
+1
+Q3640692
+Tecnologia da Informação Projetos x Programas X Portfólios
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Governança e Gestão de Tecnologia da Informação" - 2025
+Texto associado
+Com relação ao gerenciamento de projetos, julgue os próximos itens.
+O gerenciamento centralizado de programa é a atividade responsável por gerenciar um ou mais portfólios de projetos para alcançar os objetivos estratégicos.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+69.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Wellington Paula Da Silva Junior
+16 de fevereiro de 2025 às 22:44
+Errado,
+O gerenciamento centralizado de programa refere-se à gestão coordenada de múltiplos projetos inter-relacionados para obter benefícios estratégicos que não seriam alcançados se fossem gerenciados separadamente.
+Já a gestão de portfólio envolve o gerenciamento de um ou mais portfólios de projetos alinhados aos objetivos estratégicos da organização, sendo uma atividade diferente da gestão de programas.
+Reportar abuso
+Ajudou (0) Não ajudou
+2
+Q3640984
+Estatística Tipos de Erro
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade: Estatística - 2025
+Texto associado
+Acerca dos conceitos de probabilidade, julgue os itens que se seguem.
+Em um experimento determinístico, independentemente do número de vezes que o experimento seja repetido nas mesmas condições, os resultados serão sempre os mesmos.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+53.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Julia Bello De Menezes
+16 de fevereiro de 2025 às 20:40
+Um experimento determinístico é aquele em que, sempre que for repetido nas mesmas condições, produzirá sempre o mesmo resultado. Isso ocorre porque não há influência de fatores aleatórios, diferentemente de um experimento probabilístico, em que o resultado pode variar.
+Exemplo de experimento determinístico:
+Se jogarmos um objeto em queda livre no vácuo, a equação da física nos dará sempre o mesmo tempo de queda.
+Portanto, a afirmação está correta.
+Reportar abuso
+Ajudou (0) Não ajudou
+3
+Q3598465
+Raciocínio Lógico
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Gestor de Apoio - Área: Fisioterapeuta - 2025
+Texto associado
+Julgue os itens que se seguem, considerando que 25 novos computadores tenham sido distribuídos pela Secretaria de Segurança Pública do DF para três de suas delegacias.
+Suponha que, do total de computadores nas três delegacias antes da referida distribuição, 25% estavam com defeito e 20% da parte restante estavam com hardware defasado, sem condições de uso. Nesse caso, antes da distribuição dos novos computadores, a quantidade de computadores em utilização nas três delegacias era inferior a 60% do total.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+53.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+JP
+Jonas Prado Soares
+22 de janeiro de 2025 às 13:33
+100% total - 25% com defeito = 75% sem defeito
+Retirar 20% dos 75% sem defeito = 15% sem defeito e defasado
+
+Portanto, 100% - 25% - 15% = 60% em uso, o que não é inferior a 60% do total.
+Reportar abuso
+Ajudou (2) Não ajudou
+4
+Q3595568
+Administração Geral Planejamento Estratégico
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Projetos - 2025
+Texto associado
+Em relação a ferramentas de mudança organizacional, julgue os itens subsecutivos.
+Em mercados mais estáveis, o planejamento estratégico contempla, precipuamente, o médio e o longo prazos da empresa.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+77.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+6 de fevereiro de 2025 às 08:10
+Certo.
+Em mercados mais estáveis, as organizações tendem a ter menor necessidade de adaptação rápida às mudanças externas, o que permite que o planejamento estratégico seja mais focado no médio e longo prazos. Nesses contextos, as empresas podem planejar com maior segurança e precisão, considerando um horizonte mais amplo de tempo, já que as variáveis externas e internas tendem a ser mais previsíveis.
+
+Isso contrasta com mercados mais dinâmicos e incertos, onde as empresas precisam ter planos mais flexíveis e curtos, com maior ênfase em adaptação e agilidade.
+
+Oh: "o planejamento estratégico contempla, precipuamente, o médio e o longo prazos" - Ele é de médio prazo? Não. Ele comtempla (pode comtemplar)? Pode.
+Reportar abuso
+Ajudou (9) Não ajudou
+Sidinei Gadelha Alves
+19 de fevereiro de 2025 às 10:48
+Marquei errado pelo "médio prazo".
+
+Reportar abuso
+Ajudou (0) Não ajudou
+5
+Q3595352
+Administração Geral Abordagem clássica
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Patrimônio - 2025
+Texto associado
+Em relação às abordagens da administração e suas práticas, julgue os itens seguintes.
+A abordagem clássica traz a importância da qualidade do trabalho realizado, de forma menos parametrizada e mais dependente do estilo de cada colaborador.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+83.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+28 de janeiro de 2025 às 06:49
+Resposta: Errado (E)
+Justificativa:
+A abordagem clássica da administração, desenvolvida por autores como Frederick Taylor (Administração Científica) e Henri Fayol (Teoria Clássica da Administração), é caracterizada por uma forte ênfase na padronização, na formalização e na eficiência dos processos.
+Administração Científica (Taylor):
+Foco na racionalização do trabalho e na divisão de tarefas.
+Proposta de métodos padronizados para aumentar a produtividade e reduzir desperdícios.
+Redução da dependência do estilo individual de cada colaborador, substituindo-o por processos sistematizados.
+Teoria Clássica (Fayol):
+Organização e estrutura formal como pilares do bom funcionamento das empresas.
+Priorização de princípios administrativos universais, como unidade de comando e disciplina.
+Reportar abuso
+Ajudou (16) Não ajudou
+Concurseira Ajaa
+13 de fevereiro de 2025 às 08:33
+É o contrário. Foco na padronização.
+Reportar abuso
+Ajudou (1) Não ajudou
+Naiane Mota De Oliveira
+22 de fevereiro de 2025 às 18:05
+Trabalho repetitivo, lembrar dos vídeos de "Charlie Chaplin"
+
+Veja mais sobre "Charles Chaplin" em: https://brasilescola.uol.com.br/biografia/charles-chaplin.htm
+Reportar abuso
+Ajudou (0) Não ajudou
+6
+Q3640482
+Direito Administrativo
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Governança e Gestão de Tecnologia da Informação" - 2025
+Texto associado
+Com fundamento no Código de Ética Profissional do Servidor Público Civil do Poder Executivo (Decreto n.º 1.171/1994), na Lei de Improbidade Administrativa (Lei n.º 8.429/1992) e na Lei Anticorrupção (Lei n.º 12.846/2013), julgue os itens a seguir.
+A responsabilidade da pessoa jurídica pela prática de atos contra administração pública é afastada na hipótese de transformação, incorporação, fusão ou cisão societária.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+91.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Verônica Mendonça
+24 de fevereiro de 2025 às 18:47
+Art. 4º, § 1º – A responsabilidade da pessoa jurídica subsiste em caso de transformação, incorporação, fusão ou cisão societária, sendo a responsabilidade da sucessora limitada à obrigação de pagamento de multa e reparação integral do dano causado.
+Reportar abuso
+Ajudou (0) Não ajudou
+7
+Q3601000
+Língua Portuguesa A sintaxe do período composto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Ensino Médio - Área: Língua Portuguesa - 2025
+Texto associado
+“Você é espírita, Fernando? Então como é que você me pergunta o que eu faço às três horas da tarde? Às três horas da tarde sou a mulher mais exigente do mundo. Fico às vezes reduzida ao essencial, quer dizer, só meu coração bate. Quando passa, vem seis da tarde, também indescritíveis, em que eu fico cega”. (Carta de Clarice Lispector a Fernando Sabino em 19/6/1946)
+“De certo modo, você me dispensa de escrever. Resta o consolo de pensar que se eu fosse capaz como você de dizer o indizível, eu teria a dizer certas coisas que você ainda vai dizer. E me limito a ficar esperando”. (Carta de Fernando Sabino a Clarice Lispector em 30/3/1955)
+Em 1944, Fernando Sabino recebeu um exemplar de Perto do Coração Selvagem, com dedicatória da autora estreante, Clarice Lispector. Ele não fazia ideia de quem era ela. De qualquer maneira, ficou deslumbrado com o livro. Tempos depois, quando a conheceu pessoalmente, ficou deslumbrado com Clarice.
+Os jovens escritores viveram uma paixão não formulada. Encontravam-se diariamente, longas conversas numa confeitaria do Rio. Separados por compromissos fora do país, trocaram cartas, no período entre 1949 e 1969. Em 2001, Fernando as reuniu em Cartas Perto do Coração, comovente testemunho de fidelidade à literatura e à amizade. Livro de culto, rapidamente se esgotou; poucos exemplares, e caríssimos, eram achados em sebos. Reaparece agora, em edição de capa dura, novo projeto gráfico e fac-símiles dos manuscritos.
+Quem vê o prestígio de Clarice hoje não imagina suas angústias e incertezas reveladas na correspondência. Seu segundo livro, O Lustre, foi recebido em silêncio. Dez anos após o aparecimento do terceiro, A Cidade Sitiada, de 1949, ela estava esquecida. Os originais do romance A Maçã no Escuro ficaram cinco anos pegando poeira no escritório do editor Ênio Silveira. Além de segurar a barra da amiga, Fernando passou a atuar como agente literário de Clarice, até que seu talento fosse reconhecido.
+Com a publicação de Uma Aprendizagem, em 1969, Fernando carinhosamente entrega os pontos: “Eu não mereço mais ser seu leitor. Você foi longe demais para mim”.
+
+Álvaro Costa e Silva.
+A paixão nas cartas de Clarice Lispector e Fernando Sabino.
+Internet: <folha.uol.com.br> (com adaptações).
+
+Com base na leitura do texto apresentado, julgue os itens que se seguem.
+No último parágrafo, o período ‘Você foi longe demais para mim’ expressa circunstância de causa em relação ao período anterior.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+62.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+BL
+Bruno Luiz Mendes Fernandes
+9 de fevereiro de 2025 às 08:28
+Voce foi longe demais (causa), por isso (conjunção), eu não mereço mais ser seu leitor (consequência)
+Reportar abuso
+Ajudou (12) Não ajudou
+8
+Q3595383
+Língua Portuguesa Reescrita de frases e parágrafos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista Administrativo - Área: Projetos - 2025
+Texto associado
+Na base da estratificação social, como a camada mais explorada, sem qualquer representação ou direito, ficava a grande massa escrava de trabalhadores das minas, das lavouras e dos transportes. Todo o aparato ostensivo de repressão vigiava, em cada vila, a esses miseráveis, para prevenir as fugas, a vadiagem e, sobretudo, as rebeliões. A insurreição surge, porém, na classe alta, de que se destaca uma elite letrada, que se propõe formular um projeto alternativo ao colonial de reordenação da sociedade. Trata-se do mais ousado dos projetos libertários da história colonial brasileira, uma vez que previa estruturar uma república de molde norte-americano, que aboliria a escravidão, decretaria a liberdade de comércio e promoveria a industrialização. A eclosão da mal chamada Inconfidência Mineira deveria ter lugar em 1789. Presos por denúncia, todos os inconfidentes foram desterrados para a África, onde morreram, exceto Tiradentes, a figura principal da conspiração, enforcado após três anos de cárcere e, depois, esquartejado e exposto nos lugares onde antes conspirara, para escarmento da população.
+
+Darcy Ribeiro. O povo brasileiro. A formação e o sentido do Brasil. São Paulo: Global, 2013, p. 278-279 (com adaptações).
+
+Julgue os próximos itens, em relação às ideias e a aspectos linguísticos do texto precedente.
+Estariam mantidas a correção gramatical e a coerência das ideias do texto, respeitando-se a ortografia oficial em vigor, caso o segmento “exceto Tiradentes, a figura principal da conspiração, enforcado após três anos de cárcere” (último período do texto) fosse assim reescrito: com exceção de Tiradentes, a principal figura da conspiração, enforcado após três anos de encarceramento.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+84.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+JM
+Jose Mariano Da Penha Filho
+17 de fevereiro de 2025 às 19:54
+Correto
+Reportar abuso
+Ajudou (0) Não ajudou
+9
+Q3595574
+Administração Geral Ciclo de Vida dos Projetos
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Planejamento - 2025
+Texto associado
+Julgue os próximos itens, a respeito de metodologias de gerenciamento de projetos.
+A metodologia cascata é altamente iterativa, permitindo revisões e alterações frequentes durante todas as fases do projeto.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+76.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+6 de fevereiro de 2025 às 08:10
+Errado.
+A metodologia cascata (ou waterfall) é um modelo sequencial e não iterativo de gerenciamento de projetos. Nessa abordagem, as fases do projeto (como planejamento, design, desenvolvimento, testes, etc.) são realizadas de forma linear, ou seja, uma fase é concluída antes que a próxima tenha início. Quando uma fase é concluída, não é comum revisitar ou alterar as etapas anteriores, o que torna a metodologia menos flexível para mudanças e revisões durante o processo.
+A característica de ser altamente iterativa e permitir revisões frequentes é típica de metodologias ágil (como o Scrum), que favorecem a adaptação e iteração contínua ao longo do projeto.
+Reportar abuso
+Ajudou (6) Não ajudou
+10
+Q3595550
+Administração Geral A Quinta Disciplina (Peter Senge)
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Projetos - 2025
+Texto associado
+Julgue os itens seguintes, a respeito do ciclo PDCA (plan, do, check, act) e das ferramentas de mudança organizacional.
+A aprendizagem em grupo é uma das cinco disciplinas da aprendizagem.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+93.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+6 de fevereiro de 2025 às 08:11
+Certo.
+A aprendizagem em grupo (ou aprendizagem em equipe) é uma das cinco disciplinas propostas por Peter Senge no livro A Quinta Disciplina, que aborda a teoria da organização que aprende. As cinco disciplinas são:
+Domínio pessoal – Aprender e crescer continuamente como indivíduo.
+Modelos mentais – Desafiar e refletir sobre os nossos próprios modelos e crenças.
+Visão compartilhada – Criar uma visão comum para a organização.
+Aprendizagem em grupo – Trabalhar em equipe de forma colaborativa para alcançar melhores resultados.
+Pensamento sistêmico – Ver a organização como um sistema interconectado e entender como as partes afetam o todo.
+A aprendizagem em grupo é fundamental para melhorar a colaboração e aumentar a eficácia da equipe na resolução de problemas e no alcance de objetivos coletivos.
+Reportar abuso
+Ajudou (0) Não ajudou
+11
+Q3595628
+Administração Geral Ciclo de Vida dos Projetos
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Planejamento - 2025
+Texto associado
+Julgue os próximos itens, a respeito de cronograma, estimativa de custos e orçamento.
+O sequenciamento das atividades de um cronograma é organizado apenas com base na duração estimada das tarefas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+96.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+6 de fevereiro de 2025 às 07:51
+Errado.
+O sequenciamento das atividades de um cronograma não é feito apenas com base na duração estimada das tarefas. Ele leva em consideração diversos fatores, como:
+Dependências entre atividades – Algumas tarefas só podem começar após a conclusão de outras (exemplo: primeiro construir a fundação antes de levantar as paredes).
+Relações de precedência – As atividades podem ter diferentes tipos de relações (término para início, início para início, término para término, etc.).
+Recursos disponíveis – A alocação de equipe, equipamentos e materiais pode influenciar o sequenciamento.
+Restrições do projeto – Datas fixas, prazos regulatórios ou requisitos contratuais podem impactar a ordem das atividades.
+Portanto, a organização do cronograma depende de múltiplos fatores, e não apenas da duração das tarefas.
+Reportar abuso
+Ajudou (2) Não ajudou
+12
+Q3595851
+Língua Portuguesa Texto descritivo
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor - Área: Corretor de Redação - 2025
+Texto associado
+O repórter conta antes do memorialista, e o torna inútil. Sabemos hoje de cada literato o que ele come e bebe, o clube esportivo a que se consagrou, o número de seus sapatos e de suas camisas, se é supersticioso, se ajuda a mulher em casa, se fila cigarros ou os compra, se tem medo de morrer e se ronca. O escritor deixa-se fotografar de pijama, brincando com os netos ou soltando pandorga na praia.
+É visível que tais circunstâncias não deixam margem à sobrevivência dos gêneros clássicos da biografia, da autobiografia, do diário íntimo e das memórias. A fórmula jornalística superou a calma atitude do homem que sacava da pena de pato para confiar ao papel de boa fibra um segredo da juventude a ser revelado aos pósteros.
+Essa contínua e imediata exposição do presente retira ao homem uma de suas dimensões essenciais, que é o passado. Inibe-o de recordar, porque ele já não acumula no esquecimento, para depois reviver. Sua vida vai desfilando ao alcance e à mercê de seus olhos e dos alheios, e, se está enfastiado de se assistir viver em todo o impudor dessa publicidade, só lhe resta apertar um botão e desfigurar essa espécie de aparelho supersônico em que, como num filme falado, nossa vida moderna se desenrola.
+E, mais do que nenhum outro ser, o escritor precisaria de retraimento que o reconduzisse à intimidade consigo mesmo e às raízes da vida, que lhe cabe pesquisar e interpretar. Sua pessoa devia ser objeto de clausura perfeita, só interrompida pelos surtos naturais de sua avidez de comunicação, ou pelas atividades peculiares ao ofício.
+Nem se chame a isto de solidão orgulhosa ou inumana, prejudicial às fontes da criação. O melhor ou o único, porque específico, do escritor é o que ele escreve; o mais se dilui nas condições comuns a todo cidadão.
+Já é tempo de o escritor voltar a seu ofício.
+
+Carlos Drummond de Andrade. Memórias. In: A manhã; suplemento letras e artes, 15/3/1953. Internet: <memoria.bn.gov.br> (com adaptações).
+
+Considerando o texto apresentado, julgue os itens a seguir.
+Após o primeiro parágrafo, predomina no texto a tipologia textual descritiva.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+72.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Joaquim Rocha
+31 de janeiro de 2025 às 10:10
+No texto, predomina tipologia textual expositiva.
+Reportar abuso
+Ajudou (9) Não ajudou
+Mim
+10 de fevereiro de 2025 às 17:45
+Após o primeiro parágrafo, predomina a tipologia dissertiva-argumentativa . O autor não se limita a descrever um cenário, mas expõe uma tese sobre a exposição pública excessiva dos escritores e suas consequências para a produção literária. Ele argumenta contra essa exposição e defende a necessidade de recolhimento para a criação.
+
+Aos colegas que colocaram expositiva
+
+A tipologia expositiva pode ser encontrada em textos que têm como objetivo principal a exposição de informações de forma clara e objetiva, sem a intenção de persuadir ou argumentar a favor de um ponto de vista específico.
+
+No entanto, no texto de Carlos Drummond de Andrade, há uma predominância de uma estrutura argumentativa após o primeiro parágrafo.
+
+O autor não apenas expõe informações sobre a situação dos escritores na mídia, mas também desenvolve uma série de argumentos para defender a sua opinião sobre como essa exposição afeta a essência da criação literária. Ele apresenta uma crítica e propõe um retorno do escritor ao seu ofício, longe dos holofotes da mídia.
+
+Embora haja elementos expositivos no texto, a intenção principal é argumentar a favor de uma postura mais reservada para os escritores, o que caracteriza a tipologia como argumentativa.
+
+Reportar abuso
+Ajudou (5) Não ajudou
+Giselle Salles De Oliveira Miranda Martins
+29 de janeiro de 2025 às 05:52
+O texto é expositivo
+Reportar abuso
+Ajudou (2) Não ajudou
+13
+Q3595707
+Administração Geral Análise Custo-Benefício
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Projetos - 2025
+Texto associado
+Julgue os próximos itens, a respeito de cronograma, estimativa de custos e orçamento.
+A análise de valor agregado é usada para medir o desempenho de um projeto em relação ao seu cronograma e ao seu orçamento.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+68.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+4 de fevereiro de 2025 às 08:46
+Certo.
+A análise de valor agregado (EVM - Earned Value Management) é uma técnica utilizada para medir o desempenho de um projeto em relação tanto ao cronograma quanto ao orçamento. Ela compara o valor do trabalho realizado com o valor planejado e o custo real do projeto, permitindo a avaliação do desempenho e a identificação de possíveis desvios em relação aos objetivos estabelecidos. Essa análise é essencial para acompanhar o progresso do projeto e tomar decisões corretivas quando necessário.
+Reportar abuso
+Ajudou (2) Não ajudou
+14
+Q3597145
+Matemática Média Aritmética Ponderada
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Anos Finais - Área: Matemática - 2025
+Texto associado
+
+Tendo como referência a tabela precedente, em que estão representadas as notas de uma prova, obtidas por 25 estudantes, julgue os itens subsequentes.
+A mediana das notas na tabela tem o mesmo valor da moda.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+62.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alisson Dos Santos
+5 de fevereiro de 2025 às 16:34
+Mediana = 5
+Moda = 5
+Reportar abuso
+Ajudou (0) Não ajudou
+15
+Q3595654
+Administração Geral Análises Quantitativas e Qualitativas
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Projetos - 2025
+Texto associado
+Julgue os seguintes itens, acerca de fundamentos da gestão de projetos de acordo com o PMBOK 7.ª edição.
+A análise de riscos quantitativa é geralmente mais simples e rápida que a análise de riscos qualitativa, pois envolve menos cálculos e detalhamentos.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+87.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+6 de fevereiro de 2025 às 07:43
+Errado.
+A análise de riscos quantitativa é, na verdade, mais complexa e demorada do que a análise de riscos qualitativa, pois envolve cálculos estatísticos, modelagem matemática e simulações, como a técnica de Monte Carlo. Ela busca quantificar os impactos dos riscos no projeto em termos numéricos, exigindo maior detalhamento e dados mais precisos.
+Já a análise qualitativa é mais simples e rápida, pois se baseia em critérios subjetivos, como probabilidade e impacto dos riscos, frequentemente utilizando escalas ordinais (exemplo: alto, médio, baixo).
+Reportar abuso
+Ajudou (2) Não ajudou
+16
+Q3599628
+Língua Portuguesa Pronomes
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Anos Iniciais - Área: Língua Portuguesa - 2025
+Texto associado
+Na Escola Nossa Senhora do Morumbi, em São Paulo, a professora Débora Corrêa ensina poesia para turmas de 4.º ano do ensino fundamental desde 2002. O projeto Poesia também se aprende tem por objetivo permitir que as crianças brinquem com as palavras e percebam as diferenças entre ritmos e sonoridades, cantar e recitar, falar e recitar. Após cinco anos de trabalho, ela diz que a garotada aprende a reconhecer, compreender e dar significado às palavras. “Sem falar que o vocabulário enriquece, pois todos aprendem novas expressões no contexto em que elas devem ser usadas”, afirma. “A poesia estimula o raciocínio ao brincar com as palavras. E os menores, que ainda têm dificuldade para se expressar, aproveitam muito essas oportunidades de troca, até porque os textos sempre representam situações reais”, explica.
+
+Internet: <novaescola.org.br> (com adaptações).
+
+Considerando aspectos linguísticos do texto anterior e a leitura nos anos iniciais do ensino fundamental, julgue os próximos itens.
+O pronome ‘elas’, em ‘elas devem ser usadas’ (quarto período), retoma “palavras”, que aparece no período imediatamente anterior.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+44.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+SA
+Samanda Alves
+24 de janeiro de 2025 às 15:18
+“Sem falar que o vocabulário enriquece, pois todos aprendem novas expressões no contexto em que elas devem ser usadas”, afirma.
+
+Elas retoma expressões. Portanto, item INCORRETO.
+Reportar abuso
+Ajudou (24) Não ajudou
+Caio Bruno
+4 de fevereiro de 2025 às 11:01
+errei por falta de atencao
+Reportar abuso
+Ajudou (6) Não ajudou
+Jessica Beatriz Borges Dos Santos
+23 de janeiro de 2025 às 09:10
+Retoma expressões.
+Reportar abuso
+Ajudou (4) Não ajudou
+Elisangela Santos
+21 de fevereiro de 2025 às 16:40
+O pronome "elas", em "elas devem ser usadas" (quarto período), não retoma "palavras", que aparece no período imediatamente anterior.
+Explicação:
+No texto, a referência do pronome "elas" está ligada a "novas expressões", mencionadas anteriormente no mesmo período: "todos aprendem novas expressões no contexto em que elas devem ser usadas". O pronome "elas" substitui "novas expressões", e não "palavras", que aparece em um contexto diferente.
+Portanto, a afirmação de que o pronome "elas" retoma "palavras" está incorreta.
+Resposta:
+E (Errado). O pronome "elas" refere-se a "novas expressões", e não a "palavras".
+
+
+
+
+
+
+Reportar abuso
+Ajudou (0) Não ajudou
+Ana Beatriz Assis Galvao
+10 de fevereiro de 2025 às 15:42
+está retomando expressões
+Reportar abuso
+Ajudou (0) Não ajudou
+17
+Q3595620
+Administração Geral Decisões Programadas e Não programadas
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Planejamento - 2025
+Texto associado
+Julgue os próximos itens, a respeito de cronograma, estimativa de custos e orçamento.
+O resultado de uma simulação de Monte Carlo estabelece um cronograma de alto nível, com marcos, eventos e pontos de decisão.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+50.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+6 de fevereiro de 2025 às 07:54
+Errado.
+A simulação de Monte Carlo é uma técnica usada principalmente para análise de riscos e incertezas nos cronogramas e orçamentos, e não para estabelecer um cronograma de alto nível com marcos e pontos de decisão. Ela gera uma distribuição de probabilidades para a duração das atividades ou custos, com base em diferentes cenários possíveis, ajudando a entender a variação e a incerteza no projeto.
+A simulação de Monte Carlo permite calcular a probabilidade de que o projeto seja concluído dentro de um determinado prazo ou orçamento, mas ela não define marcos ou eventos específicos no cronograma. O que ela faz é fornecer uma previsão mais precisa e baseada em dados probabilísticos sobre os possíveis resultados, o que ajuda na gestão de riscos, mas não cria o cronograma em si.
+Reportar abuso
+Ajudou (5) Não ajudou
+18
+Q3595676
+Direito Administrativo Das Infrações e Sanções Administrativas
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+Com base nas disposições da Lei n.o 14.133/2021, julgue os itens a seguir.
+São sanções administrativas aplicáveis ao responsável pelas infrações previstas na Lei n.o 14.133/2021: advertência, multa, suspensão da declaração de idoneidade para licitar ou contratar, e cancelamento de inscrição no CEIS (Cadastro Nacional de Empresas Inidôneas e Suspensas).
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+55.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Arthur De Lima Ramos
+20 de janeiro de 2025 às 20:17
+Errado. Veja, sanções: I - advertência; 2 - Multa; III - impedimento de licitar e contratar; IV - Declaração de inidoneidade para licitar ou contratar. Outra forma mais simples de verificar que a questão está errada é no fato que no cadastro do CEIS se encontram apenas as empresas inidôneas e suspensas (uma empresa regular não consta no CEIS). Se a questão fala em cancelamento da inscrição dela no cadastro, não seria uma sanção e sim um benefício.
+Reportar abuso
+Ajudou (47) Não ajudou
+C
+Camila
+20 de janeiro de 2025 às 20:14
+Lei 14.133, Art. 156. Serão aplicadas ao responsável pelas infrações administrativas previstas nesta Lei as seguintes sanções:
+I - advertência;
+II - multa;
+III - impedimento de licitar e contratar;
+IV - declaração de inidoneidade para licitar ou contratar.
+Reportar abuso
+Ajudou (28) Não ajudou
+Andreza
+8 de fevereiro de 2025 às 09:07
+Art. 156. Serão aplicadas ao responsável pelas infrações administrativas previstas nesta Lei as seguintes sanções: I - advertência; II - multa; III - impedimento de licitar e contratar; IV - declaração de inidoneidade para licitar ou contratar.
+Reportar abuso
+Ajudou (2) Não ajudou
+19
+Q3599703
+Língua Portuguesa Acentuação gráfica
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor - Área: Redação - 2025
+Texto associado
+Texto 9A1
+
+No cotidiano de todo brasileiro, podemos visualizar as marcas que constituíram, a partir do século XVI, a presença dos povos africanos, de origem Banto e Iorubá, no Brasil. Essa presença está nas palavras que falamos, na gestualidade que produzimos e no nosso modo de pronunciar a língua portuguesa falada no Brasil.
+A entrada de grande número de africanos no Brasil, com suas diferentes culturas e línguas, passou por um processo de adaptação, de certo ajuste cultural e linguístico com a assimilação de novas palavras e, consequentemente, da forma como elas orientavam o entendimento da nova realidade vivida em português. Entretanto, ainda é possível visualizar a presença das palavras africanas nos diferentes espaços da cultura brasileira.
+O Museu da Língua Portuguesa, ao expor o acervo de palavras africanas que entraram no vocabulário da língua portuguesa, favorece reconhecer a história da população africana no Brasil como agente da cultura e da língua portuguesa que se desenhava sobre este solo. No setor Palavras Cruzadas do museu, por exemplo, visualizam-se palavras que nos ensinaram a nomear determinados comportamentos, como: bagunça lengalenga, dengo. Essas são algumas das palavras africanas que continuam vivas a significar comportamentos e relações sociais. Outras ganharam o sentido de gíria na língua portuguesa falada no Brasil, como borocoxô, cafofo.
+A cultura é algo que está no corpo, nos gestos, na memória, na forma de andar, no contorno das expressões verbais e não verbais. Não é possível perdê-la. A mudança de um contexto cultural para outro acompanha adaptações e recriações dadas em palavras, por isso podemos falar em um movimento de antropofagia simbólica no lugar de uma simples assimilação de palavras e práticas.
+As línguas mudam ao acompanharem a história dos seus falantes. Esta é a história da língua portuguesa em solo brasileiro: ela também pode adaptar-se às novas relações linguísticas e culturais. No Brasil, a manutenção da estrutura latina da língua portuguesa não impediu que esta acolhesse uma nova sonoridade em relação à sua matriz e incorporasse um grande vocabulário de palavras que veio de outras línguas.
+Como um detetive que reúne pistas para contar uma história, as palavras africanas expostas no acervo do Museu da Língua Portuguesa compõem o papel de traduzir os sentidos e significados compartilhados na cultura brasileira. É uma história nem sempre contada em livros didáticos, mas que carregamos conosco para os diferentes lugares a que podemos ir. A importância da língua portuguesa como um bem museológico se faz nesse ato de contar histórias que não são definidas por nós, mas são praticadas e vividas coletivamente.
+
+Wilmihara Santos. A presença africana nas palavras que falamos em português. 2018. Internet: <museudalinguaportuguesa.org.br> (com adaptações).
+
+Considerando os sentidos e aspectos linguísticos do texto 9A1, julgue os itens seguintes.
+Os vocábulos “língua” e “história” são acentuados graficamente em razão da regra que determina que se acentuem palavras paroxítonas terminadas em ditongo crescente, seguido, ou não, de s.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+91.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Thiago Wendel
+25 de janeiro de 2025 às 10:46
+Sim, os vocábulos "língua" e "história" são acentuados devido à regra que determina o uso do acento em palavras paroxítonas terminadas em ditongo crescente (como ia e ua), seguidos ou não de "s". Essa regra está de acordo com a norma ortográfica do português.
+Reportar abuso
+Ajudou (5) Não ajudou
+EF
+Elma F Costa Mendes
+29 de janeiro de 2025 às 10:45
+
+1. As palavras 'língua' e 'história' são acentuadas por serem paroxítonas terminadas em em ditongo crescente, seguido, ou não, de s. O ditongo crescente é aquele em que a semivogal precede a vogal, como em “série”, “´língua” e “história”. Fonte: @qliteratura
+Reportar abuso
+Ajudou (3) Não ajudou
+20
+Q3599616
+Língua Portuguesa Pressupostos e subentendidos
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Anos Iniciais - Área: Língua Portuguesa - 2025
+Texto associado
+O navio negreiro
+
+Castro Alves
+
+Era um sonho dantesco... o tombadilho
+Que das luzernas avermelha o brilho,
+Em sangue a se banhar.
+Tinir de ferros... estalar de açoite...
+Legiões de homens negros como a noite,
+Horrendos a dançar
+(...)
+
+E o sono sempre cortado
+Pelo arranco de um finado,
+E o baque de um corpo ao mar...
+(...)
+
+Prende-os a mesma corrente
+— Férrea, lúgubre serpente —
+Nas roscas da escravidão.
+(...)
+Auriverde pendão de minha terra,
+Que a brisa do Brasil beija e balança,
+Estandarte que a luz do sol encerra
+E as promessas divinas da esperança...
+A partir da leitura dos excertos precedentes do poema O navio negreiro, de Castro Alves, julgue os itens a seguir.
+As imagens descritas na primeira estrofe traduzem cenas de pavor ocorridas em uma senzala.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+46.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Andreia Gomes Do Nascimento
+5 de fevereiro de 2025 às 12:39
+Não, as imagens descritas na primeira estrofe do poema "Navio Negreiro", de Castro Alves, não retratam uma senzala, mas sim o interior de um navio negreiro, onde africanos escravizados eram transportados em condições desumanas para serem vendidos no Brasil e em outras partes do continente americano.
+Explicação:
+📌 “Era um sonho dantesco...” → A palavra "dantesco" remete ao escritor Dante Alighieri, autor da Divina Comédia, sugerindo um cenário infernal.
+📌 “O tombadilho que das luzernas avermelha o brilho, em sangue a se banhar.” → O tombadilho é a parte superior do navio. A luz avermelhada e o sangue indicam sofrimento e violência.
+📌 “Tinir de ferros... estalar de açoite...” → Faz referência às correntes e aos castigos físicos sofridos pelos escravizados.
+📌 “Legiões de homens negros como a noite, horrendos a dançar.” → Os africanos escravizados são descritos em uma espécie de dança forçada, possivelmente para entretenimento dos tripulantes ou para evitar problemas de saúde durante a viagem.
+💡 Conclusão: O trecho não retrata uma senzala, mas sim o ambiente de horror vivido pelos escravizados durante a travessia do Oceano Atlântico nos navios negreiros.
+
+Reportar abuso
+Ajudou (2) Não ajudou

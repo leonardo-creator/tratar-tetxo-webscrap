@@ -1,0 +1,1033 @@
+1
+Q3539684
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Mossoró - Auditor Fiscal de Tributos - Área: Ciências Contábeis - 2024
+Texto associado
+Preconceito e discriminação são termos próximos. Por vezes, juridicamente, parecem até a mesma coisa, como se depreende do texto da Lei n.º 7.716, de 5 de janeiro de 1989, complementada pela Lei n.º 9.459, de 15 de maio de 1997: “Serão punidos, na forma desta lei, os crimes resultantes de discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional”. Mesmo assim, o preconceito pode ser definido como uma ideia de distinção, exclusão ou preferência baseada em raça, sexo, religião, origem social ou geográfica etc.; já a discriminação diz respeito à ação decorrente do preconceito. O preconceito é uma opinião; a discriminação, um comportamento real e efetivo.
+Sendo um pensamento, o preconceito, a rigor, não é crime. Quando se torna uma ação concreta ou uma afirmação pública, passa a ser discriminação e, a partir daí, é alvo da lei. O preconceito é considerado por nós a matriz que origina o ato discriminatório. Sem preconceito, não existiria discriminação. Ausente de sua expressão concreta discriminatória, o preconceito seria apenas uma fantasmagoria psíquica.
+
+Leandro Karnal e Luiz Estevam. Preconceito: uma história. São Paulo: Companhia das Letras, 2023 (com adaptações).
+
+Em referência às ideias veiculadas no texto apresentado e a seus aspectos linguísticos, julgue os itens seguintes.
+Segundo o texto, preconceito e discriminação são termos geralmente tomados como sinônimos porque designam as mesmas coisas no mundo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+79.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Priscila Conter Costa De Melo
+11 de janeiro de 2025 às 15:11
+ERRADO.
+
+A questão exige conhecimento sobre compreensão e interpretação de texto.
+
+Segundo o texto, preconceito e discriminação são termos geralmente tomados como sinônimos, mas não designam as mesmas coisas no mundo.
+
+Ele diz que "Por vezes, juridicamente, parecem até a mesma coisa [...]", porém, logo em seguida, ele explica que não designam as mesmas coisas.
+
+Veja:
+
+"Preconceito e discriminação são termos próximos"
+
+"O preconceito pode ser definido como uma ideia de distinção, exclusão ou preferência baseada em raça, sexo, religião, origem social ou geográfica etc.; já a discriminação diz respeito à ação decorrente do preconceito. O preconceito é uma opinião; a discriminação, um comportamento real e efetivo."
+
+Portanto, esses termos não podem ser tomados como sinônimo, pois não designam as mesmas coisas no mundo.
+
+#estratégia
+Reportar abuso
+Ajudou (0) Não ajudou
+2
+Q3175480
+Administração de Recursos Materiais Armazenagem, Distribuição e Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Julgue os seguintes itens, que versam sobre armazenagem e distribuição de materiais.
+Melhorar as condições de trabalho é um dos objetivos do arranjo físico.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+87.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Luana Rodrigues
+3 de abril de 2024 às 09:22
+Arranjo físico diz respeito ao posicionamento físico dos recursos transformadores de uma empresa. Isso vai das instalações, equipamentos, colaboradores e a forma com que esses itens se relacionam.
+
+O estudo de layout gera uma harmonia visual, física e produtiva entre os elementos presentes no espaço. Essa harmonia é algo muito importante para produtividade e segurança dos colaboradores. Dessa forma, o objetivo é alcançar a máxima produtividade possível, por isso focar no bem-estar dos colaboradores é tão importante.
+Reportar abuso
+Ajudou (33) Não ajudou
+3
+Q3128917
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+No que diz respeito à logística, julgue os itens a seguir.
+O sistema de planejamento de recursos (ERP) trabalha de forma modularizada e se divide em partições específicas para as diferentes funções da logística.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+83.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Roberto Cardoso Da Silva Junior
+6 de fevereiro de 2024 às 20:39
+ERP (Enterprise Resource Planning) é um sistema de gestão integrado que consegue organizar diversas áreas de uma empresa em um só sistema, gerenciando os dados da empresa em um banco de dados único. Isso permite automatizar processos e cria uma visão geral muito mais confiável para a tomada de decisão dos gestores.
+Reportar abuso
+Ajudou (38) Não ajudou
+Mariana
+21 de abril de 2024 às 18:59
+
+Sigla ERP significa Enterprise Resource Planning, em português, “planejamento de recursos empresariais”. Sistema ERP é um software de gestão que empresas de diferentes portes e segmentos utilizam para gerenciar e automatizar tarefas dos principais setores do negócio.
+Principais desvantagens
+Custo
+Complexidade de implementação
+Customização excessiva
+Resistência à mudança
+Dependência de fornecedores
+Reportar abuso
+Ajudou (9) Não ajudou
+4
+Q3340560
+Administração de Recursos Materiais Classificação dos Bens Patrimoniais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Técnico Judiciário - Área: Administrativa - 2024
+Texto associado
+No que se refere à gestão patrimonial, julgue os itens a seguir.
+As técnicas de especificação e codificação são destinadas ao controle de bens patrimoniais, enquanto a técnica de classificação se destina especificamente ao controle de bens estocáveis.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+77.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lázaro Lima Verde
+18 de julho de 2024 às 09:58
+Essa afirmação está incorreta porque as técnicas de especificação, codificação e classificação têm aplicações mais amplas e não se limitam exclusivamente ao tipo de bem (patrimoniais ou estocáveis).
+1. Especificação: A técnica de especificação é utilizada para detalhar e descrever as características de um bem, independentemente de ser um bem patrimonial (imobilizado) ou um bem estocável. Especificar um bem corretamente é crucial para sua identificação, gestão e controle, garantindo que todas as suas características e requisitos sejam claramente entendidos.
+2. Codificação: A técnica de codificação atribui um código único a cada item para facilitar a identificação, rastreamento e gestão. Essa técnica também é aplicada tanto a bens patrimoniais quanto a bens estocáveis. A codificação é essencial para o controle eficiente de inventários, permitindo um rápido acesso às informações sobre qualquer item.
+3. Classificação: A técnica de classificação organiza os itens em categorias ou grupos com base em características comuns. Isso facilita a gestão e o controle dos bens, sejam eles patrimoniais ou estocáveis. Classificar itens é uma prática comum em sistemas de inventário e é útil para a organização e análise de estoques e ativos.
+Reportar abuso
+Ajudou (46) Não ajudou
+K
+Kalynara
+15 de janeiro de 2025 às 13:58
+Especificação, codificação e classificação são aplicadas tanto a bens patrimoniais quanto estocáveis.
+Reportar abuso
+Ajudou (6) Não ajudou
+Jeferson Brito
+31 de dezembro de 2024 às 12:41
+Errado - É o contrário. Pensa comigo, como iremos codificar máquinas, edificações, terrenos (bens patrimoniais)?
+Reportar abuso
+Ajudou (3) Não ajudou
+5
+Q3238161
+Administração de Recursos Materiais Custos de Armazenamento
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+Considerando os conceitos de tecnologias, logística 4.0, transformação digital, ERP e custos logísticos, julgue os próximos itens.
+O custo de estoque de matéria-prima é obtido pelo quociente entre seus custos de armazenagem e os custos do pedido.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+48.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daisy Concurseira
+4 de setembro de 2024 às 09:43
+O curso de estoque não é o quociente do custo de armazenagem e o custo do pedido, mas a soma do custo de armazenagem e custo do pedido.
+Reportar abuso
+Ajudou (60) Não ajudou
+AM
+Alexandra Moreira Barbosa
+30 de dezembro de 2024 às 23:03
+O custo de estoque é o resultado do cálculo de todos os custos envolvidos no armazenamento de mercadorias, como o custo de armazenagem, o custo de processamento, o custo de carregamento de estoque, o custo de falta, entre outros.
+Reportar abuso
+Ajudou (10) Não ajudou
+Tav_cruz
+16 de janeiro de 2025 às 23:50
+o quociente é o valor que se obtém ao dividir o dividendo pelo divisor.
+
+Reportar abuso
+Ajudou (5) Não ajudou
+6
+Q3232490
+Administração de Recursos Materiais Classificação Pelo Valor do Consumo - Classificação ABC
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Suprimentos de Bens e Serviços Júnior - Área Administração - 2024
+Texto associado
+Tendo em vista que os estoques são guardados nos almoxarifados e requerem principalmente processos de controle de entrada, acomodação e saída da área de armazenagem, julgue os itens seguintes, acerca da gestão de estoques e almoxarifados.
+A classificação ABC, denominada curva de Pareto, é utilizada no controle de estoques para identificar e avaliar as classes de itens com maior, mediano e menor valor monetário aplicado em determinado período.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+85.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Veronica
+27 de junho de 2024 às 17:12
+A afirmação está correta. A classificação ABC, também conhecida como análise de Pareto, é uma técnica amplamente utilizada na gestão de estoques para categorizar os itens com base em seu valor monetário e importância.
+Classificação ABC:
+Classe A: Inclui os itens mais valiosos e importantes, que geralmente representam uma pequena porcentagem do total de itens (cerca de 20%) mas uma grande porcentagem do valor total do estoque (cerca de 80%). Esses itens requerem um controle rigoroso e atenção especial.
+Classe B: Compreende itens de importância e valor intermediários. Eles representam uma proporção moderada tanto em quantidade quanto em valor total do estoque.
+Classe C: Inclui itens de menor valor e importância, que constituem uma grande porcentagem do total de itens (cerca de 50-60%) mas uma pequena porcentagem do valor total do estoque (cerca de 10-15%). Esses itens requerem menos atenção e controle rigoroso.
+
+Objetivos da Classificação ABC:
+Identificar os itens que requerem mais atenção e controle devido ao seu alto valor.
+Auxiliar na tomada de decisões relacionadas à gestão de estoques, como políticas de reposição, níveis de estoque de segurança, frequência de revisões de estoque, entre outros.
+Otimizar a utilização de recursos e esforços de gerenciamento, concentrando-se nos itens que têm maior impacto financeiro.
+Reportar abuso
+Ajudou (18) Não ajudou
+Verônica Mendonça
+11 de fevereiro de 2025 às 14:04
+pareto me pegou...
+
+Classificação ABC: Os itens são classificados em três categorias:
+Classe A: Itens de alto valor (geralmente, 20% dos itens representam 80% do valor total).
+Classe B: Itens de valor médio.
+Classe C: Itens de baixo valor (geralmente, 50% dos itens representam apenas 10% do valor total).
+
+Reportar abuso
+Ajudou (1) Não ajudou
+7
+Q3134979
+Raciocínio Lógico Equivalências Lógicas - (Proposições Logicamente equivalentes)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente de Tecnologia da Informação - 2024
+Texto associado
+P1: “Todo profissional competente tem criatividade ou sensibilidade social.”
+P2: “Todo profissional competente tem criatividade e sensibilidade social.”
+
+Considerando as proposições lógicas P1 e P2, julgue os itens subsequentes.
+A proposição P1 é logicamente equivalente à proposição “Todo profissional que tem criatividade e sensibilidade social é competente.”.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+79.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Thiago Marcos Da Silva Reis
+9 de setembro de 2024 às 06:41
+Equivalência do "v"(ou):
+Inverte e nega a 1° e mantém a 2°; e troca pelo "---->"(se...então): ~q----->p
+Equivalência:
+TODO= NENHUM NÃO
+NENHUM= TODO NÃO
+ALGUM= (NÃO TEM)
+Resposta: "Se nenhum profissional não tem sensibilidade social então é competente."
+
+fonte=
+Priscilla Kathleen,qconcurso
+
+Reportar abuso
+Ajudou (17) Não ajudou
+Rodrigo Francelino Portela
+28 de março de 2024 às 10:33
+P1: “Todo profissional competente tem criatividade ou sensibilidade social.”= Todo profissional competente : Tem criatividade OU tem sensibilidade social
+“Todo profissional que tem criatividade e sensibilidade social é competente.”. Todo profissionail que tem criatividade E sensibilidade social: é competente.
+Reportar abuso
+Ajudou (13) Não ajudou
+T
+Tatiana
+19 de abril de 2024 às 21:37
+O que quer dizer os dois pontos? Não sei.
+Reportar abuso
+Ajudou (7) Não ajudou
+Camila De Fatima Openheimer
+13 de junho de 2024 às 08:30
+não entendi
+
+Reportar abuso
+Ajudou (4) Não ajudou
+Rafael Nogueira Gomes
+3 de dezembro de 2024 às 12:14
+Fui pela regra do TAN equivalência do todo é nenhum.
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 2
+8
+Q3134602
+Administração de Recursos Materiais Administração de Compras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista Técnico - 2024
+Texto associado
+A respeito da administração de compras e materiais, julgue os próximos itens.
+A gestão de materiais engloba as atividades de compras, recebimento, armazenagem e distribuição, cabendo o controle à gestão de custos.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+63.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Manuella O Nascimento
+27 de fevereiro de 2024 às 11:01
+ERRADO
+O CONTROLE cabe a todos os setores e etapas e não apenas à gestão de custo.
+Reportar abuso
+Ajudou (55) Não ajudou
+TC
+Thais Caldas De Andrade
+16 de março de 2024 às 19:37
+A gestão de materiais engloba atividades tais como compras (suprimento), recebimento, armazenagem, distribuição e controle.
+Reportar abuso
+Ajudou (15) Não ajudou
+Maicon Nunes Da Cruz
+18 de março de 2024 às 08:37
+Na afirmativa falta considerar a gestão de estoque e controle.
+Reportar abuso
+Ajudou (4) Não ajudou
+Layane Nunes
+13 de dezembro de 2024 às 10:44
+li rápido e errei...
+Reportar abuso
+Ajudou (1) Não ajudou
+Ashely
+14 de janeiro de 2025 às 11:20
+ERRADO
+
+ O controle é uma atividade que permeia todas as etapas da gestão de materiais, não sendo restrito à gestão de custos.
+Reportar abuso
+Ajudou (0) Não ajudou
+9
+Q3312320
+Administração de Recursos Materiais Classificação quanto à Aplicação
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Analista Administrativo - 2024
+Texto associado
+No que diz respeito à classificação de materiais na administração pública, julgue os itens a seguir.
+Os materiais podem ser classificados, quanto à sua aplicação na organização, em materiais de estoque e materiais de não estoque.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+40.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alisson
+8 de julho de 2024 às 23:32
+Errado.
+A classificação que está pedindo na questão é quanto à demanda que é de Estoque e de Não estoque.
+
+
+Classificação quanto à aplicação na organização
+-Matéria prima
+-Material em processamento
+-Material semiacabado
+-Material acabado
+-Produto acabado
+Reportar abuso
+Ajudou (77) Não ajudou
+Elisa Montagna
+4 de outubro de 2024 às 12:13
+Materiais de Estoque e de Não Estoque são materiais classificados por tipo de demanda.
+Reportar abuso
+Ajudou (25) Não ajudou
+Virlande Pereira Fonseca
+1 de julho de 2024 às 22:12
+Por essa eu nao esperava
+Reportar abuso
+Ajudou (15) Não ajudou
+Klinsmann Costa
+12 de outubro de 2024 às 19:30
+achei feio a descrição kkkk
+Reportar abuso
+Ajudou (3) Não ajudou
+Acilia Ambrosi
+24 de janeiro de 2025 às 14:27
+Classificação quanto à aplicação na organização:
+Matéria-Prima: Itens iniciais necessários à produção;
+Em processamento: Todos os itens que estão sendo processados ao longo do processo produtivo;
+Semiacabados: Em estágio intermediário de acabamento;
+Acabado: Peças isoladas ou componentes já aacabados e prontos para serem anexados ao produto;
+Produtos acabados: produtos prontos, processamento totalmente finalizado;
+Auxiliares e de manutenção: essenciais para manutenção de empresa e não utilizados no processo de fabricação do produto final.
+Classificação quanto à demanda:
+De estoque e não estoque
+Reportar abuso
+Ajudou (2) Não ajudou
+10
+Q3418342
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+Texto CB4A1-I
+
+Existem desde previsões de que a inteligência artificial (IA) substituirá os seres humanos e eliminará uma lista de profissões até alegações de que ela contribuirá para “o uso humano dos seres humanos” (parafraseando-se o subtítulo do livro de 1954 do matemático considerado fundador da cibernética, Norbert Wiener), liberando-os para usarem melhor o tempo enquanto assume as tarefas repetitivas.
+Um grupo de pesquisadores de diversos países produziu a publicação Inteligência Liberada — um argumento para a IA na educação, para demonstrar os benefícios da IA para a educação.
+É importante, nesse ponto, definir o que é a IA aplicada na educação — algo que vem sendo estudado no meio acadêmico há mais de três décadas. Para os autores da publicação mencionada, IA corresponde a “sistemas de computador que foram projetados para interagir com o mundo por meio de capacidades (por exemplo, percepção visual e reconhecimento de fala) e comportamentos inteligentes (por exemplo, avaliar as informações disponíveis e, em seguida, tomar a ação mais sensata para atingir um objetivo declarado) que seriam considerados essencialmente humanos”.
+Um dos objetivos do uso da IA na educação é abrir a chamada “caixa-preta do aprendizado”, ou, em outras palavras, contribuir para uma compreensão mais profunda e detalhada de como o aprendizado realmente acontece (por exemplo, como é influenciado pelo contexto socioeconômico e físico dos alunos ou por tecnologia).
+Nesse contexto, a IA na educação oferece a possibilidade de uma aprendizagem mais personalizada, flexível, inclusiva e envolvente. Além disso, as ferramentas fornecem informações não apenas sobre o que está sendo aprendido, mas também como está sendo aprendido e como os alunos estão se sentindo. Ainda, a IA pode ajudar os professores a criar ambientes de aprendizagem colaborativa e a atender as necessidades de seus alunos por meio de técnicas de mineração de dados educacionais para “rastrear” o comportamento dos alunos.
+
+Internet: <observatoriodeeducacao.institutounibanco.org.br> (com adaptações).
+
+A respeito do texto CB4A1-I e das ideias nele veiculadas, julgue os itens que se seguem.
+No texto, é feita uma comparação entre o processo de aprendizagem intermediado pela IA e aquele desenvolvido nas escolas, sendo o primeiro considerado mais personalizado, flexível, inclusivo e envolvente que o segundo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+54.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Renata
+17 de setembro de 2024 às 19:39
+Olá, colegas!
+
+Gabarito errado.
+
+Acredito que houve extrapolação, pois não localizei no texto algum trecho que afirma o que consta na assertiva.
+
+Veja o que diz o último parágrafo do texto:
+
+"Nesse contexto, a IA na educação oferece a possibilidade de uma aprendizagem mais personalizada, flexível, inclusiva e envolvente. Além disso, as ferramentas fornecem informações não apenas sobre o que está sendo aprendido, mas também como está sendo aprendido e como os alunos estão se sentindo. Ainda, a IA pode ajudar os professores a criar ambientes de aprendizagem colaborativa e a atender as necessidades de seus alunos por meio de técnicas de mineração de dados educacionais para “rastrear” o comportamento dos alunos."
+
+Está falando bem da IA, mas não diz que é melhor do que o processo "comum" desenvolvido nas escolas.
+
+Qualquer erro, avisem-me =)
+Reportar abuso
+Ajudou (15) Não ajudou
+@douglasericpsi
+25 de outubro de 2024 às 19:04
+Complementando o comentário da Renata, não há qualquer menção ao aprendizado desenvolvido nas escolas sem as IAs
+Reportar abuso
+Ajudou (4) Não ajudou
+Maricildes Lopes Costa
+29 de janeiro de 2025 às 09:56
+O erro da questão está no trecho "é feita uma comparação entre o processo de aprendizagem intermediado pela IA e aquele desenvolvido nas escolas" - não é feita uma comparação, a IA é utilizada como ferramenta suplementar ao trabalho do professor.
+Reportar abuso
+Ajudou (1) Não ajudou
+LS
+Luan S.
+11 de novembro de 2024 às 19:19
+Tem assertiva que é tão óbvia que nem necessitaria ir ao texto. Mas vá ao texto porque o autor pode pensar de modo diferente.
+Reportar abuso
+Ajudou (1) Não ajudou
+11
+Q3175462
+Administração de Recursos Materiais Administração de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Julgue os itens que se seguem, acerca da gestão de estoques.
+O giro dos estoques é definido como o número de dias que um produto leva para sair do estoque.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+59.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Igor Pereira Da Silva Jr.
+15 de março de 2024 às 00:54
+Giro de estoque é um indicador que mostra a velocidade com que os itens de seu estoque são renovados em um certo intervalo de tempo. Isto é: quantas vezes seu estoque foi reposto
+Reportar abuso
+Ajudou (70) Não ajudou
+Camilla Bruna Dias De Souza
+18 de março de 2024 às 11:25
+Errado
+Giro de estoques trata de quantas vezes os produtos foram vendidos e repostos. É sobre a velocidade.
+Reportar abuso
+Ajudou (30) Não ajudou
+TC
+Thais Caldas De Andrade
+16 de março de 2024 às 19:28
+O giro de estoque é uma ferramenta que aponta a circulação das mercadorias, ou seja, quantas vezes elas foram vendidas e repostas completamente no armazém. Ele é um indicador muito importante para avaliar se a gestão do estoque é eficiente, mostrando se há equilíbrio entre compras e vendas dos produtos. Quanto mais eles forem vendidos, maior é o giro de estoque.
+Reportar abuso
+Ajudou (18) Não ajudou
+Claudirene Rodrigues Dos Santos
+27 de janeiro de 2025 às 18:35
+O antigiro ou estoque de cobertura é definido como o número de dias que um produto leva para sair do estoque.
+Reportar abuso
+Ajudou (0) Não ajudou
+AP
+Ana Paula Souza
+21 de dezembro de 2024 às 00:48
+O giro de estoque é um indicador de desempenho que mede a eficiência com que uma empresa utiliza seu estoque. Ele calcula quantas vezes o estoque é renovado ou vendido em um determinado período, geralmente um mês ou um ano. Fórmula do Giro de Estoque: ￼ • Custo dos Produtos Vendidos (CPV): Soma do custo dos produtos que foram vendidos no período. • Estoque Médio: Média do valor do estoque no início e no final do período. Exemplo Prático: Se uma loja teve um CPV de R$ 100.000 e o estoque médio no período foi de R$ 25.000: ￼ Isso significa que o estoque foi renovado 4 vezes no período. Interpretação: • Alto giro: Indica que a empresa está vendendo os produtos rapidamente, o que é positivo para evitar excesso de estoque e custos adicionais. • Baixo giro: Sugere que os produtos estão parados, o que pode significar baixa demanda, excesso de compras ou má gestão. Importância do Giro de Estoque: • Identifica a eficiência da gestão de estoque. • Ajuda a evitar produtos obsoletos ou vencidos. • Melhora o fluxo de caixa, já que menos capital fica parado no estoque.
+Reportar abuso
+Ajudou (0) Não ajudou
+12
+Q3418782
+Administração de Recursos Materiais Custos de Falta de Estoque
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Ministerial - Área Administração - 2024
+Texto associado
+A respeito da previsão e do controle de estoque nas organizações, julgue os itens seguintes.
+O cálculo do estoque de segurança de determinado item circunscreve-se aos atrasos no tempo de reposição e ao aumento imprevisto no consumo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+58.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+TE
+Tiago Eduardo
+9 de janeiro de 2025 às 17:14
+circunscreve-se quer dizer ''se limita'', só pensar que não faz sentido o calculo de estoque ser feito só considerando atraso na reposição e imprevisto em consumo. tem bem mais coisas.
+Reportar abuso
+Ajudou (17) Não ajudou
+13
+Q3134555
+Administração de Recursos Materiais Gestão do Patrimônio
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista Técnico - 2024
+Texto associado
+A respeito de gestão patrimonial, julgue os itens a seguir.
+O levantamento físico de bens tem por objetivo identificar um bem por meio de seu emplaquetamento, constatando assim a sua existência física.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+83.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+AD
+Arthur Da Silva Filho
+6 de abril de 2024 às 22:09
+C - Certo.
+Explicação:
+O levantamento físico de bens é uma etapa fundamental da gestão patrimonial, com o objetivo principal de identificar e confirmar a existência física de cada bem, através da sua marcação e registro em um sistema de controle. Através desse processo, a empresa obtém uma visão precisa dos seus ativos, garantindo maior confiabilidade na gestão patrimonial.
+Objetivos específicos do levantamento físico de bens:
+Identificação individual de cada bem: realizado por meio da afixação de etiquetas, placas ou outros métodos de marcação, que contêm informações únicas e rastreáveis, como código patrimonial, número de série, descrição do bem, etc.
+Contagem e conferência da quantidade de bens: comparação entre a quantidade física de bens e a quantidade registrada no sistema de controle patrimonial, garantindo a precisão dos dados e a detecção de possíveis discrepâncias.
+Verificação da localização física dos bens: registro da localização física de cada bem, facilitando seu controle e monitoramento, otimizando a gestão espacial e a logística interna da empresa.
+Análise das condições de uso e conservação dos bens: avaliação do estado de conservação dos bens, permitindo a identificação de necessidades de reparo, manutenção ou substituição, prevenindo falhas e otimizando a vida útil dos ativos.
+Atualização do cadastro patrimonial: atualização das informações dos bens no sistema de controle patrimonial, garantindo a confiabilidade e a consistência dos dados, facilitando a tomada de decisões estratégicas e a gestão eficiente dos ativos.
+Benefícios do levantamento físico de bens:
+Melhoria da gestão patrimonial: maior confiabilidade dos dados, melhor controle dos bens, otimização da utilização dos recursos e redução de perdas.
+Tomada de decisões estratégicas: base sólida para decisões sobre investimentos, manutenções, alienações, aquisições e outras ações relacionadas ao patrimônio da empresa.
+Conformidade legal: atendimento às normas e leis que regulamentam a gestão patrimonial, evitando sanções e multas.
+Redução de custos: otimização dos recursos, diminuição de perdas e desperdícios, aumento da vida útil dos bens e melhor planejamento de investimentos.
+Melhoria da segurança e da confiabilidade: diminuição do risco de furtos, perdas e extravios, maior controle do acesso aos bens e melhor monitoramento da utilização dos recursos.
+Etapas do levantamento físico de bens:
+Planejamento: definição dos objetivos, escopo, metodologia, recursos humanos e materiais necessários para a realização do levantamento.
+Execução: coleta de dados dos bens, incluindo marcação, contagem, conferência, registro das informações e avaliação das condições de uso e conservação.
+Análise dos dados: comparação dos dados coletados com os registros do sistema de controle patrimonial, identificação de discrepâncias e inconsistências, e análise das condições dos bens.
+Ações corretivas: implementação de medidas para corrigir discrepâncias, regularizar pendências, atualizar o sistema de controle patrimonial e tomar decisões sobre os bens em mau estado.
+Documentação: registro formal de todo o processo, incluindo relatórios, planilhas, fotos e outros documentos que comprovam a realização do levantamento físico de bens.
+Conclusão:
+O levantamento físico de bens é um processo essencial para a gestão patrimonial eficaz, proporcionando diversos benefícios para as empresas. Através da identificação, contagem, conferência, registro e avaliação dos bens, as empresas obtêm uma visão completa e precisa do seu patrimônio, garantindo maior controle, segurança, confiabilidade e eficiência na gestão dos seus ativos
+Reportar abuso
+Ajudou (32) Não ajudou
+14
+Q3175503
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Acerca de logística, julgue os itens que se seguem.
+A unitização consiste na disposição de um conjunto de mercadorias em uma única unidade com dimensões padronizadas, de modo a tornar mais fáceis as operações de armazenamento e a movimentação da carga por meio de processos mecanizados.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+87.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+J
+Julia
+5 de maio de 2024 às 09:44
+A unitização de cargas é uma estratégia logística que agrupa mercadorias de variados tamanhos, pesos e formas para transformar em uma única unidade maior. Isso inclui a junção de caixas, paletes ou contêineres individuais.
+O objetivo é otimizar o espaço de armazenamento, reduzir os custos de transporte e minimizar o risco de danos às mercadorias. Para entender melhor, imagine que você tem muitas caixas pequenas de produtos que precisam ser enviadas para o mesmo destino.
+Em vez de enviar cada uma separadamente, você as coloca em paletes maiores e fixadamente, formando uma única unidade. Por ser maior, essa unidade é mais fácil de empilhar, transportar e rastrear, o que economiza tempo e dinheiro.
+Reportar abuso
+Ajudou (15) Não ajudou
+Igor Pereira Da Silva Jr.
+15 de março de 2024 às 00:55
+certo
+Reportar abuso
+Ajudou (0) Não ajudou
+15
+Q3164347
+Tecnologia da Informação Big Data
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+Com relação a Big Data, julgue os itens seguintes.
+Volume, variedade, velocidade, valor, veracidade, variabilidade e visualização são conceitos abrangidos na definição de Big Data.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+59.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Julio Cesar Santos Da Silva
+12 de março de 2024 às 11:11
+Segundo o site da Alura : "
+De forma a compreender a definição de Big Data, é necessário introduzir os conceitos dos V’s do Big Data. Inicialmente, a definição era composta por 3 V’s, mas hoje podemos encontrar definições expandidas com 5, 7 ou mais V’s. Os 7 V’s são: volume, variedade, velocidade, valor, veracidade, variabilidade e visualização." Fonte: Uma breve introdução sobre o que é Big Data -
+(https://www.alura.com.br/artigos/big-data)
+Reportar abuso
+Ajudou (40) Não ajudou
+TF
+Taciana Ferreira Soares
+21 de março de 2024 às 21:36
+os 7 V's incluem além de Volume, Variedade, Velocidade, Veracidade e Valor também Viscosidade e Viralidade.
+Reportar abuso
+Ajudou (25) Não ajudou
+Ayrton Gissoni Almeida
+7 de março de 2024 às 11:41
+Visualização??? De onde veio isso?
+Reportar abuso
+Ajudou (24) Não ajudou
+Régis
+10 de março de 2024 às 00:34
+Eu já vi alguns autores até falando da variabilidade e citando como o 6º V, mas essa visualização não!
+Reportar abuso
+Ajudou (10) Não ajudou
+Emilio Adonay Sarges Da Silva
+3 de agosto de 2024 às 13:41
+Visualização é noviade pra mim. Qual a fonte dessa informação? A não ser que esteja dentro dos 10 V's. Mas estava levando para as provas somente os 7 V's.
+
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 4
+16
+Q3128960
+Administração de Recursos Materiais Administração dos Almoxarifados
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+No que se refere à gestão de insumos, julgue os itens a seguir.
+Quanto maior for a quantidade de corredores no almoxarifado, maior será a facilidade de acesso e menor será o espaço disponível para armazenamento.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+55.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Elisa Montagna
+8 de novembro de 2024 às 08:12
+Quanto maior a quantidade de corredores, maior será a facilidade de acesso e tanto menor o espaço disponível para o armazenamento. Armazenamento com prateleiras requer um corredor para cada duas filas de prateleiras. A largura dos corredores é determinada pelo equipamento de manuseio e movimentação de materiais.
+fonte:
+https://www.bombeiros.go.gov.br/wp-content/uploads/2017/04/ESTUDO-DE-CASO-LAYOUT-DO-ALMOXARIFADO-DO-COMANDO-DE-APOIO-LOG%C3%8DSTICO-Weder-Barbosa.pdf
+Reportar abuso
+Ajudou (11) Não ajudou
+Marcelo De Almeida Couto Lobo
+6 de janeiro de 2025 às 13:55
+Como assim MAIS corredores, tem MENOS espaço?
+Reportar abuso
+Ajudou (5) Não ajudou
+17
+Q3312215
+Administração Geral Estrutura Organizacional
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Legislativo - 2024
+Texto associado
+Julgue os itens a seguir, acerca das estruturas organizacionais do setor público.
+O sistema de responsabilidades de uma estrutura organizacional representa o resultado da distribuição do poder.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+33.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MT
+Maria Taís De Araújo Parga
+26 de agosto de 2024 às 14:37
+Todas as vezes que faço essa questão eu erro..mas agora entendi o porquê e espero que ajude vocês
+
+GABARITO: CERTO
+- O Sistema de Autoridade constitui a distribuição do poder dentro da organização. A autoridade é conceituada como o direito de dar ordens conferido ao ocupante de cargo administrativo.
+- O Sistema de Responsabilidade faz a distribuição das atividades na organização. Define que unidades vão ser responsáveis por que tarefas.
+AULAS - PROF. PETRONIO CASTRO.
+
+Pra ampliar o entendimento, outras questões..
+Cespe2022: O sistema de responsabilidade dentro da estrutura organizacional gera o resultado da alocação das atividades. C
+· Da distribuição de atividades gera a responsabilidade.
+Cespe2010: O sistema de autoridades, um dos componentes da estrutura organizacional de uma instituição, é resultado da distribuição hierárquica do poder. C
+· Da distribuição de poder gera autoridade.
+Cespe2024: O sistema de autoridade de uma estrutura organizacional representa o resultado da distribuição do poder. C
+Cespe2024: O sistema de responsabilidades de uma estrutura organizacional representa o resultado da distribuição do poder. E
+Reportar abuso
+Ajudou (236) Não ajudou
+Odair
+1 de julho de 2024 às 14:07
+A estrutura organizacional é a base de sustentação e funcionamento das organizações/ empresas. Além disso, há quatro (4) Sistemas: Responsabilidade, Autoridade, Comunicação e Decisão. Esses quatro sistemas devem ser considerados quando do delineamento da estrutura organizacional.
+O sistema de autoridade tem como palavras-chave: direito de dar ordens e a exigir a execução de tarefas/resultado da distribuição de poder, constituído por delegação; centralização e descentralização; níveis hierárquicos; cadeia escalar e amplitude de controle;
+
+Sistema de comunicação : resultado da interação entre unidades, permite a disseminação das informações pela organização. Constituído por: o quê; como, quando, de quem e para quem comunicar.
+Sistema de decisão: centralização ou descentralização e sistema de comunicação.
+
+GAB: ERRADO
+Reportar abuso
+Ajudou (43) Não ajudou
+Vinícius Santos
+4 de julho de 2024 às 10:22
+Ainda não consegui associar que responsabilidades não tem haver com o resultado de distribuição de poder...
+Reportar abuso
+Ajudou (24) Não ajudou
+Victor Botelho Guimaraes Vieira
+8 de agosto de 2024 às 09:41
+ERRADO. O sistema de responsabilidades de uma estrutura organizacional refere-se à forma como as tarefas e funções são atribuídas aos membros da organização e à responsabilidade que cada indivíduo tem por suas atividades e resultados.
+Embora a distribuição de poder possa influenciar a estrutura organizacional, as responsabilidades são mais diretamente relacionadas às atribuições de tarefas e à expectativa de desempenho, não à distribuição do poder.
+Reportar abuso
+Ajudou (21) Não ajudou
+Geisa
+18 de setembro de 2024 às 15:25
+Maria Taís De Araújo Parga, obrigada!
+<3
+Reportar abuso
+Ajudou (15) Não ajudou
+Página 1 de 3
+18
+Q3179013
+Administração de Recursos Materiais Gestão Patrimonial
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Técnico Ministerial - Área Assistente Administrativo - 2024
+Texto associado
+Acerca da gestão patrimonial nas organizações, julgue os itens que se seguem.
+A alienação e o comodato constituem fatores para a baixa de bens patrimoniais da organização.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+69.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Igor Pereira Da Silva Jr.
+15 de março de 2024 às 01:11
+Comodato – empréstimo de bem que não pode ser substituído e deve ser devolvido ao final
+
+A alienação - efeito de transferir o domínio de uma coisa para outra pessoa, seja por venda, por troca ou por doação
+Reportar abuso
+Ajudou (83) Não ajudou
+LA
+Luana Assis Serra
+15 de março de 2024 às 17:54
+Tanto a alienação quanto o comodato podem constituir fatores para a baixa de bens patrimoniais da organização, dependendo das circunstâncias específicas e das políticas contábeis adotadas pela empresa.
+Reportar abuso
+Ajudou (39) Não ajudou
+Marcy Alves Feitosa
+4 de fevereiro de 2025 às 17:03
+Ocorre que no Comodato o bem é emprestado por um tempo determinado e depois devolvido. O motivo de dar baixa é que na devolução do bem, o status desse ativo deverá ser atualizado, ou seja, será necessário dar baixa no 'status de comodato' e atualizar o bem como "pronto para uso novamente". Nesse caso não é necessário registrar novamente o ativo e sim apenas atualizar o seu status. Espero ter ajudado! SDG
+Reportar abuso
+Ajudou (3) Não ajudou
+Ashely
+3 de fevereiro de 2025 às 16:34
+Comodato é empréstimo, então porq vai dar baixa?
+Reportar abuso
+Ajudou (1) Não ajudou
+DS
+Danny Silveira Correa
+6 de dezembro de 2024 às 15:48
+Não tem o conceito comodato na minha apostila do Gran
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+19
+Q3123968
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MMA - Analista Ambiental - 2024
+Texto associado
+Text CB1A8
+
+The idea of giving rights to animals has long been contentious, but a deeper look into the reasoning behind the philosophy reveals ideas that aren’t all that radical. Animal rights advocates want to distinguish animals from inanimate objects, as they are so often considered by exploitative industries and the law. The animal rights movement strives to make the public aware of the fact that animals are sensitive, emotional, and intelligent beings who deserve dignity and respect. But first, it’s important to understand what the term “animal rights” really means.
+Animal rights are moral principles grounded in the belief that non-human animals deserve the ability to live as they wish, without being subjected to the desires of human beings. At the core of animal rights is autonomy, which is another way of saying choice. In many countries, human rights are enshrined to protect certain freedoms, such as the right to expression, freedom from torture, and access to democracy. Of course, these choices are constrained depending on social locations like race, class, and gender, but generally speaking, human rights safeguard the basic tenets of what makes human lives worth living. Animal rights aim to do something similar, only for non-human animals.
+Animal rights come into direct opposition with animal exploitation, which includes animals used by humans for a variety of reasons, be it for food, as experimental objects, or even pets. Animal rights can also be violated when it comes to human destruction of animal habitats. This negatively impacts the ability of animals to lead full lives of their choosing.
+
+Internet: <thehumaneleague.org > (adapted).
+
+Considering the ideas and linguistic aspects of the text above, judge the items below.
+The discussion about giving rights to animals has been prevalent lately.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+40.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Renato Granado
+27 de janeiro de 2024 às 10:26
+No texto: "has long been contentious" = tem sido contraditória. Diferente da questões que diz: "has been prevalent lately." = tem prevalecido continuamente.
+Reportar abuso
+Ajudou (68) Não ajudou
+Túlio Demarcus Santos Madeiro Monteiro
+6 de fevereiro de 2025 às 19:18
+Inglês é o caralho! : / SORRY!
+Reportar abuso
+Ajudou (1) Não ajudou
+20
+Q3163309
+Tecnologia da Informação Análise exploratória de dados
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Com base em obtenção, limpeza e pré-processamento de dados, julgue os próximos itens.
+No processo de análise, as atividades de limpeza, filtragem e estruturação dos dados estão concentradas na etapa de compreensão dos dados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+75.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AS
+Alexandre Silva Sousa
+4 de abril de 2024 às 22:13
+Essas etapas (limpeza, filtragem e estruturação) ocorrem antes da efetiva análise/mineração/compreensão dos dados.
+Reportar abuso
+Ajudou (19) Não ajudou
+Jonatas Da Gama Azevedo
+5 de fevereiro de 2025 às 08:47
+Compreensão de dados é diferente de análise de dados.
+Não há como limpar dados de um conjunto se não há uma compreensão deles, podendo acarretar na limpeza de dados essenciais para a pesquisa. No meu entender, o pré-processamento é uma compreensão dos dados.
+
+No entanto, aceito o gabarito proposto.
+Reportar abuso
+Ajudou (0) Não ajudou

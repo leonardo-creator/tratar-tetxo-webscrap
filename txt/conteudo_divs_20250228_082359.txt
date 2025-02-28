@@ -1,0 +1,1042 @@
+1
+Q3265083
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE GO - Analista - Área: Informática - 2024
+Texto associado
+Global energy-related carbon dioxide (CO2) emissions rose less strongly in 2023 than the year before, even as total energy demand growth accelerated, with continued expansion of solar photovoltaic (PV), wind, nuclear power and electric cars helping the world avoid greater use of fossil fuels. Without clean energy technologies, the global increase in CO2 emissions in the past five years would have been three times greater, the International Energy Agency (IEA) said in one of its reports.
+Emissions increased by 410-million tons, or 1.1%, in 2023, compared with a 490-million-tonne increase in 2022, taking emissions to a record level of 37.4-billion tons. Specifically, an exceptional shortfall in hydropower owing to extreme droughts in China, the US and several other economies resulted in more than 40% of the rise in emissions in 2023, as countries turned largely to fossil fuel alternatives to plug the gap.
+“Had it not been for the unusually low hydropower output, global CO2 emissions from electricity generation would have declined in 2023 and made the overall rise in energy-related emissions significantly smaller,” the report pointed out. Additionally, advanced economies saw a record fall in their CO2 emissions in 2023 even as their gross domestic product (GDP) grew. Advanced economies’ emissions dropped to a 50-year low while coal demand fell back to levels not seen since the early 1900s. The decline in advanced economies’ emissions was driven by a combination of strong renewables deployment, coal-to-gas switching, energy efficiency improvements and softer industrial production.
+Internet: <www.engineeringnews.co.za/> (adapted).
+
+According to the text, judge the following statements.
+The text mentions up to five different sources of energy, whether they are renewable or not.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+51.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Breno
+11 de maio de 2024 às 18:51
+maia se equivoca pelo fato de carro elétrico não ser considerado energia.
+Reportar abuso
+Ajudou (2) Não ajudou
+Felipe Menegate Nascimento
+18 de fevereiro de 2025 às 14:21
+Ao meu ver:
+
+Certo.
+O texto menciona até cinco fontes de energia: solar fotovoltaica (PV), vento (eólica), nuclear, hidrelétrica (que é renovável) e combustíveis fósseis. Assim, está correto afirmar que o texto menciona até cinco diferentes fontes de energia.
+
+No caso da frase do texto, ele menciona as fontes de energia como:
+Solar fotovoltaica (PV)
+Vento (eólica)
+Nuclear
+Hidrelétrica
+Fósseis (implícito, já que a comparação se faz com o uso desses combustíveis)
+Portanto, o texto menciona 5 fontes de energia, o que é consistente com o uso de "up to" para indicar esse número. Então, considerando a formulação, a resposta correta ainda é Certo, pois há até 5 fontes de energia mencionadas.
+
+
+Reportar abuso
+Ajudou (0) Não ajudou
+Adriano Marcio Januario
+7 de fevereiro de 2025 às 16:35
+4 apenas.
+Reportar abuso
+Ajudou (0) Não ajudou
+Dimytri B Picanco
+4 de dezembro de 2024 às 16:18
+Pior Breno, hehehehhehe
+
+Reportar abuso
+Ajudou (0) Não ajudou
+2
+Q3542237
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - STJ - Analista Judiciário - Área: Administrativa - 2024
+Texto associado
+A escravidão levou consigo ofícios e aparelhos, como terá sucedido a outras instituições sociais. Não cito alguns aparelhos senão por se ligarem a certo ofício. Um deles era o ferro ao pescoço, outro o ferro ao pé; havia também a máscara de folha-de-flandres. A máscara fazia perder o vício da embriaguez aos escravos, por lhes tapar a boca. Tinha só três buracos, dois para ver, um para respirar, e era fechada atrás da cabeça por um cadeado. Com o vício de beber, perdiam a tentação de furtar, porque geralmente era dos vinténs do senhor que eles tiravam com que matar a sede, e aí ficavam dois pecados extintos, e a sobriedade e a honestidade certas. Era grotesca tal máscara, mas a ordem social e humana nem sempre se alcança sem o grotesco, e alguma vez o cruel. Os funileiros as tinham penduradas, à venda, na porta das lojas. Mas não cuidemos de máscaras.
+O ferro ao pescoço era aplicado aos escravos fujões. Imaginai uma coleira grossa, com a haste grossa também à direita ou à esquerda, até ao alto da cabeça e fechada atrás com chave. Pesava, naturalmente, mas era menos castigo que sinal. Escravo que fugia assim, onde quer que andasse, mostrava um reincidente, e com pouco era pego.
+Há meio século, os escravos fugiam com frequência. Eram muitos, e nem todos gostavam da escravidão.
+Quem perdia um escravo por fuga dava algum dinheiro a quem lho levasse. Punha anúncios nas folhas públicas, com os sinais do fugido, o nome, a roupa, o defeito físico, se o tinha, o bairro por onde andava e a quantia de gratificação. Quando não vinha a quantia, vinha promessa: “oratificar-se-á generosamente”, ou “receberá uma boa gratificação”. Muita vez o anúncio trazia em cima ou ao lado uma vinheta, figura de preto, descalço, correndo, vara ao ombro, e na ponta uma trouxa. Protestava-se com todo o rigor da lei contra quem o açoitasse.
+Ora, pegar escravos fugidios era um ofício do tempo. Não seria nobre, mas, por ser instrumento da força com que se mantêm a lei e a propriedade, trazia esta outra nobreza implícita das ações reivindicadoras. Ninguém se metia em tal ofício por desfastio ou estudo; a pobreza, a necessidade de uma achega, a inaptidão para outros trabalhos, o acaso, e alguma vez o gosto de servir, também, ainda que por outra via, davam o impulso ao homem que se sentia bastante rijo para pôr ordem à desordem.
+
+Machado de Assis. Pai contra Mãe. /n: Machado de Assis.
+Relíquias da casa velha, 1906 (com adaptações).
+
+Machado de Assis inicia o conto Pai contra Mãe — escrito em 1906 e publicado na coletânea Relíquias da casa velha —, mencionando “ofícios e aparelhos” da escravidão no Brasil. O conto aborda a história de Cândido Neves, personagem que trabalhava na captura de escravos fugidios. Considerando o fragmento desse conto apresentado anteriormente, julgue os itens a seguir.
+A crítica do autor à sociedade escravagista da época fica explícita na observação sobre a venda de máscaras de ferro em lojas especializadas do ramo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+55.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+K
+Kalynara
+12 de dezembro de 2024 às 14:25
+O texto só diz: "na porta das lojas", mas não afirma que tais são especializadas no ramo.
+Reportar abuso
+Ajudou (3) Não ajudou
+3
+Q3542211
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - STJ - Analista Judiciário - Área: Judiciária - 2024
+Texto associado
+Por quase dois séculos, apesar da controvérsia provocada pela Revolução Francesa, a Declaração dos Direitos do Homem e do Cidadão encarnou a promessa de direitos humanos universais. Em 1948, quando as Nações Unidas adotaram a Declaração Universal dos Direitos Humanos, seu artigo 1.º dizia: “Todos os seres humanos nascem livres e iguais em dignidade e direitos”. Em 1789, o artigo 1.º da Declaração dos Direitos do Homem e do “Os permanecem livres e iguais em direitos”. Cidadão já havia proclamado: homens nascem e permanecem livres e iguais em direitos”.
+As origens dos documentos não nos dizem necessariamente nada de significativo sobre as suas consequências. Importa realmente que o esboço tosco de Jefferson tenha passado por 86 alterações feitas por ele mesmo, pelo Comitê dos Cinco ou pelo Congresso? A Declaração da Independência dos Estados Unidos da América (EUA) não tinha natureza constitucional. Declarava simplesmente intenções, e passaram-se quinze anos antes que os estados finalmente ratificassem uma Bill of Rights, muito diferente, em 1791. A Declaração dos Direitos do Homem e do Cidadão afirmava salvaguardar as liberdades individuais, mas não impediu o surgimento de um governo francês que reprimiu os direitos, e futuras constituições francesas — houve muitas delas — formularam declarações diferentes ou passaram sem nenhuma declaração.
+Ainda mais perturbador é que aqueles que, com tanta confiança, declaravam, no final do século XVIII, que os direitos eram universais vieram a demonstrar que tinham algo muito menos inclusivo em mente. As pessoas não ficaram surpresas por eles considerarem que as crianças, os insanos, os prisioneiros ou os estrangeiros eram incapazes ou indignos de plena participação no processo político, pois pensavam da mesma maneira. Mas eles também excluíam aqueles sem propriedade, os escravos, os negros livres, em alguns casos as minorias religiosas e, sempre e por toda parte, as mulheres. Em anos recentes, essas limitações a “todos os homens” provocaram muitos comentários, e alguns estudiosos até questionaram se as declarações tinham um verdadeiro significado de emancipação.
+Os fundadores, os que estruturaram e os que redigiram as declarações, têm sido julgados elitistas, racistas e misóginos por sua incapacidade de considerar todos verdadeiramente iguais em direitos.
+Como é que esses homens, vivendo em sociedades construídas sobre a escravidão, a subordinação e a subserviência aparentemente natural, chegaram a imaginar homens nada parecidos com eles, e, em alguns casos, também mulheres, como iguais? Se pudéssemos compreender como isso veio a acontecer, compreenderíamos melhor o que os direitos humanos significam para nós hoje em dia.
+
+Lynn Hunt. A invenção dos direitos humanos: uma história. Tradução de Rosaura Eichenberg. São Paulo: Companhia das Letras, 2009, p. 15-16 (com adaptações).
+
+A respeito de aspectos linguísticos do texto precedente bem como das ideias nele veiculadas, julgue os próximos itens.
+No texto, a autora põe em xeque o conceito de direitos humanos e demonstra duvidar da sua real aplicabilidade desde seu surgimento no século XVIII, mesmo que tenham sido assegurados na Declaração dos Direitos do Homem e do Cidadão.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+32.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ashely
+1 de janeiro de 2025 às 12:41
+ERRADO
+
+A análise do texto revela que a autora não duvida da aplicabilidade dos direitos humanos em si, mas sim critica as limitações e exclusões que foram impostas na prática, apesar das declarações de universalidade. A autora destaca que, embora as declarações proclamassem direitos universais, na prática, muitos grupos foram excluídos, como mulheres, escravos e minorias. 
+Reportar abuso
+Ajudou (10) Não ajudou
+4
+Q3392802
+Administração de Recursos Materiais Classificação dos Bens Patrimoniais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEPLAG CE - Analista de Gestão Pública – Área: Governança e Gestão Corporativa Inglês - 2024
+Texto associado
+Acerca de gestão do patrimônio, julgue os itens a seguir.
+Os recursos patrimoniais de empresas públicas ou privadas interagem, direta ou indiretamente, com o sistema de produção de bens e(ou) serviços e podem ser classificados como equipamentos e máquinas, edificações, terrenos, jazidas e intangíveis.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+86.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Ana Loiola
+7 de janeiro de 2025 às 09:55
+Gab.: Certo
+
+Os recursos patrimoniais de empresas públicas ou privadas, também conhecidos como ativos, são fundamentais para o funcionamento das operações e interagem com o sistema de produção de bens ou serviços. Esses recursos podem ser classificados em diversas categorias, incluindo as mencionadas na questão.
+
+OBS: Bens e serviços intangíveis são aqueles que não têm uma forma física e são consumidos ou utilizados de maneira imaterial. 
+Reportar abuso
+Ajudou (8) Não ajudou
+5
+Q3419972
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista de Tecnologia da Informação - Área Segurança da Informação - 2024
+Texto associado
+Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais — LGPD), julgue os itens subsequentes.
+A LGPD criou a Autoridade Nacional de Proteção de Dados (ANPD), órgão responsável, entre outras atribuições, por fiscalizar e aplicar sanções administrativas em casos de descumprimento das normas de tratamento de dados previstas na LGPD.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+94.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Debora Abreu
+1 de dezembro de 2024 às 12:18
+ Art. 55-J. Compete à ANPD: 
+
+ IV - fiscalizar e aplicar sanções em caso de tratamento de dados realizado em descumprimento à legislação, mediante processo administrativo que assegure o contraditório, a ampla defesa e o direito de recurso;
+Reportar abuso
+Ajudou (10) Não ajudou
+AC
+Aline Castro
+14 de janeiro de 2025 às 16:25
+ANPD NÃO É UM ÓRGÃO
+Reportar abuso
+Ajudou (6) Não ajudou
+MB
+Mateus Bezerra Fernandes
+19 de fevereiro de 2025 às 13:49
+Lei n.º 13.709/2018 (Proteção de Dados Pessoais) --> Art. 55-A: fica criada a Autoridade Nacional de Proteção de Dados, AUTARQUIA de natureza especial, dotada de autonomia técnica e decisória, com patrimônio próprio e com sede e foro no Distrito Federal.
+
+Concordo com a Aline Castro e com o João Ramalho. Ou o Gran colocou o gabarito errado, ou a banca.
+Reportar abuso
+Ajudou (2) Não ajudou
+JR
+Joao Ramalho Menezes Lima
+19 de fevereiro de 2025 às 05:45
+ANPD é autarquia!! Caberia recurso
+Reportar abuso
+Ajudou (0) Não ajudou
+6
+Q3221287
+Administração de Recursos Materiais Baixa e Alienação
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+Julgue os itens seguintes, acerca da gestão patrimonial nas organizações públicas.
+A ocorrência de sinistro que envolva bem patrimonial não se caracteriza como fato motivador para a sua baixa patrimonial.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+85.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Claudineia Ferreira Da Silva Alves
+10 de maio de 2024 às 19:38
+A baixa de bem patrimonial poderá ocorrer, observadas as condições legais e formais, nos seguintes casos: a) venda; b) doação; c) permuta; d) dação em pagamento; e) inutilização ou abandono; f) sinistro; g) furto ou roubo; h) extravio.
+
+QC
+Reportar abuso
+Ajudou (67) Não ajudou
+Ashely
+5 de janeiro de 2025 às 11:32
+Ocorrência de um sinistro: um evento súbito e imprevisto que cause danos a um bem 
+Reportar abuso
+Ajudou (6) Não ajudou
+M
+Maria
+23 de janeiro de 2025 às 23:02
+No caso, sinistro é quando um bem, exemplo, uma máquina, causa um acidente de morte a alguem, por falha mecanica ou de operação, neste caso é dado baixa mesmo que o bem esteja funcionando ou podendo ser consertado ? Complicada esta questão.
+Reportar abuso
+Ajudou (0) Não ajudou
+7
+Q3577553
+Língua Inglesa Discurso direto e indireto | Reported speech
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEMED - Professor - Área: Língua Inglesa - 2024
+Texto associado
+
+Tom Gauld. The narrator. Internet: <theguardian.com>.
+
+According to the previous comic strip, judge the items that follow.
+The two sentences in the first panel compose, together, an example of reported speech.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+35.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Patriciamrsantos
+6 de fevereiro de 2025 às 17:22
+Apenas a segunda sentença "he asked".
+Reportar abuso
+Ajudou (2) Não ajudou
+8
+Q3577544
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEMED - Professor - Área: Língua Inglesa - 2024
+Texto associado
+Four types of English exist in Africa, identifiable in terms of history, functions, and linguistic characteristics. West African Pidgin English has a history going back to the 15th century, 400 years before formal colonization. Creole varieties of English have a history going back to repatriation of enslaved people from the Caribbean and the United States of America in the 19th century. Second language varieties, which are the most widespread on the continent, are prototypically associated with British colonization and its education systems. L1 (first language) English occurred mostly in Southern and East Africa and is best represented in South Africa. The latter shows significant similarities with the other major Southern Hemisphere varieties of English, spoken in Australia and New Zealand.
+
+African Englishes From a Sociolinguistic Perspective.
+Internet: <oxfordre.com> (adapted).
+
+Considering the previous text, its ideas and linguistic features, as well as the reading strategies that apply to it, judge the following items.
+In the first sentence of the text, the words “history”, “functions”, and “linguistic” are working as modifiers describing “characteristics”.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+58.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tiago De Barros
+27 de janeiro de 2025 às 14:33
+Template: E
+
+So, the phrase "linguistic characteristics" is a noun phrase where "linguistic" acts as a modifier, but "history" and "functions" are separate items in the list.
+Reportar abuso
+Ajudou (0) Não ajudou
+9
+Q3348943
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANA - Especialista em Regulação - Área Geral - 2024
+Texto associado
+Texto CBIA1
+
+O Comentário Geral n.º15 do Comitê de Direitos Econômicos, Sociais e Culturais (CDESC) da ONU é claro ao apontar para a necessidade de proteger os ecossistemas, em especial o aquático, contra a poluição, pois ter acesso a uma água poluída não representa, de fato, o gozo do direito humano à água. Nessas condições, há risco de comprometimento imediato da saúde individual e coletiva, o que afeta outros direitos humanos, como o direito à saúde e ao bem-estar. Antes disso, a Agenda 21, aprovada na Conferência das Nações Unidas sobre o Meio Ambiente e (CNUMAD), 1992, recomendou que funções hidrológicas, biológicas e químicas dos ecossistemas, para que se assegure água com qualidade.
+Em uma perspectiva menos antropocêntrica e mais Desenvolvimento em se preservem as ecocêntrica, em 2000, a Declaração da 4.º Cúpula do P7, composto dos sete países mais pobres do mundo, em seu primeiro princípio, trouxe a ideia de que a água é uma fonte de vida não substituível, a que todos os seres vivos têm direito, e sua conservação seria uma responsabilidade coletiva fundamental.
+A mesma declaração complementa o raciocínio, defendendo a necessidade de as culturas que defendem a água como um bem comum serem protegidas e reinventadas. E, nesse ponto, a Declaração da 4.º Cúpula do P7 e o Comentário Geral n.º 15 do CDESC convergem entre si, pois este último se refere à preocupação com o respeito à cultura e o acesso à água, nas formas tradicionais de uso por comunidades antigas e originárias, o que valoriza o componente da independência no conceito de segurança hídrica. O que aqui se chama simplisticamente de independência corresponde na verdade à minimização de uma relação de dependência e sujeição, por meio de mecanismos formais de cooperação, tanto interbacias como intrabacias hidrográficas. O quarto princípio da Declaração da 4.º Cúpula do P7 afirma que “a água deve contribuir para a solidariedade entre comunidades, países, sociedades, gerações e sexos”. Ao mesmo tempo reconhece que a água doce é distribuída de forma desigual em torno da Terra, e afirma que isso não deve ser utilizado como fator de exercício de poder.
+Carlos Hiroo Saito. Segurança hídrica e direito humano à água. Im: Ruscheinsky, Calgaro & Weber. Ética, direito socioambiental e democracia. Caxias do Sul: Educs, 2018, p. 100-101 (com adaptações).
+
+Com base nas ideias veiculadas no texto CBIAI, julgue os itens a seguir.
+Conforme o texto, os mecanismos formais de cooperação que atendam ao componente de independência no conceito de segurança hídrica devem envolver a participação de comunidades tradicionais.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+67.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+T
+Thais
+22 de agosto de 2024 às 09:02
+...pois este último se refere à preocupação com o respeito à cultura e o acesso à água, nas formas tradicionais de uso por comunidades antigas e originárias, o que valoriza o componente da independência no conceito de segurança hídrica.
+Reportar abuso
+Ajudou (13) Não ajudou
+Eduardo
+1 de novembro de 2024 às 16:24
+O TEXTO ESTÁ INCOMPLETO! INFEEEERNO!
+Reportar abuso
+Ajudou (1) Não ajudou
+Danielly Ribeiro
+2 de agosto de 2024 às 10:18
+C
+Reportar abuso
+Ajudou (1) Não ajudou
+Claudirene Rodrigues Dos Santos
+3 de fevereiro de 2025 às 16:14
+A mesma declaração complementa o raciocínio, defendendo a necessidade de as culturas que defendem a água como um bem comum serem protegidas e reinventadas. E, nesse ponto, a Declaração da 4.º Cúpula do P7 e o Comentário Geral n.º 15 do CDESC convergem entre si, pois este último se refere à preocupação com o respeito à cultura e o acesso à água, nas formas tradicionais de uso por comunidades antigas e originárias, o que valoriza o componente da independência no conceito de segurança hídrica. O que aqui se chama simplisticamente de independência corresponde na verdade à minimização de uma relação de dependência e sujeição, por meio de mecanismos formais de cooperação, tanto interbacias como intrabacias hidrográficas.
+
+A preocupação com o respeito à cultura e o acesso à água nas formas tradicionais de uso por comunidades antigas e originárias valoriza o componente da independência no conceito de segurança hídrica. Logo, os mecanismos formais de cooperação que atendam ao componente de independência no conceito de segurança hídrica devem envolver a participação de comunidades tradicionais.
+Reportar abuso
+Ajudou (0) Não ajudou
+Túlio Demarcus Santos Madeiro Monteiro
+24 de novembro de 2024 às 11:26
+E, nesse ponto, a Declaração da 4.º Cúpula do P7 e o Comentário Geral n.º 15 do CDESC convergem entre si.
+
+Meu erro foi trocar convergem por divergem na interpretação. Mera falta de atenção!
+Reportar abuso
+Ajudou (0) Não ajudou
+10
+Q3577556
+Língua Inglesa Verbos | Verbs
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEMED - Professor - Área: Língua Inglesa - 2024
+Texto associado
+
+Tom Gauld. The narrator. Internet: <theguardian.com>.
+
+According to the previous comic strip, judge the items that follow.
+In the second panel, there are examples of four different verb tenses.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+40.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+DB
+Daniela Brito Marques Da Costa
+17 de fevereiro de 2025 às 13:39
+Get out - Imperative // They shouted - simple past tense // was doing - past progressive tense // who turns out - present tense.
+Para mim, são 4 tempos verbais.
+Reportar abuso
+Ajudou (0) Não ajudou
+Adriano Marcio Januario
+7 de fevereiro de 2025 às 16:26
+São três. Errado.
+Reportar abuso
+Ajudou (0) Não ajudou
+11
+Q3555088
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Técnico Judiciário - Área Programação de Sistemas - 2024
+Texto associado
+Texto CB4A1
+
+Não se sabe exatamente se a primeira eleição a que Rui Barbosa concorreu foi para deputado provincial, na Bahia, em 1875.Vagou-se um cargo na Assembleia Provincial, em razão da morte de um de seus membros, João Victor de Carvalho. As províncias do Império foram divididas em distritos eleitorais de três deputados cada um, eleitos por maioria relativa de votos.
+A eleição dos membros das Assembleias Provinciais far-se-ia da mesma maneira que a dos deputados à Assembleia Geral, não havendo suplentes: no caso de “morte do deputado, opção por outro distrito, ou perda do seu lugar por qualquer motivo”, proceder-se-ia a uma nova eleição no mesmo distrito.
+Luiz Vianna Filho — que é, reconhecidamente, junto com João Mangabeira, um dos mais completos biógrafos de Rui — nega essa candidatura. E diz:
+“No prestimoso volume Correspondência, em que reuniu cartas e documentos de Rui Barbosa, publica o Sr. Homero Pires uma circular de Rui dirigida aos eleitores do 3.º Distrito, datada de 4 de outubro de 1875, e à qual pôs o Dr. Homero Pires a seguinte nota: ‘Somente em 1878 Rui Barbosa teve ingresso na Assembleia Legislativa Provincial da Bahia’. De fato, a circular existe em facsimile no arquivo da Fundação Casa Rui Barbosa. Entretanto, uma vez que essa nota pode suscitar equívoco, deve ser esclarecido que, na realidade, Rui, candidato em 1878, o foi nesse ano pela primeira vez. Até porque, em 1875, estava o Partido Liberal afastado das lides eleitorais, atitude que só foi modificada em 19 de março de 1876.”
+Vianna alega, ainda, que o próprio Rui, “ao responder à comissão promotora da candidatura dele pelo 1.º Distrito da Corte, em 1889, declara expressamente: ‘Nos cinco escrutínios em que corri os azares da luta eleitoral...’. Ora, os cinco escrutínios são os de 1878, o de 1881, o de 1884, o de 1886 e o de 1888”.
+Mas, se a circular é de 4 de outubro de 1875, não se sabendo se teria sido distribuída, a eleição, a que parece Rui ter concorrido, foi em 10 de janeiro daquele ano. E há um parecer da Comissão de Poderes da Assembleia, lido em 3 de março de 1875, que indica o resultado do pleito: Francisco José da Costa – 182 votos; Tenente Coronel Manuel Jerônimo Ferreira – 39 votos; Rui Barbosa – 6 votos; Cícero Emiliano Alcamim – 1 voto.
+O parecer conclui: “[...] considerando que se acha regular a referida eleição, contra a qual não houve reclamação, é de parecer que seja declarado deputado à Assembleia Provincial pelo 1.º Distrito o Dr. Francisco José da Costa, que obteve maior soma de votos”.
+
+Walter Costa Porto. Rui Barbosa e o voto. In: Estudos Eleitorais na História. v. 11, n.º 3, setembro/dezembro 2016. Brasília: Escola Judiciária eleitoral, 2017. Internet: <bibliotecadigital.tse.jus.br> (com adaptações).
+Julgue os itens que se seguem, de acordo com as ideias veiculadas no texto CB4A1.
+
+De acordo com a fala de Luiz Vianna Filho apresentada no texto, as cartas e os documentos reunidos pelo Sr. Homero Pires deixam clara a inexistência de consenso sobre a candidatura de Rui Barbosa ao cargo de deputado na Província da Bahia no ano de 1878.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+58.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+ID
+Iara De Oliveira Pinheiro
+27 de janeiro de 2025 às 22:08
+Os documentos falam sobre não ser claro a candidatura de 1875, mas a candidatura de 1878 é comprovada !
+Reportar abuso
+Ajudou (4) Não ajudou
+12
+Q3555104
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Técnico Judiciário - Área Administrativa - Agente de Polícia Judicial - 2024
+Texto associado
+Texto CB4A1
+
+Não se sabe exatamente se a primeira eleição a que Rui Barbosa concorreu foi para deputado provincial, na Bahia, em 1875.Vagou-se um cargo na Assembleia Provincial, em razão da morte de um de seus membros, João Victor de Carvalho. As províncias do Império foram divididas em distritos eleitorais de três deputados cada um, eleitos por maioria relativa de votos.
+A eleição dos membros das Assembleias Provinciais far-se-ia da mesma maneira que a dos deputados à Assembleia Geral, não havendo suplentes: no caso de “morte do deputado, opção por outro distrito, ou perda do seu lugar por qualquer motivo”, proceder-se-ia a uma nova eleição no mesmo distrito.
+Luiz Vianna Filho — que é, reconhecidamente, junto com João Mangabeira, um dos mais completos biógrafos de Rui — nega essa candidatura. E diz:
+“No prestimoso volume Correspondência, em que reuniu cartas e documentos de Rui Barbosa, publica o Sr. Homero Pires uma circular de Rui dirigida aos eleitores do 3.º Distrito, datada de 4 de outubro de 1875, e à qual pôs o Dr. Homero Pires a seguinte nota: ‘Somente em 1878 Rui Barbosa teve ingresso na Assembleia Legislativa Provincial da Bahia’. De fato, a circular existe em facsimile no arquivo da Fundação Casa Rui Barbosa. Entretanto, uma vez que essa nota pode suscitar equívoco, deve ser esclarecido que, na realidade, Rui, candidato em 1878, o foi nesse ano pela primeira vez. Até porque, em 1875, estava o Partido Liberal afastado das lides eleitorais, atitude que só foi modificada em 19 de março de 1876.”
+Vianna alega, ainda, que o próprio Rui, “ao responder à comissão promotora da candidatura dele pelo 1.º Distrito da Corte, em 1889, declara expressamente: ‘Nos cinco escrutínios em que corri os azares da luta eleitoral...’. Ora, os cinco escrutínios são os de 1878, o de 1881, o de 1884, o de 1886 e o de 1888”.
+Mas, se a circular é de 4 de outubro de 1875, não se sabendo se teria sido distribuída, a eleição, a que parece Rui ter concorrido, foi em 10 de janeiro daquele ano. E há um parecer da Comissão de Poderes da Assembleia, lido em 3 de março de 1875, que indica o resultado do pleito: Francisco José da Costa – 182 votos; Tenente Coronel Manuel Jerônimo Ferreira – 39 votos; Rui Barbosa – 6 votos; Cícero Emiliano Alcamim – 1 voto.
+O parecer conclui: “[...] considerando que se acha regular a referida eleição, contra a qual não houve reclamação, é de parecer que seja declarado deputado à Assembleia Provincial pelo 1.º Distrito o Dr. Francisco José da Costa, que obteve maior soma de votos”.
+
+Walter Costa Porto. Rui Barbosa e o voto. In: Estudos Eleitorais na História. v. 11, n.º 3, setembro/dezembro 2016. Brasília: Escola Judiciária eleitoral, 2017. Internet: <bibliotecadigital.tse.jus.br> (com adaptações).
+Julgue os itens que se seguem, de acordo com as ideias veiculadas no texto CB4A1.
+
+O Partido Liberal estava impedido por meios legais de participar das eleições no ano de 1875, situação que só foi alterada no ano seguinte.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+40.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+CM
+Cleiton Meireles
+19 de dezembro de 2024 às 07:44
+O partido Liberal estava afastado de participar da lide eleitoral, não significa que estava afastado por meios legais. Questão Errada.
+Reportar abuso
+Ajudou (10) Não ajudou
+Roque Ferreira Dos Santos
+11 de fevereiro de 2025 às 20:13
+Extrapolou, nós não conseguimos precisar por qual motivo o Partido Liberal não estava legível no ano de 1875.
+Reportar abuso
+Ajudou (0) Não ajudou
+13
+Q3312346
+Administração de Recursos Materiais Cadastro e Seleção de Fornecedores
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Analista Administrativo - 2024
+Texto associado
+Julgue os itens seguintes, relativos às compras no setor público.
+Embora a manutenção de um cadastro de fornecedores não esteja entre os objetivos da função compras, sua condução é necessária para que as aquisições sejam realizadas com qualidade, celeridade e a um preço econômico.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+69.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jemima Raulino Da Conceição
+13 de agosto de 2024 às 15:16
+GABARITO: ERRADO
+
+A manutenção de um cadastro de fornecedores é fundamental para a função de compras no setor público e privado. Embora não seja o único objetivo das compras, a gestão adequada desse cadastro é essencial para garantir que as aquisições sejam realizadas de forma eficiente, com qualidade, celeridade e a um preço econômico. Fonte: QC
+..........................................................................................................................................
+..........................................................................................................................................
+Não to mandei eu? ESFORÇA-TE, e tem bom ânimo;
+NÃO temas, nem te espantes;
+porque o Senhor teu Deus é contigo,
+por onde quer que andares.
+Josué 1:9 / Biblia Sagrada
+
+Reportar abuso
+Ajudou (57) Não ajudou
+Jose Geraldo De Andrade Filho
+28 de outubro de 2024 às 20:51
+A manutenção de um cadastro de fornecedores é, na verdade, um dos objetivos principais da função de compras, pois facilita a gestão e a avaliação dos fornecedores, garantindo que as aquisições sejam realizadas com qualidade, rapidez e a um preço econômico. Portanto, se o CESPE / CEBRASPE considerou o item errado, é porque entende que a manutenção do cadastro de fornecedores está, sim, entre os objetivos da função de compras.
+
+QConcursos
+Reportar abuso
+Ajudou (9) Não ajudou
+Manoel Severo Dos Santos Junior
+5 de dezembro de 2024 às 13:27
+A manutenção do cadrastro e fundamental.
+Reportar abuso
+Ajudou (3) Não ajudou
+GP
+Gustavo Paiva
+17 de fevereiro de 2025 às 11:34
+galera uma dica que eu dou é você ser confiante, e a confiança vem da prática e do conhecimento da teoria, mas principalmente da prática! Então nessa questão, por exemplo, quando ela já começa falando que "Embora a manutenção de um cadastro de fornecedores não esteja entre os objetivos da função compras" nem precisa terminar de ler o resto, porque você já sabe, ou pelo menos é esperado que você saiba, que a manutenção de um cadastro de fornecedores é fundamental nas compras, seja no meio público ou privado. Muita gente mesmo sabendo que de cara a questão já está errada, ainda continua lendo só pra ter certeza, o que no final pode acabar te prejudicando ou te confundindo e fazendo você errar uma questão que é "pra não zerar a prova". Então continue se esforçando e não duvide do que você sabe, confie em si mesmo! Quem tem limite é município, no final tudo vai acabar sendo como tem que ser.
+Reportar abuso
+Ajudou (0) Não ajudou
+14
+Q3542231
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - STJ - Analista Judiciário - Área: Administrativa - 2024
+Texto associado
+A escravidão levou consigo ofícios e aparelhos, como terá sucedido a outras instituições sociais. Não cito alguns aparelhos senão por se ligarem a certo ofício. Um deles era o ferro ao pescoço, outro o ferro ao pé; havia também a máscara de folha-de-flandres. A máscara fazia perder o vício da embriaguez aos escravos, por lhes tapar a boca. Tinha só três buracos, dois para ver, um para respirar, e era fechada atrás da cabeça por um cadeado. Com o vício de beber, perdiam a tentação de furtar, porque geralmente era dos vinténs do senhor que eles tiravam com que matar a sede, e aí ficavam dois pecados extintos, e a sobriedade e a honestidade certas. Era grotesca tal máscara, mas a ordem social e humana nem sempre se alcança sem o grotesco, e alguma vez o cruel. Os funileiros as tinham penduradas, à venda, na porta das lojas. Mas não cuidemos de máscaras.
+O ferro ao pescoço era aplicado aos escravos fujões. Imaginai uma coleira grossa, com a haste grossa também à direita ou à esquerda, até ao alto da cabeça e fechada atrás com chave. Pesava, naturalmente, mas era menos castigo que sinal. Escravo que fugia assim, onde quer que andasse, mostrava um reincidente, e com pouco era pego.
+Há meio século, os escravos fugiam com frequência. Eram muitos, e nem todos gostavam da escravidão.
+Quem perdia um escravo por fuga dava algum dinheiro a quem lho levasse. Punha anúncios nas folhas públicas, com os sinais do fugido, o nome, a roupa, o defeito físico, se o tinha, o bairro por onde andava e a quantia de gratificação. Quando não vinha a quantia, vinha promessa: “oratificar-se-á generosamente”, ou “receberá uma boa gratificação”. Muita vez o anúncio trazia em cima ou ao lado uma vinheta, figura de preto, descalço, correndo, vara ao ombro, e na ponta uma trouxa. Protestava-se com todo o rigor da lei contra quem o açoitasse.
+Ora, pegar escravos fugidios era um ofício do tempo. Não seria nobre, mas, por ser instrumento da força com que se mantêm a lei e a propriedade, trazia esta outra nobreza implícita das ações reivindicadoras. Ninguém se metia em tal ofício por desfastio ou estudo; a pobreza, a necessidade de uma achega, a inaptidão para outros trabalhos, o acaso, e alguma vez o gosto de servir, também, ainda que por outra via, davam o impulso ao homem que se sentia bastante rijo para pôr ordem à desordem.
+
+Machado de Assis. Pai contra Mãe. /n: Machado de Assis.
+Relíquias da casa velha, 1906 (com adaptações).
+
+Machado de Assis inicia o conto Pai contra Mãe — escrito em 1906 e publicado na coletânea Relíquias da casa velha —, mencionando “ofícios e aparelhos” da escravidão no Brasil. O conto aborda a história de Cândido Neves, personagem que trabalhava na captura de escravos fugidios. Considerando o fragmento desse conto apresentado anteriormente, julgue os itens a seguir.
+O autor justifica a citação do ferro ao pescoço, do ferro ao pé e da máscara por se associarem a determinado ofício.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+70.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Carlos Daniel Lima De Oliveira
+10 de fevereiro de 2025 às 15:54
+Essa é a ideia que extraímos do trecho abaixo:
+A escravidão levou consigo ofícios e aparelhos, como terá sucedido a outras instituições sociais. Não cito alguns aparelhos senão por se ligarem a certo ofício.
+ O narrador deixa claro que cita somente os aparelhos que se ligam a um ofício (a uma função determinada). Por exemplo, o ferro colocado ao pescoço servia de sinal para que se identificassem os escravizados reincidentes na fuga, permitindo que eles fosse capturados mais rapidamente. Assim, item CORRETO.
+
+Fonte: Tec
+Reportar abuso
+Ajudou (1) Não ajudou
+15
+Q3129526
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista de Infraestrutura de Tecnologia da Informação - 2024
+Texto associado
+Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados), julgue os itens subsecutivos.
+A Lei Geral de Proteção de Dados aborda o tratamento de dados pessoais e se aplica também à administração pública.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+95.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriel De Jesus
+1 de fevereiro de 2024 às 14:53
+Art. 1º Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, POR pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
+Parágrafo único. As normas gerais contidas nesta Lei são de interesse nacional e devem ser observadas pela União, Estados, Distrito Federal e Municípios.
+Reportar abuso
+Ajudou (26) Não ajudou
+16
+Q3238126
+Administração de Recursos Materiais Administração de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+No que se refere ao controle de inventários e às decisões de políticas de estoques, julgue os próximos itens.
+Empresas que, a fim de não perder vendas e de se preparar para variações de demanda, defendem a visão de que é preciso manter produtos em estoque conseguem administrar seus custos de maneira satisfatória, sem riscos de perdas e obsolescência de produtos.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+67.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Maira Muniz Lima
+8 de maio de 2024 às 23:30
+A manutenção de estoques implica em aumento de custos operacionais, como armazenagem, seguros e obsolescência de produtos
+Reportar abuso
+Ajudou (48) Não ajudou
+Maria Aparecida Souza Santos
+3 de outubro de 2024 às 13:07
+As piores disciplinas de estudar aqui no Gran, até o presente momento são: administração de recursos de materiais e arquivologia, só deus por todos nós.
+Reportar abuso
+Ajudou (29) Não ajudou
+Janailde Dos Santos Sousa
+12 de setembro de 2024 às 17:47
+É uma pena que quase não tem comentários do professor nessa matéria 😕
+Reportar abuso
+Ajudou (18) Não ajudou
+Talita Ferreira França
+9 de dezembro de 2024 às 13:58
+TUDO TEM SEUS RISCOS, SEM RISCOS É O ERRO SA QUESTAO.
+
+
+Reportar abuso
+Ajudou (11) Não ajudou
+Priscilla Cardoso De Arruda
+30 de novembro de 2024 às 22:21
+Manutenção de estoques, embora realmente ajudem a não perder vendas e a se proteger de algumas variações do mercado, trazem a desvantagem dos riscos de perda e obsolescência dos produtos.
+Reportar abuso
+Ajudou (5) Não ajudou
+Página 1 de 2
+17
+Q3134414
+Raciocínio Lógico Princípios Fundamentais da Lógica Proposicional ou (Três Leis do Pensamento)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista de Geotecnologia - 2024
+Texto associado
+Em um jogo investigativo, um dos objetivos é coletar pistas para descobrir o culpado de um crime. Em determinada ambientação, cinco senhores, cada um usando um chapéu de determinada cor — branco, cáqui, preto, verde e vermelho —, participavam de um jantar, quando a luz da mansão apagou. Passado o apagão, foi constatado que o senhor de chapéu cáqui estava morto. Em uma etapa do jogo, já haviam sido coletados os seguintes depoimentos dos outros quatro cavalheiros:
+Senhor de chapéu verde: “O senhor de chapéu vermelho é inocente.”
+Senhor de chapéu vermelho: “Se o senhor de chapéu preto e o senhor de chapéu verde são inocentes, então o senhor de chapéu branco mentiu em seu depoimento.”
+Senhor de chapéu branco: “O senhor de chapéu preto é inocente.”
+Senhor de chapéu preto: “O senhor de chapéu verde mentiu em seu depoimento.”
+
+Sabendo que apenas um dos depoentes mentiu e que apenas um dos senhores assassinou o senhor de chapéu cáqui, julgue os itens seguintes.
+Apenas um dos senhores é, ao mesmo tempo, o assassino e o mentiroso.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+54.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+LF
+Luiz Fernando De Loreto Junior
+29 de março de 2024 às 00:47
+Numa Proposição não podemos ter dois valores lógicos para a mesma sentença, princípio da não contradição, não pode ser verdadeiro e falso ao mesmo tempo.
+Reportar abuso
+Ajudou (191) Não ajudou
+Joycilene Alves
+4 de abril de 2024 às 14:45
+Gabarito: ERRADO.
+
+Como apenas um dos depoentes mentiu, já sabemos que o mentiroso é o senhor de chapéu verde ou o senhor de chapéu preto, já que uma declaração diz o oposto da outra:
+Senhor de chapéu verde: “O senhor de chapéu vermelho é inocente”
+Senhor de chapéu preto: “O senhor de chapéu verde mentiu em seu depoimento” (ou seja: o senhor de chapéu vermelho não é inocente)
+Como o mentiroso é um desses dois, segue que os outros falam a verdade. Em particular interessa-nos a declaração do senhor de chapéu branco:
+Senhor de chapéu branco: “O senhor de chapéu preto é inocente”
+Agora vejamos as duas possibilidades:
+se o senhor de chapéu verde mentiu, então o senhor de chapéu vermelho é culpado. Logo, o mentiroso e o assassino são pessoas diferentes;
+se o senhor de chapéu preto mentiu, o mentiroso e o assassino também serão pessoas diferentes, pois já sabemos pela declaração do senhor de chapéu branco que o senhor de chapéu preto é inocente
+Assim, é falso que apenas um dos senhores é o assassino e o mentiroso.
+Prof.º "Tecconcursos" Antony
+Reportar abuso
+Ajudou (85) Não ajudou
+Letícia Almeida
+22 de fevereiro de 2024 às 10:33
+Para resolver essa questão eu utilizei a técnica de montar as sentenças e criei a hipótese de que uma delas era verdadeira, assim sendo, ficou do seguinte modo:
+
+senhor do chapéu verde é inocente.
+
+senhores do chapéu preto e verde são inocentes --> senhor do chapéu branco mentiu
+
+senhor do chapéu preto é inocente.
+
+senhores do chapéu verde mentiu.
+
+Após montar, criei a hipotese de que a sentença "senhor do chapéu preto é inocente" era verdadeira. Após isso, analisei a sentença do se, então, já que mencionava o mesmo senhor. Como a vera fisher não pode aparecer, atribui verdade ao consequente também e, após, lidei com as outras sentenças. Dessa forma, "senhor do chapéu verde é inocente" também é verdade.
+Reportar abuso
+Ajudou (50) Não ajudou
+Ester Lima
+2 de abril de 2024 às 22:21
+Sabendo que apenas um dos depoentes mentiu e que apenas um dos senhores assassinou o senhor de chapéu cáqui.
+Logo são duas pessoas diferentes, um mentiu e o outro é o assassino.
+Questão ERRADA
+Reportar abuso
+Ajudou (40) Não ajudou
+LM
+Ladson Martins
+19 de março de 2024 às 11:18
+Analisando sem tabela verdade e do final para o inicio:
+
+O senhor de chapéu preto disse que o senhor de chapéu verde mentiu em seu depoimento e o senhor de chapéu verde disse que o senhor de chapéu vermelho é inocente, se ele mentiu significa que:
+CVE (chapeu vermelho): Culpado
+O senhor de chapéu branco disse que o senhor de chapéu preto é inocente, então:
+CP (chapeu preto): Inocente
+O senhor de chapéu vermelho disse que “Se o senhor de chapéu preto e o senhor de chapéu verde são inocentes (que até o momento são pois ninguém os acusou do contrário), então o senhor de chapéu branco mentiu em seu depoimento.”
+E se o senhor de chapéu branco mentiu em seu depoimento, significa que o senhor de chapéu preto deixa de ser inocente e se torna culpado, portanto o senhor de chapéu preto se torna culpado, mas não é mentiroso pois nenhum dos senhores afirmou que ele mentiu, e se ele não mentiu se torna o culpado pelo assassinato, mas não mentiroso.
+
+Alternativa E
+Reportar abuso
+Ajudou (20) Não ajudou
+Página 1 de 4
+18
+Q3340453
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Analista Judiciário - Área Judiciária - 2024
+Texto associado
+A respeito da ética no serviço público, do acesso à informação e da proteção de dados pessoais, julgue os itens seguintes.
+O tratamento de dados pessoais deverá observar, além da boa-fé, outros princípios, como o da adequação, o da prevenção, o da não discriminação e o da segurança.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+92.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Talita Brito Dos Santos
+20 de outubro de 2024 às 09:55
+art. 6º.
+Princípios: da finalidade, da adequação, da necessidade, do livre acesso, da qualidade dos dados, da transparência, da segurança, da prevenção, da não discriminação, e da responsabilização e prestação de contas.
+Reportar abuso
+Ajudou (34) Não ajudou
+Cleuma Christir
+15 de janeiro de 2025 às 11:34
+Até agora tô sem entender pq a questão tá certa, pois a "boa-fé" prá mim não é explicitamente um princípio.
+Reportar abuso
+Ajudou (7) Não ajudou
+Vitor Hugo Louro Pereira
+28 de janeiro de 2025 às 05:02
+O art. 6º da LGPD assim dispõe:
+
+Art. 6º As atividades de tratamento de dados pessoais deverão observar a boa-fé e os seguintes princípios:
+I - finalidade: realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular, sem possibilidade de tratamento posterior de forma incompatível com essas finalidades;
+II - adequação: compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento;
+III - necessidade: limitação do tratamento ao mínimo necessário para a realização de suas finalidades, com abrangência dos dados pertinentes, proporcionais e não excessivos em relação às finalidades do tratamento de dados;
+IV - livre acesso: garantia, aos titulares, de consulta facilitada e gratuita sobre a forma e a duração do tratamento, bem como sobre a integralidade de seus dados pessoais;
+V - qualidade dos dados: garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados, de acordo com a necessidade e para o cumprimento da finalidade de seu tratamento;
+VI - transparência: garantia, aos titulares, de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de tratamento, observados os segredos comercial e industrial;
+VII - segurança: utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou difusão;
+VIII - prevenção: adoção de medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais;
+IX - não discriminação: impossibilidade de realização do tratamento para fins discriminatórios ilícitos ou abusivos;
+X - responsabilização e prestação de contas: demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas.
+
+Reportar abuso
+Ajudou (6) Não ajudou
+JO
+Juliana Oliveira De Almeida
+14 de fevereiro de 2025 às 12:49
+A boa-fé é um princípio basilar do ordenamento jurídico. Então, podemos interpretar que já é sabido que a boa-fé é um princípio... provavelmente por isso o legislador não afirmou isso expressamente. Assim, é sim um dos princípios a serem observados
+Reportar abuso
+Ajudou (2) Não ajudou
+C
+Cleidison
+7 de fevereiro de 2025 às 00:35
+FIQUEI NA DUVIDA PORQUE SÃO 10 PRINCÍPIO E NA QUESTÃO APRECE 4. então fiquei pensando será que ta falando que é só esses 4 ou ta falando que esses quatro fazem parte!
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+19
+Q3270103
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANTT - Especialista em Regulação de Serviços de Transportes Terrestres - Área Economia Conhecimentos Básicos. - 2024
+Texto associado
+A palavra carreta começou a ser empregada para definir o que até então era chamado de carroça; é possível pensar que fora definido o termo carreteiro para designar quem conduzia as carretas.
+As primeiras carretas foram utilizadas para várias finalidades. Em um primeiro momento, auxiliaram no processo de colonização, mas também ajudaram em situações de guerra, quando estavam carregadas de materiais bélicos e demais apetrechos militares. Serviram de apoio ainda para comerciantes, mascates, conhecidos também como vivandeiros, que transportavam os mais variados tipos de mercadorias, desde produtos alimentícios até produtos mais simples, como pentes e espelhos. Dessa maneira, surgia o carreteiro e, junto a ele, as representações que iriam compor a identidade desses profissionais.
+
+Danilo Leite Moreira. Uma breve abordagem histórica do desenvolvimento do rodoviarismo e do transporte rodoviário de cargas no Brasil. In: Faces da História, v. 10, n.º 1, jan.-jun./2023, p. 157 (com adaptações).
+
+Em relação às ideias e a aspectos gramaticais do texto apresentado, julgue os itens que se seguem.
+Conforme exposto no texto, a identidade dos carreteiros é construída a partir de representações plurais que têm relação direta com as várias atividades deles e com os diversos tipos de carretas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+39.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Phellipe Matheus De Sousa
+16 de junho de 2024 às 20:03
+1) O texto não fala dos tipos de carreta, apenas das suas diversas finalidades.
+2) A identidade do carreteiro surgiu junto com as representações que compõem a identidade deles. Ou seja, a identidade deles não surgiu a partir dessas representações como a afirmativa sugere.
+Reportar abuso
+Ajudou (66) Não ajudou
+Sophia
+6 de agosto de 2024 às 09:52
+Stela Gomes, não se baseie nos comentários da Maia, pois, muitas vezes, eles estão errados. Melhor consultar os comentários dos colegas e se continuar com dúvida, procure comentários em outros sites de questões, ok?! Mais garantido assim.
+Reportar abuso
+Ajudou (12) Não ajudou
+DA
+Douglas Alves De Carvalho
+17 de setembro de 2024 às 07:09
+É crime colocar essa IA pra confundir o estudante.
+Reportar abuso
+Ajudou (7) Não ajudou
+Joao
+29 de junho de 2024 às 00:41
+O texto não informa sobre diversos tipos de carretas mas sim de suas finalidades.
+Reportar abuso
+Ajudou (5) Não ajudou
+Stela Gomes
+23 de maio de 2024 às 20:16
+O gabarito traz uma marcação e a fundamentação da IA Maia é feita em sentido contrário.
+Pelas razões expostas na explicação, acertei... Que confusão!
+Reportar abuso
+Ajudou (3) Não ajudou
+Página 1 de 2
+20
+Q3418330
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Administrativo - Área Pedagogia - 2024
+Texto associado
+O setor público enfrenta o desafio particular de oferecer serviços públicos cada vez melhores a uma população gradualmente mais bem informada, mais consciente de seus direitos e com expectativas crescentes quanto ao papel do Estado. Devido aos recursos limitados, desenvolver serviços públicos inovadores tem sido visto crescentemente como fator fundamental para sustentar um alto nível de serviços para cidadãos e negócios, bem como para enfrentar desafios sociais e aprimorar o bem-estar social da população.
+Diante desse cenário, o discurso científico sobre inovação em compras públicas ganhou maior atenção nas últimas décadas. A União Europeia reconheceu as compras públicas como instrumento de inovação e de provimento de mercados pioneiros para novos produtos, definindo-as como compras de bens e serviços que ainda não existem, que precisam ser aperfeiçoados ou que requerem pesquisa e inovação para atender às necessidades especificadas pelos usuários.
+As compras públicas representam grande parte da execução da despesa pública. Entre países da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), a média de gastos públicos representa 12% do GDP (equivalente ao PIB) por ano. No Brasil, anualmente o governo federal gasta, em média, 5% do PIB em compras apenas de bens e serviços. Quando se incluem nos cálculos as despesas efetuadas por estados, municípios e estatais, o percentual chega próximo a 15% do PIB, ou R$ 900 bilhões.
+
+Internet: http://www.realp.unb.br/jspui/ (com adaptações).
+
+Considerando as ideias e os aspectos linguísticos do texto apresentado, julgue os itens que se seguem.
+Segundo as informações do texto, a média de gastos anual nas diferentes esferas de governo no Brasil é maior que a média de gastos públicos por ano que se verifica em países da OCDE.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+71.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Andre2
+15 de setembro de 2024 às 17:01
+"Entre países da... (OCDE), a média de gastos públicos representa 12% do GDP (equivalente ao PIB) por ano. No Brasil, anualmente... Quando se incluem nos cálculos as despesas efetuadas por estados, municípios e estatais, o percentual chega próximo a 15% do PIB..."
+Reportar abuso
+Ajudou (13) Não ajudou
+LS
+Luan S.
+7 de outubro de 2024 às 17:28
+
+"No Brasil, anualmente o governo federal gasta, em média, 5% do PIB em compras apenas de bens e serviços. Quando se incluem nos cálculos as despesas efetuadas por estados, municípios e estatais, o percentual chega próximo a 15% do PIB, ou R$ 900 bilhões."
+
+Podemos considerar estatais (empresas públicas e sociedades de economia mista) como "esferas do governo"?
+Reportar abuso
+Ajudou (2) Não ajudou
+Ramon
+21 de novembro de 2024 às 19:20
+Questão mal formulada. O percentual relativo ao PIB brasileiro é de 15% e a média de gastos públicos dos país da OCDE é de 12% do GDP. O percentual daquele é maior que este, mas sobre os valores nada podemos afirmar. É perfeitamente possível que 15% de um valor seja menos que 12% de outro valor. O examinador de língua portuguesa deixou a desejar em matemática.
+Reportar abuso
+Ajudou (2) Não ajudou
+Testes Testes
+12 de fevereiro de 2025 às 11:07
+Certo
+Reportar abuso
+Ajudou (0) Não ajudou
+RF
+Raiane Fontineles Da Silva
+7 de dezembro de 2024 às 10:06
+
+Podemos considerar ESTATAIS (empresas públicas e sociedades de economia mista) como "Esferas do Governo"?
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2

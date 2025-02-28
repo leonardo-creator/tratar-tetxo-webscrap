@@ -1,0 +1,970 @@
+1
+Q3129528
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista de Infraestrutura de Tecnologia da Informação - 2024
+Texto associado
+Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados), julgue os itens subsecutivos.
+Segundo a Lei n.º 13.709/2018, o titular dos dados pessoais tem assegurado o direto de obter informações a respeito do tratamento dos seus dados.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+99.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriel De Jesus
+1 de fevereiro de 2024 às 14:54
+Art. 17. Toda pessoa natural tem assegurada a titularidade de seus dados pessoais e garantidos os direitos fundamentais de liberdade, de intimidade e de privacidade, nos termos desta Lei.
+Art. 18. O titular dos dados pessoais tem direito a obter do controlador, em relação aos dados do titular por ele tratados, a qualquer momento e mediante requisição:
+Reportar abuso
+Ajudou (34) Não ajudou
+Amanda Damasio De Lima Dias
+31 de agosto de 2024 às 17:15
+Art. 9º O titular tem direito ao acesso facilitado às informações sobre o tratamento de seus dados, que deverão ser disponibilizadas de forma clara, adequada e ostensiva acerca de, entre outras características previstas em regulamentação para o atendimento do princípio do livre acesso:
+I - finalidade específica do tratamento;
+II - forma e duração do tratamento, observados os segredos comercial e industrial;
+III - identificação do controlador;
+IV - informações de contato do controlador;
+V - informações acerca do uso compartilhado de dados pelo controlador e a finalidade;
+VI - responsabilidades dos agentes que realizarão o tratamento; e
+VII - direitos do titular, com menção explícita aos direitos contidos no art. 18 desta Lei.
+Reportar abuso
+Ajudou (7) Não ajudou
+2
+Q3129782
+Administração Pública Gerencialismo
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área Gestão Orçamentária e Financeira - 2024
+Texto associado
+Quanto à administração pública, do modelo racional legal ao paradigma pós-burocrático, julgue os itens a seguir.
+O gerencialismo tem como pressupostos o fortalecimento do gerenciamento público e de instituições de controle e a imputação de resultados e estruturas flexíveis de tal forma que o cidadão se perceba e participe como usuário de serviços públicos e contribuinte.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+92.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Marcela Costa Pompeu
+2 de dezembro de 2024 às 22:21
+a nova administração pública evoluiu por meio de 3 modelos teóricos:
+
+1. Gerencialismo puro:
+-inspirado nas organizações privadas
+-resposta à crise fiscal
+-objetiva o ajuste fiscal (maior eficiencia e redução de custos)
+-foco na redução de custos e na eficiência
+-cidadão visto como contribuinte
+(cortar gastos, eficiÊncia e + produtividade, cidadão como contribuinte).
+
+2. Consumerismo:
+-busca uma maior satisfação do cidadão
+-flexibilização da atuação da adm. pública
+-objetiva melhorar a qualidade dos serviçoes públicos prestados
+-foco na efetividade
+-cidadão visto como consumidor ou/usuário
+(Satisfação, qualidade, efetividade, consumidor).
+
+3. Public Service Orientation (PSO)
+-cidadania, equidade e justiça
+-o cidadão participa ativamente da vida pública
+-cidadão-cliente
+-acountability
+
+*os modelos se complementam, não se contrapõem. 
+Reportar abuso
+Ajudou (21) Não ajudou
+Leandro
+7 de outubro de 2024 às 19:46
+Abordagem do Gerencialismo Puro - Managerialism, quando o cidadão é percebido como Taxpayer (contribuinte).
+Reportar abuso
+Ajudou (19) Não ajudou
+3
+Q3129150
+Tecnologia da Informação Mineração de Dados (Data Mining)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão de Dados Corporativos - 2024
+Texto associado
+Julgue os itens a seguir, a respeito de mineração de dados, de arquitetura dos dados e de modelagem de dados.
+Mineração de dados combina técnicas de descoberta de conhecimento com técnicas de implementação eficientes que permitem seu uso em bancos de dados extremamente grandes.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Damiao Vicente Correia Junior
+17 de fevereiro de 2024 às 08:19
+Correto! Data Mining ou mineração de dados se utiliza de um conjunto de ferramentas para encontrar padrões, regras e relacionamentos em grandes volumes de dados. A Mineração de Dados utiliza algoritmos de aprendizagem e classificação baseados em redes neurais artificiais e estatísticas. Não é um ramo da Inteligência artificial, mas usa ferramentas de IA para atingir os seus objetivos.
+Reportar abuso
+Ajudou (16) Não ajudou
+Jefferson Kawan Eberhard Lippi
+31 de janeiro de 2024 às 23:32
+Correto, o DATA MINING, por meio da mineração de dados busca informações relevantes e que possuam um padrão.
+Reportar abuso
+Ajudou (7) Não ajudou
+4
+Q3128744
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração de Pessoal - 2024
+Texto associado
+Texto CG1A1
+
+Em 1947, o físico brasileiro César Lattes causou grande impacto nos meios científicos internacionais e conquistou reconhecimento com sua descoberta que elucidou alguns problemas pendentes de solução no campo da radiação cósmica e confirmou a teoria do físico japonês Hideki Yukawa sobre a existência de uma partícula supostamente responsável pela ligação entre prótons e nêutrons nos núcleos atômicos. Esse último aspecto foi bastante para dar um relevo todo especial à descoberta, enriquecendo seu significado com a possibilidade de novas aberturas no controle das forças nucleares, tão cobiçado depois das explosões atômicas. Toda a imprensa mundial e brasileira aclamou a descoberta, e a ciência brasileira saiu do porão para a sala de visitas.
+No ano seguinte, Lattes voltou a causar impacto após conseguir a produção artificial daquela partícula em um acelerador do tipo circular, em Berkeley, nos Estados Unidos da América. E em 1949, a física no Brasil começou a se institucionalizar com a criação do Centro Brasileiro de Pesquisas Físicas. Junto com ela, a ciência, em geral, também organizava sua entidade representativa, com o surgimento da Sociedade Brasileira para o Progresso da Ciência (SBPC) naquele mesmo ano. Foi nesse caldo cultural que o almirante Álvaro Alberto ganhou mais argumentos para persuadir o governo brasileiro. Segundo seus depoimentos reproduzidos na coletânea 50 anos do CNPq contados pelos presidentes, organizada por Shozo Motoyama, em maio de 1949, após a leitura de relatórios sobre a questão atômica, o presidente Dutra enviou ao Congresso Nacional um anteprojeto para criação do Conselho Nacional de Pesquisas, já prevendo seu papel na política nuclear. Depois de uma longa tramitação na Câmara dos Deputados e no Senado Federal, nascia o CNPq, com o almirante como seu primeiro presidente.
+
+Rodrigo Cunha. 60 anos do CNPq: da política nuclear ao desafio da descentralização.
+In: Ciência e Cultura, São Paulo, v. 63, n.º 2, 2011 (com adaptações).
+
+Considerando as ideias veiculadas no texto CG1A1, julgue os itens a seguir.
+Depreende-se do texto que o almirante Álvaro Alberto estava envolvido com o projeto de criação do que viria a ser o CNPq enquanto César Lattes conquistava reconhecimento científico internacional.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+75.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Paulo Furtado Quinzeiro
+6 de fevereiro de 2024 às 19:34
+Certo.
+No 4º período do segundo parágrafo diz assim:
+"Foi nesse caldo cultural que o almirante Álvaro Alberto ganhou mais argumentos para persuadir o governo brasileiro."
+Ou seja, é possível depreender que ele já estava envolvido com o projeto de criação, porém não tinha muitos argumentos. Como nesse meio tempo César Lattes causou grande impacto no meio nacional e internacional com sua descoberta, Álvaro Alberto conseguiu mais argumentos "poderosos" para validar o seu projeto de criação do que seria a CNPq.
+Reportar abuso
+Ajudou (56) Não ajudou
+Alvaro Lincoln
+14 de agosto de 2024 às 20:26
+Errei pq acredito que o termo "Enquanto" se refere a algo que acontece simultaneamente
+1947 e 1949 não são simultâneos
+Reportar abuso
+Ajudou (18) Não ajudou
+N
+Nathalia
+11 de março de 2024 às 17:00
+Questão difícil..... entendi que o envolvimento no projeto se referia ao Presidente Dutra.
+Reportar abuso
+Ajudou (9) Não ajudou
+Sophia
+6 de agosto de 2024 às 10:11
+Em 1947, o físico brasileiro César Lattes causou grande impacto nos meios científicos internacionais e conquistou reconhecimento...
+[...]
+E em 1949, a física no Brasil começou a se institucionalizar com a criação do Centro Brasileiro de Pesquisas Físicas. Junto com ela, a ciência, em geral, também organizava sua entidade representativa, com o surgimento da Sociedade Brasileira para o Progresso da Ciência (SBPC) naquele mesmo ano. Foi nesse caldo cultural que o almirante Álvaro Alberto ganhou mais argumentos para persuadir o governo brasileiro.
+
+Talvez sim, talvez não...
+Reportar abuso
+Ajudou (4) Não ajudou
+Márcio Egídio De Carvalho
+1 de março de 2024 às 10:02
+As questões são boas
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+5
+Q3178889
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Técnico Ministerial - Área: Técnico de Contabilidade - 2024
+Texto associado
+Texto CG2A1
+Foi em 1975 que a Organização das Nações Unidas (ONU) começou a celebrar o dia 8 de março como o Dia Internacional das Mulheres, na busca por evidenciar a discussão sobre a importância da igualdade de gênero, do combate à violência e da garantia dos direitos de meninas e mulheres. Mas a celebração tem suas origens no começo do século XX, em manifestações ligadas aos direitos das mulheres trabalhadoras.
+A data passou a ser definitivamente estabelecida a partir do dia 8 de março de 1917, com a realização de uma manifestação de operárias por pão e paz, na atual cidade de São Petersburgo, na Rússia. Nove anos antes, em 8 de março de 1908, já havia ocorrido um encontro massivo em Nova Iorque, nos Estados Unidos da América (EUA), em defesa do sufrágio universal, com a presença de um comitê feminino local para apoiar o voto das mulheres.
+No Brasil, as mulheres só passaram a exercer o direito ao voto em 1932. As casadas, porém, só o puderam fazer em 1934, e até 1962 elas só podiam trabalhar fora se o marido anuísse.
+Atualmente, a presença das mulheres na educação brasileira é forte. Hoje, as meninas apresentam, inclusive, maior sucesso na trajetória escolar. Entre a população adulta com mais de 25 anos de idade, 49,5% das mulheres e 45% dos homens concluíram o ensino médio, de acordo com dados da PNAD Contínua 2018. No ensino superior, elas compõem 55% das matrículas de graduação. Na docência, esse fato se repete: elas também são maioria.
+Ainda assim, nem tudo é um mar de rosas. Conforme as mulheres vão progredindo na carreira acadêmica, por exemplo, esse cenário muda. No Brasil, apenas um em cada quatro pesquisadores seniores são mulheres. A maternidade e a desigualdade na divisão das tarefas domésticas são alguns dos fatores que dificultam o equilíbrio entre a vida profissional e pessoal das mulheres — mas não dos homens.
+Internet: <www.cenpec.org.br> (com adaptações).
+Julgue os itens que se seguem, com base nas ideias veiculadas no texto CG2A1.
+
+De acordo com o texto, a discussão sobre a importância da igualdade de gênero, do combate à violência e da garantia dos direitos de meninas e mulheres foi intensificada em todos os continentes a partir da celebração do Dia Internacional das Mulheres pela ONU.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+71.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Luiz Felipe De Lima
+3 de abril de 2024 às 07:06
+Em momento algum ele afirma esse argumento que foi em todos os continentes, mas na Rússia e nos Estados Unidos.
+Reportar abuso
+Ajudou (49) Não ajudou
+Leila Bernardes
+20 de março de 2024 às 10:57
+ERRADO
+ESSA PARTE EXPOE :
+Mas a celebração tem suas origens no começo do século XX, em manifestações ligadas aos direitos das mulheres trabalhadoras.
+Reportar abuso
+Ajudou (26) Não ajudou
+Alvaro Lincoln
+2 de julho de 2024 às 17:39
+a questão foi evidenciada e não intensificada
+Reportar abuso
+Ajudou (11) Não ajudou
+Thiago Marcos Da Silva Reis
+31 de agosto de 2024 às 09:10
+Extrapolação.
+Em nenhum momento o texto afirma que isso afetou todos os continentes.
+Reportar abuso
+Ajudou (8) Não ajudou
+Questão
+28 de agosto de 2024 às 09:42
+gab Errado
+
+De acordo com o texto, a discussão sobre a importância da igualdade de gênero, do combate à violência e da garantia dos direitos de meninas e mulheres foi intensificada em todos os continentes a partir da celebração do Dia Internacional das Mulheres pela ONU.
+
+
+8 de março de 1908,em Nova Iorque EUA
+
+8 de março de 1917, com a realização de uma manifestação de operárias por pão e paz, na atual cidade de São Petersburgo, na Rússia
+Reportar abuso
+Ajudou (3) Não ajudou
+Página 1 de 2
+6
+Q3134912
+Raciocínio Lógico Verdades e Mentiras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista de Sistemas da Informação - 2024
+Texto associado
+Em um jogo investigativo, um dos objetivos é coletar pistas para descobrir o culpado de um crime. Em determinada ambientação, cinco senhores, cada um usando um chapéu de determinada cor — branco, cáqui, preto, verde e vermelho —, participavam de um jantar, quando a luz da mansão apagou. Passado o apagão, foi constatado que o senhor de chapéu cáqui estava morto. Em uma etapa do jogo, já haviam sido coletados os seguintes depoimentos dos outros quatro cavalheiros:
+
+Senhor de chapéu verde: “O senhor de chapéu vermelho é inocente.”
+Senhor de chapéu vermelho: “Se o senhor de chapéu preto e o senhor de chapéu verde são inocentes, então o senhor de chapéu branco mentiu em seu depoimento.”
+Senhor de chapéu branco: “O senhor de chapéu preto é inocente.”
+Senhor de chapéu preto: “O senhor de chapéu verde mentiu em seu depoimento.”
+
+Sabendo que apenas um dos depoentes mentiu e que apenas um dos senhores assassinou o senhor de chapéu cáqui, julgue os itens seguintes.
+O senhor de chapéu branco mentiu em seu depoimento.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+75.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Baby Yoda
+3 de agosto de 2024 às 22:56
+quem matou Odete Roitman nas minhas contas foi o de chapéu branco ;) Ele sabia disso e por isso falou que o preto é inocente.
+
+Reportar abuso
+Ajudou (0) Não ajudou
+7
+Q3134257
+Administração de Recursos Materiais Classificação de Materiais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Administrativo - 2024
+Texto associado
+Acerca dos conceitos relacionados à classificação de materiais, julgue os itens a seguir.
+Os materiais críticos são essenciais para o processo produtivo ou para a prestação de serviços, e sua falta provoca a paralisação da produção ou da prestação de serviços.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+87.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Jacqueline Cristina Silva
+6 de fevereiro de 2024 às 21:42
+
+Os materiais críticos são aqueles que são essenciais para o processo produtivo ou para a prestação de serviços e cuja falta pode provocar a paralisação total ou parcial da produção ou dos serviços. Esses materiais têm um impacto significativo nas operações da empresa e são considerados fundamentais para garantir a continuidade das atividades.
+Reportar abuso
+Ajudou (88) Não ajudou
+WA
+Wilson Amorim Almeida Junior
+23 de abril de 2024 às 20:51
+A falta desses materiais pode levar à paralisação da produção ou da prestação de serviços, MAS A QUESTÃO NAO DEIXOU ISSO EXPLÍCITA!
+Reportar abuso
+Ajudou (10) Não ajudou
+R
+Ric
+22 de setembro de 2024 às 21:42
+CERTO!!
+Reportar abuso
+Ajudou (1) Não ajudou
+8
+Q3134256
+Administração de Recursos Materiais Classificação de Materiais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Administrativo - 2024
+Texto associado
+Acerca dos conceitos relacionados à classificação de materiais, julgue os itens a seguir.
+Os materiais diretos são utilizados diretamente na produção de bens ou na prestação de serviços e são incorporados ao produto final, seja este um bem ou um serviço.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+84.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Jacqueline Cristina Silva
+6 de fevereiro de 2024 às 21:40
+A afirmação está correta.
+Os materiais diretos são aqueles que são utilizados diretamente na produção de bens ou na prestação de serviços e são incorporados ao produto final, seja este um bem tangível ou um serviço intangível. Eles são essenciais para a fabricação do produto ou execução do serviço e fazem parte integrante do produto final entregue ao cliente.
+Exemplos de materiais diretos incluem matérias-primas, componentes, peças e ingredientes que são diretamente utilizados na produção de um produto ou na execução de um serviço.
+Reportar abuso
+Ajudou (173) Não ajudou
+R
+Ric
+22 de setembro de 2024 às 21:41
+certo!!
+Reportar abuso
+Ajudou (2) Não ajudou
+9
+Q3134268
+Administração de Recursos Materiais Classificação de Materiais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Administrativo - 2024
+Texto associado
+A empresa X atua no setor de distribuição de componentes eletrônicos. Em razão da alta taxa de crescimento da demanda por dispositivos eletrônicos avançados no mercado global e da crescente complexidade dos produtos ofertados no mercado local, a empresa passou a enfrentar desafios significativos na gestão de seu estoque. Para otimizar a gestão de seus recursos materiais, X decidiu implementar a análise ABC de estoques, que, baseada no princípio de Pareto (conhecido como regra 80/20), pressupõe que uma pequena porcentagem dos itens em estoque geralmente representa a maior parte do valor consumido ou dos custos associados de determinado estoque.
+Para isso, a equipe de administração de recursos materiais da empresa X iniciou o processo de levantamento de dados sobre o consumo anual em valor monetário de cada item e, em seguida, classificou os itens em três classes.
+
+• Classe A: itens que representam aproximadamente 20% da quantidade total em estoque, mas cerca de 80% do valor consumido, sendo os itens mais importantes e que requerem monitoramento e gestão rigorosos, segundo a ótica do valor e da criticidade.
+• Classe B: itens intermediários, que correspondem a cerca de 30% da quantidade de itens em estoque e aproximadamente 15% do valor consumido, e que exigem um nível de controle balanceado.
+• Classe C: itens que compõem a maior parte da quantidade em estoque (em torno de 50%), mas representam apenas 5% do valor consumido e podem ser gerenciados com controles menos rigorosos, visto que são itens de menor valor.
+
+A partir da situação hipotética precedente, julgue os itens subsequentes.
+A empresa X deverá focar seus esforços na gestão eficiente dos itens de classe A, otimizando a compra e o armazenamento desses produtos e, com isso, assegurar a manutenção dos níveis de estoque médio adequados sem imobilizar capital desnecessário.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+82.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jose Geraldo De Andrade Filho
+23 de setembro de 2024 às 13:29
+Esse "imobilizar" me quebrou
+Reportar abuso
+Ajudou (38) Não ajudou
+Emerson De Lima Monteiro
+2 de abril de 2024 às 12:29
+A questão se refere a curva ABC o que torna a a afirmação correta.
+Reportar abuso
+Ajudou (27) Não ajudou
+Andre Negreiros
+6 de novembro de 2024 às 12:50
+Estão inovando na área de falar apenas se a questão esta certa ou errada Questão correta, a curva abc vai tirar o maior proveito(otimizar) dos produtos da curva A, manter os produtos da curvar B e diminuir os gastos com o produto C estes que agregam menos valores e consomem valor e tempo no estoque.
+Reportar abuso
+Ajudou (14) Não ajudou
+R
+Ric
+22 de setembro de 2024 às 21:46
+certo!!!
+Reportar abuso
+Ajudou (2) Não ajudou
+10
+Q3128996
+Administração Geral Departamentalização
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+Julgue os itens a seguir, relativos às vantagens e desvantagens de cada tipo de departamentalização.
+A departamentalização por clientes possibilita assegurar conhecimento e atendimento contínuo e rápido às necessidades específicas de diferentes tipos e classes de clientes.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+97.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Yasmim Kiarele
+19 de fevereiro de 2024 às 16:22
+Certo
+A departamentalização por cliente tem esse conceito, tem a vantagem facilitar a flexibilidade no atendimento às demandas específicas de cada nicho de clientes.
+Reportar abuso
+Ajudou (137) Não ajudou
+Ubiratan Figueiredo
+4 de junho de 2024 às 15:18
+Departamentalização por clientes
+
+Vantagens
+• O foco é exclusivamente no cliente, com isso as necessidades de cada tipo de cliente são mais bem atendidas.
+• O foco externo na clientela torna a organização mais atenta para as mudanças das necessidades e preferências dos clientes,
+característica que não ocorre na estrutura funcional.
+• As decisões internas são rapidamente tomadas através do retorno proporcionado pelos clientes. Devido a isso, uma linha
+deficiente de determinado produto é facilmente percebida.
+Desvantagens
+• Ocorre duplicidade de esforços e recursos, o que provoca maiores investimentos e custos operacionais.
+• Os sistemas internos precisam ser organizados de diferentes maneiras para servir os diferentes segmentos de cliente, o que
+torna a administração mais complexa.
+• As demais atividades e objetivos da organização, por exemplo, produtividade e eficiência, podem tornar-se secundários,
+devido à preocupação exclusiva pelo cliente.
+Reportar abuso
+Ajudou (96) Não ajudou
+Junior Rodrigues
+13 de junho de 2024 às 09:20
+C
+Reportar abuso
+Ajudou (0) Não ajudou
+11
+Q3128922
+Administração de Recursos Materiais Armazenagem, Distribuição e Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+Acerca da armazenagem, da gestão de estoques e da gestão de transportes, julgue os itens subsequentes.
+O estoque de matérias-primas é composto por mercadorias que ainda não sofreram nenhum tipo de transformação por parte do fabricante.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+86.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jacqueline Cristina Silva
+6 de fevereiro de 2024 às 21:43
+
+O estoque de matérias-primas é composto por mercadorias que ainda não foram submetidas a nenhum tipo de processo de fabricação ou transformação. Essas matérias-primas são os materiais básicos necessários para a produção de bens ou serviços e são armazenadas na forma em que são adquiridas dos fornecedores, aguardando sua utilização nos processos produtivos
+Reportar abuso
+Ajudou (35) Não ajudou
+12
+Q3264979
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE GO - Analista - Área: Informática - 2024
+Texto associado
+Considerando os conceitos relativos a inteligência de negócios, julgue os itens a seguir.
+Os métodos de apoio ou auxílio multicritério à decisão têm por foco a maximização ou minimização de um único resultado, a exemplo do custo operacional, do lucro ou dos bens produzidos.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+57.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Henrique Dantas
+8 de novembro de 2024 às 15:24
+A afirmação está errada.
+Os métodos de apoio ou auxílio multicritério à decisão são projetados para lidar com múltiplos critérios simultaneamente, e não apenas com a maximização ou minimização de um único resultado. Esses métodos permitem aos decisores avaliar diversas variáveis e critérios que podem estar em conflito entre si, buscando uma solução que melhor atenda a um conjunto de objetivos, e não apenas a um único aspecto como custo, lucro ou volume de produção
+Reportar abuso
+Ajudou (7) Não ajudou
+13
+Q3264981
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE GO - Analista - Área: Informática - 2024
+Texto associado
+Acerca de business intelligence, julgue os itens a seguir.
+Um data warehouse proporciona, como repositório de dados, uma visão global, comum e integrada dos dados de uma organização de maneira estável, coerente, confiável e com informação histórica.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+92.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AM
+Andre Marinho Nunes
+2 de novembro de 2024 às 06:11
+Alternativa Correta!
+O objetivo principal de um Data Warehouse é proporcionar uma visão global, comum e integrada dos dados da organização.
+As principais características que justificam a alternativa correta são:
+
+1. Visão Global: Um Data Warehouse integra dados de diferentes áreas da organização, proporcionando uma visão abrangente e unificada.
+
+2. Comum e Integrada: Os dados são organizados de forma a serem consistentes e inter-relacionados, permitindo análises mais precisas e coerentes.
+
+3. Estabilidade e Coerência: Um Data Warehouse é projetado para oferecer dados estáveis, que não mudam de forma frequente, garantindo a confiabilidade das informações para análises históricas.
+
+4. Confiabilidade: Como os dados são integrados e validados, a confiabilidade das informações é uma característica fundamental, possibilitando a tomada de decisões embasadas.
+
+5. Informação Histórica: Um Data Warehouse armazena dados históricos, permitindo análises de tendências e comparações ao longo do tempo, o que é crucial para a inteligência de negócios.
+
+Reportar abuso
+Ajudou (4) Não ajudou
+14
+Q3312119
+Administração Geral Estrutura Organizacional
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+Em relação a características das organizações formais modernas, julgue os itens a seguir.
+A organização formal caracteriza-se pela divisão racional do trabalho e pela diferenciação e integração de setores, representadas por meio do organograma.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+94.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Vania De Aquino Neves
+2 de julho de 2024 às 20:26
+pontos principais sobre a organização formal:
+
+Divisão Racional do Trabalho:
+Trabalho é dividido de forma lógica e estratégica.
+Cada funcionário tem responsabilidades específicas e bem definidas.
+
+Diferenciação de Setores:
+Setores são criados com base nas diferentes funções e especializações necessárias.
+Cada setor tem suas próprias tarefas e objetivos específicos.
+
+Integração de Setores:
+Setores são coordenados para trabalhar de forma harmoniosa.
+Comunicação e colaboração entre setores são essenciais para alcançar objetivos comuns.
+
+Representação por Meio do Organograma:
+Estrutura organizacional é visualmente representada por um organograma.
+Organograma mostra hierarquia, relações de reporte e divisão de responsabilidades.
+Reportar abuso
+Ajudou (110) Não ajudou
+Eloisa Saraiva De Novaes Sales
+20 de agosto de 2024 às 20:12
+É a organização baseada em uma divisão que especializa órgãos e pessoas em determinadas atividades. É a organização planejada, definida no organograma, autorizada pela direção e formalizada oficialmente.
+Reportar abuso
+Ajudou (12) Não ajudou
+Keyno Almeida
+16 de setembro de 2024 às 20:17
+CARACTERÍSTICAS BÁSICAS DA ORGANIZAÇÃO FORMAL:
+
+Segundo Robbins:
+
+Especialização
+Cadeia de comando
+Amplitude de controle
+Departamentalização
+Centralização/Descentralização
+Formalização
+
+Segundo Chiavenato:
+
+Divisão do trabalho
+Especialização
+Hierarquia
+Amplitude administrativa
+Racionalismo
+Reportar abuso
+Ajudou (11) Não ajudou
+Wanderlin De Matos Bezerra
+30 de outubro de 2024 às 13:29
+Organização Formal: É a estrutura planejada da organização, com divisão racional do trabalho, hierarquia e responsabilidades definidas. Representada pelo organograma, promove eficiência e clareza nas funções e nos fluxos de comunicação.
+Organização Informal: Formada por interações espontâneas e relacionamentos interpessoais. Surge naturalmente com base em afinidades e confiança, facilitando a comunicação e influenciando o clima organizacional. Complementa a estrutura formal e ajuda na resolução ágil de problemas.
+Reportar abuso
+Ajudou (3) Não ajudou
+15
+Q3407310
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Professor de Educação Básica - Área: Inglês - 2024
+Texto associado
+The Indian education sector has undergone a significant transformation in recent years, owing to the implementation of innovative technologies and solutions. According to a recent report, the e-learning market in India is estimated to have reached $ 1.96 billion in 2021, up from $ 247 million in 2016. The growth in popularity of mobile learning platforms among students has led to this expansion.
+Mobile learning platforms are expected to play a significant role in the growth of the online education market in India. A report by a consultancy company projected that the online education market in India would reach $ 1.96 billion by 2021. Educational apps have seen tremendous success by offering interactive video lessons, quizzes, and personalized learning plans to help students succeed academically.
+Personalized learning, tailoring teaching and learning to students’ needs, is also an important trend in the Indian education sector. In addition to technology, the Indian education sector has also witnessed the emergence of new pedagogical approaches such as experiential learning, project-based learning, and collaborative learning. These approaches focus on providing students with hands-on, practical learning experiences that prepare them for the real world.
+With the continued adoption of these technologies and approaches, the future of education in India looks bright, offering students new opportunities to learn and grow.
+
+Internet: <https://varthana.com/school> (adapted).
+
+Based on the preceding text, judge the following items.
+The growth of the e-learning market in India has led to the increase of interest in mobile learning platforms.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+30.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ryukko
+23 de dezembro de 2024 às 08:24
+é o contrário, o aumento de mobile learning plataforms causou o aumento do e-learning market
+"The growth in popularity of mobile learning platforms among students has led to this expansion."
+
+Reportar abuso
+Ajudou (2) Não ajudou
+16
+Q3418773
+Administração de Recursos Materiais Material Permanente e Material de Consumo
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Ministerial - Área Administração - 2024
+Texto associado
+Julgue os itens subsecutivos, acerca do patrimônio imobiliário e mobiliário das organizações.
+Os bens de estoque consumidos ao longo do tempo têm natureza não permanente.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+75.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Elisa Montagna
+13 de setembro de 2024 às 10:44
+Certo.
+Os bens materiais que são consumidos ao longo do tempo são considerados recursos materiais de natureza não permanente. São bens de estoque, em geral, e são classificados de acordo com a contabilidade.
+Os materiais de consumo são aqueles que, em razão do uso corrente, perdem a sua identidade física ou têm a sua utilização limitada a dois anos.
+Reportar abuso
+Ajudou (36) Não ajudou
+Juliano
+19 de novembro de 2024 às 20:58
+CERTO
+
+Os materiais de estoque que são utilizados gradualmente e se esgotam com o uso possuem natureza não permanente.
+
+Os bens consumidos ao longo do tempo são classificados como não permanentes.
+
+Reportar abuso
+Ajudou (16) Não ajudou
+17
+Q3418386
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista de Tecnologia da Informação - Área Sistemas de Informação - 2024
+Texto associado
+O setor público enfrenta o desafio particular de oferecer serviços públicos cada vez melhores a uma população gradualmente mais bem informada, mais consciente de seus direitos e com expectativas crescentes quanto ao papel do Estado. Devido aos recursos limitados, desenvolver serviços públicos inovadores tem sido visto crescentemente como fator fundamental para sustentar um alto nível de serviços para cidadãos e negócios, bem como para enfrentar desafios sociais e aprimorar o bem-estar social da população.
+Diante desse cenário, o discurso científico sobre inovação em compras públicas ganhou maior atenção nas últimas décadas. A União Europeia reconheceu as compras públicas como instrumento de inovação e de provimento de mercados pioneiros para novos produtos, definindo-as como compras de bens e serviços que ainda não existem, que precisam ser aperfeiçoados ou que requerem pesquisa e inovação para atender às necessidades especificadas pelos usuários.
+As compras públicas representam grande parte da execução da despesa pública. Entre países da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), a média de gastos públicos representa 12% do GDP (equivalente ao PIB) por ano. No Brasil, anualmente o governo federal gasta, em média, 5% do PIB em compras apenas de bens e serviços. Quando se incluem nos cálculos as despesas efetuadas por estados, municípios e estatais, o percentual chega próximo a 15% do PIB, ou R$ 900 bilhões.
+
+Internet: http://www.realp.unb.br/jspui/ (com adaptações).
+
+Considerando as ideias e os aspectos linguísticos do texto apresentado, julgue os itens que se seguem.
+Depreende-se do texto que, nos países da União Europeia, a inovação é fortemente influenciada pelas compras públicas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+60.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Andre2
+15 de setembro de 2024 às 17:08
+Do texto: "A União Europeia reconheceu as compras públicas como instrumento de inovação e de provimento de mercados pioneiros para novos produtos...". Portanto, não se trata apenas de influência, mas de vínculo direto.
+Reportar abuso
+Ajudou (23) Não ajudou
+LS
+Luan S.
+7 de outubro de 2024 às 17:34
+Parece-me que a necessidade de inovação é que influencia as compras públicas. Ou seja, a inovação influencia as compras públicas e não ao contrário.
+Reportar abuso
+Ajudou (16) Não ajudou
+Claudia S
+4 de novembro de 2024 às 11:28
+CADÊ O COMENTÁRIO DO PROFESSOR????????????!!!!!!!!!!! EXCLUAM ESSA MAIA, SE VOCÊS NÃO TEM A RESPONSABILIDADE DE VERIFICAR CADA COMENTÁRIO. É MUITO GRAVE.
+Reportar abuso
+Ajudou (6) Não ajudou
+Lucimar Vitória Leal
+30 de setembro de 2024 às 21:31
+Oxeee
+Reportar abuso
+Ajudou (1) Não ajudou
+Alexandre
+24 de setembro de 2024 às 16:11
+Koguti, mas na questão ele não diz apenas de influência, mas diz "fortemente influenciada", tornando a questão correta, não?
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 2
+18
+Q3418391
+Administração de Recursos Materiais Custos dos Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Administrativo - Área Administração - 2024
+Texto associado
+A respeito da previsão e do controle de estoque nas organizações, julgue os itens seguintes.
+Nas organizações públicas, grandes estoques de materiais não implicam economia de escala.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+72.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Elisa Montagna
+11 de outubro de 2024 às 13:22
+• Grandes estoques podem implicar economia de escala = a aquisição de itens de material em maiores quantidades usualmente implica a prática de preços menos significativos, se comparado com compras de menores vultos.
+ENAP
+Reportar abuso
+Ajudou (57) Não ajudou
+19
+Q3418393
+Administração de Recursos Materiais Layout de Armazenagem
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Administrativo - Área Administração - 2024
+Texto associado
+No que se refere à gestão de almoxarifados nas organizações públicas, julgue os seguintes itens.
+O volume de material a ser armazenado, os tipos de embalagens utilizados no armazenamento e a possibilidade de inspeções periódicas nos materiais armazenados são critérios utilizados na concepção do layout do almoxarifado.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+93.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jeniffer Rodrigues
+31 de outubro de 2024 às 22:04
+Elementos a serem considerados na definição do layout na armazenagem:
+
+• definição dos materiais a serem armazenados;
+• volume de material;
+• tempo durante o qual será feita a armazenagem;
+• equipamentos e instrumentos que serão empregados na movimentação dos materiais;
+• tipos de embalagens utilizadas no armazenamento;
+• possibilidade de se fazerem inspeções nos materiais armazenados (há de se considerar a facilidade de acesso);
+• versatilidade, flexibilidade e possibilidade de futura expansão da área de armazenagem.
+
+FONTE: https://repositorio.enap.gov.br/bitstream/1/2268/1/Enap%20Did%C3%A1ticos%20-%20Gest%C3%A3o%20de%20Materiais.pdf
+Reportar abuso
+Ajudou (15) Não ajudou
+20
+Q3407312
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Professor de Educação Básica - Área: Inglês - 2024
+Texto associado
+The Indian education sector has undergone a significant transformation in recent years, owing to the implementation of innovative technologies and solutions. According to a recent report, the e-learning market in India is estimated to have reached $ 1.96 billion in 2021, up from $ 247 million in 2016. The growth in popularity of mobile learning platforms among students has led to this expansion.
+Mobile learning platforms are expected to play a significant role in the growth of the online education market in India. A report by a consultancy company projected that the online education market in India would reach $ 1.96 billion by 2021. Educational apps have seen tremendous success by offering interactive video lessons, quizzes, and personalized learning plans to help students succeed academically.
+Personalized learning, tailoring teaching and learning to students’ needs, is also an important trend in the Indian education sector. In addition to technology, the Indian education sector has also witnessed the emergence of new pedagogical approaches such as experiential learning, project-based learning, and collaborative learning. These approaches focus on providing students with hands-on, practical learning experiences that prepare them for the real world.
+With the continued adoption of these technologies and approaches, the future of education in India looks bright, offering students new opportunities to learn and grow.
+
+Internet: <https://varthana.com/school> (adapted).
+
+Based on the preceding text, judge the following items.
+According to the text, the profit growth observed in the e-learning market is due to government shift in educational approach.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+63.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tiago De Barros
+21 de janeiro de 2025 às 09:19
+Template: E.
+
+There is no mention of government in the text.
+
+The Indian education sector has undergone a significant transformation in recent years, owing to the implementation of innovative technologies and solutions.
+
+Reportar abuso
+Ajudou (0) Não ajudou

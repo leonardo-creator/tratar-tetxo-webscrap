@@ -1,0 +1,896 @@
+1
+Q3238132
+Administração de Recursos Materiais Modalidades de Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+A atual empresa transportadora de combustíveis líquidos e derivados de petróleo contratada por uma indústria petrolífera apresenta uma série de problemas, tais como atrasos na entrega ao cliente final, derramamento de produtos ao longo de vias públicas, falta de comunicação com o embarcador e o cliente final, incidentes ocorridos nas estradas e frota com vários graus de avaria. Entretanto, o preço do frete médio cobrado pela transportadora contratada é o menor entre as disponíveis no mercado.
+
+Tendo como referência essa situação hipotética, julgue os itens seguintes.
+O derramamento de produtos pela empresa contratada ao longo de vias públicas prejudica a imagem da petrolífera contratante.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+94.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ana Loiola
+7 de janeiro de 2025 às 10:10
+Gab.: Certo
+
+Acredito que a imagem da empresa contratante acaba sendo prejudicada por alguns fatores, incluindo a sua responsabilização (solidária ou subsidiária) pelo dano ambiental. Pode ocorrer, também, a quebra na confiança pela falta de análise da empresa contratada, pela não adoção de um compliance empresarial para a melhor escolha da empresa contratada e, consequentemente, redução dos riscos.
+Reportar abuso
+Ajudou (1) Não ajudou
+2
+Q3238165
+Administração de Recursos Materiais Estratégias do Setor de Compras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+Considerando os conceitos de tecnologias, logística 4.0, transformação digital, ERP e custos logísticos, julgue os próximos itens.
+A empresa que desejar atuar no comércio eletrônico deve utilizar intensivamente a tecnologia da informação bem como deve estruturar estratégias eficientes no meio físico com fornecedores e operadores logísticos.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+93.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ana Loiola
+7 de janeiro de 2025 às 10:21
+Gab.: Certo
+
+Tendo em vista que o comércio é eletrônico, é necessário que as informações sejam postas de maneiras mais claras, haja vista a ausência de um vendedor presencial para prestar as informações necessárias. Ademais, apesar de a venda ser de modo eletrônico, a cadeia logística envolve atividades físicas, sendo necessária também a atenção junto aos fornecedores e operadores logísticos.
+Reportar abuso
+Ajudou (4) Não ajudou
+3
+Q3175464
+Administração de Recursos Materiais Armazenagem, Distribuição e Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Julgue os seguintes itens, que versam sobre armazenagem e distribuição de materiais.
+Guindastes, pontes rolantes, empilhadeiras e elevadores são considerados equipamentos mecanizados.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+94.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriele Viana
+7 de outubro de 2024 às 15:03
+Essa é pra não zerar
+Reportar abuso
+Ajudou (10) Não ajudou
+Ana Loiola
+7 de janeiro de 2025 às 10:30
+O tipo de questão que é tão simples que parece que tem algum erro.
+Reportar abuso
+Ajudou (1) Não ajudou
+4
+Q3177730
+Administração de Recursos Materiais Inventários
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Engenharia Civil Língua Inglesa - 2024
+Texto associado
+Acerca da movimentação de materiais e do inventário de risco, julgue os itens a seguir.
+Será permitido o transporte manual de um saco, desde que não se ultrapasse a distância máxima de 70,00 m.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+80.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Larissa Maria De Jesus Santos
+22 de maio de 2024 às 20:10
+NR-11 Fica estabelecida a distância máxima de 60,00 m (sessenta metros) para o transporte manual de um saco.
+Reportar abuso
+Ajudou (43) Não ajudou
+Ana Loiola
+7 de janeiro de 2025 às 10:24
+Às vezes fico um pouco chocada com o tipo de informação que precisamos saber para fazer concurso.
+Reportar abuso
+Ajudou (31) Não ajudou
+Pablo Runa Galdos Vergne
+11 de março de 2024 às 18:02
+NR-17 não estabelece uma distância máxima para o transporte manual de um saco.
+Reportar abuso
+Ajudou (20) Não ajudou
+Vitória Pereira Silva
+7 de novembro de 2024 às 20:24
+NR 11.2.2 Fica estabelecida a distância máxima de 60,00m (sessenta metros) para o transporte manual de um saco. tipo de transporte e o método pelo qual deverá ser realizado: • Mediante impulsão de vagonetes; • Ou carros de mão apropriados; • E evitar o transporte em pisos escorregadios ou molhados.
+Reportar abuso
+Ajudou (10) Não ajudou
+5
+Q3435834
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANATEL - Especialista em Regulação de Serviços Públicos de Telecomunicações - Área Engenharia - 2024
+Texto associado
+Texto CB1A6
+
+De todas as inovações óbvias que surgiram no século XXI, poucas são tão invisíveis como a mudança na maneira de perceber o tempo.
+O controle do tempo na comunicação até o final do século XX decorria especialmente de uma característica: a programação. Com o controle dos meios de produção e distribuição da informação, fosse ela qual fosse, o cenário temporal dispunha também de uma estrutura hierárquica de controle. Era possível traçar e agenciar cronogramas complexos e prazos de entrega. O que basicamente mudou?
+A comunicação não mudou. Mudaram os meios. Todos têm acesso às redes. Nelas a produção de conteúdo é incessante. O conteúdo é produzido por todos. A estrutura não é mais regida por uma lógica de programação, mas por uma lógica de fluxo. Nesse novo ecossistema, impera uma economia da atenção e, sendo a atenção um recurso escasso, é preciso a todo tempo escolher algo a que dedicar a atenção e, dedicada a atenção, devemos reagir rapidamente com as mudanças necessárias. Aqui aparecem claramente as diferenças do tempo em um ecossistema em fluxo permanente. As mudanças também devem ser permanentes. Isso em comunicação se traduz em não esperar mais longos prazos para dar respostas. Até o século passado, o furo de um veículo de comunicação só poderia ser ultrapassado 24 horas depois: na próxima edição. Hoje um furo de reportagem é imediatamente absorvido em rede, compartilhado, respondido e repercutido por todos os concorrentes. Em uma sociedade que se comunica em fluxo, é preciso avaliar diariamente onde estão os impedimentos e o que deve ser priorizado, e redefinir foco e estratégia. A comunicação também passa a lidar com o provisório, com o possível e com o impermanente.
+Saber como equilibrar o tempo nessa pressão imediatista é o grande desafio do século XXI. Há saberes que só se atingem com reflexão, laços que só se formam com experiências reais compartilhadas. Saber desligar o celular, parar de responder emails para completar uma tarefa, ler um livro inteiro e principalmente saber conversar com os outros são habilidades cada vez mais valorizadas em uma sociedade digital, exatamente por serem habilidades capazes de dilatar o tempo em que vivemos, formas de transformar o fluxo que consome nossa atenção em momento no qual nós consumimos o mundo.
+
+Margot Pavan. O tempo e a comunicação digital no século XXI. Internet: <www.jornaldocomercio.com> (com adaptações).
+
+Julgue os itens que se seguem, relativos às ideias veiculadas no texto CB1A6.
+Entende-se da leitura do texto que a comunicação no século XXI, marcada pelas redes sociais digitais, em que a produção de conteúdo é incessante, requer respostas imediatas e em fluxo permanente.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+74.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MJ
+Maria Jose Da Silva
+13 de outubro de 2024 às 13:07
+Correto.
+
+A comunicação não mudou. Mudaram os meios. Todos têm acesso às redes. Nelas a produção de conteúdo é incessante. O conteúdo é produzido por todos. A estrutura não é mais regida por uma lógica de programação, mas por uma lógica de fluxo. Nesse novo ecossistema, impera uma economia da atenção e, sendo a atenção um recurso escasso, é preciso a todo tempo escolher algo a que dedicar a atenção e, dedicada a atenção, devemos reagir rapidamente com as mudanças necessárias. Aqui aparecem claramente as diferenças do tempo em um ecossistema em fluxo permanente.
+Reportar abuso
+Ajudou (12) Não ajudou
+6
+Q3142906
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CGE RJ - Auditor do Estado - 2024
+Texto associado
+Acerca do sigilo, dos prazos de resposta e do formato de divulgação relativo a documentos públicos, julgue os itens seguintes.
+Os órgãos e as entidades responsáveis pelo tratamento dos pedidos de informação devem indicar a existência de dados pessoais ou informações protegidas por sigilo que impeçam a sua disponibilização em transparência ativa.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+89.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daniel Andrade
+1 de março de 2024 às 16:43
+DECRETO Nº 11.529, DE 16 DE MAIO DE 2023
+
+
+§ 2º Os órgãos e as entidades responsáveis pelo tratamento dos pedidos de informação indicarão a existência de dados pessoais ou de informações protegidas por outras hipóteses legais de sigilo que impeçam a sua disponibilização em transparência ativa.
+
+Reportar abuso
+Ajudou (100) Não ajudou
+Edvard Dias Magalhaes
+9 de agosto de 2024 às 09:03
+CERTO
+complementando:
+
+DECRETO Nº 11.529, DE 16 DE MAIO DE 2023
+Institui o Sistema de Integridade, Transparência e Acesso à Informação da Administração Pública Federal e a Política de Transparência e Acesso à Informação da Administração Pública Federal.
+https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11529.htm
+
+Art. 17. Os pedidos de acesso à informação registrados no sistema eletrônico específico de que trata o art. 16 e suas respostas serão disponibilizados para consulta aberta na internet, resguardados os dados pessoais e as informações protegidas por outras hipóteses legais de sigilo.
+§ 1º A publicação de que trata o caput não incluirá dados do solicitante de acesso à informação.
+§ 2º Os órgãos e as entidades responsáveis pelo tratamento dos pedidos de informação indicarão a existência de dados pessoais ou de informações protegidas por outras hipóteses legais de sigilo que impeçam a sua disponibilização em transparência ativa.
+Art. 16. A transparência passiva será realizada por sistema eletrônico específico para registro e atendimento de pedidos de acesso à informação direcionados aos órgãos e às entidades da administração pública federal.
+Parágrafo único. Compete à Controladoria-Geral da União a gestão do sistema eletrônico específico de que trata o caput.
+Reportar abuso
+Ajudou (13) Não ajudou
+7
+Q3429390
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANATEL - Especialista em Regulação de Serviços Públicos de Telecomunicações - Área Geral - 2024
+Texto associado
+Julgue os seguintes itens, a respeito de visualização e análise exploratória de dados, elaboração de relatórios analíticos e governança de dados em business intelligence e business analytics.
+Enquanto o business intelligence usa os dados para entender o que aconteceu e seu motivo, o business analytics usa os dados para prever novos cenários de mercado nas diferentes áreas estratégicas da empresa.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+75.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Geovana Bastos
+29 de dezembro de 2024 às 18:44
+Business Intelligence (BI): Foca em coletar, analisar e apresentar dados históricos para ajudar nas decisões de negócios atuais. BI é mais voltado para a descrição do que aconteceu no passado e fornece informações para ações imediatas. Ele foca em relatórios, dashboards e visualizações que refletem o desempenho anterior.
+Business Analytics (BA): Envolve o uso de dados históricos e atuais para prever resultados futuros e otimizar processos. BA utiliza técnicas avançadas de análise estatística, modelagem preditiva e aprendizado de máquina para prever tendências e tomar decisões mais estratégicas.
+Reportar abuso
+Ajudou (6) Não ajudou
+8
+Q3429112
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANATEL - Especialista em Regulação de Serviços Públicos de Telecomunicações - Área Direito - 2024
+Texto associado
+Texto CB1A6
+
+De todas as inovações óbvias que surgiram no século XXI, poucas são tão invisíveis como a mudança na maneira de perceber o tempo.
+O controle do tempo na comunicação até o final do século XX decorria especialmente de uma característica: a programação. Com o controle dos meios de produção e distribuição da informação, fosse ela qual fosse, o cenário temporal dispunha também de uma estrutura hierárquica de controle. Era possível traçar e agenciar cronogramas complexos e prazos de entrega. O que basicamente mudou?
+A comunicação não mudou. Mudaram os meios. Todos têm acesso às redes. Nelas a produção de conteúdo é incessante. O conteúdo é produzido por todos. A estrutura não é mais regida por uma lógica de programação, mas por uma lógica de fluxo. Nesse novo ecossistema, impera uma economia da atenção e, sendo a atenção um recurso escasso, é preciso a todo tempo escolher algo a que dedicar a atenção e, dedicada a atenção, devemos reagir rapidamente com as mudanças necessárias. Aqui aparecem claramente as diferenças do tempo em um ecossistema em fluxo permanente. As mudanças também devem ser permanentes. Isso em comunicação se traduz em não esperar mais longos prazos para dar respostas. Até o século passado, o furo de um veículo de comunicação só poderia ser ultrapassado 24 horas depois: na próxima edição. Hoje um furo de reportagem é imediatamente absorvido em rede, compartilhado, respondido e repercutido por todos os concorrentes. Em uma sociedade que se comunica em fluxo, é preciso avaliar diariamente onde estão os impedimentos e o que deve ser priorizado, e redefinir foco e estratégia. A comunicação também passa a lidar com o provisório, com o possível e com o impermanente.
+Saber como equilibrar o tempo nessa pressão imediatista é o grande desafio do século XXI. Há saberes que só se atingem com reflexão, laços que só se formam com experiências reais compartilhadas. Saber desligar o celular, parar de responder emails para completar uma tarefa, ler um livro inteiro e principalmente saber conversar com os outros são habilidades cada vez mais valorizadas em uma sociedade digital, exatamente por serem habilidades capazes de dilatar o tempo em que vivemos, formas de transformar o fluxo que consome nossa atenção em momento no qual nós consumimos o mundo.
+
+Margot Pavan. O tempo e a comunicação digital no século XXI. Internet: <www.jornaldocomercio.com> (com adaptações).
+
+Julgue os itens que se seguem, relativos às ideias veiculadas no texto CB1A6.
+Conclui-se da leitura do terceiro parágrafo do texto que o avanço da tecnologia no âmbito da comunicação e a democratização do acesso à informação são, respectivamente, o foco e a estratégia a serem redefinidos na sociedade do século XXI, que se comunica em fluxo permanente.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+62.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Leonardo Oliveira
+25 de setembro de 2024 às 08:55
+Errado. Essa afirmativa não está de acordo com o texto. "A comunicação também passa a lidar com o provisório, com o possível e com o impermanente."
+Reportar abuso
+Ajudou (16) Não ajudou
+Anderson Thiago Monteiro Da Silva
+19 de outubro de 2024 às 21:23
+Em uma sociedade que se comunica em fluxo, é preciso avaliar diariamente onde estão os impedimentos e o que deve ser priorizado, e redefinir foco e estratégia. - Não há essa determinação do que deve ser o foco/estratégia, como traz o enunciado.
+Reportar abuso
+Ajudou (7) Não ajudou
+OP
+Ozilene Pereira De Oliveira
+28 de setembro de 2024 às 14:44
+Entendi que trocou: o foco deve ser a democratização do acesso à informação e a estratégia é o avanço da tecnologia no âmbito da comunicação. A questão diz o contrário.
+Reportar abuso
+Ajudou (2) Não ajudou
+9
+Q3129051
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Desenvolvimento e Arquitetura de Software - 2024
+Texto associado
+Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados), julgue os itens subsecutivos.
+Os dados que forem anonimizados serão considerados dados pessoais para os fins da Lei Geral de Proteção de Dados independente se a anonimização possa ser revertida ou não.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+68.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rodrigo
+17 de fevereiro de 2024 às 18:02
+Art. 12. Os dados anonimizados não serão considerados dados pessoais para os fins desta Lei, salvo quando o processo de anonimização ao qual foram submetidos for revertido, utilizando exclusivamente meios próprios, ou quando, com esforços razoáveis, puder ser revertido.
+Reportar abuso
+Ajudou (125) Não ajudou
+Gabriel De Jesus
+1 de fevereiro de 2024 às 14:55
+III - dado anonimizado: dado relativo a titular que não possa ser identificado, considerando a utilização de meios técnicos razoáveis e disponíveis na ocasião de seu tratamento;
+XI - anonimização: utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo;
+Reportar abuso
+Ajudou (64) Não ajudou
+Gabriel Afonso De Oliveira Silva
+19 de agosto de 2024 às 19:30
+De acordo com a Lei Geral de Proteção de Dados (LGPD) do Brasil, dados anonimizados não são considerados dados pessoais, desde que a anonimização seja efetiva e não possa ser revertida. A LGPD define "dados pessoais" como informações relacionadas a uma pessoa natural identificada ou identificável. Se a anonimização for efetiva, de forma que os dados não possam ser revertidos para identificar a pessoa, eles não são considerados dados pessoais e, portanto, não estão sujeitos às mesmas regras de proteção de dados estabelecidas pela LGPD.
+Reportar abuso
+Ajudou (10) Não ajudou
+Bianca Damacena
+8 de janeiro de 2025 às 19:27
+Os dados anonimizados não são considerados pessoais, a menos que haja reversão de anonimização, o que é permitido.
+Reportar abuso
+Ajudou (3) Não ajudou
+LA
+Lizia Alves Martins
+2 de janeiro de 2025 às 12:56
+gran cade a explicação do professor????? vcs precisam melhora urgente
+Reportar abuso
+Ajudou (2) Não ajudou
+10
+Q3391636
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEPLAG CE - Analista de Gestão Pública – Área: Ciência da Computação ou afins na área da Tecnologia da Informação e Comunicação Inglês - 2024
+Texto associado
+Barcelona está experimentando o sentido de construir um plano de cidade interconectada liderada por seus residentes e, com isso, pensando pilotos de economia compartilhada, com o objetivo de aproveitar ao máximo os dados locais — algo inovador por estar na contramão do que as cidades inteligentes fizeram ao longo dos últimos anos. O geógrafo Christopher Gaffney, da Universidade de Zurich, aponta como falha a estratégia carioca. Segundo o especialista, embora o uso desses sistemas no Brasil seja significativo, as tecnologias das cidades inteligentes não estão sendo utilizadas para resolver problemas de desigualdade ou de governança sistêmica. A análise feita pelo geógrafo identifica que o Rio focou muito em projetos de curto prazo e em uma coleta de dados que não é feita de forma sistemática, com a visão de alimentar o planejamento urbano de longo prazo. Para Daniel Locktoroff, empresário e ex-vice-prefeito de planejamento urbano de Nova Iorque, uma das principais barreiras para a transformação profunda e rápida dos centros urbanos é a falta de diálogo entre aqueles que vivem nas cidades de hoje e os que constroem as tecnologias do amanhã.
+A chief technology officer de Barcelona, Francesca Bria, afirma que as cidades inteligentes foram implementadas a partir de uma lógica centrada na tecnologia e não no cidadão. Estratégias assim fazem com que as cidades tomem como ponto de partida a infraestrutura e, só depois disso, pensem nos reais problemas que queriam solucionar. Segundo ela, há o risco de terminarmos em uma caixa-preta, em que as cidades perdem o controle sobre seus dados e, por conseguinte, sobre o potencial que esses dados têm na hora de fornecer insumos para a gestão.
+
+Álvaro Barros Modesto et alii. O uso da tecnologia na gestão pública. Comunitas. São Paulo, 2017, p. 118-119 (com adaptações).
+
+Considerando aspectos linguísticos do texto apresentado e as ideias nele veiculadas, julgue os itens a seguir.
+No texto, os três especialistas citados criticam a falta de cuidado com o controle dos dados locais na maioria das cidades inteligentes.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+67.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MS
+Miguel Silva
+28 de agosto de 2024 às 18:05
+O segundo especialista, Daniel Locktoroff, não cita controle de dados no texto.
+
+Reportar abuso
+Ajudou (37) Não ajudou
+Lucas Silva Dos Santos
+28 de novembro de 2024 às 07:50
+Acredito, também, que o termo "na maioria das cidades inteligentes" extrapola a afirmação.
+Reportar abuso
+Ajudou (3) Não ajudou
+11
+Q3419684
+Administração de Recursos Materiais Custos de Armazenamento
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+Com relação ao recebimento e armazenagem de materiais nas organizações públicas, julgue os itens a seguir.
+O evitamento da obsolescência e o provimento de treinamento aos colaboradores contribuem para a redução dos custos de armazenagem.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+90.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Marco Túlio
+19 de outubro de 2024 às 13:33
+C - Certo.
+O evitamento da obsolescência e o provimento de treinamento aos colaboradores ajudam a otimizar a gestão de estoques e a operação de armazenagem, reduzindo custos relacionados a produtos não vendidos e melhorando a eficiência.
+Reportar abuso
+Ajudou (20) Não ajudou
+12
+Q3419673
+Administração de Recursos Materiais Cláusulas Exorbitantes
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+A respeito das compras no setor público, julgue os próximos itens.
+Na matriz de riscos, no caso de obrigações de meio, deve haver o estabelecimento preciso das frações do objeto com relação às quais as contratadas terão liberdade de inovar em soluções metodológicas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+34.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Priscyla Carvalho Rocha
+22 de outubro de 2024 às 18:03
+14.133 , art 6º
+
+XXVII - matriz de riscos: cláusula contratual definidora de riscos e de responsabilidades entre as partes e caracterizadora do equilíbrio econômico-financeiro inicial do contrato, em termos de ônus financeiro decorrente de eventos supervenientes à contratação, contendo, no mínimo, as seguintes informações:
+
+c) no caso de obrigações de meio, estabelecimento preciso das frações do objeto com relação às quais não haverá liberdade para os contratados inovarem em soluções metodológicas ou tecnológicas, devendo haver obrigação de aderência entre a execução e a solução predefinida no anteprojeto ou no projeto básico, consideradas as características do regime de execução no caso de obras e serviços de engenharia;
+
+Reportar abuso
+Ajudou (24) Não ajudou
+Jose Geraldo De Andrade Filho
+23 de setembro de 2024 às 13:23
+Lei de Licitações - Art. 32, VII - "o edital poderá prever a realização de fases sucessivas, caso em que cada fase poderá restringir as soluções ou as propostas a serem discutidas;"
+
+Reportar abuso
+Ajudou (6) Não ajudou
+13
+Q3221285
+Administração de Recursos Materiais Bem Patrimonial
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+Julgue os itens seguintes, acerca da gestão patrimonial nas organizações públicas.
+A infestação total de uma mesa de escritório por cupins, com risco de contaminação de outros bens móveis de madeira, constitui fator motivador para a baixa patrimonial e inutilização do referido bem.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+90.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Leonardo Marcelo Alves
+13 de maio de 2024 às 12:18
+A baixa de bem patrimonial poderá ocorrer, observadas as condições legais e formais, nos seguintes casos:
+
+a) venda;
+b) doação;
+c) permuta;
+d) dação em pagamento;
+e) inutilização ou abandono;
+f) sinistro;
+g) furto ou roubo;
+h) extravio.
+QC
+Reportar abuso
+Ajudou (30) Não ajudou
+14
+Q3221246
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Biblioteconomia - 2024
+Texto associado
+Back in October 2011, Stanford professors launched three free online courses, open to the public. One by one, these courses went massive, with enrollments topping 100.000 students each. Soon the media was calling these courses MOOCs, short for massive open online courses.
+Since then, more than 1.200 universities around the world have launched free online courses. In addition to the larger global MOOC platforms, many national governments around the world have launched their own country-specific MOOC platforms, including India, Italy, Israel, Mexico and Thailand.
+After a decade of popularization, in 2021, over 220 million students had signed up for at least one course on one of these platforms, and 40 million did so in 2021 alone. MOOCs and MOOC platforms are still growing, even after the crazy “Year of the MOOC” prompted by the pandemic and travel restrictions.
+At Class Central, we try to catalog as many MOOCs as possible, and our listing currently includes more than 150.000 of them, from MOOC platforms and other online learning platforms. But due to limited resources, we cannot index every single one. If you’re looking for MOOCs from around the world, this list is our best attempt to catalog all different MOOC platforms that are out there.
+Internet: <https://classcentral.com> (adapted).
+Keeping in mind the ideas expressed above and the linguistic aspects of the text, judge the following items.
+According to third paragraph of the text, more than 220 million students registered on MOOC platforms during the so called “Year of the MOOC” — 2021.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+57.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Breno
+15 de abril de 2024 às 23:13
+A afirmação para julgamento diz que mais de 220 milhões de estudantes se registraram em plataformas MOOC durante o 'Ano do MOOC' — 2021. No entanto, uma leitura atenta do terceiro parágrafo revela que, até 2021, mais de 220 milhões de estudantes haviam se inscrito em pelo menos um curso nessas plataformas, mas não especificamente durante o ano de 2021. De fato, o texto menciona que 40 milhões se inscreveram em 2021, o que contradiz a afirmação de que todos os mais de 220 milhões de registros ocorreram nesse ano. Portanto, a afirmação é falsa, fazendo com que a resposta correta seja 'Errado'.
+
+Fonte: MAIA
+Reportar abuso
+Ajudou (10) Não ajudou
+15
+Q3221239
+Língua Inglesa Sinônimos | Synonymous
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Biblioteconomia - 2024
+Texto associado
+Back in October 2011, Stanford professors launched three free online courses, open to the public. One by one, these courses went massive, with enrollments topping 100.000 students each. Soon the media was calling these courses MOOCs, short for massive open online courses.
+Since then, more than 1.200 universities around the world have launched free online courses. In addition to the larger global MOOC platforms, many national governments around the world have launched their own country-specific MOOC platforms, including India, Italy, Israel, Mexico and Thailand.
+After a decade of popularization, in 2021, over 220 million students had signed up for at least one course on one of these platforms, and 40 million did so in 2021 alone. MOOCs and MOOC platforms are still growing, even after the crazy “Year of the MOOC” prompted by the pandemic and travel restrictions.
+At Class Central, we try to catalog as many MOOCs as possible, and our listing currently includes more than 150.000 of them, from MOOC platforms and other online learning platforms. But due to limited resources, we cannot index every single one. If you’re looking for MOOCs from around the world, this list is our best attempt to catalog all different MOOC platforms that are out there.
+Internet: <https://classcentral.com> (adapted).
+Keeping in mind the ideas expressed above and the linguistic aspects of the text, judge the following items.
+The verb “prompted” (in the second sentence of the third paragraph) conveys the same idea as restrained.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+64.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Luana Pompeu Ruiz Da Silva
+22 de outubro de 2024 às 06:58
+Gabarito Errado. "Prompted" nesse contexto passa a ideia de que os MOOCS foram motivados pela pandemia e restrições de viagem
+Reportar abuso
+Ajudou (3) Não ajudou
+16
+Q3181070
+Tecnologia da Informação Banco de Dados
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANAC - Especialista em Regulação de Aviação Civil - Área 3 - 2024
+Texto associado
+A respeito de dado, informação, conhecimento e inteligência, julgue os itens a seguir.
+Dados abertos são disponibilizados sob uma modalidade de licença que permite sua livre utilização, consumo ou cruzamento, por qualquer pessoa, e estão sujeitos, no máximo, ao crédito da autoria ou da fonte.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Juciara Dos Santos Pires Soares
+1 de maio de 2024 às 12:20
+GAB:C
+DECRETO Nº 8.777, DE 11 DE MAIO DE 2016
+Institui a Política de Dados Abertos do Poder Executivo federal.
+Art. 2º Para os fins deste Decreto, entende-se por:
+III - dados abertos - dados acessíveis ao público, representados em meio digital, estruturados em formato aberto, processáveis por máquina, referenciados na internet e disponibilizados sob licença aberta que permita sua livre utilização, consumo ou cruzamento, limitando-se a creditar a autoria ou a fonte;
+Reportar abuso
+Ajudou (22) Não ajudou
+Elohim Ribeiro
+12 de março de 2024 às 13:33
+Dados em HTML são organizados em atributos estruturados em campos específicos de um código, mas apresentam flexibilidade em seu formato, por exemplo. São tipicamente semi-estruturados
+Reportar abuso
+Ajudou (19) Não ajudou
+17
+Q3180796
+Língua Inglesa Sinônimos | Synonymous
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANAC - Especialista em Regulação de Aviação Civil - Área 3 - 2024
+Texto associado
+Drones are an integral part of the defense and supply-chain industry. However, their prowess and versatility extend beyond these sectors. As the demand for UAVs (unmanned aerial vehicles) continues to increase, the drone market is now estimated to be valued at over 127 billion dollars.
+These uncrewed aircrafts can potentially develop numerous sectors, including transport and travel, exponentially. This is primarily due to their remarkable evolution of collision-avoidance technologies through computer vision and artificial intelligence, allowing them to operate autonomously.
+The dynamic innovation of drone transportation can positively impact emergency services by decreasing emergency response time, offering valuable data from inaccessible regions, and identifying victims via thermal imaging.
+Though the concept of a UAV emerges from being “unmanned,” its autonomous power can be used to create functional, personal transportation. Well-known companies like Uber, Airbus, and Boeing are constantly working on developing self-flying drones that can take people from one place to another.
+In conclusion, drone transportation has a lot of untapped potential beyond supply chain and security surveillance. Whether it is for emergencies, luxury, or space exploration, the future is optimistic for the travel industry.
+Internet: <www.skygrid.com> (adapted).
+Based on the previous text, judge the following items.
+The word “their” (second sentence of the second paragraph) refers back to “sectors” (first sentence of the second paragraph).
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+65.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rodrigo
+19 de março de 2024 às 22:33
+However = Contrário
+Pode ser substituido por nevertheless ou nonetheless
+
+
+Therefore = Portanto
+Reportar abuso
+Ajudou (5) Não ajudou
+Lannister J
+12 de março de 2024 às 17:18
+however = used to introduce a statement that contrasts with or seems to contradict something that has been said previously.
+
+
+therefore = for that reason; consequently
+
+Reportar abuso
+Ajudou (0) Não ajudou
+18
+Q3123958
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MMA - Analista Ambiental - 2024
+Texto associado
+Texto CB1A1
+Hoje, a crise hídrica é política — o que significa dizer não inevitável ou necessária, nem além da nossa capacidade de consertá-la — e, logo, opcional, na prática. Esse é um dos motivos para ser, não obstante, terrível como parábola climática: um recurso abundante torna-se escasso pela falta de infraestrutura, pela poluição e pela urbanização e desenvolvimento descuidados. A crise de abastecimento de água não é inevitável, mas presenciamos uma, de um modo ou de outro, e não estamos fazendo muita coisa para resolvê-la. Algumas cidades perdem mais água por vazamentos do que a que é entregue nas casas: mesmo nos Estados Unidos da América (EUA), vazamentos e roubos respondem por uma perda estimada de 16% da água doce; no Brasil, a estimativa é de 40%. Em ambos os casos, assim como por toda parte, a escassez se desenrola tão patentemente sobre o pano de fundo das desigualdades entre pobres e ricos que o drama resultante da competição pelo recurso dificilmente pode ser chamado, de fato, de competição; o jogo está tão arranjado que a escassez de água mais parece um instrumento para aprofundar a desigualdade. O resultado global é que pelo menos 2,1 bilhões de pessoas no mundo não têm acesso a água potável segura, e 4,5 bilhões não dispõem de saneamento.
+David Wallace-Wells. A terra inabitável: uma história do futuro. São Paulo: Cia das Letras, 2019. (com adaptações).
+Com base nas ideias veiculadas no texto CB1A1, julgue os itens a seguir.
+Segundo o autor do texto, competição pressupõe igualdade entre competidores.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+36.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lucas Henrique Dos Santos Batista
+27 de janeiro de 2024 às 18:29
+"Em ambos os casos, assim como por toda parte, a escassez se desenrola tão patentemente sobre o pano de fundo das desigualdades entre pobres e ricos que o drama resultante da competição pelo recurso dificilmente pode ser chamado, de fato, de competição"
+
+Questãozinha ardilosa, a intenção do examinador foi, diante da frase retirada do texto, questionar o fato do autor do texto dizer não haver disputa quando se tem desigualdade entre probres e ricos, ou seja para poder disputar É IMPRESCINDÍVEL haver alguma igualdade.
+Espero ter ajudado, a primeira vista pensei na "desigualdade " também.
+
+ÓTIMO ESTUDOS A TODOS.
+Reportar abuso
+Ajudou (165) Não ajudou
+Yasmin Azevedo Manaia Da Silva
+29 de janeiro de 2024 às 13:11
+"...que o drama resultante da competição pelo recurso dificilmente pode ser chamado, de fato, de competição".
+
+Esse trecho indica que o autor não reconhece esse cenário como "disputa".
+Parafraseando para uma linguagem mais simples o que o autor disse nesse trecho é: "visto a DESIGUALDADE dos competidores (um muito maior, melhor e mais forte que o outro), não é JUSTO que chame isto de competição."
+
+Por isso, quando a questão diz que o autor PRESSUPÕE que competição é igualdade, a questão quer dizer que o autor está partindo da definição pré-existente (na mente dele) de que não é justo lutar com um maior que você.
+
+A questão está certa, pois o autor entende que competição deve ser feita entre dois iguais/semelhantes e expressou isso no texto quando disse que nem se pode chamar de "competição" um cenário que beneficia demasiadamente somente um dos competidores.
+
+Espero que tenha ajudado.
+Reportar abuso
+Ajudou (59) Não ajudou
+SR
+Shaulin Rodrigues Dos Santos
+26 de janeiro de 2024 às 09:44
+não vi em nenhum lugar igualdade, pelo contrário, desigualdade.
+Reportar abuso
+Ajudou (46) Não ajudou
+Sophia
+6 de agosto de 2024 às 09:37
+Para quem sente falta das estatísticas.
+Acertos: 47,30%.
+Erros: 52,61%.
+
+Fonte: Um site que marca as estatísticas, em 06/08/24.
+Reportar abuso
+Ajudou (14) Não ajudou
+Eliery
+29 de janeiro de 2024 às 14:08
+" a escassez se desenrola tão patentemente sobre o pano de fundo das desigualdades entre pobres e ricos que o drama resultante da competição pelo recurso dificilmente pode ser chamado, de fato, de competição;" para haver competição tem que ter igualdade de condições entre as partes.
+Reportar abuso
+Ajudou (5) Não ajudou
+Página 1 de 3
+19
+Q3341106
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Técnico Judiciário - Área: Apoio Especializado - Especialidade: Programação de Sistemas - 2024
+Texto associado
+No que diz respeito à ética no serviço público, à proteção de dados pessoais e ao acesso à informação, julgue os itens a seguir.
+É legalmente possível que o tratamento de dados pessoais seja utilizado para a realização de estudos por órgãos de pesquisa.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Bq Oliveira
+17 de julho de 2024 às 14:09
+Art. 7º O tratamento de dados pessoais somente poderá ser realizado nas seguintes hipóteses:
+I - mediante o fornecimento de consentimento pelo titular;
+II - para o cumprimento de obrigação legal ou regulatória pelo controlador;
+III - pela administração pública, para o tratamento e uso compartilhado de dados necessários à execução de políticas públicas previstas em leis e regulamentos ou respaldadas em contratos, convênios ou instrumentos congêneres, observadas as disposições do Capítulo IV desta Lei;
+IV - para a realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;
+V - quando necessário para a execução de contrato ou de procedimentos preliminares relacionados a contrato do qual seja parte o titular, a pedido do titular dos dados;
+VI - para o exercício regular de direitos em processo judicial, administrativo ou arbitral, esse último nos termos da Lei nº 9.307, de 23 de setembro de 1996 (Lei de Arbitragem) ;
+VII - para a proteção da vida ou da incolumidade física do titular ou de terceiro;
+VIII - para a tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou autoridade sanitária;
+IX - quando necessário para atender aos interesses legítimos do controlador ou de terceiro, exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais; ou
+X - para a proteção do crédito, inclusive quanto ao disposto na legislação pertinente.
+§ 1º Revogado
+§ 2º Revogado
+§ 3º O tratamento de dados pessoais cujo acesso é público deve considerar a finalidade, a boa-fé e o interesse público que justificaram sua disponibilização.
+§ 4º É dispensada a exigência do consentimento previsto no caput deste artigo para os dados tornados manifestamente públicos pelo titular, resguardados os direitos do titular e os princípios previstos nesta Lei.
+§ 5º O controlador que obteve o consentimento referido no inciso I do caput deste artigo que necessitar comunicar ou compartilhar dados pessoais com outros controladores deverá obter consentimento específico do titular para esse fim, ressalvadas as hipóteses de dispensa do consentimento previstas nesta Lei.
+§ 6º A eventual dispensa da exigência do consentimento não desobriga os agentes de tratamento das demais obrigações previstas nesta Lei, especialmente da observância dos princípios gerais e da garantia dos direitos do titular.
+§ 7º O tratamento posterior dos dados pessoais a que se referem os §§ 3º e 4º deste artigo poderá ser realizado para novas finalidades, desde que observados os propósitos legítimos e específicos para o novo tratamento e a preservação dos direitos do titular, assim como os fundamentos e os princípios previstos nesta Lei.
+Reportar abuso
+Ajudou (15) Não ajudou
+AD
+Alexsandro De Souza Ferreira
+12 de janeiro de 2025 às 12:32
+Lizia, cuidado! " art 7, IV para a realização de estudos por órgão de pesquisa, garantida, SEMPRE QUE POSSÍVEL, a anonimização dos dados pessoais;
+Reportar abuso
+Ajudou (4) Não ajudou
+LA
+Lizia Alves Martins
+2 de janeiro de 2025 às 12:54
+certo, mas deve ser garantida a anonimização
+
+Reportar abuso
+Ajudou (3) Não ajudou
+20
+Q3392782
+Administração de Recursos Materiais Cadeias de Suprimento Direta, Reversa e de Ciclo Fechado
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEPLAG CE - Analista de Gestão Pública – Área: Governança e Gestão Corporativa Inglês - 2024
+Texto associado
+Na figura a seguir, que representa a gestão logística da cadeia produtiva de roupa de tecido do tipo jeans, as caixas e as setas numeradas indicam, respectivamente, os atores e os fluxos dos subsistemas logísticos.
+
+
+A partir das informações precedentes, e considerando aspectos de gestão logística e patrimonial a elas relacionados, julgue os itens que se seguem.
+Os atores relacionados com as setas 1.2 e 1.3 correspondem aos bens que foram comercializados, armazenados e postos nos canais de distribuição reversos, por algum motivo como término de validade, problemas de qualidade, avarias no transporte, erros de pedido do produto, entre outros, antes que eles fossem consumidos.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+54.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Thais Alves Vasconcellos
+26 de setembro de 2024 às 15:04
+Alternativa correta - os atores relacionados com as setas 1.2 e 1.3 no diagrama parecem se referir aos bens que foram comercializados, mas retornaram ao sistema antes de serem efetivamente consumidos, caracterizando um fluxo reverso no ciclo de vida do produto. Essas setas estão vinculadas ao processo de pós-venda (1.3) e pós-consumo (1.2). No caso do pós-venda, os produtos podem retornar por diversos motivos, como término de validade, problemas de qualidade, avarias no transporte ou erros de pedido, exatamente como você mencionou, antes de chegarem ao consumidor final. Esses produtos podem ser redirecionados para outros destinos, como recondicionamento, revenda ou reciclagem. Portanto, sim, esses bens entram no canal de distribuição reversa por alguma falha ou circunstância que impede seu consumo e precisam ser realocados ou processados de forma alternativa.
+O que é fluxo reverson no de ciclo de vida do produto? O fluxo reverso no ciclo de vida do produto refere-se ao processo pelo qual os produtos, após terem sido vendidos ou utilizados, retornam à cadeia de suprimentos por meio de diferentes canais de logística reversa. Esse processo acontece por diversos motivos, como defeitos, avarias, término de validade, devoluções de clientes, ou até mesmo quando o produto atinge o final de sua vida útil e precisa ser descartado ou reciclado.
+Em vez de seguir o fluxo tradicional (fornecedor → produção → distribuição → consumo), o fluxo reverso permite que os produtos retornem a etapas anteriores.
+
+Fonte: ChatGPT.
+Reportar abuso
+Ajudou (10) Não ajudou
+ED
+Ederivania De Souza Dos Santos Carvalho
+13 de janeiro de 2025 às 09:25
+Segue comentário do prof do tec:
+
+A assertiva está CORRETA. 
+Observe que na figura apresentada, são representados diversos atores e fluxos dentro da cadeia produtiva e logística do setor de vestuário, especificamente relacionado ao tecido do tipo jeans. A seta 1.2 vai do "consumidor" para "pós-venda", e a seta 1.3 vai de "pós-venda" para "atacado e varejo". Isso sugere que esses fluxos representam produtos que já foram vendidos e estão retornando ao ciclo logística.  Ou seja, esses fluxos envolvem a movimentação de bens que, por alguma razão, como os mencionados na assertiva (término de validade, problemas de qualidade, avarias no transporte, erros de pedido), precisam retornar através da cadeia logística para serem recondicionados, reciclados, revendidos ou descartados de forma adequada. Essa situação é típica de uma logística reversa, que busca minimizar perdas econômicas para as empresas, mas também contribui para a redução do impacto ambiental ao prolongar a vida útil dos produtos e evitar o descarte prematuro.
+ GABARITO: CERTO.
+ Referências:
+CORRÊA, Henrique L. Administração de Cadeias de Suprimentos e Logística - Integração na Era da Indústria 4.0. São Paulo: Grupo GEN, 2019.
+POZO, Hamilton. Administração de materiais e patrimoniais: uma abordagem logística. 5. ed. São Paulo: Atlas, 2010
+Reportar abuso
+Ajudou (3) Não ajudou

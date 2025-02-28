@@ -1,0 +1,840 @@
+1
+Q3599571
+Língua Inglesa Sinônimos | Synonymous
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor de Ensino Fundamental - Área: Inglês - 2025
+Texto associado
+We do not know how art began any more than we know how language started. If we take art to mean such activities as building temples and houses, making pictures and sculptures, or weaving patterns, there is no people in all the world without art. If, on the other hand, we mean by art some kind of beautiful luxury, something to enjoy in museums and exhibitions or something special to use as a precious decoration in the best parlour, we must realize that this use of the word is a very recent development. We can best understand this difference if we think of architecture. There is scarcely any building in the world which was not erected for a particular purpose. Those who use these buildings as places of worship or entertainment, or as dwellings, judge them first and foremost by standards of utility. But apart from this, they may like or dislike the design or the proportions of the structure, and appreciate the efforts of the good architect to make it not only practical but right. In the past the attitude to paintings and statues was often similar. They were not thought of as mere works of art but as objects which had a definite function.
+Similarly, we are not likely to understand the art of the past if we are quite ignorant of the aims it had to serve. The further we go back in history, the more definite but also the more strange are the aims which art was supposed to serve. The same applies if we leave towns and cities and go to the peasants or, better still, if we travel to the peoples whose ways of life still resemble the conditions in which our remote ancestors lived. Among them there is no difference between building and image-making as far as usefulness is concerned. Their huts are there to shelter them from rain, wind and sunshine and the spirits which produce them; images are made to protect them against other powers which are, to them, as real as the forces of nature. Pictures and statues, in other words, are used to work magic.
+
+E. H. Gombrich. The story of art. New York, Phaidon, 2024. 16th ed. p. 9-10 (adapted).
+
+Based on the previous text, its ideas and its linguistic aspects, judge the following items.
+In the fragment “which had a definite function” (last sentence of the first paragraph), the word “definite” could be replaced with clear without harming the coherence of the text.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+69.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Sara Sangi Miranda
+27 de fevereiro de 2025 às 13:03
+trocar a palavra 'definida' por 'clara' mudaria o sentido, mas não muda a coerência do texto.
+Reportar abuso
+Ajudou (0) Não ajudou
+2
+Q3665267
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Especialista em Recursos Minerais - Área Direito (outorga) - 2025
+Texto associado
+Researchers have unveiled long “hidden” and finely detailed tattoo designs on the skin of ancient mummies from Peru, a study reports. Tattoos were a prevalent art form in pre-Hispanic South America, as attested by the discovery of mummified human remains in the region with preserved skin decoration that date back centuries, and even millennia.
+While such body art works can provide insights into ancient cultures, tattoos are known to fade and bleed over time — a process compounded in mummies by the decay of the body. This often means that the original designs are difficult to make out.
+In the latest study, published in the journal Proceedings of the National Academy of Sciences, a team of researchers used a technique known as laser-stimulated fluorescence (LSF) to examine tattoos on mummified individuals belonging to the pre-Hispanic Chancay culture of what is now coastal Peru.
+The mummified remains that team of researchers examined were originally discovered in 1981 at the Cerro Colorado cemetery archaeological site in the Huaura Valley of Peru. The LSF technique revealed “exceptionally fine” and previously unknown details of the ancient tattoos.
+The team managed to identify intricate geometric and zoomorphic (representing animal forms) designs that were “very surprising” because they demonstrate a higher degree of artistic complexity than any other existing Chancay artwork, including on pottery and the culture's renowned textiles. The art of tattooing was clearly important to the Chancay, as evidenced by the high proportion of tattooed individuals among known mummified remains from the ancient culture.
+
+Hidden Tattoos Revealed on 750-Year-Old Ancient Mummies: ‘Very Surprising’. Internet: <newsweek.com> (adapted).
+
+Based on the preceding text, judge the following items.
+The newly revealed tattoos lack the intricacies found in other forms of Chancay artwork.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+100.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Sara Sangi Miranda
+27 de fevereiro de 2025 às 08:43
+ "...because they demonstrate a higher degree of artistic complexity than any other existing Chancay artwork..."
+Reportar abuso
+Ajudou (0) Não ajudou
+3
+Q3639932
+Língua Portuguesa Sentidos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade Medicina do Trabalho - 2025
+Texto associado
+Texto CG4A1
+A degradação ambiental põe em risco a capacidade das crianças de atingir seu pleno potencial de desenvolvimento e tem implicações negativas em uma vasta gama de outros direitos. O desenvolvimento das crianças está interligado ao ambiente em que elas vivem. Os benefícios de um ambiente saudável para o desenvolvimento incluem aqueles ligados às oportunidades de experimentar atividades ao ar livre e de interagir e brincar em ambientes naturais, inclusive com o mundo animal.
+Devido aos seus padrões de atividade, ao seu comportamento e à sua fisiologia únicos, as crianças mais novas são particularmente suscetíveis aos riscos ambientais. Durante janelas de desenvolvimento de maior vulnerabilidade, a exposição a poluentes tóxicos, mesmo em níveis baixos, pode facilmente perturbar os processos de maturação do cérebro, dos órgãos e do sistema imunológico, além de causar doenças e deficiências durante e após a infância — às vezes após um período substancial de latência. Os efeitos dos contaminantes ambientais podem até persistir em gerações futuras. Os Estados devem considerar, de forma consistente e explícita, o impacto da exposição no início da vida a substâncias tóxicas e à poluição.
+Os Estados devem reconhecer cada fase da infância e sua importância para os estágios subsequentes de maturação e desenvolvimento, bem como as diferentes necessidades das crianças em cada uma dessas fases. Para a criação de um ambiente ideal para o direito ao desenvolvimento, os Estados devem considerar, de forma explícita e consistente, todos os fatores necessários para que crianças de todas as idades sobrevivam, desenvolvam-se e prosperem plenamente. Devem também conceber e implementar intervenções baseadas em evidências que enfrentem uma ampla gama de determinantes ambientais durante o curso da vida.
+Internet: <http://www.unicef.org/> (com adaptações).
+
+Julgue os itens subsequentes, com base nas ideias do texto CG4A1.
+A presença de recomendações aos Estados no texto sugere que, de maneira geral, esses entes são negligentes em relação ao desenvolvimento infantil na formulação de suas políticas públicas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+65.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MN
+Marcio Nogueira Da Cruz Saldanha
+12 de fevereiro de 2025 às 12:13
+Errado
+
+A banca Cebraspe adora pegar os concurseiros que extrapolam em suas interpretações!
+No texto não há qualquer informação que leve à conclusão de que esses entes - Os Estados - são negligentes em relação ao desenvolvimento infantil na formulação de suas políticas públicas.
+Reportar abuso
+Ajudou (18) Não ajudou
+Darling
+20 de fevereiro de 2025 às 14:10
+O texto aponta o que deve ser feito pelo estado mas em nenhum momento o coloca como negligente
+Reportar abuso
+Ajudou (5) Não ajudou
+4
+Q3595697
+Administração Geral Estrutura Organizacional
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista Administrativo - Área: Projetos - 2025
+Texto associado
+Acerca de avaliação de desempenho, resultados, flexibilidade organizacional e trabalho em equipe, julgue os itens subsecutivos.
+A eficácia organizacional é determinada conjuntamente pelas decisões sobre estratégias e pelo desenho organizacional.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+96.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Maria Gabriela
+17 de fevereiro de 2025 às 11:41
+Certo! ✅
+A eficácia organizacional resulta da combinação entre decisões estratégicas e desenho organizacional.
+Estratégias organizacionais definem metas, posicionamento e direcionamento da empresa.
+Desenho organizacional estrutura os processos, a hierarquia e a alocação de recursos para viabilizar a execução da estratégia.
+Quando ambos estão alinhados, a organização consegue operar de maneira eficiente e atingir seus objetivos.
+Reportar abuso
+Ajudou (12) Não ajudou
+5
+Q3641146
+Administração de Recursos Materiais Cobertura de Estoque
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área: Administrativa - 2025
+Texto associado
+Julgue os itens subsequentes, que dizem respeito a compras, previsão e controle de estoque nas organizações.
+O gráfico denominado dente de serra demonstra as oscilações no estoque de produtos em uma empresa, permitindo a análise do estoque para a tomada de decisão.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+95.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Elvisnei Neri De Sousa
+21 de fevereiro de 2025 às 17:44
+O gráfico dente de serra é uma representação gráfica que mostra a variação dos níveis de estoque ao longo do tempo. Ele é muito utilizado na gestão de estoques.
+Reportar abuso
+Ajudou (1) Não ajudou
+6
+Q3595597
+Administração Geral Estrutura Organizacional
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Analista de Projetos - 2025
+Texto associado
+Acerca de avaliação de desempenho, resultados, flexibilidade organizacional e trabalho em equipe, julgue os itens subsecutivos.
+A eficácia organizacional é determinada conjuntamente pelas decisões sobre estratégias e pelo desenho organizacional.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+89.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Maria Gabriela
+17 de fevereiro de 2025 às 11:40
+Certo! ✅
+A eficácia organizacional depende tanto das decisões estratégicas quanto do desenho organizacional.
+As estratégias definem os objetivos e direções da organização, orientando suas ações no mercado.
+O desenho organizacional estabelece a estrutura, os processos e a alocação de recursos, garantindo que a estratégia possa ser implementada de forma eficiente.
+A combinação desses fatores impacta diretamente o desempenho e a competitividade da empresa.
+Reportar abuso
+Ajudou (11) Não ajudou
+7
+Q3595691
+Direito Administrativo Lei nº 13.303/2016 - Estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+Julgue os próximos itens, com base na Lei n.o 14.303/2016 (Lei das Estatais).
+As estatais têm a obrigação de elaborar e divulgar o seu código de conduta e integridade, o qual deve conter orientações sobre a prevenção de conflito de interesses e vedação de atos de corrupção e fraude.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+93.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Fernanda Rodrigues Da Cunha
+17 de fevereiro de 2025 às 11:47
+Art 9
+§ 1º Deverá ser elaborado e divulgado Código de Conduta e Integridade, que disponha sobre:
+I - princípios, valores e missão da empresa pública e da sociedade de economia mista, bem como orientações sobre a prevenção de conflito de interesses e vedação de atos de corrupção e fraude;
+II - instâncias internas responsáveis pela atualização e aplicação do Código de Conduta e Integridade;
+III - canal de denúncias que possibilite o recebimento de denúncias internas e externas relativas ao descumprimento do Código de Conduta e Integridade e das demais normas internas de ética e obrigacionais;
+IV - mecanismos de proteção que impeçam qualquer espécie de retaliação a pessoa que utilize o canal de denúncias;
+V - sanções aplicáveis em caso de violação às regras do Código de Conduta e Integridade;
+VI - previsão de treinamento periódico, no mínimo anual, sobre Código de Conduta e Integridade, a empregados e administradores, e sobre a política de gestão de riscos, a administradores.
+
+Reportar abuso
+Ajudou (3) Não ajudou
+8
+Q3643053
+Administração de Recursos Materiais Pregão
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+No que se refere a compras em geral e a compras no setor público, julgue os itens seguintes.
+A publicação do edital, que deve ser realizada mediante divulgação e manutenção do inteiro teor do ato convocatório e de seus anexos no Portal Nacional de Contratações Públicas, dá início à primeira fase do processo licitatório.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+63.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Leidiana
+14 de fevereiro de 2025 às 10:08
+Lei 14.133-Art. 18. A fase preparatória do processo licitatório é caracterizada pelo planejamento:
+I - a descrição da necessidade da contratação fundamentada em estudo técnico preliminar que caracterize o interesse público envolvido;
+Reportar abuso
+Ajudou (16) Não ajudou
+EC
+Erlailson Costa
+17 de fevereiro de 2025 às 11:53
+A publicação do edital dá início a segunda fase do processo licitatório, também chamada de fase externa. A primeira fase do processo é a interna (planejamento).
+Reportar abuso
+Ajudou (8) Não ajudou
+Pedro
+24 de fevereiro de 2025 às 11:13
+A Lei 14.133 estabelece a seguinte sequência de fases para o processo de licitação:
+I – preparatória;
+II – de divulgação do edital de licitação;
+III – de apresentação de propostas e lances, quando for o caso;
+IV – de julgamento;
+V – de habilitação;
+VI – recursal;
+VII – de homologação.
+
+Reportar abuso
+Ajudou (4) Não ajudou
+9
+Q3595916
+Administração de Recursos Materiais Objetivos do Setor de Compras
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+A respeito das funções, dos objetivos e das atividades do setor de compras nas organizações, julgue os itens subsecutivos.
+Embora não lhe caiba garantir que a entrega seja feita de maneira correta, o setor de compras deve adquirir os produtos e serviços na quantidade certa, com qualidade e a um menor custo possível.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+56.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tales Gonçalves Malheiros
+3 de fevereiro de 2025 às 07:16
+faz parte do setor de compras a chegada do material com integridade e organização do almoxarifado, mesmo que não seja função própria.
+
+Reportar abuso
+Ajudou (20) Não ajudou
+EB
+Elano Bezerra
+19 de fevereiro de 2025 às 11:32
+Não entendi o porquê do item está incorreto, geralmente, quem garante que 'entrega seja feita de maneira correta' é o setor de recebimento ou logística.
+Reportar abuso
+Ajudou (2) Não ajudou
+10
+Q3596020
+Administração de Recursos Materiais Kanban
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+Julgue os próximos itens, relativos a princípios de gestão integrada de operações logísticas, modos de transporte e logística de suprimento.
+O método de produção Kanban é um exemplo de gestão integrada dos subsistemas logísticos de suprimentos e operações.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+87.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daiane Guedes
+4 de fevereiro de 2025 às 05:30
+Certo.
+
+O método Kanban é uma ferramenta de gestão visual utilizada para controlar o fluxo de produção e suprimentos, alinhando a demanda com a reposição de materiais de forma eficiente. Ele integra os subsistemas logísticos ao permitir que os estoques sejam abastecidos conforme a necessidade real da produção, evitando excessos e reduzindo desperdícios.
+
+No contexto da gestão integrada de operações logísticas, o Kanban contribui para a sincronização entre fornecedores, processos produtivos e estoque, promovendo um fluxo contínuo de materiais e informações dentro da cadeia de suprimentos.
+Reportar abuso
+Ajudou (13) Não ajudou
+Elvisnei Neri De Sousa
+21 de fevereiro de 2025 às 17:48
+O método de produção Kanban é um sistema de gestão de tarefas e fluxos de trabalho. Ele é baseado no Pensamento Lean e Ágil, e usa cartões coloridos para representar as atividades.
+Reportar abuso
+Ajudou (0) Não ajudou
+11
+Q3599597
+Língua Portuguesa Classes de palavras (classes gramaticais)
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Anos Iniciais - Área: Língua Portuguesa - 2025
+Texto associado
+Texto 19A1
+Em uma teoria da compreensão de texto, o primeiro aspecto importante é a noção de língua que se adota. Alguns manuais escolares concebem a língua simplesmente como um código ou um sistema de sinais autônomo, totalmente transparente, sem história, e fora da realidade social dos falantes. Mas a língua é muito mais do que um sistema de estruturas fonológicas, sintáticas e lexicais. A rigor, a língua não é sequer uma estrutura; ela é estruturada simultaneamente em vários planos, seja o fonológico, sintático, semântico e cognitivo no processo de enunciação. A língua é um fenômeno cultural, histórico, social e cognitivo que varia ao longo do tempo e de acordo com os falantes: ela se manifesta no uso e é sensível ao uso.
+Portanto, a língua é uma atividade constitutiva com a qual podemos construir sentidos; é uma forma cognitiva com a qual podemos expressar nossos sentimentos, ideias, ações e representar o mundo; é uma forma de ação pela qual podemos interagir com nossos semelhantes. Em consequência, a língua se manifesta nos processos discursivos, no nível da enunciação, concretizando-se nos usos textuais mais diversos. É importante não confundir a língua com o discurso.
+Nessa perspectiva, a língua é mais do que um simples instrumento de comunicação; mais do que um código ou uma estrutura. Enquanto atividade, ela é indeterminada sob o ponto de vista semântico e sintático. Por isso, as significações e os sentidos textuais e discursivos não podem estar aprisionados no interior dos textos pelas estruturas linguísticas. A língua é opaca, não é totalmente transparente, podendo ser ambígua, polissêmica, de modo que os textos podem ter mais de um sentido, e o equívoco nas atividades discursivas é um fato comum.
+Na realidade, um texto bem-sucedido é aquele que consegue dizer o suficiente para ser bem-entendido, supondo apenas aquilo que é possível esperar como sabido pelo ouvinte ou leitor. É interessante notar que, se o autor ou falante de um texto diz uma parte e supõe outra parte como de responsabilidade do leitor ou ouvinte, então a atividade de produção de sentidos (ou de compreensão de texto) é sempre uma atividade de coautoria. Isto quer dizer que os sentidos são parcialmente produzidos pelo texto e parcialmente completados pelo leitor.
+Ao lado da noção de língua, é necessário ter uma noção de texto. A escola trata o texto como um produto acabado e que funciona como uma cesta natalina, de onde a gente tira coisas. O texto não é um produto nem um simples artefato pronto; ele é um processo. Assim, não sendo um produto acabado, objetivo, como uma espécie de depósito de informações, mas sendo um processo, o texto se acha em permanente elaboração e reelaboração ao longo de sua história e ao longo das diversas recepções pelos diversos leitores. Em suma, texto é uma proposta de sentido e ele se acha aberto a várias alternativas de compreensão.
+Luiz Antônio Marcuschi. Exercícios de compreensão ou copiação nos manuais de ensino de língua? Em Aberto, Brasília, ano 16, n.º 69, jan.-mar./1996 (com adaptações).
+Julgue os próximos itens, relativos a aspectos gramaticais do texto 19A1.
+No último período do texto, os vocábulos “uma” e “a” fazem parte da mesma classe gramatical de palavras.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+62.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Felipe Menegate Nascimento
+24 de janeiro de 2025 às 10:38
+"Uma" é um artigo indefinido.
+"A" (na segunda ocorrência) é uma preposição contraída.
+Reportar abuso
+Ajudou (66) Não ajudou
+LR
+Laís Reis Galvão
+22 de janeiro de 2025 às 19:03
+O a é uma preposição.
+Reportar abuso
+Ajudou (21) Não ajudou
+D.aguiar
+29 de janeiro de 2025 às 20:43
+Uma > é Artigo INDEFINIDO;
+
+A regência do verbo "achar" pede PREPOSIÇÃO> A, somente.
+
+Não é a mesma classe gramatical.
+
+Reportar abuso
+Ajudou (11) Não ajudou
+Mim
+11 de fevereiro de 2025 às 21:02
+"texto é uma proposta de sentido e ele se acha aberto a várias alternativas de compreensão."
+
+Aqui, os vocábulos “uma” e “a” pertencem a classes gramaticais diferentes.
+
+"Uma" é um artigo indefinido feminino singular.
+Sua função é indefinir o substantivo "proposta", indicando algo não específico.
+"A" é uma preposição.
+Sua função é ligar a palavra "aberto" ao complemento "várias alternativas de compreensão", indicando que o texto está aberto a essas alternativas.
+
+Portanto, “uma” e “a” não fazem parte da mesma classe gramatical.
+Enquanto “uma” é um artigo, “a” é uma preposição.
+Reportar abuso
+Ajudou (3) Não ajudou
+LV
+Luan Vitor
+22 de janeiro de 2025 às 12:57
+(A) especifica o substantivo.
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+12
+Q3601066
+Língua Portuguesa Sentidos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Ensino Médio - Área: Língua Portuguesa - 2025
+Texto associado
+Manu, S. Paulo, 6-VIII-33
+
+Estou fazendo week-end..., dando um balanço geral em tudo quanto tenho que responder, livros a agradecer, papelada pra distribuir nos lugares, etc., etc. Seus comentários sobre o meu “O desespera” quase que me desesperaram. Não é justo você dizer que pra mim é atual falar numa coisa, como se eu não me rendesse a razões plausíveis. Me rendo sim senhor. Confesso com lealdade que jamais refleti seriamente sobre isso, isto é, seriamente, refleti, sim, mas não refleti longamente. Mas a seriedade está nisto: emprego flexões pronominais iniciando a frase, coisa que literariamente é erro. Me parece etc. Devo empregar também literariamente “O desespera” porque o caso é absolutamente o mesmo. Se trata de uma ilação, é verdade, mas ilação absolutamente lógica sobre o ponto de vista filosófico, e tirada da índole brasileira de falar, o que a torna, além de filosoficamente certa, psicologicamente admissível. Diz você que não se trata dum fato de linguagem brasileira. Poderei estar de acordo. Mas isso se dá simplesmente porque o povo, pelo menos o povo rural que é a grande e pura fonte, ignora o pronominal, e diz, por exemplo, “fazer isso” e “dizer isso” “desespera ele” por fazê-lo e dizê-lo. Você tem o argumento dos alfabetizados da cidade. Sim, mas estes, desde que ponham um reparo na fala, já não dizem “me parece” também, porque o professor da escola primária proibia. Mas se dizem, sem querer, “me parece” por que, então, não dizem “o desespera”?
+Ciao, com abraço.
+
+Mário de Andrade. Cartas a Manuel Bandeira, 2001, p. 222-3 (com adaptações).
+
+Julgue os próximos itens, acerca das ideias e de aspectos textuais e gramaticais do texto precedente.
+Depreende-se das ponderações de Mário de Andrade que as diferenças no que se refere a aspectos da colocação pronominal no Brasil são facilmente explicadas com base no grau de escolaridade dos brasileiros.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+62.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ronaldo Chaves
+25 de janeiro de 2025 às 19:24
+Errado, o povo rural só ignora.
+Reportar abuso
+Ajudou (19) Não ajudou
+Cecilia Morais Lira
+18 de fevereiro de 2025 às 13:51
+"Mas isso se dá simplesmente porque o povo, pelo menos 'o povo rural' que é a grande e pura fonte, ignora o pronominal"
+Reportar abuso
+Ajudou (1) Não ajudou
+13
+Q3601040
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Ensino Médio - Área: Língua Portuguesa - 2025
+Texto associado
+Pode-se verificar em que medida, em Dom Casmurro, Machado de Assis inova o tema: em primeiro lugar, ele abandona o clichê da mulher simultaneamente romântica e entediada, mesmo porque o leitor, por acompanhar a narrativa desde o foco de Bento Santiago, não tem acesso à interioridade de Capitu. Esse é, pois, o segundo elemento inovador proposto por Machado de Assis: a perspectiva é dada pelo marido traído, que, porém, nunca domina inteiramente a situação. Assim como não consegue conduzir sua vida de modo independente, permitindo que outros resolvam seus problemas, ele não tem sucesso ao tentar controlar a narração, razão porque o leitor não fica plenamente convencido do adultério de Capitu. O narrador não é, pois, inteiramente confiável, já que Machado de Assis semeia ao longo do texto uma série de dúvidas e incertezas, que minam a convicção que Bento Santiago procura transmitir. O romance acaba por abalar as certezas que se poderia ter em relação a seu assunto, já que o juízo relativamente à infidelidade conjugal de Capitu fica em suspenso. Por essa atitude, pode-se medir a coragem de Machado de Assis ao tratar a questão; afinal, seus precursores, entre os quais os renomados Gustave Flaubert e Eça de Queirós, não titubearam ao condenar as esposas pérfidas, pois essas prevaricam aos olhos do leitor. Além disso, a sociedade brasileira da época de Machado de Assis era fortemente machista, e a mera suspeita de adultério era motivo suficiente para um marido condenar a esposa. Evidencia-se o modo como o escritor brasileiro aceita compor um romance na contracorrente das ideologias vigentes e das tendências literárias dominantes. Ao romper com os paradigmas literários e sociais relativos ao adultério e à condição da mulher na sociedade brasileira, ele produz uma obra revolucionária que acabou por se converter em um clássico respeitado pela história da literatura brasileira.
+
+Regina Zilberman. Recepção e leitura no horizonte da literatura.
+In: Alea: Estudos Neolatinos. V. 10, N. 1, janeiro-junho 2008, p. 95 (com adaptações).
+
+Julgue os itens a seguir, referentes à leitura do texto precedente.
+Considerado o exposto no quinto período, é coerente afirmar, em relação ao texto, que a “coragem de Machado de Assis”, mencionada no sexto período, pode ser medida por meio do contraste entre o autor brasileiro e os estrangeiros Gustave Flaubert e Eça de Queirós, quanto ao modo de abordar o tema do adultério.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+78.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Luis Rhamon
+31 de janeiro de 2025 às 21:30
+Questão certa
+
+Machado, não menospreza ou melhor, nao julga a mulher em sentimentos de machista, como seus percusores fazim naquela epoca em relação ao tema.
+
+Reportar abuso
+Ajudou (10) Não ajudou
+14
+Q3595945
+Administração de Recursos Materiais Objetivos do Setor de Compras
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+No que se refere ao atendimento ao cliente interno e à ética dos colaboradores no setor de compras, julgue os itens seguintes.
+O cliente interno é um dos principais agentes para gerar valor ao consumidor final, uma vez que seu trabalho, em vários setores da organização, pode contribuir para elevar a experiência do cliente.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+89.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daiane Guedes
+15 de fevereiro de 2025 às 15:15
+O item está certo.
+
+O cliente interno é qualquer colaborador dentro da organização que recebe insumos, informações ou suporte de outros setores para desempenhar suas funções. Ele é fundamental na geração de valor para o cliente final, pois a qualidade do trabalho interno impacta diretamente produtos, serviços e atendimento.
+
+No setor de compras, por exemplo, a eficiência na seleção de fornecedores e na aquisição de materiais afeta a produção, o prazo de entrega e a satisfação do consumidor final. Assim, um bom atendimento ao cliente interno melhora processos internos e, consequentemente, a experiência do cliente externo.
+
+fonte: Chatgpt
+
+Reportar abuso
+Ajudou (8) Não ajudou
+15
+Q3595953
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor - Área: Corretor de Redação - 2025
+Texto associado
+Manu, S. Paulo, 6-VIII-33
+
+Estou fazendo week-end..., dando um balanço geral em tudo quanto tenho que responder, livros a agradecer, papelada pra distribuir nos lugares, etc., etc. Seus comentários sobre o meu “O desespera” quase que me desesperaram. Não é justo você dizer que pra mim é atual falar numa coisa, como se eu não me rendesse a razões plausíveis. Me rendo sim senhor. Confesso com lealdade que jamais refleti seriamente sobre isso, isto é, seriamente, refleti, sim, mas não refleti longamente. Mas a seriedade está nisto: emprego flexões pronominais iniciando a frase, coisa que literariamente é erro. Me parece etc. Devo empregar também literariamente “O desespera” porque o caso é absolutamente o mesmo. Se trata de uma ilação, é verdade, mas ilação absolutamente lógica sobre o ponto de vista filosófico, e tirada da índole brasileira de falar, o que a torna, além de filosoficamente certa, psicologicamente admissível. Diz você que não se trata dum fato de linguagem brasileira. Poderei estar de acordo. Mas isso se dá simplesmente porque o povo, pelo menos o povo rural que é a grande e pura fonte, ignora o pronominal, e diz, por exemplo, “fazer isso” e “dizer isso” “desespera ele” por fazê-lo e dizê-lo. Você tem o argumento dos alfabetizados da cidade. Sim, mas estes, desde que ponham um reparo na fala, já não dizem “me parece” também, porque o professor da escola primária proibia. Mas se dizem, sem querer, “me parece” por que, então, não dizem “o desespera”?
+Ciao, com abraço.
+
+Mário de Andrade. Cartas a Manuel Bandeira, 2001, p. 222-3 (com adaptações).
+
+Julgue os próximos itens, acerca das ideias e de aspectos textuais e gramaticais do texto precedente.
+Na carta, Mário de Andrade mostra interesse em apontar, a partir da questão da colocação pronominal, uma identidade linguística nacional brasileira.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+82.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+SM
+Sara Martins Dos Santos Chiara
+22 de janeiro de 2025 às 05:01
+até onde entendi, é mais uma questão de interpretação do que puramente colocação pronominal. Ter ciência disso ajuda você a interpretar melhor a questão.
+Reportar abuso
+Ajudou (12) Não ajudou
+16
+Q3599581
+Língua Inglesa Sinônimos | Synonymous
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor de Ensino Fundamental - Área: Inglês - 2025
+Texto associado
+
+Internet: <phdcomics.com> (adapted).
+
+Regarding the language usage in the preceding comic strip, judge the following items.
+The adverb “entirely” (second panel) could be successfully replaced with completely, maintaining the same meaning.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+84.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Andressa Silva
+21 de janeiro de 2025 às 14:06
+entirely é sinônimo de completely
+Lembre-se da palavra INTEIRO =ENTIRE --> completo
+Reportar abuso
+Ajudou (5) Não ajudou
+17
+Q3639251
+Língua Portuguesa Sentidos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade: Engenharia Mecânica - 2025
+Texto associado
+Uma curiosa característica da historiografia geral, política e social foi a relativamente pequena atenção dada à história da justiça ou, se quisermos ser mais limitados, à história do Poder Judiciário.
+Pode-se levantar uma hipótese: a justiça foi percebida como um poder alheio àquilo que se chamou comumente política a partir do século XIX, ou seja, a luta e a disputa para ocupar posições de governo, de mando em geral e de decisão em lugar dos outros.
+Uma segunda hipótese: os historiadores não se sentem à vontade com um campo muito específico, como são o direito e o dos juristas. O direito se constitui em esfera especial e profissional à qual se tem acesso apenas por meio de um curso universitário, enquanto a política permite acesso aos lugares de poder por meio de eleições e não exige, pois, nenhum preparo intelectual determinado. Qualquer um do povo pode ser político, mas nem todos podem ser juristas ou juízes profissionais.
+
+José Reinaldo de Lima Lopes. História da justiça e do processo no Brasil do século XIX. Curitiba: Juruá, 2017, p. 9-10 (com adaptações).
+
+Julgue os itens que se seguem, relativos ao conteúdo do texto precedente e a aspectos linguísticos a ele pertinentes.
+Conforme as ideias do texto, o direito e a justiça constituem campos específicos que restringem o ingresso das pessoas neles.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+49.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MB
+Mateus Bezerra Fernandes
+24 de fevereiro de 2025 às 10:04
+CERTO.
+"O direito se constitui em esfera especial e profissional à qual se tem acesso apenas por meio de um curso universitário, enquanto a política permite acesso aos lugares de poder por meio de eleições e não exige, pois, nenhum preparo intelectual determinado. Qualquer um do povo pode ser político, mas nem todos podem ser juristas ou juízes profissionais."
+
+
+Reportar abuso
+Ajudou (2) Não ajudou
+18
+Q3599885
+Língua Inglesa Aspectos linguísticos | Linguistic aspects
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor de Ensino Fundamental - Área: Inglês - 2025
+Texto associado
+Considerando os elementos língua, cultura e sociedade, julgue os itens a seguir.
+A relação entre linguagem e cultura é fixa, permanecendo imutável ao longo do tempo e das interações sociais.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+95.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Wanderson
+25 de fevereiro de 2025 às 15:24
+Item errado, a liguagem e cultura sempre estão em constante mudanças, lembre- do Betão. (Desistir dos seus sonhos, não é uma opção) 💪
+Reportar abuso
+Ajudou (0) Não ajudou
+19
+Q3663613
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Especialista em Recursos Minerais - Área Direito - 2025
+Texto associado
+Researchers have unveiled long “hidden” and finely detailed tattoo designs on the skin of ancient mummies from Peru, a study reports. Tattoos were a prevalent art form in pre-Hispanic South America, as attested by the discovery of mummified human remains in the region with preserved skin decoration that date back centuries, and even millennia.
+While such body art works can provide insights into ancient cultures, tattoos are known to fade and bleed over time — a process compounded in mummies by the decay of the body. This often means that the original designs are difficult to make out.
+In the latest study, published in the journal Proceedings of the National Academy of Sciences, a team of researchers used a technique known as laser-stimulated fluorescence (LSF) to examine tattoos on mummified individuals belonging to the pre-Hispanic Chancay culture of what is now coastal Peru.
+The mummified remains that team of researchers examined were originally discovered in 1981 at the Cerro Colorado cemetery archaeological site in the Huaura Valley of Peru. The LSF technique revealed “exceptionally fine” and previously unknown details of the ancient tattoos.
+The team managed to identify intricate geometric and zoomorphic (representing animal forms) designs that were “very surprising” because they demonstrate a higher degree of artistic complexity than any other existing Chancay artwork, including on pottery and the culture's renowned textiles. The art of tattooing was clearly important to the Chancay, as evidenced by the high proportion of tattooed individuals among known mummified remains from the ancient culture.
+
+Hidden Tattoos Revealed on 750-Year-Old Ancient Mummies: ‘Very Surprising’. Internet: <newsweek.com> (adapted).
+
+Based on the preceding text, judge the following items.
+The excerpt “provide insights into” can be correctly replaced with give an overview of while maintaining the same meaning.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+62.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Sara Sangi Miranda
+24 de fevereiro de 2025 às 19:02
+A expressão 'provide insights into' sugere uma análise detalhada e profunda, enquanto 'give an overview of' implica em uma visão geral ou resumo. Portanto, substituí-las altera o significado original do texto.
+Reportar abuso
+Ajudou (2) Não ajudou
+20
+Q3605848
+Administração de Recursos Materiais Estrutura do Setor de Compras
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+Em relação ao setor de compras e aos processos de transporte, recebimento e armazenagem de materiais, julgue os seguintes itens.
+O funcionamento eficiente da gestão de compras depende tanto de informações internas, como fontes de suprimento, condições gerais de mercado e capacidade produtiva dos fornecedores, quanto de informações externas, como produção, desenvolvimento de produto e prazos de entrega.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+41.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Raphael Christian
+23 de janeiro de 2025 às 11:56
+A questão trocou as informações internas e externas.
+Reportar abuso
+Ajudou (31) Não ajudou
+Daiane Guedes
+4 de fevereiro de 2025 às 05:28
+Errado.
+
+O correto seria dizer que a gestão eficiente de compras depende de informações internas e externas, mas com a devida classificação.
+
+Informações internas incluem: demanda interna, níveis de estoque, planejamento de produção, orçamento disponível e políticas da empresa.
+
+Informações externas abrangem: fontes de suprimento, condições do mercado, capacidade produtiva dos fornecedores, inovação em produtos e prazos de entrega.
+
+
+No enunciado, há uma inversão na classificação: "fontes de suprimento, condições gerais de mercado e capacidade produtiva dos fornecedores" são externas, e "produção, desenvolvimento de produto e prazos de entrega" são internas (quando se referem à empresa compradora).
+
+Portanto, a afirmativa contém um erro conceitual.
+
+Reportar abuso
+Ajudou (20) Não ajudou
+Clauton Leal
+20 de fevereiro de 2025 às 10:56
+questão maliciosa.
+Reportar abuso
+Ajudou (2) Não ajudou
+Maiane Sbrito
+24 de fevereiro de 2025 às 16:36
+Errei ela na prova mas não erro mais. kkkk
+Ela inverteu, fontes de suprimento, condições gerais de mercado e capacidade produtiva dos fornecedores são EXTERNAS, enquanto produção, desenvolvimento de produto e prazos de entrega são INTERNAS.
+Reportar abuso
+Ajudou (0) Não ajudou

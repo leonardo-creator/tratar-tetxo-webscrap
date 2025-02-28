@@ -1,0 +1,988 @@
+1
+Q3129839
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão e Acompanhamento de Projetos e Programas em CT&I - 2024
+Texto associado
+Businesses are starting to introduce new options for tipping at self-checkout machines, putting even more pressure on customers amid rising inflation costs. Despite having zero interaction with employees during transactions, self-checkout machines at places such as coffee shops, bakeries, airports, and sports stadiums are giving customers the option to leave the typical 20% tip, according to a report from the Wall Street Journal.
+Business owners believe that the prompt for a tip can boost staff pay and increase gratuities — but customers are questioning where and to whom the extra cash is going, considering self-checkout is done by the customers themselves. “They’re cutting labor costs by doing self-checkout. So what’s the point of asking for a tip? And where is it going?” are some of the questions customers ask. But tipping researchers claim this is a way for companies to put the responsibility of paying employees on the customer rather than increasing employee salaries themselves. Self-tipping is viewed by many customers as a way to guilt-trip the person into tipping on something when they typically wouldn’t.
+Many companies told the Journal that these tipping prompts are optional, and the extra gratuity is split between all employees. However, experts say that tips at a self-checkout machine might never even get to an actual employee since protections for tipped workers in the federal Fair Labor Standards Act don’t extend to machines.
+
+Internet: <https://nypost.com> (adapted).
+
+According to the previous text, judge the following items.
+One of the reasons why business owners have introduced the option for tipping at self-checkout machines is that they believe it may raise their employees’ payment.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+64.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+HF
+Helio Fernandes Moreira De Barros
+12 de abril de 2024 às 17:34
+Correto
+Pode-se confirmar no seguinte trecho: "Business owners believe that the prompt for a tip can boost staff pay and increase gratuities"
+Reportar abuso
+Ajudou (0) Não ajudou
+2
+Q3128924
+Administração de Recursos Materiais Armazenagem, Distribuição e Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+Acerca da armazenagem, da gestão de estoques e da gestão de transportes, julgue os itens subsequentes.
+São denominadas cargas gerais aquelas que são transportadas e embarcadas sem acondicionamento ou marca de identificação.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+68.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Manuella O Nascimento
+30 de janeiro de 2024 às 17:00
+ERRADO
+Cargas gerais referem-se a mercadorias que não se enquadram em categorias especializadas
+e costumam ser acondicionadas e identificadas de maneira apropriada para facilitar o transporte e o manuseio.
+Reportar abuso
+Ajudou (126) Não ajudou
+3
+Q3129306
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão de Dados Corporativos - 2024
+Texto associado
+Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados), julgue os itens subsecutivos.
+A Lei Geral de Proteção de Dados aborda o tratamento de dados pessoais e se aplica também à administração pública.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+94.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Maycon Meireles
+31 de janeiro de 2024 às 17:32
+Art. 1º Esta Lei (LGPD) dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
+
+Parágrafo único. As normas gerais contidas nesta Lei são de interesse nacional e devem ser observadas pela União, Estados, Distrito Federal e Municípios. (Incluído pela Lei nº 13.853, de 2019) Vigência
+Reportar abuso
+Ajudou (29) Não ajudou
+4
+Q3264978
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE GO - Analista - Área: Informática - 2024
+Texto associado
+Considerando os conceitos relativos a inteligência de negócios, julgue os itens a seguir.
+São objetivos do business intelligence permitir o acesso interativo e proporcionar a manipulação dos dados, fornecendo aos gerentes e analistas de negócios a capacidade de realizar a análise adequada.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+82.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Flávio Crispin Oliveira
+1 de dezembro de 2024 às 10:22
+A afirmação sobre os objetivos do Business Intelligence (BI) está alinhada com o conceito amplamente aceito e documentado em fontes confiáveis. Aqui está a resposta com fontes que sustentam a análise:
+O BI tem como objetivos principais:
+Permitir o acesso interativo aos dados, onde usuários podem navegar por dashboards e relatórios de forma dinâmica.
+Proporcionar a manipulação dos dados, como filtragem, agregação e consultas específicas.
+Fornecer capacidade para a análise adequada, ajudando gestores e analistas a identificar padrões e tomar decisões baseadas em informações.
+Esses pontos são corroborados por autores e especialistas no campo de BI:
+Turban et al. (2011), no livro Business Intelligence: A Managerial Approach, destacam que o BI fornece acesso interativo a dados e suporta análises eficazes.
+Kimball et al. (2013), no livro The Data Warehouse Toolkit, discutem como ferramentas de BI ajudam a organizar, manipular e analisar dados para insights empresariais.
+Segundo um artigo da Gartner, BI é descrito como um meio de fornecer dados acessíveis e relevantes para apoiar decisões baseadas em fatos.
+Dessa forma, a afirmação está correta.
+Resposta: C - Certo
+Se necessário, posso buscar fontes específicas para complementar esta análise.
+Reportar abuso
+Ajudou (0) Não ajudou
+Ronaldo Chaves
+11 de junho de 2024 às 20:10
+C
+Reportar abuso
+Ajudou (0) Não ajudou
+5
+Q3312300
+Administração de Recursos Materiais Objetivos do Setor de Compras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+A respeito das compras no setor público, julgue os itens subsequentes.
+A manutenção do cadastro de fornecedores, o processamento das compras com a seleção do fornecedor e o acompanhamento e pagamento de pedidos devem ser realizados pelos mesmos servidores do setor de compras da organização.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+68.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Gabriel Galindro De Oliveira E Silva
+20 de setembro de 2024 às 21:45
+Pagamento de pedidos é função do Financeiro e não do setor de compras
+Reportar abuso
+Ajudou (25) Não ajudou
+Guilherme
+13 de julho de 2024 às 09:19
+Controle interno: Principio da segregação de funções.
+Reportar abuso
+Ajudou (21) Não ajudou
+Matheus Oliveira Silva
+14 de novembro de 2024 às 12:29
+Complementando a informação dos amigos, a Lei 14.133, de 2021 — que estabelece normas gerais de licitação e contratação para as Administrações Públicas — determina o seguinte:
+
+art. 7º, § 1º A autoridade referida no caput deste artigo deverá observar o princípio da segregação de funções, vedada a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na respectiva contratação.
+Reportar abuso
+Ajudou (11) Não ajudou
+Marcelo Lamim
+21 de dezembro de 2024 às 13:25
+Segregação das funções
+Reportar abuso
+Ajudou (3) Não ajudou
+RF
+Raiane Fontineles Da Silva
+4 de janeiro de 2025 às 16:52
+Só hoje errei duas vezes por não ler :pagamento de pedidos.
+Reportar abuso
+Ajudou (0) Não ajudou
+6
+Q3312277
+Administração Financeira e Orçamentária - AFO Estrutura Programática
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+O prefeito de determinado município, tendo assumido o compromisso de ser mais transparente na evidenciação dos gastos públicos, instalou na cidade outdoors com gráficos e informações simplificadas sobre a execução do orçamento. O gestor destacou que o cidadão deveria ser informado acerca do que se pretendia alcançar com a implementação de uma política pública.
+
+Tendo como base a situação hipotética precedente, julgue o item a seguir, relativo a estrutura programática.
+As informações mais apropriadas para que a assessoria de comunicação da prefeitura em questão prepare o material a ser divulgado ao público podem ser obtidas a partir da classificação da despesa por programas de trabalho, os quais contêm informações qualitativas e quantitativas.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+82.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Amanda Beatriz Da Silveira
+10 de agosto de 2024 às 08:55
+Vou tentar explicar essa questão para o pessoal, porque eu também confundi programas de trabalho com classificação programática.
+
+Realmente o orçamento é ORGANIZADO em programas de trabalho e dentro dele as informações são organizadas em classificações qualitativas e quantitativas.
+Ou seja, o programa de trabalho é o GRUPO e dentro dele que se encontram:
+SUBGRUPO de classificação qualitativa ( por Esfera, Institucional, Funcional e Programática) e
+SUBGRUPO de classificação quantitativa ( de meta física, natureza da despesa, Identificador de Uso (IDUSO), Fonte de Recursos, Identificador de Doação e de Operação de Crédito (IDOC) Identificador de Resultado Primário e Dotação).
+
+Então, Programa de Trabalho = classificação qualitativa + classificação quantitativa.
+
+
+Com isso a afirmação fica correta, pois os programas de trabalho agregam todas as informações da despesas.
+Reportar abuso
+Ajudou (42) Não ajudou
+Helio
+8 de julho de 2024 às 05:42
+A classificação da despesa por programas de trabalho é uma forma de organização orçamentária que permite a visualização clara dos objetivos e metas das políticas públicas, bem como dos recursos alocados para cada programa. Essa classificação facilita a compreensão tanto das informações qualitativas (objetivos e metas) quanto das quantitativas (valores alocados e executados), sendo, portanto, adequada para a divulgação ao público.
+
+FONTE: Maia
+Reportar abuso
+Ajudou (15) Não ajudou
+Erveson Alan Costa Santos
+3 de julho de 2024 às 20:20
+Estrutura Programática - Programa
+O que se pretende alcançar com a implementação da Política Pública?
+MTO-2024.
+Reportar abuso
+Ajudou (6) Não ajudou
+Bruno Caixeta Silva
+3 de julho de 2024 às 12:36
+Eu fiquei na dúvida pelo quantitativas, pois a classificação programática é qualitativa.
+Reportar abuso
+Ajudou (6) Não ajudou
+Mara Silva
+14 de agosto de 2024 às 00:10
+A afirmativa está certa.
+A classificação da despesa por programas de trabalho, que inclui programas, ações, subações, e metas, fornece informações detalhadas sobre o que se pretende alcançar com cada política pública, tanto em termos qualitativos (objetivos e metas) quanto quantitativos (valores financeiros envolvidos). Essas informações são essenciais para a transparência na execução do orçamento e permitem que o cidadão compreenda como os recursos públicos estão sendo utilizados e quais são os resultados esperados.
+
+Portanto, as informações mais apropriadas para a assessoria de comunicação da prefeitura preparar o material de divulgação ao público podem, de fato, ser obtidas a partir dessa classificação.
+
+A resposta correta é Certo.
+Reportar abuso
+Ajudou (3) Não ajudou
+7
+Q3312294
+Administração de Recursos Materiais Atributos para a Classificação de Materiais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+Julgue os itens que se seguem, acerca da classificação de materiais nas organizações públicas.
+A flexibilidade constitui um atributo da classificação de materiais que possibilita a interação entre os diversos tipos de classificação, de modo a se obter uma visão ampla da gestão de estoques.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+85.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lázaro Lima Verde
+18 de julho de 2024 às 10:45
+De De acordo com João José Viana (2010) um sistema de classificação deve possuir três atributos principais: abrangência, flexibilidade e praticidade.
+ABRANGÊNCIA – A abrangência deve permitir que a classificação possa incluir um vasto número de diferentes tipos de materiais, englobando uma grande variedade de características como peso, forma, dimensão, custos, etc. Isso permite que ela seja abrangente o suficiente para representar todos os tipos de materiais em suas mais variadas dimensões.
+FLEXIBILIDADE – A flexibilidade deve proporcionar uma visão global do estoque e, especialmente, o inter-relacionamento entre as diversas classificações.
+Dessa forma a classificação deve ser sempre maleável e adaptável, podendo se adequar à realidade da organização e facilitando a comunicação entre os diferentes tipos adotados.
+PRATICIDADE – Por último, a praticidade exige simplicidade da classificação. Não deve exigir dos classificados julgamentos subjetivos ou complexos. Deve ser simples e direta.
+Reportar abuso
+Ajudou (44) Não ajudou
+8
+Q3312223
+Administração Financeira e Orçamentária - AFO Orçamento Público no Brasil
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+No que se refere ao orçamento público e a seus planos e suas classificações, julgue os itens a seguir.
+O sistema de planejamento e orçamento brasileiro prevê a elaboração compulsória de somente dois instrumentos básicos: a lei de diretrizes orçamentárias (LDO) e a lei orçamentária anual (LOA).
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+95.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Atila
+2 de julho de 2024 às 21:01
+O sistema de planejamento e orçamento brasileiro prevê a elaboração compulsória de três instrumentos básicos: o plano plurianual (PPA), a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA).
+Reportar abuso
+Ajudou (45) Não ajudou
+Vania De Aquino Neves
+8 de outubro de 2024 às 21:25
+Exato! O sistema de planejamento e orçamento brasileiro é fundamentado em três instrumentos essenciais, que são elaborados obrigatoriamente:
+
+Plano Plurianual (PPA):
+Instrumento de médio prazo (4 anos).
+Estabelece as diretrizes, objetivos e metas da administração pública para um período de 4 anos.
+Define as prioridades de governo e orienta a elaboração da LDO e da LOA.
+
+Lei de Diretrizes Orçamentárias (LDO):
+Instrumento anual.
+Serve como um elo entre o PPA e a LOA.
+Define as metas e prioridades para o exercício financeiro seguinte.
+Orienta a elaboração da LOA e estabelece regras para a execução orçamentária e o controle das contas públicas.
+
+Lei Orçamentária Anual (LOA):
+Instrumento anual.
+Detalha as receitas e despesas previstas para o ano seguinte.
+Deve estar em conformidade com o PPA e as diretrizes da LDO.
+A LOA é dividida em três orçamentos: Fiscal, da Seguridade Social e de Investimentos das estatais.
+
+Esses instrumentos são fundamentais para o planejamento, a gestão e a execução das políticas públicas, garantindo a organização das finanças públicas e o controle dos gastos do governo.
+Reportar abuso
+Ajudou (9) Não ajudou
+Vander Muniz Pavao
+28 de julho de 2024 às 18:43
+O modelo orçamentário brasileiro é definido na Constituição Federal de 1988 do Brasil. Compõe-se de três instrumentos: o Plano Plurianual – PPA, a Lei de Diretrizes Orçamentárias – LDO e a Lei Orçamentária Anual - LOA.
+Art. 165. Leis de iniciativa do Poder Executivo estabelecerão:
+I - o plano plurianual;
+II - as diretrizes orçamentárias;
+III - os orçamentos anuais.
+Errado
+
+
+Acesse o Instagram: candy_concurseira
+/\_/\
+( o.o )
+> ^ <
+
+Vixe Mãinha! A MAIA, IA Nutella 🍫
+, É PAIA 😒
+e MALA 🧳 sem alça.
+
+Reportar abuso
+Ajudou (4) Não ajudou
+9
+Q3129562
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão e Governança de Tecnologia da Informação - 2024
+Texto associado
+Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados), julgue os itens subsecutivos.
+Os dados que forem anonimizados serão considerados dados pessoais para os fins da Lei Geral de Proteção de Dados independente se a anonimização possa ser revertida ou não.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+70.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Evelise
+2 de fevereiro de 2024 às 17:54
+Os dados anonimizados não serão considerados dados pessoais para os fins desta Lei, salvo quando o processo de anonimização ao qual foram submetidos for revertido, utilizando exclusivamente meios próprios, ou quando, com esforços razoáveis, puder ser revertido.
+Reportar abuso
+Ajudou (55) Não ajudou
+Ítalo
+21 de fevereiro de 2024 às 16:01
+Art. 12. Os dados anonimizados não serão considerados dados pessoais para os fins desta Lei, salvo quando o processo de anonimização ao qual foram submetidos for revertido, utilizando exclusivamente meios próprios, ou quando, com esforços razoáveis, puder ser revertido.
+
+Reportar abuso
+Ajudou (12) Não ajudou
+IV
+Ivania Vieira Da Silva Oliveira
+18 de março de 2024 às 20:42
+Art. 12. Os dados anonimizados não serão considerados dados pessoais para os fins desta Lei, salvo quando o processo de anonimização ao qual foram submetidos for revertido, utilizando exclusivamente meios próprios, ou quando, com esforços razoáveis, puder ser revertido.
+Reportar abuso
+Ajudou (1) Não ajudou
+Thiago Castro
+28 de março de 2024 às 14:35
+Art. 12. Os dados anonimizados não serão considerados dados pessoais para os fins desta Lei, salvo quando o processo de anonimização ao qual foram submetidos for revertido, utilizando exclusivamente meios próprios, ou quando, com esforços razoáveis, puder ser revertido.
+Reportar abuso
+Ajudou (0) Não ajudou
+10
+Q3340833
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Analista Judiciário - Área Apoio Especializado - Especialidade Análise de Sistemas - 2024
+Texto associado
+Com base na Lei Geral de Proteção de Dados Pessoais (LGPD) e no Marco Civil da Internet, julgue os itens a seguir.
+Conforme a LGPD, no âmbito do tratamento de dados pessoais pelo poder público, consideradas a execução de políticas públicas e a prestação de serviços públicos, os dados deverão ser mantidos em formato interoperável e estruturado para uso compartilhado.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+70.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Bq Oliveira
+16 de julho de 2024 às 11:16
+Art. 25. Os dados deverão ser mantidos em formato interoperável e estruturado para o uso compartilhado, com vistas à execução de políticas públicas, à prestação de serviços públicos, à descentralização da atividade pública e à disseminação e ao acesso das informações pelo público em geral.
+
+Reportar abuso
+Ajudou (58) Não ajudou
+11
+Q3405830
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Médico - Área Clínica Geral - 2024
+Texto associado
+Texto CG1A1-I
+A expressão “inteligência artificial” é muito popular, tanto
+na literatura técnica quanto no imaginário popular. A sociedade
+se espanta com os prometidos ganhos em bem-estar e
+produtividade e se apavora com perspectivas apocalípticas
+relacionadas à inteligência artificial. Em muitos casos, o que se
+observa é a confusão entre inteligência artificial e toda e qualquer
+atividade que envolve aparelhos digitais. Muitas inovações
+recentes creditadas à inteligência artificial decorrem
+simplesmente da automatização de tarefas cotidianas ou do uso
+de tecnologias dominadas há algum tempo.
+É preciso filtrar um pouco os excessos e procurar se ater
+aos pontos que caracterizam mais fortemente as inteligências
+artificiais, mesmo que tenhamos uma definição vaga de
+inteligência artificial. Um agente inteligente, de forma geral, deve
+ser capaz de representar conhecimento e incerteza; de raciocinar;
+de tomar decisões; de aprender com experiências e instruções; de
+se comunicar e interagir com pares e com o mundo. Embora
+alguém possa imaginar cérebros biológicos artificiais, hoje toda a
+ação em inteligência artificial está centrada em computadores
+digitais construídos a partir de silício.
+Fabio G. Cozman e Hugo Neri. O que, afinal, é inteligência artificial?
+In: Fabio G. Cozman, Guilherme Ary Plonski e Hugo Neri (orgs).
+Inteligência artificial: avanços e tendências.
+São Paulo: Instituto de Estudos Avançados, 2021, p. 22-23 (com adaptações).
+Com base nas ideias do texto CG1A1-I, julgue os itens a seguir.
+Segundo o texto, atualmente o campo de ação da inteligência artificial está circunscrito a computadores digitais construídos a partir de silício.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+74.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+T
+Thais
+24 de novembro de 2024 às 21:39
+A resposta está no final do último parágrafo:
+"Embora alguém possa imaginar cérebros biológicos artificiais, hoje toda a ação em inteligência artificial está centrada em computadores digitais construídos a partir de silício."
+Reportar abuso
+Ajudou (3) Não ajudou
+Ronaldo Chaves
+7 de setembro de 2024 às 19:49
+C
+Reportar abuso
+Ajudou (0) Não ajudou
+12
+Q3405881
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Professor de Educação Básica - Área: Língua Portuguesa - 2024
+Texto associado
+Texto CG1A1-II
+
+Sociedades contemporâneas produzem ciência. Mas sociedades remotas também a produziam, ainda que não o fizessem com os mesmos ferramentais metodológicos de observação e experimentação desenvolvidos e apurados nos séculos posteriores. Nosso conceito mais amplo de ciência pressupõe a tentativa de explicar e entender racionalmente a natureza. Assim como o progresso científico molda e é moldado pelas ideias compartilhadas entre as pessoas no tempo, o mesmo ocorre com a arte, que necessariamente captura, reflete e confronta a sua contemporaneidade. Contudo, embora arte e ciência tenham caminhado juntas no decorrer da história da civilização humana, a literatura que hoje conhecemos como ficção científica corresponde a uma ramificação literária moderna. Talvez seja injusto classificá-la como um gênero, sob o risco de reduzir a ampla extensão de sua capacidade de mesclar diversos territórios, temas e estilos. Em um complexo amálgama de romance, ciência, profecia e especulação, há nessas obras um componente de cientificismo que se tornou explícito na ficção científica em um recorte mais recente da história humana, quando autores, deliberada e conscientemente, incorporaram modelos racionais de explicação em narrativas que, por serem ficcionais, poderiam até se valer de um salvo-conduto que as libertaria dos compromissos técnicos e morais da razão, mas não o fizeram.
+
+Luiz Aloysio Rangel. História e ficção científica: locomotivas, androides e outras viagens do metaverso. São Paulo: Editora Contexto, 2023, p. 10 (com adaptações).
+
+Julgue os itens que se seguem, a respeito das ideias veiculadas no texto CG1A1-II.
+No texto, o autor aponta uma possível consequência negativa de se enquadrar a ficção científica como um gênero.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+77.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Nadine
+11 de setembro de 2024 às 21:40
+" Talvez seja injusto classificá-la como um gênero, sob o risco de reduzir a ampla extensão de sua capacidade de mesclar diversos territórios, temas e estilos."
+Reportar abuso
+Ajudou (9) Não ajudou
+13
+Q3128919
+Administração de Recursos Materiais Armazenagem, Distribuição e Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+Acerca da armazenagem, da gestão de estoques e da gestão de transportes, julgue os itens subsequentes.
+O modal de transporte rodoviário é o mais adequado para transportes de cargas a longas distâncias e em grandes quantidades.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+77.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Jacqueline Cristina Silva
+6 de fevereiro de 2024 às 21:11
+O modal de transporte rodoviário é mais adequado para distâncias curtas e médias, bem como para quantidades menores de carga, especialmente quando se considera o transporte de carga a longa distância e em grandes quantidades.
+Para longas distâncias e grandes volumes de carga, outros modais de transporte, como ferroviário e aquaviário (marítimo e fluvial), são geralmente mais eficientes e econômicos. O transporte rodoviário pode enfrentar limitações, como custos mais elevados de combustível, maior tempo de trânsito e restrições de capacidade em comparação com esses modais alternativos.
+Portanto, o modal de transporte rodoviário é mais adequado para distâncias mais curtas e quantidades menores de carga, enquanto para longas distâncias e grandes volumes, outros modais são preferíveis.
+
+Reportar abuso
+Ajudou (64) Não ajudou
+Juliane
+11 de fevereiro de 2024 às 14:40
+Rodoviário:
+O modal mais utilizado no Brasil, ideal para curtas e médias distâncias.
+Oferece flexibilidade, capilaridade e variedade de opções de veículos.
+Pode ser mais caro e menos eficiente em comparação com outros modais para longas distâncias.
+Reportar abuso
+Ajudou (7) Não ajudou
+Maicon Nunes Da Cruz
+22 de março de 2024 às 10:13
+Longas distâncias e grandes quantidades => trem ou embarcação.
+Reportar abuso
+Ajudou (5) Não ajudou
+RF
+Raiane Fontineles Da Silva
+12 de janeiro de 2025 às 13:00
+Rodoviário: . É ideal para distâncias curtas e médias, flexível e eficiente para entregas porta a porta, mas limitado em capacidade e dependente das condições das estradas.
+
+Ferroviário: para transporte de grandes volumes e longas distâncias, especialmente de cargas pesadas, como minérios. Menos flexível que o rodoviário, mas é econômico e eficiente em termos de carga.
+
+Aéreo: Ideal para cargas leves urgentes e de alto valor, embora seja mais caro. Rápido, mas limitado em capacidade de carga.
+
+Marítimo: transporta grandes volumes, principalmente de exportação e importação entre países. É o modal mais eficiente para grandes quantidades e longas distâncias, porém mais lento.
+
+Hidroviário: Transporte realizado por embarcações em rios ou vias navegáveis. É eficiente para cargas volumosas e pesadas, mas limitado a áreas com infraestrutura hídrica adequada.
+Reportar abuso
+Ajudou (2) Não ajudou
+MP
+Miguel Pereira Barros
+29 de maio de 2024 às 11:04
+Para o transporte de grandes materiais a longas distâncias, o recomendável é que se utilize o modal de transporte ferroviário ou aéreo, haja vista que suportam uma quantidade maior de materiais e demandam menos tempo para a sua pronta entrega. Um exemplo prático é a distribuição de insumos para as vítimas das enchentes no Rio grande do Sul, cujo transporte tem sido, em sua maioria, através de aviões de carga.
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 2
+14
+Q3175414
+Administração de Recursos Materiais Administração de Compras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Em relação a compras no setor privado, julgue os itens subsequentes.
+O acompanhamento dos pedidos de compra é atribuição da equipe de almoxarifado, que deve acionar o setor de compras em caso de atrasos no fornecimento.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+76.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Maicon Nunes Da Cruz
+18 de março de 2024 às 08:19
+Errada. A atrituição de acompanhamento do pedido é atribuição da equipe de compras, mais especificamente do diligenciamento - diligenciar o pedido é uma das atribuições da equipe de compras.
+Reportar abuso
+Ajudou (40) Não ajudou
+LM
+Leonardo Monteiro
+16 de maio de 2024 às 22:36
+Acompanhar o pedido é atribuicäo da equipe de compras> diligenciamento (folow-up)
+Reportar abuso
+Ajudou (10) Não ajudou
+Marcelo Lamim
+21 de dezembro de 2024 às 13:22
+Acompanhamento do pedido (follow_up) e feito pela equipe de compras - diligenciamnto
+
+Reportar abuso
+Ajudou (1) Não ajudou
+Igor Pereira Da Silva Jr.
+15 de março de 2024 às 00:39
+errado
+Reportar abuso
+Ajudou (1) Não ajudou
+15
+Q3128956
+Administração de Recursos Materiais Administração dos Almoxarifados
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+No que se refere à gestão de insumos, julgue os itens a seguir.
+Considere-se que determinado órgão apresente um antigiro de lâmpadas fluorescentes de 2 anos. Nessa situação, caso surja nova tecnologia que substitua tais lâmpadas com economia energética em torno de 1% a 2%, o pedido de aquisição de novos dispositivos deverá ser processado imediatamente para que se passe a consumir o novo item quando de sua chegada ao almoxarifado.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+74.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Manuella O Nascimento
+30 de janeiro de 2024 às 17:02
+ERRADO
+Aguarda o fim da vida útil e depois começa a utilizar as próximas.
+Reportar abuso
+Ajudou (63) Não ajudou
+AD
+Alessandra De Abreu Arruda
+15 de fevereiro de 2024 às 21:58
+Se o Anti giro (Taxa de Cobertura) é de 2 anos (ou seja, o estoque atual mantém o fornecimento por 2 anos) e a eficiência energética é de apenas 1% a 2%, não faz sentido realizar a compra imediata dos produtos, uma vez que não haverá adequado uso eficiente dos recursos da instituição. Nessa situação, o ideal é esperar o consumo completo do estoque atual e só após realizar a troca para a nova tecnologia.
+Reportar abuso
+Ajudou (42) Não ajudou
+Elizeu Pinheiro Da Silva
+28 de fevereiro de 2024 às 17:17
+primeira coisa que pensei foi " e vai jogar as lampadas que ainda não foram usadas no "mato" não!!!!! Reposta: E
+Reportar abuso
+Ajudou (19) Não ajudou
+RF
+Raiane Fontineles Da Silva
+12 de janeiro de 2025 às 12:49
+Nos comentários, deveria ter a opção de responder aos comentários dos colegas...
+Reportar abuso
+Ajudou (5) Não ajudou
+MP
+Miguel Pereira Barros
+29 de maio de 2024 às 11:07
+Além de esperar pelo consumo das lâmpadas existentes na organização, é preciso reuniões e debates entre os membros da organização a fim de avaliar se o consumo dessas lâmpadas, de fato, produz uma economia imediata e qual seria o custo para a sua aquisição e posterior troca daquelas existentes. Logo, gabarito errado.
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 2
+16
+Q3175492
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Julgue os itens que se seguem, referentes a logística, logística reversa e canais reversos de distribuição.
+A logística é uma atividade recente, que surgiu com a popularização dos computadores pessoais.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+95.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+AD
+Alessandra De Abreu Arruda
+11 de agosto de 2024 às 15:03
+A logística é uma atividade oriunda dos períodos de guerra. Tentava-se gerir toda a cadeia de suprimentos para os exércitos durante a guerra, em relação À munição, armas, soldados, remédios, entre outros, todos encaminhados para o objetivo.
+No período pós segunda guerra mundial, com o objetivo de trazer maiores vantagens competitivas às empresas e focando-se na reconstrução e crescimento econômico, a logística passou a ter um papel a mais: ajudar as empresas a alcançar seus objetivos e atender seus clientes.
+Reportar abuso
+Ajudou (5) Não ajudou
+17
+Q3178137
+Raciocínio Lógico Verdades e Mentiras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Tecnologista - Área: Propriedade Industrial Língua Inglesa - 2024
+Texto associado
+Em relação aos raciocínios falaciosos, julgue os itens seguintes.
+Quando um delegado formula a pergunta “Você continua furtando celulares e carteiras nos transportes públicos?”, tanto uma resposta “sim” quanto uma resposta “não” serão prejudiciais ao interrogado.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+68.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lorena Soares De Oliveira Rocha
+17 de novembro de 2024 às 13:46
+Certo.
+Essa é a Falácia da Pergunta insinuante: Pergunta insinuante: uma pergunta feita que já insinua a resposta, ou faz uma acusação prévia.
+
+Reportar abuso
+Ajudou (23) Não ajudou
+Marina Freitas Rocha
+23 de janeiro de 2025 às 21:00
+https://www.youtube.com/watch?v=b-Ei8KMCtjQ&t=9s
+
+Espero que ajude.
+Bons estudos!
+Reportar abuso
+Ajudou (4) Não ajudou
+18
+Q3419652
+Administração de Recursos Materiais Cadastro e Seleção de Fornecedores
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+Em relação às compras nas organizações públicas, julgue os itens subsequentes.
+O recebimento das requisições de compras das áreas demandantes, a manutenção de cadastro de fornecedores e a pesquisa de preços no mercado são etapas predecessoras da etapa de seleção de fornecedores.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+67.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Igor Maxwell
+7 de janeiro de 2025 às 10:27
+O recebimento das requisições de compras das áreas demandantes (setor x precisa das peças Y, então faz requisição para o setor de compras) , a manutenção de cadastro de fornecedores (atualiza os fornecedores) e a pesquisa de preços no mercado (pesquisa os melhores preços nos fornecedores atualizados) são etapas predecessoras (predecessoras= anterior) da etapa de seleção de fornecedores. (Depois seleciona de quem vai comprar)
+
+Pensei assim.
+Fonte: minha mente kkkk
+Reportar abuso
+Ajudou (14) Não ajudou
+Jeferson Brito
+3 de outubro de 2024 às 18:04
+Me perdi na questão, mas realmente as etapas que a banca mencionou precedem a seleção de fornecedores no processo de compras públicas.
+Reportar abuso
+Ajudou (5) Não ajudou
+Maria Eduarda Santos
+3 de janeiro de 2025 às 11:37
+ao invés de ler precededoras, li pertencedoras! Meu pai.
+Reportar abuso
+Ajudou (4) Não ajudou
+N
+Nathalia
+8 de janeiro de 2025 às 16:18
+O termo predecessora refere-se a uma etapa que deve ser realizada antes de outra etapa subsequente dentro de um processo. Logo, na visão de Fenili (2016), no processo de compras em organizações públicas, as etapas de recebimento das requisições de compras, a manutenção do cadastro de fornecedores e a pesquisa de preços são, de fato, predecessoras da etapa de seleção de fornecedores. Essas atividades são antes pois buscam levantar as necessidades de compra, identificar fornecedores qualificados e obter referências de preços para embasar a escolha do fornecedor mais adequado.
+
+Comentário do TEC
+Reportar abuso
+Ajudou (1) Não ajudou
+19
+Q3312323
+Administração de Recursos Materiais Classificação ABC
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Analista Administrativo - 2024
+Texto associado
+No que diz respeito à classificação de materiais na administração pública, julgue os itens a seguir.
+Consoante a metodologia da curva ABC, os materiais da classe C representam os itens mais numerosos e menos importantes, respondendo com pouca relevância ao valor global do estoque.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+86.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Pedro
+19 de dezembro de 2024 às 14:30
+Classe C: Constitui cerca de 50% dos itens em estoque, mas apenas cerca de 5% do valor total. Estes itens são os menos valiosos e podem ser gerenciados com controles menos intensivos.
+
+Reportar abuso
+Ajudou (7) Não ajudou
+Manuelle Cavalcante Bardales
+28 de julho de 2024 às 22:40
+C
+Reportar abuso
+Ajudou (1) Não ajudou
+20
+Q3235083
+Administração de Recursos Materiais PEPS ou FIFO (Primeiro a Entrar, Primeiro a Sair)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Agente Administrativo - 2024
+Texto associado
+Julgue os próximos itens, relativos à administração de patrimônio, materiais e logística.
+São métodos para avaliação financeira dos estoques: primeiro que entra, primeiro que sai; último que entra, primeiro que sai; e custo médio.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+73.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+CD
+Creuza Domingos Dos Santos
+20 de novembro de 2024 às 16:22
+Métodos de avaliação de estoques:
+
+− Avaliação pelo custo médio
+
+− Método PEPS (FIFO)
+
+− Método UEPS (LIFO)
+
+− Custo de reposição
+Reportar abuso
+Ajudou (16) Não ajudou
+VF
+Vitor Ferreira
+19 de dezembro de 2024 às 09:54
+Gabarito CERTO.
+
+A dúvida era se os métodos de Avaliação de Estoques eram também considerados de Avaliação Financeira, e algo que o site F360/gestão pública não traz ou qualquer outra fonte traz tal esclarecimento, mas a Banca considerou que sim.
+Reportar abuso
+Ajudou (8) Não ajudou
+Cristiane De Bortoli Andrade Goncalves
+6 de janeiro de 2025 às 19:00
+Os métodos mais utilizados para avaliar o estoque de uma empresa são:
+PEPS (Primeiro que Entra, Primeiro que Sai) - Este método é um dos mais utilizados e consiste em vender as mercadorias na ordem cronológica em que entraram. 
+UEPS (Último que Entra, Primeiro que Sai) - Este método não é muito utilizado no Brasil, pois não é autorizado pela legislação fiscal. 
+Custo médio ponderado fixo - Este método calcula o custo dos estoques por uma média geral, com base no custo total dos materiais disponíveis para consumo ou produção. 
+Outros métodos de avaliação de estoque são: Custo médio ponderado móvel, Custo específico, Método de varejo.
+
+Fonte: AI Google
+Reportar abuso
+Ajudou (4) Não ajudou
+Ellayne Kathryn
+6 de janeiro de 2025 às 20:13
+Errei por burrice
+Reportar abuso
+Ajudou (1) Não ajudou
+Vitor Jesus
+4 de novembro de 2024 às 20:38
+.
+Reportar abuso
+Ajudou (0) Não ajudou

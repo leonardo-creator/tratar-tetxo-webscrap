@@ -1,0 +1,930 @@
+1
+Q3238149
+Administração de Recursos Materiais Distribuição
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+Julgue os itens que se seguem, em relação a modais de transporte e a operações de transporte multimodal em uma indústria petrolífera.
+Os fundeadouros são locais onde os navios ancoram à espera de transbordo, podendo executar as operações de carga ou descarga por transferência a embarcações de menor porte.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+73.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Naiane Mota De Oliveira
+2 de janeiro de 2025 às 15:52
+Vulgo ANCORADOURO.
+Reportar abuso
+Ajudou (2) Não ajudou
+2
+Q3419631
+Administração de Recursos Materiais Atributos para a Classificação de Materiais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+Em relação à classificação de materiais nas organizações, julgue os itens subsecutivos.
+A utilização do atributo abrangência para categorizar um material baseia-se em suas diversas características, tais como aspectos físicos, financeiros e contábeis.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+90.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Elisa Montagna
+18 de setembro de 2024 às 13:08
+De acordo com Viana (2011) são 3 os atributos (qualidades) de um bom sistema de classificação:
+Abrangência: aspectos físicos, financeiros, contábeis dos materiais… são todas as características dos materiais, de forma abrangente.
+Flexibilidade: é a comunicação” entre os tipos de classificação, um sistema flexível permite obter uma visão ampla da gestão de estoques, e assim, possibilita adaptar e melhorar o sistema de classificação sempre que for preciso.
+Praticidade: a classificação deve fornecer ao gestor informações objetivas, simples e direta, que não sejam complexas e dificultem o trabalho.
+Reportar abuso
+Ajudou (31) Não ajudou
+3
+Q3419695
+Administração de Recursos Materiais Administração dos Almoxarifados
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+No que tange ao transporte e à estrutura para distribuição de materiais nas organizações públicas, julgue os itens que se seguem.
+O fornecimento por pressão é o processo de uso facultativo pelo qual se entrega o material ao usuário mediante tabelas de provisão previamente estabelecidas pelo setor de almoxarifado.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+47.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Nayara Silva Da Conceicao
+17 de outubro de 2024 às 11:26
+
+O fornecimento por pressão é de uso facultativo, em que há a entrega do material ao usuário conforme tabelas de provisão previamente estabelecidas pelo setor responsável, em épocas definidas. Essas tabelas geralmente são preparadas para: materiais de limpeza, materiais de expediente e gêneros alimentícios.
+Reportar abuso
+Ajudou (41) Não ajudou
+4
+Q3419308
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista de Tecnologia da Informação - Área Projetos de TI - 2024
+Texto associado
+Conforme o que preconiza a LPGD para o encarregado de dados, julgue os itens subsequentes.
+A identidade e as informações de contato do encarregado de dados devem ser mantidas em sigilo, podendo ser publicadas mediante solicitação do interessado.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+77.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+DA
+Donizete Aparecido De Souza
+3 de novembro de 2024 às 10:57
+Lei 13709
+Art. 41. O controlador deverá indicar encarregado pelo tratamento de dados pessoais.
+
+§ 1º A identidade e as informações de contato do encarregado deverão ser divulgadas publicamente, de forma clara e objetiva, preferencialmente no sítio eletrônico do controlador.
+Reportar abuso
+Ajudou (36) Não ajudou
+5
+Q3193004
+Tecnologia da Informação Dados estruturados e não estruturados
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Analista - Área: Administração de Banco de Dados - 2024
+Texto associado
+No que se refere a dados estruturados e não estruturados e a técnicas de integração e ingestão de dados, julgue os próximos itens.
+Dados estruturados normalmente são armazenados em arquivos dos tipos doc, wmv, mpw, mp3, wav, jpg; grandes volumes de dados estruturados são armazenados em data lakes, os quais podem ser acessados quando necessário.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+80.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Bluegnomo Ti
+27 de junho de 2024 às 15:45
+Dados NÃO estruturados normalmente são armazenados em arquivos dos tipos doc, wmv, mpw, mp3, wav, jpg; grandes volumes de dados NÃO estruturados são armazenados em data lakes, os quais podem ser acessados quando necessário.
+Reportar abuso
+Ajudou (21) Não ajudou
+Victor Hendrick Gaspar Nunes
+6 de julho de 2024 às 10:59
+Data lakes : Dados não estruturados
+Data warehouse: Dados estruturados
+
+Reportar abuso
+Ajudou (14) Não ajudou
+Eglitongil Carvalho De Souza
+29 de junho de 2024 às 10:50
+Esse tipos de dados "doc, wmv, mpw, mp3, wav, jpg", são NÃO ESTRUTURADOS". Errei por falta de atenção na leitura do enunciado.
+Reportar abuso
+Ajudou (7) Não ajudou
+Hyuri Mamede
+14 de junho de 2024 às 11:17
+Misturou vídeo, áudio, imagens... É certo de ser dados não estruturados.
+Reportar abuso
+Ajudou (5) Não ajudou
+WL
+Washington Luiz Dos Santos
+19 de agosto de 2024 às 20:57
+"Dados estruturados normalmente são armazenados em bancos de dados relacionais, arquivos CSV, ou tabelas SQL. Grandes volumes de dados, tanto estruturados quanto não estruturados, podem ser armazenados em data lakes, que permitem o armazenamento de dados em seu formato nativo e podem ser acessados quando necessário. Arquivos dos tipos doc, wmv, mp3, wav, jpg são exemplos de formatos para dados não estruturados."
+Conclusão:
+A afirmação original está incorreta. Ela confunde conceitos de dados estruturados e não estruturados, e não representa corretamente o uso de data lakes. É importante distinguir entre tipos de dados e suas formas apropriadas de armazenamento para uma compreensão adequada de técnicas de gerenciamento de dados.
+Os data lakes são repositórios de armazenamento de dados que permitem armazenar grandes volumes de dados estruturados, semi-estruturados e não estruturados. No entanto, não é exclusivo para dados estruturados. Data lakes são utilizados para armazenar dados em seu formato original, permitindo a análise e processamento posterior conforme necessário.
+Reportar abuso
+Ajudou (3) Não ajudou
+Página 1 de 2
+6
+Q3193042
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Analista - Área: Administração de Banco de Dados - 2024
+Texto associado
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), julgue os itens subsequentes.
+O tratamento de dados pessoais sensíveis somente poderá ocorrer quando o titular consentir, de forma específica e destacada, para finalidades específicas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+59.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Kesia Tiecher
+28 de maio de 2024 às 11:21
+Errada pois há duas hipóteses e não somente a citada na questão.
+
+O tratamento de dados pessoais sensíveis somente poderá ocorrer nas seguintes hipóteses:
+I - quando o titular ou seu responsável legal consentir, de forma específica e destacada, para finalidades específicas;
+II - sem fornecimento de consentimento do titular, nas hipóteses em que for indispensável para:
+a) cumprimento de obrigação legal ou regulatória pelo controlador;
+b) tratamento compartilhado de dados necessários à execução, pela administração pública, de políticas públicas previstas em leis ou regulamentos;
+c) realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais sensíveis;
+d) exercício regular de direitos, inclusive em contrato e em processo judicial, administrativo e arbitral, este último nos termos da Lei nº 9.307, de 23 de setembro de 1996 (Lei de Arbitragem) ;
+e) proteção da vida ou da incolumidade física do titular ou de terceiro;
+f) tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou autoridade sanitária; ou
+g) garantia da prevenção à fraude e à segurança do titular, nos processos de identificação e autenticação de cadastro em sistemas eletrônicos, resguardados os direitos mencionados no art. 9º desta Lei e exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais.
+Reportar abuso
+Ajudou (72) Não ajudou
+Rafael Costa
+22 de agosto de 2024 às 10:05
+A resposta correta é: E - Errado.
+Justificativa:
+Embora o consentimento seja uma das bases legais mais importantes para o tratamento de dados pessoais sensíveis, ele não é a única. A LGPD, em seu artigo 11, estabelece diversas hipóteses em que o tratamento desses dados pode ser realizado sem o consentimento expresso do titular.
+Por que a afirmação está errada?
+Outras bases legais: Além do consentimento, a LGPD prevê outras situações em que o tratamento de dados sensíveis pode ser realizado, como o cumprimento de obrigação legal, o exercício regular de direitos em processo judicial, a realização de estudos por órgão de pesquisa, entre outras.
+Proteção de direitos fundamentais: A LGPD busca um equilíbrio entre a proteção de dados pessoais e outros direitos fundamentais. Em algumas situações, o tratamento de dados sensíveis pode ser necessário para garantir outros direitos, como a saúde ou a segurança pública.
+
+Reportar abuso
+Ajudou (14) Não ajudou
+Jussara Cristiane Dos Santos
+11 de setembro de 2024 às 05:59
+ERRADO
+LGPD - Art. 11
+De acordo com a Lei Geral de Proteção de Dados Pessoais (LGPD) n.º 13.709/2018, o tratamento de dados pessoais sensíveis pode ocorrer nas seguintes hipóteses, além do consentimento do titular:
+
+Cumprimento de obrigação legal ou regulatória pelo controlador.
+Tratamento compartilhado de dados necessários à execução, pela administração pública, de políticas públicas previstas em leis ou regulamentos.
+Realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais sensíveis.
+Exercício regular de direitos, inclusive em contrato e em processo judicial, administrativo e arbitral.
+Proteção da vida ou da incolumidade física do titular ou de terceiro.
+Tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou autoridade sanitária.
+Garantia da prevenção à fraude e à segurança do titular, nos processos de identificação e autenticação de cadastro em sistemas eletrônicos, resguardados os direitos mencionados no artigo 9º da LGPD.
+
+Portanto, a afirmação está incompleta, pois não menciona todas as hipóteses previstas na LGPD para o tratamento de dados pessoais sensíveis.
+
+Reportar abuso
+Ajudou (8) Não ajudou
+7
+Q3418778
+Administração de Recursos Materiais Gestão Patrimonial
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Ministerial - Área Administração - 2024
+Texto associado
+Julgue os próximos itens, em relação ao controle dos materiais e do patrimônio nas organizações públicas.
+A designação de colaboradores distintos para exercer as funções de custódia, controle e contabilização dos bens patrimoniais e as verificações periódicas constitui procedimento relacionado às boas práticas da gestão patrimonial.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+TL
+Thairine Lisboa Monteiro
+16 de outubro de 2024 às 11:33
+Segregação de função é importante para evitar corrupção da gestão pública.
+Reportar abuso
+Ajudou (5) Não ajudou
+8
+Q3418383
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista de Tecnologia da Informação - Área Sistemas de Informação - 2024
+Texto associado
+O setor público enfrenta o desafio particular de oferecer serviços públicos cada vez melhores a uma população gradualmente mais bem informada, mais consciente de seus direitos e com expectativas crescentes quanto ao papel do Estado. Devido aos recursos limitados, desenvolver serviços públicos inovadores tem sido visto crescentemente como fator fundamental para sustentar um alto nível de serviços para cidadãos e negócios, bem como para enfrentar desafios sociais e aprimorar o bem-estar social da população.
+Diante desse cenário, o discurso científico sobre inovação em compras públicas ganhou maior atenção nas últimas décadas. A União Europeia reconheceu as compras públicas como instrumento de inovação e de provimento de mercados pioneiros para novos produtos, definindo-as como compras de bens e serviços que ainda não existem, que precisam ser aperfeiçoados ou que requerem pesquisa e inovação para atender às necessidades especificadas pelos usuários.
+As compras públicas representam grande parte da execução da despesa pública. Entre países da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), a média de gastos públicos representa 12% do GDP (equivalente ao PIB) por ano. No Brasil, anualmente o governo federal gasta, em média, 5% do PIB em compras apenas de bens e serviços. Quando se incluem nos cálculos as despesas efetuadas por estados, municípios e estatais, o percentual chega próximo a 15% do PIB, ou R$ 900 bilhões.
+
+Internet: http://www.realp.unb.br/jspui/ (com adaptações).
+
+Considerando as ideias e os aspectos linguísticos do texto apresentado, julgue os itens que se seguem.
+De acordo com o texto, o acesso à informação pela população, o aumento da consciência sobre seus direitos e a expectativa crescente com relação ao papel do Estado têm sido importantes entraves para o oferecimento de serviços públicos de qualidade.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+79.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Renata
+17 de setembro de 2024 às 18:34
+De acordo com o texto, o acesso à informação pela população, o aumento da consciência sobre seus direitos e a expectativa crescente com relação ao papel do Estado têm sido importantes entraves para o oferecimento de serviços públicos de qualidade. errado.
+
+Conceito de entraves:
+são obstáculos, impedimentos ou dificuldades que atrapalham o progresso de algo. O termo é usado para descrever barreiras que impedem o bom andamento de um processo, projeto ou ação, seja no contexto pessoal, organizacional, burocrático ou técnico.
+
+Exemplo: "A burocracia excessiva cria muitos entraves ao desenvolvimento de novos negócios."
+
+
+
+Qualquer erro, avisem-me =)
+
+
+obs: Estou sentindo falta dos comentários dos profs.
+Reportar abuso
+Ajudou (10) Não ajudou
+LS
+Luan S.
+11 de novembro de 2024 às 19:38
+É o tipo de questão que nem é necessário ir ao texto para interpretar.
+
+Basta saber que o termo "entraves" significa "obstáculos", portanto, não faz sentido que "acesso à informação pela população, o aumento da consciência sobre seus direitos e a expectativa crescente com relação ao papel do Estado" sejam obstáculos ao oferecimento de serviços públicos de qualidade. Ao contrário, tudo isso contribui.
+
+Reportar abuso
+Ajudou (1) Não ajudou
+9
+Q3232487
+Administração de Recursos Materiais Administração de Compras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Suprimentos de Bens e Serviços Júnior - Área Administração - 2024
+Texto associado
+Tendo em vista que os estoques são guardados nos almoxarifados e requerem principalmente processos de controle de entrada, acomodação e saída da área de armazenagem, julgue os itens seguintes, acerca da gestão de estoques e almoxarifados.
+Entre os elementos do documento ou formulário de controle de estoques emitido pelo almoxarifado com vistas à solicitação de matéria-prima junto ao setor de compras da própria empresa, o propósito do formulário corresponde ao campo no qual devem ser informadas as especificações e condições de venda do produto.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+50.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daisy Concurseira
+4 de setembro de 2024 às 09:47
+Basicamente o setor de almoxarifado, percebendo a falta de matéria-prima, solicita ao setor de compras a aquisição de novos materiais, assim o erro da questão está em falar que o formulário especificará condições de venda
+Reportar abuso
+Ajudou (48) Não ajudou
+Aline Ferreira De Sousa
+26 de setembro de 2024 às 18:57
+Normalmente, o objetivo do formulário é registrar e comunicar a necessidade de reposição de estoque, especificando as quantidades de matérias-primas necessárias e, eventualmente, as características técnicas ou especificações do produto. Este formulário serve como uma solicitação interna ao Departamento de Compras para continuar comprando os itens necessários.
+As condições de venda dos produtos, como preço, prazo de entrega e condições de pagamento, geralmente são negociadas e registradas pelo departamento de compras e não pelo almoxarifado. O foco do almoxarifado é identificar as necessidades de reabastecimento e comunicar essa necessidade ao departamento responsável pelas compras.
+
+Portanto, a afirmação deste item está incorreta porque confunde a função do formulário de requisição de matéria-prima com a função de registrar especificações e condições de venda, tarefa do departamento de compras.
+Reportar abuso
+Ajudou (20) Não ajudou
+Jeferson Brito
+9 de dezembro de 2024 às 09:56
+O objetivo principal dos formulários é registrar a necessidade de reposição de estoque, especificando as quantidades dos itens existentes , traz descrições técnicas e, possivelmente, o prazo de entrega desejado.
+Reportar abuso
+Ajudou (7) Não ajudou
+Maria Eduarda Santos
+3 de janeiro de 2025 às 17:45
+formulário de controle de estoque visa informar as especificidades dos produtos no momento da compra e não da venda.
+Reportar abuso
+Ajudou (4) Não ajudou
+10
+Q3163380
+Tecnologia da Informação Aprendizado de Máquina
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Acerca do desenvolvimento de pipelines e do processamento distribuído para aprendizado de máquina, julgue os seguintes itens.
+A gestão eficiente de recursos como CPU e memória não é uma consideração crítica em pipelines de aprendizado de máquina, pois os recursos podem ser alocados dinamicamente, conforme necessário.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+79.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Felipe Cordeiro
+29 de novembro de 2024 às 20:49
+E. Errado
+A gestão eficiente de recursos como CPU e memória é, na verdade, uma consideração crítica em pipelines de aprendizado de máquina. Apesar de ser possível alocar recursos dinamicamente, a eficiência no uso desses recursos impacta diretamente a performance, os custos e a escalabilidade dos modelos de aprendizado de máquina. Um uso inadequado pode levar a desperdício de recursos e a limitações no processamento de grandes volumes de dados ou na execução de modelos complexos.
+Reportar abuso
+Ajudou (4) Não ajudou
+11
+Q3436306
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Texto I
+(...) as nações latinas do Novo Mundo não se podem queixar de deslembradas. Cada incidente, ainda sem grande relevo, encontra repercussão na imprensa europeia. Não aparecem, é verdade, nenhuns desses longos estudos, circunstanciados e sábios, onde os mestres em assuntos internacionais dizem o que sabem sobre a história política, social e econômica do país de que se ocupam, para daí deduzirem os seus juízos. Não; como de costume, sempre que se trata das repúblicas latino-americanas, os doutores e publicistas da política mundial se limitam a lavrar sentenças — invariáveis e condenatórias. Como variantes dessas sentenças, eles se limitam a ditar, de tempos em tempos, uns tantos conselhos axiomáticos.
+Manoel Bomfim. América Latina: males de origem. Brasília: Editora Universidade de Brasília, p. 24 (com adaptações).
+Em relação às ideias e aos aspectos linguísticos do texto I, julgue (C ou E) os itens a seguir.
+Segundo o autor do texto, cada incidente ocorrido na América Latina é objeto de estudos aprofundados destinados a lavrar sentenças condenatórias.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+81.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alvaro Lincoln
+14 de outubro de 2024 às 14:27
+Errado, o texto fala que não aparece esses estudos, eles lavram sentenças mesmo sem os estudos.
+Reportar abuso
+Ajudou (7) Não ajudou
+T
+Thais
+18 de novembro de 2024 às 08:49
+...é verdade, nenhuns desses longos estudos, circunstanciados e sábios, onde os mestres em assuntos internacionais dizem o que sabem sobre a história política, social e econômica do país de que se ocupam, para daí deduzirem os seus juízos.
+Reportar abuso
+Ajudou (1) Não ajudou
+Erveson Alan Costa Santos
+23 de novembro de 2024 às 16:56
+Errado.
+O autor do texto aponta que, embora os incidentes na América Latina ganhem repercussão na imprensa europeia, não há estudos aprofundados sobre esses eventos. Em vez disso, os especialistas internacionais "se limitam a lavrar sentenças invariáveis e condenatórias". Ou seja, a crítica é justamente a falta de análises profundas e equilibradas, com os especialistas preferindo emitir juízos superficiais e condenatórios. Portanto, a afirmação está incorreta.
+Reportar abuso
+Ajudou (0) Não ajudou
+12
+Q3436338
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Texto III
+Afinal, os homens nascem iguais, apenas sem uma definição completa da natureza.
+Em Rousseau, por exemplo, com a noção do “bom selvagem”, essa ideia estará absolutamente presente.
+A alteridade desses “novos homens” transformada em modelo lógico se contrapunha à experiência ocidental. Como concluía Rousseau sobre a origem da desigualdade entre os homens, “se há uma bondade original da natureza humana, a evolução social corrompeu-a”.
+O famoso filósofo da Ilustração encontrava um modelo ideal nesse “outro” tão distante do “nós, ocidentais”, e o elegia como moralmente superior. No entanto, ao conformar esse quadro antitético, Rousseau de certa forma se afastava da Ilustração, já que refletia sobre um progresso às avessas.
+Mas, se a visão idílica de Rousseau foi a mais fecunda, é impossível deixar de falar das vertentes mais negativas de interpretação. As imagens que detratam o Novo Mundo se intensificaram, simetricamente correspondentes ao maior conhecimento e colonização desses novos territórios. É o momento em que se passa da projeção da inocência à inata maldade do selvagem.
+Esse debate — que opunha o modelo igualitário da Ilustração às doutrinas raciais — faz parte, no entanto, de um problema mais remoto, sobre as origens da humanidade.
+De um lado, a visão monogenista, dominante até meados do século XIX; de outro, a partir de então, a hipótese poligenista, que se transformava em uma alternativa plausível. Partiam os seus autores da crença na existência de vários centros de criação, que corresponderiam, por sua vez, às diferenças raciais observadas.
+
+Lilia Moritz Schwarcz. O espetáculo das raças.
+São Paulo: Companhia das Letras, 2004, p. 45-48 (com adaptações).
+Em relação aos sentidos do texto III, julgue (C ou E) os itens a seguir.
+Depreende-se da leitura do texto que Rousseau, ao propor a imagem do ‘bom selvagem’, se alinha à tese, proposta pela Ilustração, de progresso da natureza humana.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+70.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alvaro Lincoln
+14 de outubro de 2024 às 14:20
+Errado, de acordo com o texto a evolução corrompeu o homem e não se alinhou ao bom selvagem
+Reportar abuso
+Ajudou (8) Não ajudou
+Erveson Alan Costa Santos
+23 de novembro de 2024 às 16:54
+Errado.
+O texto indica que Rousseau, ao propor a imagem do "bom selvagem", apresenta uma visão antitética ao progresso defendido pela Ilustração. Rousseau argumenta que a "evolução social corrompeu" a bondade original da natureza humana, refletindo, assim, uma visão de "progresso às avessas". Portanto, ele não se alinha à ideia de progresso humano conforme concebida pela Ilustração, mas critica o impacto negativo da evolução social sobre a natureza humana.
+Reportar abuso
+Ajudou (0) Não ajudou
+Lion
+18 de novembro de 2024 às 19:48
+Resposta Errada. O texto traz que Rousseau refletia sobre um progresso "as avessas" ou seja, o afastamento da Ilustração e do bom selvagem.
+Reportar abuso
+Ajudou (0) Não ajudou
+13
+Q3436343
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Texto III
+Afinal, os homens nascem iguais, apenas sem uma definição completa da natureza.
+Em Rousseau, por exemplo, com a noção do “bom selvagem”, essa ideia estará absolutamente presente.
+A alteridade desses “novos homens” transformada em modelo lógico se contrapunha à experiência ocidental. Como concluía Rousseau sobre a origem da desigualdade entre os homens, “se há uma bondade original da natureza humana, a evolução social corrompeu-a”.
+O famoso filósofo da Ilustração encontrava um modelo ideal nesse “outro” tão distante do “nós, ocidentais”, e o elegia como moralmente superior. No entanto, ao conformar esse quadro antitético, Rousseau de certa forma se afastava da Ilustração, já que refletia sobre um progresso às avessas.
+Mas, se a visão idílica de Rousseau foi a mais fecunda, é impossível deixar de falar das vertentes mais negativas de interpretação. As imagens que detratam o Novo Mundo se intensificaram, simetricamente correspondentes ao maior conhecimento e colonização desses novos territórios. É o momento em que se passa da projeção da inocência à inata maldade do selvagem.
+Esse debate — que opunha o modelo igualitário da Ilustração às doutrinas raciais — faz parte, no entanto, de um problema mais remoto, sobre as origens da humanidade.
+De um lado, a visão monogenista, dominante até meados do século XIX; de outro, a partir de então, a hipótese poligenista, que se transformava em uma alternativa plausível. Partiam os seus autores da crença na existência de vários centros de criação, que corresponderiam, por sua vez, às diferenças raciais observadas.
+Lilia Moritz Schwarcz. O espetáculo das raças.
+São Paulo: Companhia das Letras, 2004, p. 45-48 (com adaptações).
+Ainda em relação ao texto III, julgue (C ou E) os itens a seguir.
+Segundo a autora, a hipótese teórica poligenista tornou-se hegemônica no século XIX.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+77.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+23 de novembro de 2024 às 16:49
+Errado.
+O texto afirma que a hipótese monogenista era dominante até meados do século XIX e que, a partir de então, a hipótese poligenista começou a se transformar em uma alternativa plausível. Entretanto, não há no texto a afirmação de que a hipótese poligenista tenha se tornado hegemônica no século XIX, apenas que passou a ser considerada uma alternativa relevante. Portanto, a afirmação está incorreta.
+Reportar abuso
+Ajudou (5) Não ajudou
+Lion
+18 de novembro de 2024 às 19:55
+Resposta Errada. A banca extrapolou ao indicar que a hipótese teórica poligenista tornou-se hegemônica no século XIX. O texto não traz essa informação.
+Reportar abuso
+Ajudou (0) Não ajudou
+14
+Q3405806
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Médico Veterinário - 2024
+Texto associado
+Texto CG2A1
+
+O desenvolvimento da educação sanitária, a partir dos Estados Unidos da América, esteve associado à saúde pública, tendo sido instrumento das ações de prevenção das doenças, e caracterizou-se pela transmissão de conhecimento. No entanto, mesmo que realizada de forma massiva, como no caso das campanhas sanitárias no Brasil, a perspectiva não contemplava a dimensão histórico-social do processo saúde-doença.
+Com o movimento pela reforma sanitária no Brasil, as críticas mais contundentes relacionavam-se ao fato de que o social não era considerado na prática da saúde pública, senão em perspectiva restrita, de modo que a educação passou a ser uma atividade paralela, cuja finalidade seria a de auxiliar a efetivação dos objetivos eminentemente técnicos dos programas de saúde pública.
+Entretanto, em uma perspectiva crítica, a educação parte da análise das realidades sociais, buscando revelar as suas características e as relações que as condicionam e as determinam. Essa perspectiva pode ater-se à explicação das finalidades reprodutivistas dos processos educativos ou trabalhar no âmbito de suas contradições, buscando transformar essas finalidades, estabelecendo como meta a construção de sujeitos e de projetos societários transformadores.
+Da mesma forma, no campo da saúde, a compreensão do processo saúde-doença como expressão das condições objetivas de vida, isto é, como resultante das condições de habitação, alimentação, educação, renda, meio ambiente, trabalho, transporte, emprego, lazer, liberdade, acesso e posse da terra e acesso a serviços de saúde, descortina a saúde e a doença como produções sociais, passíveis de ação e transformação, e aponta também para um plano coletivo, e não somente individual, de intervenção.
+Essa maneira de conceber a saúde tem sido caracterizada como um conceito ampliado, pois não reduz a saúde à ausência de doença, promovendo a ideia de que uma situação de vida saudável não se resolve somente com a garantia do acesso aos serviços de saúde, mas depende, sobretudo, da garantia de condições de vida dignas que, em conjunto, podem proporcionar a situação de saúde. Nesse sentido, são indissociáveis o conceito de saúde e a noção de direito social.
+
+Márcia V. Morosini, Angélica F. Fonseca e Isabel B. Pereira. Educação em saúde. In: Dicionário da Educação Profissional em Saúde. Internet: <www.sites.epsjv.fiocruz.br> (com adaptações).
+
+A partir das ideias suscitadas pelo texto CG2A1, julgue os itens seguintes.
+De acordo com o texto, as críticas aos programas de saúde pública foram determinantes para o movimento pela reforma sanitária no Brasil.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+53.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alvaro Lincoln
+14 de outubro de 2024 às 14:05
+Errado, as críticas vieram após a implementação do movimento
+Reportar abuso
+Ajudou (9) Não ajudou
+T
+Thais
+18 de novembro de 2024 às 08:33
+Com o movimento pela reforma sanitária no Brasil,----> as críticas mais contundentes relacionavam-se ao fato de que o social não era considerado na prática da saúde pública,(...)
+Reportar abuso
+Ajudou (3) Não ajudou
+15
+Q3238120
+Administração de Recursos Materiais Custos de Falta de Estoque
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+No que se refere ao controle de inventários e às decisões de políticas de estoques, julgue os próximos itens.
+O estoque influencia os custos e a rentabilidade da empresa, por isso é melhor a falta de estoque que material em excesso.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+92.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Aylla
+15 de junho de 2024 às 10:39
+Nem um dos dois é bom, se não tiver estoque a organização terá que pagar, se tiver matérias em excesso a organização terá que pagar- gerando mais gastos
+Reportar abuso
+Ajudou (19) Não ajudou
+SO
+Samuel Oliveira
+10 de dezembro de 2024 às 09:04
+O equilíbrio é fundamental
+
+Reportar abuso
+Ajudou (10) Não ajudou
+16
+Q3255330
+Língua Inglesa Aspectos linguísticos | Linguistic aspects
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANVISA - Especialista em Vigilância Sanitária Área 2 - Formação: Farmácia - 2024
+Texto associado
+Soon, Americans are going to be able to try chicken that comes directly from chicken cells rather than, well, a chicken. The United States Department of Agriculture gave Upside Foods and Good Meat the green light to start producing and selling their lab-grown, or cultivated, chicken products in the United States. It’s going to be a while before you can buy cell-based meat in stores, though you should be able to get a taste at a restaurant sooner.
+In a nutshell, lab-grown meat — or cultivated or cell-based meat — is meat that is developed from animal cells and grown, with the help of nutrients like amino acids, in massive bioreactors. When the meat is ready, companies collect it from the bioreactors and move it along the processing line. For one thing, growing meat from cells means that people can eat meat without having to slaughter animals. Upside Foods explains that cells it gathers from a fertilized chicken egg are stored in its cell bank and can be used for at least ten years. Animal cells can come from animal biopsies or even feathers, among other sources.
+Good Meat announced a partnership with chef and restaurateur José Andrés to bring the item to a Washington restaurant. Good Meat may consider partnering with other restaurants or launching in retail, but a supermarket launch is way down the line. Upside Foods is planning to introduce its product at Bar Crenn, a San Francisco restaurant, but did not share a launch date yet. Eventually, the company plans to work with other restaurants and make its products available in supermarkets. For now, Upside Foods is holding a contest to allow curious customers to be among the first to try the product in the United States.
+
+Internet: <edition.cnn.com> (adapted).
+
+According to the preceding text, judge the following items.
+The expression “In a nutshell” (first sentence of the second paragraph) could be correctly replaced with Briefly, without harming the original meaning of the sentence.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+70.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rodrigo Oliveira
+15 de julho de 2024 às 01:50
+"in a nutshell" e "briefly" ambos significam "em resumo"
+Reportar abuso
+Ajudou (5) Não ajudou
+Felipe Menegate Nascimento
+9 de janeiro de 2025 às 16:57
+resumidamente
+Reportar abuso
+Ajudou (0) Não ajudou
+17
+Q3234911
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Assistente Social - 2024
+Texto associado
+Texto CB2A1
+
+Levanto cedo, faço minhas abluções, ponho a chaleira no fogo para fazer café e abro a porta do apartamento — mas não encontro o pão costumeiro. No mesmo instante, me lembro de ter lido alguma coisa nos jornais da véspera sobre a “greve do pão dormido”. De resto não é bem uma greve, é um locaute, greve dos patrões, que suspenderam o trabalho noturno; acham que, obrigando o povo a tomar seu café da manhã com pão dormido, conseguirão não sei bem o que do governo.
+Está bem. Tomo o meu café com pão dormido, que não é tão ruim assim. E, enquanto tomo café, vou me lembrando de um homem modesto que conheci antigamente. Quando vinha deixar o pão à porta do apartamento, ele apertava a campainha, mas, para não incomodar os moradores, avisava gritando:
+— Não é ninguém, é o padeiro!
+Interroguei-o uma vez: como tivera a ideia de gritar aquilo? “Então você não é ninguém?”
+Ele abriu um sorriso largo. Explicou que aprendera aquilo de ouvido. Muitas vezes lhe acontecera bater a campainha de uma casa e ser atendido por uma empregada ou outra pessoa qualquer, e ouvir uma voz que vinha lá de dentro perguntando quem era; e ouvir a pessoa que o atendera dizer para dentro: “não é ninguém, não senhora, é o padeiro”. Assim ficara sabendo que não era ninguém...
+Ele me contou isso sem mágoa nenhuma e se despediu ainda sorrindo. Eu não quis detê-lo para explicar que estava falando com um colega, ainda que menos importante. Naquele tempo eu também, como os padeiros, fazia o trabalho noturno. Era pela madrugada que deixava a redação de jornal, quase sempre depois de uma passagem pela oficina — e muitas vezes saía já levando na mão um dos primeiros exemplares rodados, o jornal ainda quentinho da máquina, como pão saído do forno.
+Ah, eu era rapaz, eu era rapaz naquele tempo! E às vezes me julgava importante porque, no jornal que levava para casa, além de reportagens ou notas que eu escrevera sem assinar, ia uma crônica ou um artigo com o meu nome. O jornal e o pão estariam bem cedinho na porta de cada lar; e dentro do meu coração eu recebi a lição de humildade daquele homem entre todos útil e entre todos alegre; “não é ninguém, é o padeiro!”
+E assobiava pelas escadas.
+
+Rubem Braga. O padeiro (com adaptações).
+
+Acerca das ideias e de aspectos linguísticos do texto CB2A1, julgue os itens que se seguem.
+No sexto parágrafo, o narrador se compara ao padeiro com base na ideia de que ambos exercem profissões pouco valorizadas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+59.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Victor Thiago Saraiva Maciel De Melo
+4 de junho de 2024 às 12:42
+"Naquele tempo eu também, como os padeiros, fazia o trabalho noturno."
+
+Ele se compara por também ter trabalhado a noite.
+
+Reportar abuso
+Ajudou (49) Não ajudou
+Joao
+29 de junho de 2024 às 00:33
+Deduz se do texto que o rapaz aprendeu com a humildade do padeiro, nao que a profissão dele fosse menos valorizada.
+Reportar abuso
+Ajudou (12) Não ajudou
+Andre2
+18 de julho de 2024 às 15:11
+Ele se compara ao padeiro, sim, mas nada a ver com o valor das respectivas profissões. Ambos são trabalhos ocultos, cujo resultado só se vê finalizado e pronto, "bem cedinho na porta de cada lar".
+Reportar abuso
+Ajudou (9) Não ajudou
+MN
+Marcio Nogueira Da Cruz Saldanha
+9 de janeiro de 2025 às 19:25
+Errado
+
+O erro da questão está em afirmar que há comparação com base na ideia de que ambos exercem profissões pouco valorizadas, quando em verdade a comparação se dá porque ambos (jornalista e padeiro) trabalham a noite e ambos entregavam o produto de seu labor (pão e jornal) ainda quentinho. E mais, o autor ainda afirma que seu trabalho é menos importante - no sentido de que é mais importante se manter vivo pela alimentação (a comida representada pelo pão) é mais importante do que se informar (representado o jornal).
+
+Reportar abuso
+Ajudou (4) Não ajudou
+Caio Vinicius Chaves
+7 de setembro de 2024 às 07:59
+A pegadinha está na parte " em que menos importante". Ele diz isso, mas não está se referindo às profissões, e sim, que não seria importante o padeiro saber que eles trabalhavam em algo parecido. - Foi isso o que eu entendi.
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 2
+18
+Q3407315
+Língua Inglesa Substantivos e compostos | Nouns and compounds
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Professor de Educação Básica - Área: Inglês - 2024
+Texto associado
+The Indian education sector has undergone a significant transformation in recent years, owing to the implementation of innovative technologies and solutions. According to a recent report, the e-learning market in India is estimated to have reached $ 1.96 billion in 2021, up from $ 247 million in 2016. The growth in popularity of mobile learning platforms among students has led to this expansion.
+Mobile learning platforms are expected to play a significant role in the growth of the online education market in India. A report by a consultancy company projected that the online education market in India would reach $ 1.96 billion by 2021. Educational apps have seen tremendous success by offering interactive video lessons, quizzes, and personalized learning plans to help students succeed academically.
+Personalized learning, tailoring teaching and learning to students’ needs, is also an important trend in the Indian education sector. In addition to technology, the Indian education sector has also witnessed the emergence of new pedagogical approaches such as experiential learning, project-based learning, and collaborative learning. These approaches focus on providing students with hands-on, practical learning experiences that prepare them for the real world.
+With the continued adoption of these technologies and approaches, the future of education in India looks bright, offering students new opportunities to learn and grow.
+
+Internet: <https://varthana.com/school> (adapted).
+
+Based on the preceding text, judge the following items.
+The word “education” (first sentence of the text) is a noun, being nouns words that can work as the subject of a sentence, and can refer to a person, a place, a thing, or an idea.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+76.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Felipe Menegate Nascimento
+9 de janeiro de 2025 às 15:03
+Sim. Substantivo.
+Reportar abuso
+Ajudou (0) Não ajudou
+19
+Q3407351
+Língua Inglesa Língua Inglesa e Educação
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Professor de Educação Básica - Área: Inglês - 2024
+Texto associado
+
+Bill Amend. Foxtrot. Internet: (adapted).
+
+Judge the following items according to the previous comic strip.
+The student is trying to get the teacher to change his grade to A.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+63.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Felipe Menegate Nascimento
+9 de janeiro de 2025 às 15:04
+Ele quer sair de B e aumentar pra B+.
+Reportar abuso
+Ajudou (0) Não ajudou
+20
+Q3418368
+Administração de Recursos Materiais Bem Patrimonial
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Administrativo - Área Administração - 2024
+Texto associado
+Julgue os itens subsecutivos, acerca do patrimônio imobiliário e mobiliário das organizações.
+Os bens públicos dominicais são aqueles que a população pode utilizar livremente.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+65.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jemima Raulino Da Conceição
+24 de setembro de 2024 às 18:37
+GABARITO: ERRADO
+
+Não, os bens públicos dominicais não são aqueles de uso livre pela população. Esses bens são considerados patrimônio disponível do Estado e não têm uma destinação pública imediata, podendo ser alienados (vendidos, arrendados, etc.), ou seja, são de propriedade do Estado, mas não destinados ao uso comum ou à execução de serviços públicos.
+
+Exemplos de bens dominicais incluem terrenos que o Estado possui, mas que não estão sendo utilizados para estradas, praças ou edifícios públicos.
+
+Já os bens que a população pode utilizar livremente são chamados bens de uso comum do povo, como praças e ruas. Fonte: ChatGPT
+...............................................................................................................................................................................
+...............................................................................................................................................................................
+Tudo tem o seu tempo determinado,
+e há tempo para todo o propósito debaixo do céu.
+Há tempo de nascer, e tempo de morrer;
+tempo de plantar, e tempo de arrancar o que se plantou;
+Eclesiastes 3:1,2 / Bíblia Sagrada
+
+Reportar abuso
+Ajudou (35) Não ajudou
+Isabelly
+20 de dezembro de 2024 às 09:55
+CC, Art. 99. São bens públicos:
+
+I - os de uso comum do povo, tais como rios, mares, estradas, ruas e praças;
+II - os de uso especial, tais como edifícios ou terrenos destinados a serviço ou estabelecimento da administração federal, estadual, territorial ou municipal, inclusive os de suas autarquias;
+III - os dominicais, que constituem o patrimônio das pessoas jurídicas de direito público, como objeto de direito pessoal, ou real, de cada uma dessas entidades.
+Parágrafo único. Não dispondo a lei em contrário, consideram-se dominicais os bens pertencentes às pessoas jurídicas de direito público a que se tenha dado estrutura de direito privado.
+
+Em resumo: os bens públicos que as pessoas podem usar livremente são os de uso comum do povo, porque os demais existem regras específicas de uso.
+Reportar abuso
+Ajudou (11) Não ajudou
+Tiago De Barros
+9 de janeiro de 2025 às 14:25
+Bens dominicais são bens públicos não destinados a uma função específica, como o uso comum ou especial, e podem ser vendidos ou usados para gerar receita. Exemplos incluem terrenos e imóveis desocupados. Diferem de bens de uso comum, como ruas e praças, e bens de uso especial, como escolas e hospitais.
+Reportar abuso
+Ajudou (3) Não ajudou

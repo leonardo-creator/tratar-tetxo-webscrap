@@ -1,0 +1,835 @@
+1
+Q3175484
+Administração de Recursos Materiais Armazenagem, Distribuição e Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Julgue os seguintes itens, que versam sobre armazenagem e distribuição de materiais.
+Para que possa ser realizada, a roteirização das entregas de produtos a clientes depende de software específico.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+72.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Fernanda Claudia Ferreira
+9 de outubro de 2024 às 14:13
+O item está incorreto.
+
+A roteirização das entregas de produtos a clientes, embora possa ser facilitada e otimizada por softwares específicos de gestão de rotas, não depende exclusivamente de um software para ser realizada. A roteirização pode ser feita manualmente, com base em mapas e análise das melhores rotas, considerando fatores como distância, tempo e localização dos clientes.
+Reportar abuso
+Ajudou (64) Não ajudou
+2
+Q3175488
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Acerca de gestão logística integrada, julgue os itens a seguir.
+Um fornecedor que consigna estoques dentro das instalações do cliente amplia a necessidade de realizar entregas de produtos solicitados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+56.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Vania De Aquino Neves
+13 de setembro de 2024 às 08:42
+Na verdade, a CONSIGNAÇÃO DE ESTOQUE dentro das instalações do cliente é uma prática que visa justamente REDUZIR a frequência de entregas, pois o fornecedor mantém um estoque de seus produtos no local do cliente, facilitando a disponibilidade imediata quando há demanda.
+Portanto, essa prática não amplia, mas sim DIMINUI a necessidade de realizar entregas frequentes de produtos solicitados.
+Reportar abuso
+Ajudou (48) Não ajudou
+3
+Q3175493
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Julgue os itens que se seguem, referentes a logística, logística reversa e canais reversos de distribuição.
+Um fato de grande importância na logística empresarial foi a invenção, na década de 90 do século XX, do código de barras.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+35.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AD
+Alessandra De Abreu Arruda
+7 de agosto de 2024 às 21:20
+O Código de barras foi inventado em 1952, o RFID em 1973. O que foi criado em 1990 foi o conceito do supply chain, devido a nova abertura mundial ao capitalismo global após a queda do muro de berlim e da queda da antiga união soviética, fortalecendo a relação fornecedor - produtor - cliente, integrando todos numa cadeia de suprimentos local, regional e global.
+Reportar abuso
+Ajudou (40) Não ajudou
+K
+Kissya
+12 de junho de 2024 às 20:52
+A logística empresarial nasceu da necessidade corporativa de eliminar falhas no fornecimento de produtos e otimizar toda a operação logística, até a entrega ao consumidor final.
+A evolução da logística ocorre de forma intensa na década de 90, a partir da estabilização econômica provocada pelo plano Real, mas também pela abertura de mercado, fazendo com que novas empresas, que já tinham experiências com a logística fora do Brasil, pudessem oferecer produtos mais adequados ao mercado.
+Reportar abuso
+Ajudou (13) Não ajudou
+4
+Q3143171
+Língua Inglesa Tradução
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Contabilidade Língua Inglesa - 2024
+Texto associado
+Using your phone while on the toilet poses significant health risks, as warned by an expert, Dr. Sethi. Despite being a common habit, mindlessly scrolling or using your phone in the bathroom can lead to severe consequences. Dr. Sethi, a Harvard-trained stomach doctor, highlights that this practice, particularly during bowel movements, causes extended sitting that strains the rectum and anus, potentially resulting in hemorrhoids, anal fissures, and rectal prolapse.
+Furthermore, using phones in the bathroom makes them a breeding ground for bacteria, surpassing the hygiene levels of a public toilet seat. Dr. Sethi emphasizes the importance of avoiding phone usage while on the toilet or, if unavoidable, suggests disinfecting the phone afterward. Research spanning over a decade has consistently shown that phones harbor a significant amount of germs, including fecal matter.
+Despite these health warnings, over 65% of adults take their phones into the bathroom, with Spain having the highest usage rates (nearly 80%) and Germany the lowest (just under 55%). Interestingly, younger age groups, particularly those aged 26-41 and 18-25, are most likely to engage in this unhygienic behavior. Apart from health concerns, there’s the practical risk of dropping the phone into the toilet, with a fifth of respondents in the United States admitting to this mishap.
+
+Internet: <www.mirror.co.uk> (adapted).
+
+Based on the previous text, judge the following items.
+The correct translation of the excerpt “Furthermore, using phones in the bathroom makes them a breeding ground for bacteria” to Portuguese is Além disso, usar telefones no banheiro faz deles um terreno fértil para bactérias.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MS
+Miguel Silva
+9 de maio de 2024 às 19:31
+Breeding ground:
+1. : the place where animals go to breed. 2. : a place or situation that helps or allows something to grow or develop.
+Ex: An expanse of warm ocean that is a breeding ground for hurricanes.
+
+Reportar abuso
+Ajudou (0) Não ajudou
+5
+Q3163284
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Considerando processos de análise e mineração de dados, julgue os itens subsecutivos.
+Em data mining, um mesmo processo de análise de dados pode utilizar bancos de dados relacionais ou NoSQL, mas não simultaneamente.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+85.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriel
+31 de março de 2024 às 12:18
+Normalmente questões de informática que restringem algum conceito estão erradas.
+Reportar abuso
+Ajudou (21) Não ajudou
+ND
+Natanael De Sousa Leite
+1 de abril de 2024 às 14:19
+Você pode buscar de diferentes bases de dados sejam elas estruturadas ou semiestruturados.
+Reportar abuso
+Ajudou (15) Não ajudou
+6
+Q3163294
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Com base em obtenção, limpeza e pré-processamento de dados, julgue os próximos itens.
+No processo de análise de dados, a identificação de correlação entre dois dados define também a causalidade entre esses dados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+57.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+AS
+Alexandre Silva Sousa
+31 de março de 2024 às 15:16
+Embora a correlação possa sugerir uma possível relação causal, ela não prova que uma variável é a causa da mudança na outra. Outras variáveis não observadas, ou mesmo o acaso, podem influenciar ambas as variáveis.
+É necessário realizar mais investigações para estabelecer uma relação causal.
+Reportar abuso
+Ajudou (9) Não ajudou
+Bq Oliveira
+10 de junho de 2024 às 14:34
+correlação não implica causalidade
+Reportar abuso
+Ajudou (4) Não ajudou
+MT
+Murilo Teixeira
+29 de julho de 2024 às 19:47
+Regra básica para a vida:
+Correlação =/= Causalidade
+
+Reportar abuso
+Ajudou (2) Não ajudou
+7
+Q3163297
+Tecnologia da Informação Análise exploratória de dados
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Tecnologias Habilitadoras - Inteligência Artificial e Ciências de Dados - 2024
+Texto associado
+Com base em obtenção, limpeza e pré-processamento de dados, julgue os próximos itens.
+A análise descritiva tem como objetivo responder à pergunta ‘o que aconteceu?’, ao passo que a análise diagnóstica visa responder à questão ‘por que isso aconteceu?’.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+81.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jussara Cristiane Dos Santos
+30 de agosto de 2024 às 06:22
+A afirmação está correta.
+Análise descritiva: Foca em responder à pergunta “o que aconteceu?”. Ela utiliza dados históricos para identificar padrões e tendências.
+Análise diagnóstica: Vai além, buscando entender “por que isso aconteceu?”. Ela investiga as causas e fatores que levaram aos resultados observados na análise descritiva.
+Reportar abuso
+Ajudou (7) Não ajudou
+8
+Q3164076
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+Em relação às tecnologias para a indústria 4.0, julgue os itens a seguir.
+Na indústria 4.0, os equipamentos e processos automatizados trabalham em separado do banco de dados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+89.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Carla Thuany Dos Reis Cortes
+12 de abril de 2024 às 17:05
+Na Indústria 4.0, equipamentos e processos automatizados também devem estar conectados ao Banco de Dados, para se programarem e controlarem automaticamente as mais variadas tarefas, como, por exemplo, planejamento de materiais, planejamento de produção, planos de qualidade, manutenção preventiva e etc.
+
+Resposta: Errado!
+Reportar abuso
+Ajudou (5) Não ajudou
+9
+Q3177952
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão de T.I - Desenvolvimento e Manutenção de Sistemas Língua Inglesa - 2024
+Texto associado
+Considerando a legislação acerca de privacidade e proteção de dados, julgue os itens a seguir.
+A proteção dos dados pessoais, que visa garantir a privacidade das pessoas, está prevista na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD) e na Lei n.º 12.965/2014 (Marco Civil da Internet).
+C
+Certo
+E
+Errado
+Responder
+Certa!
+88.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Nélio
+25 de abril de 2024 às 10:59
+CERTO. Tanto a LGPD quando a lei do Marco Civil da Internet trazem princípios que garentem a proteção de dados. >> MARCO CIVIL: Art. 3º A disciplina do uso da internet no Brasil tem os seguintes princípios: I - garantia da liberdade de expressão, comunicação e manifestação de pensamento, nos termos da Constituição Federal; II - proteção da privacidade; III - proteção dos dados pessoais, na forma da lei. >> LGPD: Art. 1º Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
+Reportar abuso
+Ajudou (28) Não ajudou
+Eduardo Coutinho Scariote
+26 de abril de 2024 às 11:11
+Fui até conferir, mas só algumas coisas da Lei foram revogadas e não a lei como um todo.
+Reportar abuso
+Ajudou (7) Não ajudou
+Rodrigo Reinaux
+18 de julho de 2024 às 02:55
+Acredito que o nome da lei seja Lei Geral de Proteção de Dados, e que não haja o "pessoais".
+Reportar abuso
+Ajudou (2) Não ajudou
+Edvard Dias Magalhaes
+9 de agosto de 2024 às 09:26
+CERTO
+Na LGPD está claro, é toda a Lei com este propósito específico;
+https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709compilado.htm
+
+No MCI, Lei 12.962/14, também, inclusive contendo a Seção II - Da Proteção aos Registros, aos Dados Pessoais e às Comunicações Privadas para isso.
+Art. 3º A disciplina do uso da internet no Brasil tem os seguintes princípios:
+III - proteção dos dados pessoais, na forma da lei;
+https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm
+Reportar abuso
+Ajudou (1) Não ajudou
+Nicolle
+23 de abril de 2024 às 18:01
+O gabarito está errado. Visto que, a LGPD revogou a parte relacionada aos dados pessoais do Marco Civil.
+Reportar abuso
+Ajudou (1) Não ajudou
+10
+Q3164316
+Tecnologia da Informação Aprendizado de Máquina
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+Julgue os próximos itens, relativos a aprendizado de máquina.
+O aprendizado de máquina computacional tem como objetivo aplicar técnicas computacionais na tentativa de validar padrões em dados e ratificar padrões que podem ser observados explicitamente nos dados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+47.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Italo Oliveira Fernandes
+20 de abril de 2024 às 18:03
+O aprendizado de máquina não é utilizado para validar e ratificar padrões explicitos, pelo contrário, busca identificar padrões implícitos que são difíceis ou impossíveis de detectar de forma simples.
+
+Reportar abuso
+Ajudou (25) Não ajudou
+Laiane Ricardo De Araujo
+23 de março de 2024 às 10:25
+ratificar = validar, confirmar.
+Reportar abuso
+Ajudou (7) Não ajudou
+Vanessa Zeni
+29 de junho de 2024 às 18:48
+Errado, o objetivo do aprendizado de máquina computacional é desenvolver algoritmos e modelos que possam aprender com os dados fornecidos, identificar padrões complexos e fazer previsões ou decisões baseadas nesses padrões.
+O aprendizado de máquina computacional visa mais do que simplesmente validar padrões observados explicitamente nos dados. Ele se concentra em aprender com os dados para desenvolver modelos que possam generalizar esses padrões e aplicá-los de maneira útil em novas situações ou para fazer previsões precisas.
+
+
+Reportar abuso
+Ajudou (6) Não ajudou
+11
+Q3164322
+Tecnologia da Informação Aprendizado de Máquina
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+Julgue os próximos itens, relativos a aprendizado de máquina.
+Overfitting é um comportamento esperado e desejável de aprendizado de máquina, uma vez que descreve assertividade e acurácia altas quando o modelo de aprendizado de máquina fornece previsões precisas para novos dados com base nos dados de treinamento.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+86.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ana Caroline
+6 de março de 2024 às 15:12
+Overfitting: quando um modelo é treinado de maneira tão específica para os dados de treinamento que começa a se ajustar a ruídos ou variações irrelevantes, prejudicando sua capacidade de generalização para novos dados.
+
+Em outras palavras, o modelo se adapta demasiadamente aos detalhes específicos dos dados de treinamento, perdendo sua capacidade de fazer previsões precisas em dados não vistos.
+Reportar abuso
+Ajudou (24) Não ajudou
+Jaquisson Rebouças Miranda
+1 de abril de 2024 às 18:35
+ERRADO
+Underfitting e Overfitting
+Underfitting e Overfitting são dois termos extremamente importantes no ramo do machine learning. Um bom modelo não pode sofrer de Underfitting nem de Overfitting, por isso precisamos entender estes conceitos, e saber identificar suas ocorrências.
+Overfitting - Um cenário de overfitting ocorre quando, nos dados de treino, o modelo tem um desempenho excelente, porém quando utilizamos os dados de teste o resultado é ruim. Podemos entender que, neste caso, o modelo aprendeu tão bem as relações existentes no treino, que acabou apenas decorando o que deveria ser feito, e ao receber as informações das variáveis preditoras nos dados de teste, o modelo tenta aplicar as mesmas regras decoradas, porém com dados diferentes esta regra não tem validade, e o desempenho é afetado. É comum ouvirmos que neste cenário o modelo treinado não tem capacidade de generalização.
+Underfitting - Neste cenário o desempenho do modelo já é ruim no próprio treinamento. O modelo não consegue encontrar relações entre as variáveis e o teste nem precisa acontecer. Este modelo já pode ser descartado, pois não terá utilidade.
+FONTE: https://didatica.tech/underfitting-e-overfitting/
+Reportar abuso
+Ajudou (15) Não ajudou
+Vanessa Zeni
+29 de junho de 2024 às 18:46
+Errado, o overfitting não é considerado um comportamento desejável no aprendizado de máquina, pois indica que o modelo pode estar muito adaptado aos dados de treinamento específicos e pode falhar em prever com precisão novos dados. O objetivo é desenvolver modelos que generalizem bem para novas situações, não apenas que sejam altamente precisos nos dados de treinamento.
+Reportar abuso
+Ajudou (1) Não ajudou
+12
+Q3164345
+Tecnologia da Informação Big Data
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+Com relação a Big Data, julgue os itens seguintes.
+Entre as quatro análises possíveis no Big Data, a análise diagnóstica tem como foco recomendar ações específicas a serem tomadas, e seus resultados podem ser usados para melhorar a eficiência, a eficácia e a produtividade das empresas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+46.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Shaolin
+6 de março de 2024 às 11:35
+Errado
+
+Análise Descritiva: Envolve a descrição e resumo dos dados, identificando padrões, tendências e características dos dados. Ajuda a entender o que está acontecendo nos dados.
+Análise Diagnóstica: Busca entender por que certos eventos ocorreram, identificando causas-raiz e relacionamentos entre variáveis. Ajuda a explicar o que aconteceu nos dados.
+Análise Preditiva: Utiliza modelos estatísticos e algoritmos de aprendizado de máquina para prever eventos futuros com base em padrões e tendências identificados nos dados históricos.
+Análise Prescritiva: Vai além da previsão, recomendando ações específicas a serem tomadas com base nos insights derivados da análise dos dados. Ajuda a determinar o que deve ser feito para alcançar determinados objetivos ou otimizar resultados.
+
+Reportar abuso
+Ajudou (88) Não ajudou
+Julio Cesar Santos Da Silva
+11 de março de 2024 às 11:21
+Os quatros tipos de Análise no Big Data:
+
+análise de dados do tipo preditiva - é utilizada para examinar possibilidades futuras
+
+análise prescritiva - examina dados para avaliar possíveis consequências de cada decisão a ser tomada.
+análise descritiva - checará em tempo real todos os dados necessários para uma decisão imediata.
+análise diagnóstica - realizada após o trabalho realizado., procura saber :Quem fez, quando fez, onde fez e por que fez
+
+
+A afirmativa está se referindo a ANÁLISE PRESCRITIVA e não DIAGNÓSTICA, portanto está errada.
+
+Fonte:
+Conheça 4 tipos de análise de dados de Big Data
+(https://www.knowsolution.com.br/conheca-4-tipos-de-analise-de-dados-de-big-data/)
+Reportar abuso
+Ajudou (21) Não ajudou
+Tiago Rocha
+13 de junho de 2024 às 11:11
+ERRADO,
+Análise Prescritiva
+Reportar abuso
+Ajudou (0) Não ajudou
+13
+Q3164350
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+No que se refere à análise exploratória de dados e ao pré-processamento de dados, julgue os próximos itens.
+A análise exploratória de dados tem por finalidade confirmar conceitos predefinidos e, adicionalmente, descobrir padrões e formular hipóteses para estudos futuros, mediante a exploração de um conjunto de dados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+39.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Bq Oliveira
+12 de junho de 2024 às 14:39
+Análise descritiva: Resume e descreve as principais tendências e padrões, de acordo com dados.
+Análise confirmatória: Realiza testagem de hipóteses específicas sobre o dados.
+Análise exploratória: busca descobrir padrões e relações nos dados.
+Análise de predição: Prever o valor de uma variável a partir do valor de outras variáveis.
+Análise de causalidade: tenta determinar se uma variável causa outra.
+Análise de sentimento: tenta avaliar o sentimento ou opinião de um conjunto de dados, como um conjunto de comentários de redes sociais.
+Reportar abuso
+Ajudou (9) Não ajudou
+AS
+Alexandre Silva Sousa
+1 de abril de 2024 às 15:56
+A análise exploratória de dados (EDA) tem como objetivo principal explorar e entender os dados, geralmente antes de realizar análises mais complexas ou modelagem. No entanto, seu objetivo não é necessariamente confirmar conceitos predefinidos, mas sim descobrir padrões, identificar tendências, detectar outliers e formular hipóteses para estudos futuros.
+Já a análise confirmatória de dados é usada para validar ou refutar hipóteses predefinidas que foram estabelecidas a priori, geralmente com base nos resultados da EDA.
+Reportar abuso
+Ajudou (4) Não ajudou
+14
+Q3163382
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+There have been reports that researchers at OpenAI had made a “breakthrough” in Artificial Intelligence (AI). Some media agencies report that such researchers had come up with a new way to make powerful AI systems and had created a new model, called Q. Star, that was able to perform grade-school-level math.
+Researchers have for years tried to get AI models to solve math problems. Language models like ChatGPT and GPT-4 can do some math, but not very well or reliably.
+People who worry about whether AI poses an existential risk to humans, one of OpenAI’s founding concerns, fear that such capabilities might lead to rogue AI. Safety concerns might arise if such AI systems are allowed to set their own goals and start to interface with a real physical or digital world in some ways, says Katie Collins, a PhD researcher at the University of Cambridge.
+However, while math capability might take us a step closer to more powerful AI systems, solving these sorts of math problems doesn’t signal the birth of a superintelligence.
+Internet:<technologyreview.com> (adapted).
+:
+About the ideas and vocabulary of text presented above, judge the following items.
+The Q. Star model is capable of performing the kind of math problems seen in elementary schools.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+69.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Estevam Neto
+11 de novembro de 2024 às 19:22
+Grade school | Escola primária | Informal, coloquial
+Elementary school | Escola primária | Formal
+Primary school | Escola primária | Inglês britânico
+Reportar abuso
+Ajudou (2) Não ajudou
+15
+Q3163306
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+A Harvard team has realized a milestone in the quest for stable, scalable quantum computing. For the first time, the team has created a programmable, logical quantum processor, capable of encoding up to 48 logical qubits, and capable of executing hundreds of logical gate operations. Their system is the first demonstration of large-scale algorithm execution on an error-corrected quantum computer, heralding the advent of early fault-tolerant, or reliably uninterrupted, quantum computation.
+
+Internet: <sciencedaily.com> (adapted).
+
+Considering the information stated in the text above and the vocabulary used in it, judge the following items.
+It can be concluded from the text that the system developed by the Harvard team is expected to continue operating in spite of possible failures.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+71.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lucas
+13 de novembro de 2024 às 10:36
+C\
+Reportar abuso
+Ajudou (0) Não ajudou
+16
+Q3405823
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Fisioterapeuta - 2024
+Texto associado
+Texto CG2A1
+
+O desenvolvimento da educação sanitária, a partir dos Estados Unidos da América, esteve associado à saúde pública, tendo sido instrumento das ações de prevenção das doenças, e caracterizou-se pela transmissão de conhecimento. No entanto, mesmo que realizada de forma massiva, como no caso das campanhas sanitárias no Brasil, a perspectiva não contemplava a dimensão histórico-social do processo saúde-doença.
+Com o movimento pela reforma sanitária no Brasil, as críticas mais contundentes relacionavam-se ao fato de que o social não era considerado na prática da saúde pública, senão em perspectiva restrita, de modo que a educação passou a ser uma atividade paralela, cuja finalidade seria a de auxiliar a efetivação dos objetivos eminentemente técnicos dos programas de saúde pública.
+Entretanto, em uma perspectiva crítica, a educação parte da análise das realidades sociais, buscando revelar as suas características e as relações que as condicionam e as determinam. Essa perspectiva pode ater-se à explicação das finalidades reprodutivistas dos processos educativos ou trabalhar no âmbito de suas contradições, buscando transformar essas finalidades, estabelecendo como meta a construção de sujeitos e de projetos societários transformadores.
+Da mesma forma, no campo da saúde, a compreensão do processo saúde-doença como expressão das condições objetivas de vida, isto é, como resultante das condições de habitação, alimentação, educação, renda, meio ambiente, trabalho, transporte, emprego, lazer, liberdade, acesso e posse da terra e acesso a serviços de saúde, descortina a saúde e a doença como produções sociais, passíveis de ação e transformação, e aponta também para um plano coletivo, e não somente individual, de intervenção.
+Essa maneira de conceber a saúde tem sido caracterizada como um conceito ampliado, pois não reduz a saúde à ausência de doença, promovendo a ideia de que uma situação de vida saudável não se resolve somente com a garantia do acesso aos serviços de saúde, mas depende, sobretudo, da garantia de condições de vida dignas que, em conjunto, podem proporcionar a situação de saúde. Nesse sentido, são indissociáveis o conceito de saúde e a noção de direito social.
+Márcia V. Morosini, Angélica F. Fonseca e Isabel B. Pereira. Educação em saúde. In: Dicionário da Educação Profissional em Saúde. Internet: <www.sites.epsjv.fiocruz.br> (com adaptações).
+A respeito das estruturas linguísticas do texto CG2A1, julgue os próximos itens.
+No segundo período do terceiro parágrafo, a expressão “suas contradições” explicita a incompatibilidade existente entre “construção de sujeitos” e “projetos societários transformadores”.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+80.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alvaro Lincoln
+5 de outubro de 2024 às 18:35
+O texto não explicita nenhuma compatibilidade
+Reportar abuso
+Ajudou (6) Não ajudou
+Vinicius M.
+11 de novembro de 2024 às 12:47
+Entendo que a expressão "suas contradições" refere-se à "processos educativos", não se relacionando com os trechos citados pelo enunciado. Portanto, gabarito errado
+Reportar abuso
+Ajudou (3) Não ajudou
+17
+Q3407307
+Língua Inglesa Advérbios e conjunções | Adverbs and conjunctions
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Professor de Educação Básica - Área: Inglês - 2024
+Texto associado
+The Indian education sector has undergone a significant transformation in recent years, owing to the implementation of innovative technologies and solutions. According to a recent report, the e-learning market in India is estimated to have reached $ 1.96 billion in 2021, up from $ 247 million in 2016. The growth in popularity of mobile learning platforms among students has led to this expansion.
+Mobile learning platforms are expected to play a significant role in the growth of the online education market in India. A report by a consultancy company projected that the online education market in India would reach $ 1.96 billion by 2021. Educational apps have seen tremendous success by offering interactive video lessons, quizzes, and personalized learning plans to help students succeed academically.
+Personalized learning, tailoring teaching and learning to students’ needs, is also an important trend in the Indian education sector. In addition to technology, the Indian education sector has also witnessed the emergence of new pedagogical approaches such as experiential learning, project-based learning, and collaborative learning. These approaches focus on providing students with hands-on, practical learning experiences that prepare them for the real world.
+With the continued adoption of these technologies and approaches, the future of education in India looks bright, offering students new opportunities to learn and grow.
+
+Internet: <https://varthana.com/school> (adapted).
+
+Based on the preceding text, judge the following items.
+The word “With” (last sentence of the text) is classified as a conjunction, and conjunctions are terms that modify verbs by providing information about the action that is taking place.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+68.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Hyuri Mamede
+10 de novembro de 2024 às 21:01
+With é preposição
+Reportar abuso
+Ajudou (5) Não ajudou
+18
+Q3238116
+Administração de Recursos Materiais Conceito de Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+Julgue os itens subsequentes, a respeito de logística reversa e fundamentos de logística.
+O estoque é um processo logístico que pode ser decisivo na determinação do preço do produto, podendo torná-lo mais caro e inviável perante a concorrência caso o controle seja ineficiente.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+88.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Karine Sousa
+2 de novembro de 2024 às 15:42
+Certo
+O controle de estoque é, de fato, um processo logístico essencial que influencia diretamente o custo final do produto. Um estoque mal gerido pode gerar excessos ou faltas de produtos, acarretando em custos adicionais, como armazenagem e deterioração, que impactam o preço do produto. Quando o estoque não é controlado com eficiência, a empresa pode ter que aumentar os preços para cobrir esses custos extras, tornando o produto menos competitivo no mercado.
+Reportar abuso
+Ajudou (13) Não ajudou
+19
+Q3232470
+Administração de Recursos Materiais Conceito de Contratos
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Suprimentos de Bens e Serviços Júnior - Área Administração - 2024
+Texto associado
+Julgue os itens a seguir, relativos a gestão e fiscalização de contratos.
+Nas relações comerciais entre os setores de compra e venda de empresas privadas (B2B), o pedido de compra tem força de contrato.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ashely
+8 de novembro de 2024 às 12:23
+Ao aceitar um pedido de compra, as partes estão concordando com os termos e condições nele estabelecidos, o que, por sua natureza, cria obrigações contratuais entre elas.
+Reportar abuso
+Ajudou (35) Não ajudou
+20
+Q3164340
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Tecnologista - Área: Indústria e Governo Digital - Sistema Ciberfísicos e Cidades Inteligentes - 2024
+Texto associado
+No que se refere à análise e à mineração de dados, julgue os próximos itens.
+A análise preditiva de dados se diferencia da análise prescritiva de dados porque a primeira tem o objetivo de determinar as consequências das decisões tomadas, enquanto a segunda utiliza fatos do passado para visualizar e prever eventos futuros.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+82.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+João Gabriel
+9 de abril de 2024 às 07:13
+A questão inverteu os conceitos.
+Reportar abuso
+Ajudou (9) Não ajudou
+Rodrigostoso
+18 de março de 2024 às 11:54
+Errado, a analise preditiva que tem a capacidade de prever eventos futuros!
+Reportar abuso
+Ajudou (8) Não ajudou
+Elves Lopes Chaves
+18 de novembro de 2024 às 13:46
+Errado
+
+A análise descritiva é responsável por mostrar como estão os dados agora. 
+
+A preditiva, como o nome indica, prevê futuros possíveis com base nos dados coletados no passado
+Reportar abuso
+Ajudou (6) Não ajudou
+Julia
+8 de setembro de 2024 às 12:51
+A prescritiva vai além da preditiva, chegando a oferecer sugestões para a melhor decisão
+Reportar abuso
+Ajudou (6) Não ajudou

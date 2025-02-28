@@ -1,0 +1,1069 @@
+1
+Q3436724
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Text III
+Aside from the difficulties of operating a decidedly multinational staff organization, once it is formed, the problem of reconciling the principle of equitable geographical distribution of recruits with that of “securing the highest standards of efficiency, competence, and integrity” is a formidable one. This delicate task was politically imposed upon the League of Nations secretary-general, and is constitutionally required of his counterpart in the United Nations.
+For better or for worse, recruitment policy cannot be based exclusively upon the criterion of the individual’s personal qualifications; in the field of international employment, the relevant irrelevancy is not “whom do you know” but “where are you from?” From a strictly administrative point of view, there is some positive value in securing broad nationality distribution, even at the expense of sheer quality; for some purposes, a slightly incompetent man’s nationality may make him more useful than a more expert civil servant of inappropriate nationality.
+For the most part, however, the Charter principle of geographical distribution is a concession to political necessity. It licenses a kind of international spoils system in which states seek to nourish their national self-esteem by securing an adequate quota of international jobs for their citizens. Ironically, perhaps, because it is politically necessary it is also politically and administratively desirable; what shall it profit an international organization to maintain its administrative purity and lose its own members or their political support?
+Inis L. and Claude Jr. Swords into Plowshares: The Problems and Progress of International Organization. 4th ed. New York: McGraw-Hill, 1984, pp. 196-197 (adapted).
+Regarding text III, judge whether the following statements are right (C) or wrong (E).
+The author of the text considers that, more than the competence of the applicants or their nationality, it is their political connections — who they know — that has the greatest impact on their chance of being recruited for international jobs.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+59.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tiago De Barros
+21 de janeiro de 2025 às 09:11
+Template: E.
+
+...the relevant irrelevancy is not “whom do you know” but “where are you from?” From a strictly administrative point of view, there is some positive value in securing broad nationality distribution, even at the expense of sheer quality; for some purposes, a slightly incompetent man’s nationality may make him more useful than a more expert civil servant of inappropriate nationality.
+Reportar abuso
+Ajudou (0) Não ajudou
+2
+Q3175487
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Acerca de gestão logística integrada, julgue os itens a seguir.
+Uma empresa cuja estratégia de negócios seja a redução de custos pode optar por aumentar o número de armazéns e, assim, aumentar o custo de transportes e diminuir o custo de estoque.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+89.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Maria Eduarda Michels Ferreira
+16 de maio de 2024 às 07:23
+Importante lembrar que o transporte é o que mais custa no processo de logística, equivalendo a mais de 40% do valor utilizado, sendo assim, aumentar o custo de transporte não auxiliaria na redução geral de custos.
+Reportar abuso
+Ajudou (39) Não ajudou
+Douglas Oliveira
+21 de março de 2024 às 17:32
+Bom, se aumentar o número de armazéns o curmsto de estoques subirá junto.
+Reportar abuso
+Ajudou (17) Não ajudou
+3
+Q3392786
+Administração de Recursos Materiais Sistemas Informatizados de Gestão - MRP I, MRP II e ERC
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEPLAG CE - Analista de Gestão Pública – Área: Governança e Gestão Corporativa Inglês - 2024
+Texto associado
+Na figura a seguir, que representa a gestão logística da cadeia produtiva de roupa de tecido do tipo jeans, as caixas e as setas numeradas indicam, respectivamente, os atores e os fluxos dos subsistemas logísticos.
+
+
+A partir das informações precedentes, e considerando aspectos de gestão logística e patrimonial a elas relacionados, julgue os itens que se seguem.
+Na representação da indústria, dos fornecedores e do atacarejo, o ERP (enterprise resource planning) é voltado especificamente a garantir um sistema integrado de gestão documental que seja seguro para as organizações, com o objetivo de controlar o inventário físico e a acurácia em seus estoques.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+51.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Michelly Avelina
+7 de outubro de 2024 às 16:03
+Errado. O ERP (Enterprise Resource Planning) não é específico para gestão documental ou controle de inventário físico, embora possa incluir esses módulos. O ERP é um sistema integrado de gestão empresarial que abrange diversas áreas de organização, como finanças, recursos humanos, compras, produção, logística, e sim, inventário e estoque, entre outras. Seu objetivo é integrar os processos e dados de uma organização, permitindo uma gestão eficiente e tomada de decisão baseada em informações unificadas.
+A gestão de inventário é apenas uma das funcionalidades que um ERP pode oferecer, mas não o seu foco exclusivo, e ele também não se limita à gestão documental.
+Reportar abuso
+Ajudou (39) Não ajudou
+Ana Claudia Machado
+22 de janeiro de 2025 às 17:05
+ERP é um sistema integrado de gestão empresarial, não se limita à gestão documental.
+Questão errada.
+Reportar abuso
+Ajudou (5) Não ajudou
+4
+Q3142773
+Direito Administrativo Das Definições
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CGE RJ - Auditor do Estado - 2024
+Texto associado
+Acerca de licitações e contratos administrativos, julgue os itens a seguir de acordo com a Lei n.º 14.133/2021.
+Concorrência é a modalidade licitatória utilizada para a contratação de bens e serviços comuns, cujo critério de julgamento poderá ser o de maior desconto.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+70.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Paulo Sergio Da Silva
+19 de fevereiro de 2024 às 21:41
+A CONCORRÊNCIA é utilizada para a contratação de:
+1. Bens e serviços ESPECIAIS;
+2. Obras e serviços COMUNS E ESPECIAIS de engenharia.
+
+=> CRITÉRIO DE JULGAMENTO poderá ser:
+A) MENOR PREÇO;
+B) MELHOR TÉCNICA OU CONTEÚDO ARTÍSTICO;
+C) TÉCNICA E PREÇO;
+D) MAIOR RETORNO ECONÔMICO;
+E) MAIOR DESCONTO;
+Reportar abuso
+Ajudou (514) Não ajudou
+RN
+Rafael Nobrega Campos
+21 de fevereiro de 2024 às 12:23
+Artigo 6, XLI - pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto
+
+Aplica-se, obrigatoriamente, o pregão nesses casos.
+Reportar abuso
+Ajudou (240) Não ajudou
+AM
+Aline Moreira Santana
+5 de março de 2024 às 10:37
+• Concorrência
+Modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia, cujo critério de julgamento poderá ser:
+a) menor preço;
+b) melhor técnica ou conteúdo artístico;
+c) técnica e preço;
+d) maior retorno econômico;
+e) maior desconto.
+
+Reportar abuso
+Ajudou (66) Não ajudou
+Joao Luiz Gasparelli Barbosa
+15 de março de 2024 às 09:45
+XXXVIII - concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia, cujo critério de julgamento poderá ser:
+a) menor preço;
+b) melhor técnica ou conteúdo artístico;
+c) técnica e preço;
+d) maior retorno econômico;
+e) maior desconto;
+
+
+
+
+XLI - pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto
+Reportar abuso
+Ajudou (42) Não ajudou
+CD
+Claudio De Jesus
+6 de março de 2024 às 14:25
+Errada.
+
+
+A modalidade de concorrência é utilizada para a contratação de bens, serviços e obras especiais, bem como obras e serviços comuns e especiais de engenharia. O critério de julgamento pode ser o menor preço, melhor técnica ou conteúdo artístico, técnica e preço, maior retorno econômico ou maior desconto.
+
+Reportar abuso
+Ajudou (23) Não ajudou
+Página 1 de 8
+5
+Q3178890
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Técnico Ministerial - Área Assistente Administrativo - 2024
+Texto associado
+Texto CG2A1
+Foi em 1975 que a Organização das Nações Unidas (ONU) começou a celebrar o dia 8 de março como o Dia Internacional das Mulheres, na busca por evidenciar a discussão sobre a importância da igualdade de gênero, do combate à violência e da garantia dos direitos de meninas e mulheres. Mas a celebração tem suas origens no começo do século XX, em manifestações ligadas aos direitos das mulheres trabalhadoras.
+A data passou a ser definitivamente estabelecida a partir do dia 8 de março de 1917, com a realização de uma manifestação de operárias por pão e paz, na atual cidade de São Petersburgo, na Rússia. Nove anos antes, em 8 de março de 1908, já havia ocorrido um encontro massivo em Nova Iorque, nos Estados Unidos da América (EUA), em defesa do sufrágio universal, com a presença de um comitê feminino local para apoiar o voto das mulheres.
+No Brasil, as mulheres só passaram a exercer o direito ao voto em 1932. As casadas, porém, só o puderam fazer em 1934, e até 1962 elas só podiam trabalhar fora se o marido anuísse.
+Atualmente, a presença das mulheres na educação brasileira é forte. Hoje, as meninas apresentam, inclusive, maior sucesso na trajetória escolar. Entre a população adulta com mais de 25 anos de idade, 49,5% das mulheres e 45% dos homens concluíram o ensino médio, de acordo com dados da PNAD Contínua 2018. No ensino superior, elas compõem 55% das matrículas de graduação. Na docência, esse fato se repete: elas também são maioria.
+Ainda assim, nem tudo é um mar de rosas. Conforme as mulheres vão progredindo na carreira acadêmica, por exemplo, esse cenário muda. No Brasil, apenas um em cada quatro pesquisadores seniores são mulheres. A maternidade e a desigualdade na divisão das tarefas domésticas são alguns dos fatores que dificultam o equilíbrio entre a vida profissional e pessoal das mulheres — mas não dos homens.
+Internet: <www.cenpec.org.br> (com adaptações).
+Julgue os itens que se seguem, com base nas ideias veiculadas no texto CG2A1.
+
+Segundo as informações presentes no texto, a despeito da garantia relativamente recente de direitos das mulheres em diversos campos, atualmente, no Brasil, há mais mulheres que homens com o ensino médio completo, além de elas serem mais numerosas no ensino superior e na docência.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+86.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ricardo Alves Nogueira
+17 de abril de 2024 às 07:20
+49,5% das mulheres não quer dizer necessariamente que é um número maior do que 45% dos homens, por exemplo, 49,5% de 100 é menor do que 45% de 200 pessoas.
+Reportar abuso
+Ajudou (18) Não ajudou
+Jemima Raulino Da Conceição
+17 de maio de 2024 às 12:41
+No texto fala acima de 25 anos, na afirmativa não diz isso, como pode afirmar algo dos 18 aos 25 anos? Pois ensino médio a idade média de término é 18 anos
+Famosa questão que a Cespe coloca o gabarito que quer
+
+COMPLICADO!!!!
+Reportar abuso
+Ajudou (10) Não ajudou
+Ramon
+3 de maio de 2024 às 17:14
+Questão errada. O enunciado da questão afirma que "há mais mulheres que homens com o ensino médio completo". De fato o percentual de mulheres é maior, o que não significa que o número de mulheres seja maior.
+Reportar abuso
+Ajudou (10) Não ajudou
+Leila Bernardes
+20 de março de 2024 às 10:58
+CERTO
+
+Atualmente, a presença das mulheres na educação brasileira é forte. Hoje, as meninas apresentam, inclusive, maior sucesso na trajetória escolar. Entre a população adulta com mais de 25 anos de idade, 49,5% das mulheres e 45% dos homens concluíram o ensino médio, de acordo com dados da PNAD Contínua 2018. No ensino superior, elas compõem 55% das matrículas de graduação. Na docência, esse fato se repete: elas também são maioria.
+Reportar abuso
+Ajudou (6) Não ajudou
+Alvaro Lincoln
+2 de julho de 2024 às 17:45
+Galera vamos ser um pouco mais realista, na pesquisa eles devem ter usado a proporção 50/50 pra chegar aos resultados
+Ou acham q pegaram 2 mulheres pra uma dizer que é formada e ter 50% e dps pegaram 10 homens pra no máximo 4 dizerem que se formou no ensino médio.
+Reportar abuso
+Ajudou (5) Não ajudou
+Página 1 de 3
+6
+Q3418378
+Administração de Recursos Materiais Administração de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Administrativo - Área Administração - 2024
+Texto associado
+Julgue os itens a seguir, relativos às atividades básicas da administração de material e patrimônio nas organizações.
+Embora a operacionalização dos sistemas de reposição de estoque não seja atribuição do setor de administração de materiais, a análise dos custos de estoque e a previsão de consumo constituem suas atividades básicas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+73.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Carlos Vinicio Pereira Cordeiro
+23 de outubro de 2024 às 20:07
+São atividades básicas da Gestão de Recursos Materiais:
+Análise dos custos de estoque
+Previsão de consumo
+Operacionalização dos sistemas de reposição de estoque
+Inventários dos estoques
+Apuração de indicadores (giro e cobertura de estoques, entre outros) etc
+Reportar abuso
+Ajudou (36) Não ajudou
+Gabriel Lopes
+26 de novembro de 2024 às 15:23
+A questão apresenta um equívoco ao afirmar que a operacionalização dos sistemas de reposição de estoque não é atribuição da administração de materiais. A gestão de estoque, que abrange desde a análise de custos e previsão de demanda até a execução prática da reposição, é uma das principais responsabilidades desse setor. A administração de materiais tem como objetivo garantir a continuidade das operações, o que inclui a garantia da disponibilidade dos materiais no momento exato. A operacionalização dos sistemas de reposição é fundamental para alcançar esse objetivo.
+Reportar abuso
+Ajudou (9) Não ajudou
+Romulo Augusto Rezende Linhares
+11 de janeiro de 2025 às 14:19
+Mais uma vez, não consegui encontrar de onde a Maia tirou a fundamentação que colocou no comentário.
+
+Vejam o que a Maia escreveu:
+
+Fundamentação: Art. 15. A administração de materiais compreende as atividades de planejamento, aquisição, recebimento, armazenagem, distribuição, controle e inventário dos materiais necessários ao funcionamento da organização.
+Art. 16. A análise dos custos de estoque e a previsão de consumo são atividades essenciais para a gestão eficiente dos recursos materiais.
+Art. 17. A operacionalização dos sistemas de reposição de estoque é uma atividade que pode ser delegada a outros setores ou sistemas automatizados, não sendo uma atribuição direta da administração de materiais.
+
+Alguém sabe de onde saiu isso? Podem ajudar?
+Reportar abuso
+Ajudou (0) Não ajudou
+7
+Q3418379
+Administração de Recursos Materiais Movimentação e Armazenagem
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Administrativo - Área Administração - 2024
+Texto associado
+Julgue os próximos itens, em relação ao controle dos materiais e do patrimônio nas organizações públicas.
+Para a movimentação de bens patrimoniais, são imprescindíveis dois documentos: o termo de responsabilidade e a ficha de cadastro do bem.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+40.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Carlos Vinicio Pereira Cordeiro
+23 de outubro de 2024 às 20:12
+[1]Termo de Responsabilidade e [2]Guia de Transferência de Material
+Reportar abuso
+Ajudou (48) Não ajudou
+Ashely
+26 de janeiro de 2025 às 17:36
+É guia de transferência de material!! segunda vez q erro isso kkk
+Reportar abuso
+Ajudou (1) Não ajudou
+Romulo Augusto Rezende Linhares
+11 de janeiro de 2025 às 14:28
+A Maia colocou no comentário dela um Decreto revogado.
+
+
+DECRETO No 99.658, DE 30 DE OUTUBRO DE 1990.
+
+Regulamenta, no âmbito da Administração Pública Federal, o reaproveitamento, a movimentação, a alienação e outras formas de desfazimento de material.
+Revogado pelo Decreto nº 9.373, de 2018
+
+
+Além disso, a redação usada para a Lei 4.320 indicada no comentário também parece não existir.
+
+Alguém sabe de onde a Maia tirou as redações das normas que usou no comentário dela?
+Reportar abuso
+Ajudou (1) Não ajudou
+J
+Jaqueline
+22 de janeiro de 2025 às 16:20
+Segundo Renato Fenili (2016), a movimentação de bens patrimoniais não pode prescindir de dois documentos:
+
+Termo de Responsabilidade, a ser assinado pelo (novo) responsável pela guarda e conservação do bem patrimonial; e
+
+Guia de Transferência de Material, usualmente emitida por sistemas informatiza dos, cujo intuito é formalizar a alteração do órgão/servidor responsável pela carga patrimonial do bem
+
+Fonte: Qconcursos
+
+Reportar abuso
+Ajudou (0) Não ajudou
+8
+Q3418380
+Administração de Recursos Materiais Gestão Patrimonial
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Administrativo - Área Administração - 2024
+Texto associado
+Julgue os próximos itens, em relação ao controle dos materiais e do patrimônio nas organizações públicas.
+A designação de colaboradores distintos para exercer as funções de custódia, controle e contabilização dos bens patrimoniais e as verificações periódicas constitui procedimento relacionado às boas práticas da gestão patrimonial.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+88.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Aysllan Augusto Batista Souza
+6 de novembro de 2024 às 11:00
+Mesma ideia do principio da segregação de funções da nova lei de licitações, evita que um mesmo servidor encubra erros(intencionais ou não) de determinada etapa. Ex.: Se servidor que perdeu um bem sob sua guarda for realizar a auditoria em sua repartição poderá encobrir esse erro.
+Reportar abuso
+Ajudou (28) Não ajudou
+Romulo Augusto Rezende Linhares
+11 de janeiro de 2025 às 14:34
+A Maia colocou no comentário dela um Decreto revogado.
+
+
+DECRETO No 99.658, DE 30 DE OUTUBRO DE 1990.
+
+Regulamenta, no âmbito da Administração Pública Federal, o reaproveitamento, a movimentação, a alienação e outras formas de desfazimento de material.
+Revogado pelo Decreto nº 9.373, de 2018
+
+
+Além disso, a redação usada para a Lei 4.320 indicada no comentário também parece não existir.
+
+Alguém sabe de onde a Maia tirou as redações das normas que usou no comentário dela?
+Reportar abuso
+Ajudou (1) Não ajudou
+9
+Q3221281
+Administração de Recursos Materiais Cláusulas Necessárias
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+No que se refere às compras no setor público, julgue os próximos itens, relativos a objeto e edital de licitação.
+Em se tratando de contratação para a elaboração de projetos executivos de engenharia, devem ser previstos, no edital de licitação, alguns elementos obrigatórios, tais como: objeto, com descrição sucinta e clara; prazo e condições para assinatura do contrato; e sanções para o caso de inadimplemento.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Manuella O Nascimento
+16 de maio de 2024 às 12:01
+Não encontrei em nenhum lugar falando sobre "descrição sucinta e clara"
+
+Lei 14133
+Art. 25. O edital deverá conter o objeto da licitação e as regras relativas à convocação, ao julgamento, à habilitação, aos recursos e às penalidades da licitação, à fiscalização e à gestão do contrato, à entrega do objeto e às condições de pagamento.
+Reportar abuso
+Ajudou (4) Não ajudou
+Felipe Fraga
+27 de julho de 2024 às 18:30
+Objeto descrio de forma sucinta?
+Reportar abuso
+Ajudou (1) Não ajudou
+Ana Claudia Machado
+28 de janeiro de 2025 às 17:29
+Acredito que seja descrição detalhada, e não sucinta.
+Reportar abuso
+Ajudou (0) Não ajudou
+Ana Loiola
+7 de janeiro de 2025 às 10:04
+(Comentário para que eu consiga identificar meu erro posteriormente)
+
+Errei a questão por causa do termo "sucinta". Achava que o objeto precisava ser detalhado
+Reportar abuso
+Ajudou (0) Não ajudou
+10
+Q3192540
+Legislação Federal Leis
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Analista de Infraestrutura de Tecnologia da Informação - 2024
+Texto associado
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), julgue os itens subsequentes.
+O tratamento de dados pessoais sensíveis somente poderá ocorrer quando o titular consentir, de forma específica e destacada, para finalidades específicas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+49.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Maria Luíza Sabioni
+22 de maio de 2024 às 20:06
+
+O erro da questão está em dizer que somente o titular pode consentir. A lei prevê que o responsável legal também pode.
+
+
+Art. 11. O tratamento de dados pessoais sensíveis somente poderá ocorrer nas seguintes hipóteses:
+I - quando o titular ou seu responsável legal consentir, de forma específica e destacada, para finalidades específicas;
+Reportar abuso
+Ajudou (106) Não ajudou
+Luciana De Freitas Motta Diniz
+17 de junho de 2024 às 14:30
+Segundo o art. 11, inciso II, da LGPD o tratamento de dados pessoais sensíveis pode ocorrer sem o consentimento do titular. Senão vejamos.
+Art. 11. O tratamento de dados pessoais sensíveis somente poderá ocorrer nas seguintes hipóteses:
+I - quando o titular ou seu responsável legal consentir, de forma específica e destacada, para finalidades específicas;
+II - SEM fornecimento de consentimento do titular, nas hipóteses em que for indispensável para:
+a) cumprimento de obrigação legal ou regulatória pelo controlador;
+b) tratamento compartilhado de dados necessários à execução, pela administração pública, de políticas públicas previstas em leis ou regulamentos;
+c) realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais sensíveis;
+d) exercício regular de direitos, inclusive em contrato e em processo judicial, administrativo e arbitral, este último nos termos da Lei nº 9.307, de 23 de setembro de 1996 (Lei de Arbitragem) ;
+e) proteção da vida ou da incolumidade física do titular ou de terceiro;
+f) tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou autoridade sanitária; ou (Redação dada pela Lei nº 13.853, de 2019) Vigência
+g) garantia da prevenção à fraude e à segurança do titular, nos processos de identificação e autenticação de cadastro em sistemas eletrônicos, resguardados os direitos mencionados no art. 9º desta Lei e exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais.
+Reportar abuso
+Ajudou (34) Não ajudou
+D
+Danr
+24 de maio de 2024 às 01:22
+Maria, o erro se estende ao fato do artigo 11 também incluir outras hipóteses de tratamento. O erro não é apenas na redação.
+
+Atentar para o "somente poderá ocorrer", na lei isso é uma lista. Na assertiva acima ele transformou em apenas uma possibilidade.
+Reportar abuso
+Ajudou (27) Não ajudou
+WM
+Wilson Montalvao Mattos Neto
+27 de agosto de 2024 às 11:01
+Art. 11. O tratamento de dados pessoais sensíveis somente poderá ocorrer nas seguintes hipóteses:
+II - sem fornecimento de consentimento do titular, nas hipóteses em que for indispensável para:
+
+E não SOMENTE quando o titular consentir, como afirma a questão!
+
+Reportar abuso
+Ajudou (4) Não ajudou
+Uglaudiron De Oliveira Botelho
+8 de agosto de 2024 às 08:25
+Em outra questão de múltiplas escolha o CESPE considerou o "somente" correto.
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+11
+Q3340527
+Administração de Recursos Materiais Recebimento dos Materiais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Técnico Judiciário - Área: Administrativa - 2024
+Texto associado
+Julgue os itens que se seguem, relativos a classificação de materiais, gestão de estoques e armazenagem e recebimento.
+A sequência de procedimentos para recepcionar o material no almoxarifado inicia-se com a conferência quantitativa, seguida do pagamento da fatura ao fornecedor, e encerra-se com a conferência qualitativa.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+87.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+TL
+Thairine Lisboa Monteiro
+24 de setembro de 2024 às 18:27
+Inicia-se no recebimento: com a descarga, conferência quantitativa, conferência qualitativa e regularização, nessa ordem.
+Reportar abuso
+Ajudou (95) Não ajudou
+Lorena Campos De Assis Campos De Assis
+18 de dezembro de 2024 às 12:01
+Para Viana (2009), o processo de recebimento costuma ser divido em quatro etapas:
+ 1. Entrada de materiais: representa o início do processo de recebimento, tendo
+como propósito efetuar a recepção dos veículos transportadores, proceder à triagem
+da documentação suporte do recebimento, encaminhá-los para descarga e efetuar o
+cadastramento dos dados pertinentes no sistema.
+ 2. Conferência quantitativa: é a atividade que verifica se a quantidade declarada pelo
+fornecedor na Nota Fiscal corresponde à efetivamente recebida. O típico meio é a contagem,
+mas existem outros meios, como por exemplo: manual, por meio de cálculo, por meio de
+balanças contadoras pesadoras, pesagens, medição e critérios de tolerância.
+ 3. Conferência qualitativa (inspeção técnica): visa garantir o recebimento adequado
+do material contratado pelo exame dos seguintes itens: características dimensionais;
+características específicas; e restrições de especificação.
+ 4. Regularização: caracteriza-se pelo controle do processo de recebimento, pela
+confirmação da conferência qualitativa e quantitativa, por meio do laudo da inspeção
+técnica e da confrontação quantidades conferidas versus faturadas, respectivamente, para
+decisão de aceitar ou recusar, e, finalmente, pelo encerramento do processo.
+Reportar abuso
+Ajudou (9) Não ajudou
+12
+Q3142928
+Administração Financeira e Orçamentária - AFO Despesa Pública
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CGE RJ - Auditor do Estado - 2024
+Texto associado
+Quanto ao conceito de despesa pública, a sua classificação e a sua execução, julgue os itens a seguir.
+Planejamento e execução são etapas da despesa orçamentária.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+70.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Caroline Medeiros
+28 de fevereiro de 2024 às 12:21
+PLANEJAMENTO = Fixação, movimentação de crédito, programação orçamentária e financeira, licitação e contratação.
+
+EXECUÇÃO = Empenho, liquidação e pagamento
+
+CONTROLE E AVALIAÇÃO = Fiscalização, avaliação da ação, gestão e aplicação dos recursos.
+Reportar abuso
+Ajudou (154) Não ajudou
+Larissa Menezes Alves De Oliveira
+14 de outubro de 2024 às 15:57
+MCASP 10° Ed.
+
+4.4.ETAPAS DA DESPESA ORÇAMENTÁRIA 4.4.1. Planejamento
+A etapa do planejamento abrange, de modo geral, toda a análise para a formulação do plano e ações governamentais que servirão de base para a fixação da despesa orçamentária, a descentralização/movimentação de créditos, a programação orçamentária e financeira, e o processo de licitação e contratação.
+
+4.4.2. Execução
+A execução da despesa orçamentária se dá em três estágios, na forma prevista na Lei nº 4.320/1964: empenho, liquidação e pagamento.
+Reportar abuso
+Ajudou (16) Não ajudou
+MP
+Miguel Pereira Barros
+28 de março de 2024 às 13:06
+São etapas sucessivas e planejadas, corroborando para um funcionamento integrado, eficiente e ativo na gestão das finanças públicas para o integral interesse da coletividade. Gabarito: certo.
+Reportar abuso
+Ajudou (14) Não ajudou
+RV
+Rafael Vasco
+30 de abril de 2024 às 14:19
+Que eu saiba Planejamento/ Previsão fazem parte da Receita Pública
+Reportar abuso
+Ajudou (12) Não ajudou
+Maria Gabriela
+29 de janeiro de 2025 às 10:53
+✅ Certo.
+Planejamento e execução são, de fato, etapas importantes no processo da despesa orçamentária.
+Planejamento: envolve a definição das necessidades e a alocação de recursos, com base nas previsões da Lei Orçamentária Anual (LOA).
+Execução: consiste na implementação das despesas, ou seja, na efetivação dos pagamentos e no cumprimento das obrigações previstas no orçamento.
+Portanto, a afirmação está correta. ✅
+Reportar abuso
+Ajudou (0) Não ajudou
+13
+Q3312317
+Administração de Recursos Materiais Recebimento dos Materiais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+Julgue os itens a seguir, relativos ao recebimento e à armazenagem de materiais na administração pública.
+A regularização do recebimento do material pode ocorrer pela entrada do material no estoque e liberação do pagamento ao fornecedor, o que caracteriza a aceitação ou o recebimento definitivo do material.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Carlos Vinicio Pereira Cordeiro
+23 de outubro de 2024 às 13:53
+
+Regularização: é o resultado lógico decorrente das fases anteriores. Pode ser originada de uma das seguintes situações:
+• Entrada do material no estoque e liberação do pagamento ao fornecedor. Nesse caso, houve aceitação do material, ou o recebimento definitivo;
+• Devolução parcial ou total do material ao fornecedor. Nesse caso, a aceitação foi parcial ou, simplesmente, o material não foi aceito;
+• Reclamação junto ao fornecedor, por falta de material.
+
+Reportar abuso
+Ajudou (32) Não ajudou
+14
+Q3405828
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Médico - Área Clínica Geral - 2024
+Texto associado
+Texto CG1A1-I
+A expressão “inteligência artificial” é muito popular, tanto
+na literatura técnica quanto no imaginário popular. A sociedade
+se espanta com os prometidos ganhos em bem-estar e
+produtividade e se apavora com perspectivas apocalípticas
+relacionadas à inteligência artificial. Em muitos casos, o que se
+observa é a confusão entre inteligência artificial e toda e qualquer
+atividade que envolve aparelhos digitais. Muitas inovações
+recentes creditadas à inteligência artificial decorrem
+simplesmente da automatização de tarefas cotidianas ou do uso
+de tecnologias dominadas há algum tempo.
+É preciso filtrar um pouco os excessos e procurar se ater
+aos pontos que caracterizam mais fortemente as inteligências
+artificiais, mesmo que tenhamos uma definição vaga de
+inteligência artificial. Um agente inteligente, de forma geral, deve
+ser capaz de representar conhecimento e incerteza; de raciocinar;
+de tomar decisões; de aprender com experiências e instruções; de
+se comunicar e interagir com pares e com o mundo. Embora
+alguém possa imaginar cérebros biológicos artificiais, hoje toda a
+ação em inteligência artificial está centrada em computadores
+digitais construídos a partir de silício.
+Fabio G. Cozman e Hugo Neri. O que, afinal, é inteligência artificial?
+In: Fabio G. Cozman, Guilherme Ary Plonski e Hugo Neri (orgs).
+Inteligência artificial: avanços e tendências.
+São Paulo: Instituto de Estudos Avançados, 2021, p. 22-23 (com adaptações).
+Com base nas ideias do texto CG1A1-I, julgue os itens a seguir.
+No texto, os autores informam que cérebros artificiais que se comportam como agentes inteligentes ainda são mera especulação, mas defendem que, com o avanço da inteligência artificial, esses cérebros serão realidade.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+83.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Nadine
+11 de setembro de 2024 às 21:21
+" Embora alguém possa imaginar cérebros biológicos artificiais, hoje toda a ação em inteligência artificial está centrada em computadores digitais construídos a partir de silício." Ou seja, não é especulação, e sim realidade.
+Reportar abuso
+Ajudou (15) Não ajudou
+Andre2
+15 de setembro de 2024 às 16:34
+Assertiva sem nenhum nexo com o texto indicado.
+Reportar abuso
+Ajudou (11) Não ajudou
+Alberto Oliveira
+27 de janeiro de 2025 às 21:27
+"Alguém possa imaginar" não é certeza que surgirá. Extrapolação.
+Reportar abuso
+Ajudou (0) Não ajudou
+15
+Q3436303
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Texto I
+(...) as nações latinas do Novo Mundo não se podem queixar de deslembradas. Cada incidente, ainda sem grande relevo, encontra repercussão na imprensa europeia. Não aparecem, é verdade, nenhuns desses longos estudos, circunstanciados e sábios, onde os mestres em assuntos internacionais dizem o que sabem sobre a história política, social e econômica do país de que se ocupam, para daí deduzirem os seus juízos. Não; como de costume, sempre que se trata das repúblicas latino-americanas, os doutores e publicistas da política mundial se limitam a lavrar sentenças — invariáveis e condenatórias. Como variantes dessas sentenças, eles se limitam a ditar, de tempos em tempos, uns tantos conselhos axiomáticos.
+Manoel Bomfim. América Latina: males de origem. Brasília: Editora Universidade de Brasília, p. 24 (com adaptações).
+Em relação às ideias e aos aspectos linguísticos do texto I, julgue (C ou E) os itens a seguir.
+Na construção argumentativa do texto, o autor faz uma pausa retórica mediante o emprego do “Não” (quarto período), para relativizar sua oposição ao conteúdo do período imediatamente anterior, e repete, nos dois últimos períodos, a expressão “se limitam” com o propósito de reforçar sua crítica à visão eurocêntrica, por ele considerada superficial e pretensamente superior.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+39.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Andre2
+10 de outubro de 2024 às 14:54
+Não há, no Texto I, nada que mencione explicitamente uma visão eurocêntrica. A assertiva tenta induzir o leitor para uma interpretação crítica subjetiva a qual, objetivamente, não está presente na referência. Termos utilizados: pausa retórica, relativizar sua oposição, superficial, pretensamente superior.
+
+PS: A Maia, assim como a maioria das ferramentas que utilizam inteligência artificial, não tem capacidade de discernir se uma assertiva é verdadeira ou falsa. A tecnologia apenas coleta e contabiliza as frases como um dado estatístico, que será somado a outros dados - sem uma interpretação apurada dos fatos. Usem a Maia, o Search Labs ou o Chat GPT apenas como suporte - jamais como uma fonte fidedigna.
+Reportar abuso
+Ajudou (25) Não ajudou
+LC
+Luis Claudio Indriunas
+5 de dezembro de 2024 às 10:43
+O Não ratifica a ideia do autor
+Reportar abuso
+Ajudou (4) Não ajudou
+Lorena Mara Oliveira Do Nascimento
+28 de novembro de 2024 às 11:59
+Respondi o item como errado pelo entendimento que o autor não está relativizando sua oposição ao conteúdo do período anterior e sim ratificando o que o período anterior diz.
+
+"Não aparecem, é verdade, nenhuns desses longos estudos, circunstanciados e sábios, onde os mestres em assuntos internacionais dizem o que sabem sobre a história política, social e econômica do país de que se ocupam, para daí deduzirem os seus juízos.
+observe que aqui ele diz que os mestres em assuntos internacionais NÃO se aprofundam em longos estudos para aí sim deduzir seus juízos, e logo depois ele reafirma com a palavra "Não; como de costume(...)"
+Não; como de costume, sempre que se trata das repúblicas latino-americanas, os doutores e publicistas da política mundial se limitam a lavrar sentenças — invariáveis e condenatórias. 
+
+E as expressões "se limitam" reforça o argumento que a imprensa europeia "se limitam a lavrar sentenças — invariáveis e condenatórias" e "se limitam a ditar" sem estudo aprofundado sobre o tema.
+
+Reportar abuso
+Ajudou (3) Não ajudou
+Leonardo Oliveira
+2 de outubro de 2024 às 10:37
+O gabarito diz que é E, sendo que a queridíssima Maia diz que é C na explicação??????????????????????? cada dia mais difícil estudar por essa plataforma.
+Reportar abuso
+Ajudou (2) Não ajudou
+Alberto Oliveira
+27 de janeiro de 2025 às 21:12
+Galera errei, mas entendi onde a banca quer te pegar. A citação da impressa europeia te induz ao erro de acreditar que a crítica do autor é a visão eurocêntrica, mas não é. Ele crítica os publicistas da política mundial, esses sim são o alvo dele e em nenhum momento ele cita que esses são europeus.
+Reportar abuso
+Ajudou (0) Não ajudou
+16
+Q3540147
+Administração Financeira e Orçamentária - AFO Orçamento na Constituição Federal de 1988
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Mossoró - Auditor Fiscal de Tributos Municipais - 2024
+Texto associado
+Considerando o disposto na Lei n.º 4.320/1964, o orçamento adotado no Brasil, as disposições da Lei de Responsabilidade Fiscal (LRF) e a receita pública, julgue os itens que se seguem.
+Na estrutura orçamentária adotada no Brasil, para se evitarem múltiplos orçamentos, em observância ao princípio orçamentário da unidade, a previsão de receita e a fixação da despesa de todos os entes federados, em cada exercício financeiro, integram um único documento legalmente formalizado pela pessoa política que detém o poder central — a União —, denominado lei orçamentária anual, conforme preconiza a Constituição Federal de 1988.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+64.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Carlos Daniel Lima De Oliveira
+2 de janeiro de 2025 às 14:35
+Gabarito: ERRADO.
+O princípio da unidade estabelece que deve existir apenas UM orçamento para CADA ENTE DA FEDERAÇÃO em cada exercício financeiro ainda que em mais de um documento. Não há qualquer necessidade de obediência do orçamento municipal em relação ao estadual e federal e do estadual em relação ao federal.
+Reportar abuso
+Ajudou (14) Não ajudou
+17
+Q3540015
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Mossoró - Analista - Área Direito - 2024
+Texto associado
+Texto CB1A2-II
+
+O poder manifesta-se em relações de uso do território, materializado ou virtualizado pelas formas de atuação dos atores sociais locais. Sendo assim, poder é uma relação estabelecida entre interesses divergentes com fins específicos de utilização do território. Os conflitos gerados pelo uso do território também são formas de poder, embora muitas vezes o poder esteja em risco. O poder é a objetivação política do território utilizado para se atingir determinado objetivo, e um de seus recursos é o convencimento do outro.
+Quais são os atores sociais que mais partilham o poder e que interesses estão em jogo? Em que esfera social ou política o poder se torna mais ativo? Estamos numa diferenciação entre o poder formal, institucional, e o poder informal advindo dos movimentos sociais. O formal seria aquele da instituição política, vinculada à ideia da esfera municipal, estadual e federal; e o poder informal é o da sociedade civil organizada, incorporado no papel dos movimentos sociais diversos e de seus representantes junto às três esferas que mencionamos.
+Não estamos querendo dizer que entre essas escalas não acontecem associações; o que queremos, para fim de análise, é diferenciar seu campo de negociação. Sabemos que, entre essas escalas, ocorrem interferências, seja no poder formal, seja no poder informal, e que, entre esses poderes, há uma dialética na definição das formas de desenvolvimento e de uso no território.
+
+João Márcio Palheta da Silva. Poder, governo e território na sociedade contemporânea. Internet: (com adaptações).
+
+Julgue os itens que se seguem, relativos a aspectos linguísticos do texto CB1A2-II e às ideias nele apresentadas.
+No que diz respeito aos dois níveis de poder citados no texto, o formal e o informal, o autor indica que essa divisão não reflete uma separação total entre eles, mas é útil para uma melhor compreensão de seus campos de negociação.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+84.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Leticia
+10 de dezembro de 2024 às 08:41
+Fundamento no ultimo paragrafo do texto. Gabarito certo
+Reportar abuso
+Ajudou (3) Não ajudou
+18
+Q3407396
+Língua Inglesa Língua Inglesa e Educação
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Professor de Educação Básica - Área: Inglês - 2024
+Texto associado
+No que se refere ao ensino da língua inglesa, julgue os itens a seguir, de acordo com a Base Nacional Comum Curricular (BNCC).
+São cinco os eixos organizadores propostos pela BNCC para o componente de língua inglesa no ensino fundamental – anos finais, a saber: oralidade, escuta, leitura, escrita e dimensão intercultural.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+15.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gilmar Nunes
+6 de fevereiro de 2025 às 20:00
+Escuta torna a questão errada
+
+Reportar abuso
+Ajudou (0) Não ajudou
+19
+Q3518014
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCDF - Auditor de Controle Externo - Área: Psicologia - 2024
+Texto associado
+O conceito de discriminação usualmente leva à sensação de medida negativa, que causa prejuízo a alguém. Trata-se, efetivamente, do conceito de discriminação sob o aspecto prejudicial, ou, do ponto de vista jurídico, ilícito, do instituto.
+Em breve síntese, a discriminação consiste em tratar de maneira diferente determinada pessoa por motivo não justificável. A discriminação vedada é aquela que, como regra, encontra proibição legal e causa prejuízo à pessoa discriminada.
+O caput do artigo 5.º da Constituição Federal de 1988 dispõe que “Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à igualdade, à segurança e à propriedade”.
+Esse dispositivo revela a importância do status da igualdade entre as pessoas e, consequentemente, entre os trabalhadores. Evidentemente, conduta em sentido contrário constitui ilícito, excepcionadas as hipóteses de ações afirmativas.
+Explica-se: a discriminação, por si só, não é necessariamente medida reprovável. Pode constituir, inclusive, ação afirmativa a que os sujeitos podem estar obrigados pelo direito. Exemplo disso é a discriminação em favor das pessoas com deficiência, ao se estabelecer cota mínima a ser preenchida por elas.
+No âmbito das relações de trabalho, algumas situações são mais comuns no que se refere à discriminação: discriminação pelo sexo, pela idade, pela etnia, pela orientação sexual. Nesse contexto, a conduta discriminatória que não pode ser admitida é aquela que trata de maneira distinta os trabalhadores, sem qualquer justificativa ou causa lícita para tanto, preterindo determinada classe de pessoas por motivos totalmente injustificáveis e que não guardam qualquer relação com o tipo de trabalho desenvolvido.
+Internet: <https://enciclopediajuridica. pucsp.br> (com adaptações).
+Acerca de aspectos linguísticos do texto apresentado e das ideias nele veiculadas, julgue os itens que se seguem.
+Defende-se, no texto, o emprego do termo “discriminação” com viés exclusivamente negativo, a fim de se evitar que se confundam as ações afirmativas com atos discriminatórios.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+87.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+@douglasericpsi
+24 de novembro de 2024 às 16:43
+ERRADO
+"Explica-se: a discriminação, por si só, não é necessariamente medida reprovável"
+Reportar abuso
+Ajudou (5) Não ajudou
+20
+Q3134910
+Raciocínio Lógico Negação de Proposições compostas
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista de Infraestrutura de Tecnologia da Informação - 2024
+Texto associado
+Em um jogo investigativo, um dos objetivos é coletar pistas para descobrir o culpado de um crime. Em determinada ambientação, cinco senhores, cada um usando um chapéu de determinada cor — branco, cáqui, preto, verde e vermelho —, participavam de um jantar, quando a luz da mansão apagou. Passado o apagão, foi constatado que o senhor de chapéu cáqui estava morto. Em uma etapa do jogo, já haviam sido coletados os seguintes depoimentos dos outros quatro cavalheiros:
+
+Senhor de chapéu verde: “O senhor de chapéu vermelho é inocente.”
+Senhor de chapéu vermelho: “Se o senhor de chapéu preto e o senhor de chapéu verde são inocentes, então o senhor de chapéu branco mentiu em seu depoimento.”
+Senhor de chapéu branco: “O senhor de chapéu preto é inocente.”
+Senhor de chapéu preto: “O senhor de chapéu verde mentiu em seu depoimento.”
+
+Sabendo que apenas um dos depoentes mentiu e que apenas um dos senhores assassinou o senhor de chapéu cáqui, julgue os itens seguintes.
+A proposição sentencial ~P ˅ Q → ~R corresponde, logicamente, à negativa do depoimento do senhor de chapéu vermelho.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+82.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Kaique
+21 de fevereiro de 2024 às 09:57
+no "se então" em caso de negação, devemos manter a primeira e negar a segunda (MaENe) como a questão começa negando P, já corresponde ao gabarito "Errado"
+Reportar abuso
+Ajudou (37) Não ajudou
+Breno
+2 de abril de 2024 às 16:21
+Não se nega SE ENTAO com SE ENTAO
+
+Reportar abuso
+Ajudou (22) Não ajudou
+Camilla Bruna Dias De Souza
+6 de abril de 2024 às 08:46
+Errado
+Mantem a primeira e nega a segunda (MANE).
+Começou negando, está errado.
+Reportar abuso
+Ajudou (10) Não ajudou
+Lorena Martins Veiga
+16 de outubro de 2024 às 09:02
+~P ˅ Q ^ ~R
+Reportar abuso
+Ajudou (10) Não ajudou
+Grazyele Soares
+19 de outubro de 2024 às 13:39
+Negação do se então = P^~Q - Mantém a primeira e nega a segunda
+Reportar abuso
+Ajudou (6) Não ajudou
+Página 1 de 2

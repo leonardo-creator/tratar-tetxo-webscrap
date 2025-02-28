@@ -1,0 +1,934 @@
+1
+Q3641144
+Administração de Recursos Materiais Tipos de Inventário
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área: Administrativa - 2025
+Texto associado
+Julgue os itens subsequentes, que dizem respeito a compras, previsão e controle de estoque nas organizações.
+O inventário geral, considerado a ferramenta de maior relevância nos processos internos da empresa, dadas as vantagens econômicas que confere à organização, é realizado ao longo do ano, sem a necessidade de paralisação dos setores da empresa.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+78.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daiane Guedes
+16 de fevereiro de 2025 às 07:31
+O item está errado.
+
+O inventário geral é um processo de conferência física de todos os itens em estoque de uma organização. Ele é, de fato, uma ferramenta essencial para o controle de estoques, pois permite identificar discrepâncias entre os registros e a realidade, reduzindo perdas e otimizando a gestão.
+
+No entanto, o inventário geral normalmente exige a paralisação das atividades ou, pelo menos, uma organização especial para minimizar impactos operacionais. Muitas empresas optam por realizá-lo em períodos de menor movimento ou até em momentos específicos do ano, como no fechamento contábil.
+
+Diferente do inventário geral, o inventário rotativo é realizado ao longo do ano, sem a necessidade de interrupção dos setores, pois envolve a contagem periódica de parte dos itens do estoque.
+
+Portanto, ao afirmar que o inventário geral ocorre ao longo do ano sem necessidade de paralisação, o item está incorreto.
+
+Reportar abuso
+Ajudou (10) Não ajudou
+2
+Q3664247
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Direito - 2025
+Texto associado
+Texto CG1A1
+
+Observando os mineiros trabalharem, você percebe, por um breve instante, como são diferentes os universos habitados por diferentes pessoas. Os subterrâneos onde se escava o carvão são uma espécie de mundo à parte, e é fácil viver toda uma vida sem jamais ouvir falar dele. É provável que a maioria das pessoas até prefira não ouvir falar dele. E, contudo, esse mundo é a contraparte indispensável do nosso mundo da superfície. Praticamente tudo que fazemos, desde tomar um sorvete até atravessar o Atlântico, desde assar um filão de pão até escrever um romance, envolve usar carvão, direta ou indiretamente. Para todas as artes da paz, o carvão é necessário; e, se a guerra irrompe, é ainda mais necessário. Em épocas de revolução, o mineiro precisa continuar trabalhando, do contrário a revolução tem que parar, pois o carvão é essencial tanto para a revolta como para a reação. Seja lá o que for que aconteça na superfície, as pás e picaretas têm que continuar escavando sem trégua — ou fazendo uma pausa de algumas semanas, no máximo. Porém, de modo geral, não temos consciência disso; todos sabemos que “precisamos de carvão”, mas raramente, ou nunca, nos lembramos de tudo o que está envolvido no processo para se obter carvão.
+Aqui estou eu escrevendo, sentado diante da minha confortável lareira a carvão. De quinze em quinze dias, a carroça de carvão para na porta e uns homens de blusão de couro trazem o carvão para dentro de casa em sacos robustos, cheirando a piche, e o despejam no depósito de carvão embaixo da escada. É só muito raramente, quando faço um esforço mental bem definido, que estabeleço a conexão entre esse carvão e o penoso trabalho realizado lá longe, nas minas. É apenas “carvão”, algo que eu preciso ter, uma coisa escura que chega misteriosamente, vinda de nenhum lugar em especial, como o maná, só que devemos pagar por ele.
+Seria fácil atravessar de carro todo o norte da Inglaterra sem lembrar, nem uma só vez, que, dezenas de metros abaixo da estrada, os mineiros estão atacando o carvão com suas picaretas. E, contudo, são eles que estão fazendo seu carro andar. O mundo deles lá embaixo, iluminado por suas lâmpadas, é tão necessário para o mundo da superfície, da luz do dia, como a raiz é necessária para a flor.
+
+George Orwell. O caminho para Wigan Pier. Trad. Isa Mara Lando. São Paulo: Companhia das Letras, 2010 (com adaptações).
+Em relação às ideias do texto CG1A1, julgue os itens que se seguem.
+
+O texto contrapõe duas dimensões distintas: a subterrânea, caracterizada pelo trabalho árduo dos mineiros em meio à completa escuridão, e a da superfície, exposta à luz do dia.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+60.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Sara Sangi Miranda
+25 de fevereiro de 2025 às 21:51
+Último período do texto: "O mundo deles lá embaixo, iluminado por suas lâmpadas, é tão necessário para o mundo da superfície, da luz do dia, como a raiz é necessária para a flor."
+
+Logo, os mineiros não trabalham em meio à completa escuridão.
+Reportar abuso
+Ajudou (1) Não ajudou
+3
+Q3596009
+Administração de Recursos Materiais Conceito de Logística
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Comprador - 2025
+Texto associado
+A respeito de fundamentos da logística, armazenagem, movimentação de cargas e logística reversa, julgue os itens subsequentes.
+Logística reversa é a prática de devolução de produtos defeituosos para a indústria por parte dos clientes.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+50.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ashely
+31 de janeiro de 2025 às 15:22
+No meu ponto de vista questão errada, pois logística reversa é mais amplo que isso.
+Reportar abuso
+Ajudou (20) Não ajudou
+EC
+Erlailson Costa
+6 de fevereiro de 2025 às 13:13
+A logística reversa engloba todos os procedimentos de pós-venda ou pós-consumo que garantem o reaproveitamento ou o descarte correto dos resíduos de produtos utilizados pelos consumidores. Ela é uma responsabilidade compartilhada do setor público, privado e sociedade civil, que gera benefícios ligados à geração de renda, maiores oportunidades de negócios e sustentabilidade. Portanto, o conceito de Logística Reversa é muito mais abrangente do que o abordado na questão.
+Reportar abuso
+Ajudou (16) Não ajudou
+Emanuel Oliveira
+10 de fevereiro de 2025 às 16:12
+Ser mais abrangente não significa estar errado..
+Reportar abuso
+Ajudou (7) Não ajudou
+Elvisnei Neri De Sousa
+24 de fevereiro de 2025 às 06:50
+Logística reversa é o processo de recolher e gerir produtos e resíduos para que possam ser reaproveitados ou descartados de forma adequada. É um instrumento de desenvolvimento social e econômico. Princípios Cumpre o princípio da responsabilidade compartilhada Prioriza o grau de impacto dos resíduos na saúde pública e no meio ambiente Contribui para a construção de uma imagem de marca positiva Etapas Coleta dos produtos e resíduos Classificação dos produtos e resíduos Desmontagem dos produtos que podem ser reutilizados ou reciclados Processamento dos materiais separados Distribuição dos materiais processados Disposição final dos resíduos Produtos abrangidos Agrotóxicos, pilhas, baterias, pneus, óleos lubrificantes, lâmpadas, produtos eletroeletrônicos, medicamentos, embalagens, entre outros Benefícios Reincorporação na cadeia de produção, Inovações que proporcionam benefícios socioambientais, Uso racional de materiais, Construção de confiança do consumidor, Fortalecimento da imagem da marca.
+Reportar abuso
+Ajudou (1) Não ajudou
+Alysson Fernando De Carvalho Santos
+27 de fevereiro de 2025 às 22:32
+Essa questão deveria ter sido anulada
+Reportar abuso
+Ajudou (0) Não ajudou
+4
+Q3665257
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Especialista em Recursos Minerais - Área Direito (outorga) - 2025
+Texto associado
+Researchers have unveiled long “hidden” and finely detailed tattoo designs on the skin of ancient mummies from Peru, a study reports. Tattoos were a prevalent art form in pre-Hispanic South America, as attested by the discovery of mummified human remains in the region with preserved skin decoration that date back centuries, and even millennia.
+While such body art works can provide insights into ancient cultures, tattoos are known to fade and bleed over time — a process compounded in mummies by the decay of the body. This often means that the original designs are difficult to make out.
+In the latest study, published in the journal Proceedings of the National Academy of Sciences, a team of researchers used a technique known as laser-stimulated fluorescence (LSF) to examine tattoos on mummified individuals belonging to the pre-Hispanic Chancay culture of what is now coastal Peru.
+The mummified remains that team of researchers examined were originally discovered in 1981 at the Cerro Colorado cemetery archaeological site in the Huaura Valley of Peru. The LSF technique revealed “exceptionally fine” and previously unknown details of the ancient tattoos.
+The team managed to identify intricate geometric and zoomorphic (representing animal forms) designs that were “very surprising” because they demonstrate a higher degree of artistic complexity than any other existing Chancay artwork, including on pottery and the culture's renowned textiles. The art of tattooing was clearly important to the Chancay, as evidenced by the high proportion of tattooed individuals among known mummified remains from the ancient culture.
+
+Hidden Tattoos Revealed on 750-Year-Old Ancient Mummies: ‘Very Surprising’. Internet: <newsweek.com> (adapted).
+
+Based on the preceding text, judge the following items.
+The Chancay culture regarded the use of tattoos as highly significant, which was an unusual trait for pre-Hispanic South American civilizations.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+83.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Sara Sangi Miranda
+27 de fevereiro de 2025 às 08:35
+"Tattoos were a prevalent art form in pre-Hispanic South America..."
+
+e não incomum como diz o enunciado da questão.
+Reportar abuso
+Ajudou (0) Não ajudou
+5
+Q3663699
+Raciocínio Lógico Equivalências Lógicas - (Proposições Logicamente equivalentes)
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Especialista em Recursos Minerais - Área Direito - 2025
+Texto associado
+Considerando a proposição P: “Se o bem é bom, bonito e barato, eu gosto.”, julgue os itens que se seguem, relativos a aspectos da lógica sentencial dessa proposição.
+A proposição P é equivalente à proposição “Se eu gosto, o bem é bom, bonito e barato.”.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+77.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Francisco Ferreira Barros
+26 de fevereiro de 2025 às 15:00
+A equivalente de Se B então G seria "Se eu não gosto, então o bem não é bom, bonito e barato"
+Equivalências da condicional: Nega as duas e mantém o conectivo " se... então"  Se chove, então faz frio = Se não faz frio, então não chove./ Nega a primeira, mantem a segunda e troca o conectivo por "ou" Se estudo, então passo no concurso = Não estudo ou passo no concurso.
+
+Reportar abuso
+Ajudou (2) Não ajudou
+6
+Q3643047
+Administração de Recursos Materiais Administração de Estoques
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+Acerca de classificação de materiais e gestão de estoques, julgue os itens que se seguem.
+A gestão de estoques busca garantir o abastecimento de materiais à empresa, de modo a minimizar problemas como os advindos da sazonalidade no suprimento.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+95.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alessandro Macedo
+27 de fevereiro de 2025 às 15:26
+Segundo Chiavenato (2005):
+As principais funções da gestão do estoque são:
+1. Garantir o abastecimento de materiais à empresa, neutralizando os efeitos de:
+a. demora ou atraso no fornecimento de materiais;
+b. sazonalidade no suprimento;
+c. riscos de dificuldade no fornecimento.
+-----------------------------------------------------------------------------
+O que é sazonalidade?
+Sazonalidade no suprimento é o período em que a empresa precisa de mais matérias-primas ou serviços para atender a um aumento de vendas.
+
+Reportar abuso
+Ajudou (0) Não ajudou
+7
+Q3643052
+Administração de Recursos Materiais Licitações e normativos de compras no setor público
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+No que se refere a compras em geral e a compras no setor público, julgue os itens seguintes.
+O termo de referência para compras no setor público deve conter, entre outros aspectos, a especificação do produto, observados os requisitos de qualidade, rendimento, compatibilidade, durabilidade e segurança.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+16.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tiago De Barros
+14 de fevereiro de 2025 às 14:27
+Gabarito: E.
+
+ART. 40,
+§ 1º O termo de referência deverá conter os elementos previstos no , além das seguintes informações:
+I - especificação do produto, preferencialmente conforme catálogo eletrônico de padronização, observados os requisitos de qualidade, rendimento, compatibilidade, durabilidade e segurança;
+II - indicação dos locais de entrega dos produtos e das regras para recebimentos provisório e definitivo, quando for o caso;
+III - especificação da garantia exigida e das condições de manutenção e assistência técnica, quando for o caso.
+Reportar abuso
+Ajudou (9) Não ajudou
+Tiago De Barros
+14 de fevereiro de 2025 às 14:26
+Gabarito: E.
+
+Quem acertou essa questão errou, chutou ou estava desatento. Questão típica de examinador que não quer que nenhum candidato gabarite a prova.
+
+Vida que segue! Foco!
+Reportar abuso
+Ajudou (8) Não ajudou
+Pedro
+15 de fevereiro de 2025 às 00:36
+maldito seja quem formulou essa questão
+Reportar abuso
+Ajudou (1) Não ajudou
+Daiane Guedes
+16 de fevereiro de 2025 às 07:54
+Se o gabarito oficial considera o item errado, a justificativa pode estar em uma omissão ou imprecisão na descrição dos requisitos obrigatórios do termo de referência.
+
+A Lei nº 14.133/2021 determina que o termo de referência deve conter, entre outros aspectos:
+
+1. Descrição do objeto com requisitos de qualidade, rendimento, compatibilidade, durabilidade e segurança;
+
+
+2. Justificativa da contratação;
+
+
+3. Exigências para a execução do contrato;
+
+
+4. Critérios de medição e pagamento;
+
+
+5. Orçamento estimado;
+
+
+6. Critérios de seleção e aceitação do objeto;
+
+
+7. Obrigações das partes.
+
+
+
+Possivelmente, o erro do item está no fato de citar apenas a especificação do produto, sem mencionar outros elementos essenciais do termo de referência. Se a questão pedia um conceito completo do documento, essa limitação pode ter levado à resposta errada no gabarito.
+
+Reportar abuso
+Ajudou (0) Não ajudou
+AP
+Ana Paula Souza
+14 de fevereiro de 2025 às 20:30
+termo de referência: documento necessário para a contratação de bens e serviços, que deve conter os seguintes parâmetros e elementos descritivos: a) definição do objeto, incluídos sua natureza, os quantitativos, o prazo do contrato e, se for o caso, a possibilidade de sua prorrogação; b) fundamentação da contratação, que consiste na referência aos estudos técnicos preliminares correspondentes ou, quando não for possível divulgar esses estudos, no extrato das partes que não contiverem informações sigilosas; c) descrição da solução como um todo, considerado todo o ciclo de vida do objeto; d) requisitos da contratação; e) modelo de execução do objeto, que consiste na definição de como o contrato deverá produzir os resultados pretendidos desde o seu início até o seu encerramento; f) modelo de gestão do contrato, que descreve como a execução do objeto será acompanhada e fiscalizada pelo órgão ou entidade; g) critérios de medição e de pagamento; h) forma e critérios de seleção do fornecedor; i) estimativas do valor da contratação, acompanhadas dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte, com os parâmetros utilizados para a obtenção dos preços e para os respectivos cálculos, que devem constar de documento separado e classificado; j) adequação orçamentária;
+Reportar abuso
+Ajudou (0) Não ajudou
+8
+Q3605849
+Administração de Recursos Materiais Movimentação e Armazenagem
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+Em relação ao setor de compras e aos processos de transporte, recebimento e armazenagem de materiais, julgue os seguintes itens.
+Na escolha de paletes para a operação do sistema de movimentação de cargas, a resistência das peças é o fator mais importante para a garantia da eficiência e segurança do transporte e armazenamento, independentemente do seu peso e custo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+88.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Luis Gabriel Santos Gil
+13 de fevereiro de 2025 às 17:19
+ERRADO!
+O peso, a composição interna, a quantidade de itens, as caracterísitcas são alguns dos fatores que também são levados em consideração.
+Reportar abuso
+Ajudou (4) Não ajudou
+Madson
+22 de fevereiro de 2025 às 18:55
+Ele tava falando do peso do palete ou da carga? Kk
+Reportar abuso
+Ajudou (0) Não ajudou
+Georgia Silva
+28 de janeiro de 2025 às 01:03
+Errado
+Reportar abuso
+Ajudou (0) Não ajudou
+9
+Q3599842
+Língua Inglesa Adjetivos | Adjectives
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor de Ensino Fundamental - Área: Inglês - 2025
+Texto associado
+“The High Priestess of Soul,” Nina Simone was a singer, pianist, songwriter, and civil rights activist. Mostly known as a jazz singer, her music blended gospel, blues, folk, pop, and classical styles. No popular singer was more closely associated with the Civil Rights Movement than Simone.
+Nina Simone was born Eunice Kathleen Waymon on February 21st, 1933, in Tryon, North Carolina. Her mother, Mary Kate Irvin, was a Methodist preacher and housekeeper, and her father, John Divine Waymon, worked as an entertainer, barber, and dry-cleaner. The family’s home was filled with music and Simone’s mother encouraged her musical pursuits but she did not approve of nonreligious music like blues and jazz. Simone took up the piano before her feet could reach the pedals, and by the age of six, she was playing during church services.
+In 2008, Rolling Stone named Simone to its list of the 100 Greatest Singers of All Time, and, in 2018, Simone was inducted into the Rock & Roll Hall of Fame.
+
+Internet: <womenshistory.org> (adapted).
+
+Based on the previous text, judge the following items.
+The phrase “more closely” (third sentence of the first paragraph) works as an adjectival phrase modifying the noun “singer”.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+64.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Layla Ferreira Da Silva
+26 de fevereiro de 2025 às 18:05
+More closely é um advérbio.
+Reportar abuso
+Ajudou (0) Não ajudou
+Victor Siqueira
+10 de fevereiro de 2025 às 13:55
+Não está modificando.
+Reportar abuso
+Ajudou (0) Não ajudou
+Lucas
+10 de fevereiro de 2025 às 11:24
+errado
+Reportar abuso
+Ajudou (0) Não ajudou
+10
+Q3597162
+Matemática Probabilidade
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - InoversaSul - Professor Anos Finais - Área: Matemática - 2025
+Texto associado
+Em uma caixa utilizada para um jogo, há oito bolas: três azuis e cinco vermelhas, mas não é possível ver o conteúdo dentro dela. Um participante do jogo coloca a mão dentro da caixa, fala uma cor (azul ou vermelha) e retira uma bola. Esse participante pontua se adivinhar a cor da bola que será retirada. Para uma próxima rodada, a bola retirada é recolocada na caixa e o número de bolas de cada cor é dobrado.
+
+Considerando que o jogo descrito anteriormente será utilizado por um professor em sala de aula, julgue os próximos itens, no que concerne à avaliação e educação matemática.
+Considere a seguinte situação: o professor perguntou a um aluno qual é a probabilidade de se retirar uma bola azul na segunda rodada do jogo; o aluno respondeu que a probabilidade é igual a 6/16; o professor considerou a resposta como meio certa, pois o aluno não simplificou a fração, mas não informou o porquê de ter lhe dado essa nota. Nessa situação, à luz da avaliação formativa, o professor não oportunizou ao aluno o feedback adequado.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+79.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Tales Gonçalves Malheiros
+26 de fevereiro de 2025 às 19:59
+a real questão é sobre o professor estar certo ou errado de não explicar o resultado
+Reportar abuso
+Ajudou (0) Não ajudou
+11
+Q3639265
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade: Arquitetura - 2025
+Texto associado
+Analisando-se a literatura produzida sobre justiça restaurativa desde o final da década de 70 do século passado, verifica-se que há diferentes abordagens, produzidas por estudiosos dos mais diversos campos do conhecimento (filosofia, psicologia social, antropologia, ciências jurídicas, pedagogia, assistência social, entre outros), incluídos acadêmicos, facilitadores de justiça restaurativa, servidores públicos e entusiastas da justiça restaurativa que buscam disseminar e fortalecer a sua implementação em nível institucional.
+Dada essa pluralidade de abordagens, surgiram diversas definições de justiça restaurativa na literatura ao longo das últimas décadas, razão pela qual alguns autores atuais apontam que o conceito de justiça restaurativa ainda estaria “em aberto”. Contudo, parece haver na literatura certo consenso de que tal pluralidade seria algo positivo, por possibilitar a adaptação do conceito a diferentes contextos culturais. Alguns autores também sugerem que a justiça restaurativa seria um conceito “guarda-chuva”, ou seja, um conceito que abarca uma vasta gama de formulações, desde que sejam conservados os elementos essenciais da justiça restaurativa.
+
+Fernanda Carvalho Dias de Oliveira Silva. A experiência e o saber da experiência da justiça restaurativa no Brasil: práticas, discursos e desafios. São Paulo: Blucher, 2021, p. 37-38 (com adaptações).
+
+A respeito das ideias e de aspectos discursivos e linguísticos do texto precedente, julgue os itens subsecutivos.
+No texto, a autora sugere tratar a justiça restaurativa como um conceito “guarda-chuva”, isto é, aplicável a várias formulações, devido à existência de diferentes definições desse instituto na literatura.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+53.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MN
+Marcio Nogueira Da Cruz Saldanha
+12 de fevereiro de 2025 às 12:43
+Errado
+
+Eu errei.
+Estou atribuindo o erro ao fato de que não foi a autora que sugeriu o tratamento ao conceito Justiça Restaurativa como Guarda-chuva, e sim "Alguns autores também sugerem. que a justiça restaurativa seria um conceito “guarda-chuva”,"
+Reportar abuso
+Ajudou (17) Não ajudou
+Edson Czarnobai
+13 de fevereiro de 2025 às 13:24
+ERRADO
+Minha interpretação foi:
+No texto: um conceito “guarda-chuva”, ou seja, um conceito que abarca uma vasta gama de formulações....
+No comando da questão: um conceito “guarda-chuva”, isto é, aplicável a várias formulações....
+
+Aplicar e Abarcar tem significados diferentes.
+Reportar abuso
+Ajudou (8) Não ajudou
+GT
+Gustavo Trappel Paz
+14 de fevereiro de 2025 às 17:06
+Acertei pensando da seguinte forma. A questão afirma que o conceito "guarda-chuva" deriva da existência de diferentes definições da justiça restaurativa. Porém, no início do último parágrafo, a autora afirma que essa pluralidade de definições significa que o conceito de justiça restaurativa está "em aberto".
+Reportar abuso
+Ajudou (2) Não ajudou
+Jasmim
+26 de fevereiro de 2025 às 14:31
+Interprepetei da seguinte forma:
+no texto "um conceito “guarda-chuva”, ou seja, um conceito que abarca uma vasta gama de formulações, desde que sejam conservados os elementos essenciais da justiça restaurativa."
+A questão afirma "aplicável a várias formulações" até aí certo, já que o texto diz que "abarca uma vasta gama de formulações" entretanto, também fala
+"devido à existência de diferentes definições desse instituto na literatura." O que está errado, pq não há existência de diferentes definições já que texto afirma que se deve conservar os elementos essenciais.
+Reportar abuso
+Ajudou (0) Não ajudou
+12
+Q3605780
+Administração Financeira e Orçamentária - AFO Orçamento na Constituição Federal de 1988
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+Acerca do orçamento público no Brasil, do plano plurianual (PPA), da lei de diretrizes orçamentárias (LDO) e da lei orçamentária anual (LOA), julgue os itens seguintes.
+A atual redação da Constituição Federal de 1988 expressamente impõe a obrigatoriedade da execução orçamentária das emendas individuais e das emendas de bancada estadual, salvo quando, em relação a elas, existirem impedimentos de ordem técnica.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+69.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+ZO
+Zeneide Oliveira Silva
+22 de janeiro de 2025 às 12:09
+Justificativa dada pela própria banca Cebraspe no gabarito.
+
+Certo. No Brasil, ocorreram importantes modificações que tornaram praticamente obrigatória a execução orçamentária do público da União. Por exemplo, a EC n.º 100, de 2019, tornou obrigatórias as emendas de bancada estadual, inserindo, no artigo 165 da CF de 1988, parágrafo 10, a seguinte redação: “a administração tem o dever de executar as programações orçamentárias, adotando os meios e medidas necessários, com o propósito de garantir a efetiva entrega de bens e serviços à sociedade”. Na CF, a obrigatoriedade da execução das emendas individuais e de bancada estadual está prevista no art. 166, §§ 9.º e 12, e a não obrigatoriedade da execução orçamentária em razão de impedimento de ordem técnica consta do art. 165, § 11, II.
+
+Reportar abuso
+Ajudou (40) Não ajudou
+Michelle Ferreira Da Cunha
+23 de janeiro de 2025 às 21:10
+Gabarito: C
+
+Conforme disposto no Art. 166.
+§ 9º As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de 2% (dois por cento) da receita corrente líquida do exercício anterior ao do encaminhamento do projeto, observado que a metade desse percentual será destinada a ações e serviços públicos de saúde.  (Redação dada pela Emenda Constitucional nº 126, de 2022)  (Vide ADI 7697)
+§ 9º-A Do limite a que se refere o § 9º deste artigo, 1,55% (um inteiro e cinquenta e cinco centésimos por cento) caberá às emendas de Deputados e 0,45% (quarenta e cinco centésimos por cento) às de Senadores.   (Incluído pela Emenda Constitucional nº 126, de 2022)  (Vide ADI 7697)
+§ 10. A execução do montante destinado a ações e serviços públicos de saúde previsto no § 9º, inclusive custeio, será computada para fins do cumprimento do inciso I do § 2º do art. 198, vedada a destinação para pagamento de pessoal ou encargos sociais.         (Incluído pela Emenda Constitucional nº 86, de 2015)  (Vide ADI 7697)
+§ 11. É obrigatória a execução orçamentária e financeira das programações oriundas de emendas individuais, em montante correspondente ao limite a que se refere o § 9º deste artigo, conforme os critérios para a execução equitativa da programação definidos na lei complementar prevista no § 9º do art. 165 desta Constituição, observado o disposto no § 9º-A deste artigo.   (Redação dada pela Emenda Constitucional nº 126, de 2022)  (Vide ADI 7697)
+§ 12. A garantia de execução de que trata o § 11 deste artigo aplica-se também às programações incluídas por todas as emendas de iniciativa de bancada de parlamentares de Estado ou do Distrito Federal, no montante de até 1% (um por cento) da receita corrente líquida realizada no exercício anterior.     (Redação dada pela Emenda Constitucional nº 100, de 2019)      (Produção de efeito)    (Vide)     (Vide) (Vide ADI 7697)
+§ 13. As programações orçamentárias previstas nos §§ 11 e 12 deste artigo não serão de execução obrigatória nos casos dos impedimentos de ordem técnica.   
+Reportar abuso
+Ajudou (16) Não ajudou
+AT
+Asenate Teixeira Leite De Carvalho
+28 de janeiro de 2025 às 20:17
+A Constituição Federal de 1988, em sua redação atual, estabelece a obrigatoriedade da execução orçamentária das emendas individuais e das emendas de bancada estadual. Isso significa que o governo deve implementar essas emendas, que são alterações ao orçamento propostas por parlamentares, a menos que existam impedimentos técnicos que inviabilizem sua execução.
+
+### Contexto
+As emendas individuais e de bancada são formas pelas quais os parlamentares podem direcionar recursos para atender necessidades específicas de suas regiões ou estados. A obrigatoriedade de execução dessas emendas visa garantir que as demandas locais sejam atendidas de maneira justa e eficiente.
+
+### Exceções: Impedimentos Técnicos
+Impedimentos de ordem técnica são situações em que a execução da emenda não é possível devido a questões práticas, legais ou técnicas. Exemplos de impedimentos técnicos incluem:
+- **Licenciamento Ambiental**: Uma obra pode não ser executada se não houver tempo hábil para obter todas as licenças ambientais necessárias.
+- **Problemas de Infraestrutura**: Se a infraestrutura existente não suportar a obra planejada, a execução pode ser inviabilizada.
+- **Inviabilidade Técnica**: Projetos que, após análise, são considerados tecnicamente inviáveis, como obras em áreas de risco ou que não atendem às normas técnicas.
+
+### Exemplo Prático
+1. **Emenda Individual**: Um deputado propõe uma emenda para construir uma nova escola em uma comunidade carente de seu estado. Se todas as condições técnicas e legais forem atendidas, o governo é obrigado a executar essa emenda. No entanto, se for identificado que o terreno escolhido está em uma área de risco de deslizamento e não há alternativa viável, essa emenda pode ser tecnicamente impedida.
+
+2. **Emenda de Bancada Estadual**: Um grupo de deputados de um estado propõe a construção de um hospital regional. A execução dessa emenda é obrigatória, desde que todos os requisitos técnicos e legais sejam cumpridos. Caso contrário, deve-se justificar o impedimento técnico.
+
+Essas disposições visam promover a transparência e a eficiência na aplicação dos recursos públicos, garantindo que as necessidades locais sejam atendidas de forma equitativa, mas sem comprometer a viabilidade técnica e legal dos projetos.
+
+
+Reportar abuso
+Ajudou (8) Não ajudou
+Marcos Monteiro
+21 de fevereiro de 2025 às 00:43
+Certo.
+CF/88, Art.166.
+§ 11. É obrigatória a execução orçamentária e financeira das programações oriundas de emendas individuais, em montante correspondente ao limite a que se refere o § 9º deste artigo, conforme os critérios para a execução equitativa da programação definidos na lei complementar prevista no § 9º do art. 165 desta Constituição, observado o disposto no § 9º-A deste artigo. 
+     § 12. A garantia de execução de que trata o § 11 deste artigo aplica-se também às programações incluídas por todas as emendas de iniciativa de bancada de parlamentares de Estado ou do Distrito Federal, no montante de até 1% (um por cento) da receita corrente líquida realizada no exercício anterior. 
+§ 13. As programações orçamentárias previstas nos §§ 11 e 12 deste artigo não serão de execução obrigatória nos casos dos impedimentos de ordem técnica.
+
+Reportar abuso
+Ajudou (2) Não ajudou
+13
+Q3664745
+Direito Administrativo
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Direito - 2025
+Texto associado
+Em relação ao processo administrativo, ao sistema de registro de preços, aos agentes públicos e à responsabilidade civil do Estado, julgue os itens subsequentes.
+É vedado o registro de preços com indicação limitada a unidades de contratação, sem indicação do total a ser adquirido, quando for a primeira licitação para o objeto.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+40.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Sara Mendes Da Silva
+26 de fevereiro de 2025 às 07:03
+ERRADO
+
+ART 82 § 3º É permitido registro de preços com indicação limitada a unidades de contratação, sem indicação do total a ser adquirido, apenas nas seguintes situações:
+
+I - quando for a primeira licitação para o objeto e o órgão ou entidade não tiver registro de demandas anteriores;
+II - no caso de alimento perecível;
+III - no caso em que o serviço estiver integrado ao fornecimento de bens.
+
+Reportar abuso
+Ajudou (3) Não ajudou
+14
+Q3605852
+Administração de Recursos Materiais Just-In-Time
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+Julgue os itens que se seguem, referentes à gestão de estoques.
+A movimentação de entrada e saída de um item no estoque pode ser monitorada mediante um gráfico dente de serra, cujos eixos das abscissas e das ordenadas representam, respectivamente, a quantidade unitária e o tempo decorrido.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+46.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Maria
+31 de janeiro de 2025 às 10:53
+O gráfico dente de serra é uma representação visual utilizada na gestão de estoques para monitorar a movimentação de entrada e saída de um item ao longo do tempo.
+Porém:
+Eixo das abscissas (horizontal) → Representa o tempo.
+Eixo das ordenadas (vertical) → Representa a quantidade de itens no estoque.
+
+Reportar abuso
+Ajudou (31) Não ajudou
+AT
+Asenate Teixeira Leite De Carvalho
+28 de janeiro de 2025 às 20:54
+a quantidade unitária e o tempo decorrido. ERRO DA QUESTÃO pois o eixo horizontal representa o tempo e o vertical estoque.
+Reportar abuso
+Ajudou (30) Não ajudou
+Clauton Leal
+11 de fevereiro de 2025 às 23:24
+Pra gravar: abszxxissas X = horizontal
+Reportar abuso
+Ajudou (2) Não ajudou
+15
+Q3605854
+Administração de Recursos Materiais PEPS ou FIFO (Primeiro a Entrar, Primeiro a Sair)
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - PCDF - Analista de Apoio às Atividades Policiais - Área: Agente Administrativo - 2025
+Texto associado
+Julgue os itens que se seguem, referentes à gestão de estoques.
+O método PEPS é utilizado para a avaliação do grau de criticidade ou imprescindibilidade de um item de material nas atividades desempenhadas pela organização e contribui para a priorização de recursos e a gestão de estoques.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+62.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Luis Gabriel Santos Gil
+24 de janeiro de 2025 às 13:14
+ERRADO!
+O Método PEPS (Primeiro a entrar é o primeiro a sair), conhecido também como FIFO (First in, first out) é usado com base na perecibilidade dos materiais.
+Reportar abuso
+Ajudou (55) Não ajudou
+LC
+Larissa Calixto Da Silva
+10 de fevereiro de 2025 às 19:40
+A descrição é do XYZ e não do PEPS
+Reportar abuso
+Ajudou (11) Não ajudou
+Tales Gonçalves Malheiros
+16 de fevereiro de 2025 às 18:38
+isso comentado é xyz n peps
+Reportar abuso
+Ajudou (3) Não ajudou
+16
+Q3643064
+Administração de Recursos Materiais Layout de Armazenagem
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+A respeito do recebimento, da armazenagem e da distribuição de materiais, julgue os seguintes itens.
+O ambiente do tipo cross docking de um armazém tem como característica a não estocagem de produtos.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+59.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Elvisnei Neri De Sousa
+12 de fevereiro de 2025 às 19:04
+Crossdocking, ou cross-docking, define-se como um método de distribuição, no qual a mercadoria recebida num armazém ou centro de distribuição, não é estocada
+Reportar abuso
+Ajudou (16) Não ajudou
+17
+Q3639283
+Língua Portuguesa Interpretação de Texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade: Psicologia - 2025
+Texto associado
+De acordo com o Plano das Nações Unidas sobre Discursos de Ódio, a prática do discurso de ódio se caracteriza como um tipo de comunicação falada, escrita ou comportamental que ataca ou utiliza linguagem pejorativa ou discriminatória em referência a uma pessoa ou grupo, com base em fatores de identidade, como religião, etnia, gênero, entre outros. Diferentemente da desinformação (prática não intencional de compartilhamento de informações imprecisas), ou da distribuição intencional de informações falsas com o intuito de provocar dano, o discurso de ódio se expressa de forma violenta contra grupos delimitados.
+O discurso de ódio online pode ser reproduzido em diferentes formatos, mas geralmente contém características típicas do meio digital, como o anonimato do(a) autor(a), o alcance expandido do ataque, a instantaneidade da mensagem e a formação de comunidades em torno do discurso.
+
+Eduardo Georjão Fernandes e Valentina Fonseca da Luz.
+O papel das políticas públicas no combate ao discurso de ódio na Internet.
+Internet: <agenciagov.ebc.com.br> (com adaptações).
+
+Considerando aspectos linguísticos do texto precedente e as ideias nele veiculadas, julgue os itens que se seguem.
+A oração “mas geralmente contém características típicas do meio digital” (segundo parágrafo) revela uma opinião dos autores, haja vista o emprego do advérbio “geralmente”, que, nesse caso, denota totalidade.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+82.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Camila Maria Ambrosio Dos Santos
+14 de fevereiro de 2025 às 11:29
+( Errado )
+O texto é meramente expositivo. O uso do termo "geralmente" dá ênfase ao fato de que o discurso de ódio pode se apresentar em diversos formatos, mas algumas características, peculiares ao meio digital, são mais frequentes. 
+Reportar abuso
+Ajudou (10) Não ajudou
+18
+Q3643049
+Administração de Recursos Materiais Classificação de Materiais
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Técnico Judiciário - Área: Administrativa - 2025
+Texto associado
+Acerca de classificação de materiais e gestão de estoques, julgue os itens que se seguem.
+A metodologia de classificação de materiais de uma empresa deve ser definida e testada em um departamento específico e, posteriormente, replicada para os demais setores da organização.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+51.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daiane Guedes
+15 de fevereiro de 2025 às 15:44
+O item está errado.
+
+A classificação de materiais deve ser definida de forma integrada, considerando as necessidades de todos os setores envolvidos na gestão de estoques, compras e logística. Se um único departamento define e testa a metodologia isoladamente, sem considerar os demais setores, pode haver inconsistências e dificuldades na implementação.
+
+O ideal é que a classificação seja padronizada desde o início, com participação de diferentes áreas da organização, garantindo que atenda às demandas de todos os setores e facilite a gestão dos materiais de forma eficiente.
+
+Fonte: Chatgpt
+Reportar abuso
+Ajudou (24) Não ajudou
+Elisa Montagna
+14 de fevereiro de 2025 às 11:45
+Acho que o erro está no "DEVE", o correto seria "PODE"
+Reportar abuso
+Ajudou (14) Não ajudou
+19
+Q3639267
+Língua Portuguesa Sentidos do texto
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área Apoio Especializado - Especialidade: Arquitetura - 2025
+Texto associado
+Analisando-se a literatura produzida sobre justiça restaurativa desde o final da década de 70 do século passado, verifica-se que há diferentes abordagens, produzidas por estudiosos dos mais diversos campos do conhecimento (filosofia, psicologia social, antropologia, ciências jurídicas, pedagogia, assistência social, entre outros), incluídos acadêmicos, facilitadores de justiça restaurativa, servidores públicos e entusiastas da justiça restaurativa que buscam disseminar e fortalecer a sua implementação em nível institucional.
+Dada essa pluralidade de abordagens, surgiram diversas definições de justiça restaurativa na literatura ao longo das últimas décadas, razão pela qual alguns autores atuais apontam que o conceito de justiça restaurativa ainda estaria “em aberto”. Contudo, parece haver na literatura certo consenso de que tal pluralidade seria algo positivo, por possibilitar a adaptação do conceito a diferentes contextos culturais. Alguns autores também sugerem que a justiça restaurativa seria um conceito “guarda-chuva”, ou seja, um conceito que abarca uma vasta gama de formulações, desde que sejam conservados os elementos essenciais da justiça restaurativa.
+
+Fernanda Carvalho Dias de Oliveira Silva. A experiência e o saber da experiência da justiça restaurativa no Brasil: práticas, discursos e desafios. São Paulo: Blucher, 2021, p. 37-38 (com adaptações).
+
+A respeito das ideias e de aspectos discursivos e linguísticos do texto precedente, julgue os itens subsecutivos.
+O tema central do texto é o conceito de justiça restaurativa, cujos elementos essenciais são detalhados no texto com o objetivo de apresentar ao leitor uma proposta de definição desse conceito.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+64.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Hyssyla
+13 de fevereiro de 2025 às 04:53
+O item se torna errado por afirmar que o texto traz "elementos detalhados", o que não é verdade, o texto afirma que ainda está em aberto para alguns autores, em seguida afirma que é um conceito amplo, logo não há um detalhamento neste conceito.
+Reportar abuso
+Ajudou (13) Não ajudou
+UA
+Ulisses Antonio Dos Santos Gomes
+16 de fevereiro de 2025 às 12:09
+realmente o tema central é sobre justiça restaurativa, porém não apresenta nenhuma definição especifica, pelo contrário, afirma que tem conceitos diferentes .
+Reportar abuso
+Ajudou (3) Não ajudou
+20
+Q3641129
+Administração de Recursos Materiais Área de Materiais Dentro da Organização
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TRF 6 - Analista Judiciário - Área: Administrativa - 2025
+Texto associado
+Acerca da administração de recursos materiais e patrimoniais, julgue os itens a seguir.
+A principal finalidade do setor de administração de recursos materiais na empresa é controlar o fluxo de entrada de materiais.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+79.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Estevao
+18 de fevereiro de 2025 às 17:22
+É maximar o urso dos recursos materias na organização pública,ou seja, evitar desperdícios.
+Reportar abuso
+Ajudou (13) Não ajudou

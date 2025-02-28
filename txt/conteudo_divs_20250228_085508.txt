@@ -1,0 +1,1166 @@
+1
+Q3663406
+Administração de Recursos Materiais
+Ano: 2025
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANM - Analista Administrativo - Área Administração - 2025
+Texto associado
+Acerca da previsão e controle de estoque, julgue os itens que se seguem.
+No método FIFO, para a definição do valor de cada unidade de material em estoque, os valores originais dos produtos são utilizados como base, sem considerar os custos correspondentes ao período de armazenagem e a atualização para o preço de mercado.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+18.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daiane Guedes
+28 de fevereiro de 2025 às 08:46
+Certo.
+
+No método FIFO (First In, First Out – Primeiro a Entrar, Primeiro a Sair), os itens mais antigos no estoque são os primeiros a serem utilizados ou vendidos. O valor de cada unidade em estoque é baseado nos custos históricos de aquisição, ou seja, nos valores originais pagos pelos produtos, sem a inclusão de custos de armazenagem ou ajustes para preços de mercado. Isso significa que o estoque remanescente reflete os preços mais recentes de compra, enquanto os produtos que saem seguem a ordem cronológica de entrada.
+
+Chatgpt
+Reportar abuso
+Ajudou (0) Não ajudou
+2
+Q3543788
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - STJ - Analista Judiciário - Área Suporte em Tecnologia da Informação - 2024
+Texto associado
+Por quase dois séculos, apesar da controvérsia provocada pela Revolução Francesa, a Declaração dos Direitos do Homem e do Cidadão encarnou a promessa de direitos humanos universais. Em 1948, quando as Nações Unidas adotaram a Declaração Universal dos Direitos Humanos, seu artigo 1.º dizia: “Todos os seres humanos nascem livres e iguais em dignidade e direitos”. Em 1789, o artigo 1.º da Declaração dos Direitos do Homem e do “Os permanecem livres e iguais em direitos”. Cidadão já havia proclamado: homens nascem e permanecem livres e iguais em direitos”.
+As origens dos documentos não nos dizem necessariamente nada de significativo sobre as suas consequências. Importa realmente que o esboço tosco de Jefferson tenha passado por 86 alterações feitas por ele mesmo, pelo Comitê dos Cinco ou pelo Congresso? A Declaração da Independência dos Estados Unidos da América (EUA) não tinha natureza constitucional. Declarava simplesmente intenções, e passaram-se quinze anos antes que os estados finalmente ratificassem uma Bill of Rights, muito diferente, em 1791. A Declaração dos Direitos do Homem e do Cidadão afirmava salvaguardar as liberdades individuais, mas não impediu o surgimento de um governo francês que reprimiu os direitos, e futuras constituições francesas — houve muitas delas — formularam declarações diferentes ou passaram sem nenhuma declaração.
+Ainda mais perturbador é que aqueles que, com tanta confiança, declaravam, no final do século XVIII, que os direitos eram universais vieram a demonstrar que tinham algo muito menos inclusivo em mente. As pessoas não ficaram surpresas por eles considerarem que as crianças, os insanos, os prisioneiros ou os estrangeiros eram incapazes ou indignos de plena participação no processo político, pois pensavam da mesma maneira. Mas eles também excluíam aqueles sem propriedade, os escravos, os negros livres, em alguns casos as minorias religiosas e, sempre e por toda parte, as mulheres. Em anos recentes, essas limitações a “todos os homens” provocaram muitos comentários, e alguns estudiosos até questionaram se as declarações tinham um verdadeiro significado de emancipação.
+Os fundadores, os que estruturaram e os que redigiram as declarações, têm sido julgados elitistas, racistas e misóginos por sua incapacidade de considerar todos verdadeiramente iguais em direitos.
+Como é que esses homens, vivendo em sociedades construídas sobre a escravidão, a subordinação e a subserviência aparentemente natural, chegaram a imaginar homens nada parecidos com eles, e, em alguns casos, também mulheres, como iguais? Se pudéssemos compreender como isso veio a acontecer, compreenderíamos melhor o que os direitos humanos significam para nós hoje em dia.
+
+Lynn Hunt. A invenção dos direitos humanos: uma história. Tradução de Rosaura Eichenberg.
+São Paulo: Companhia das Letras, 2009, p. 15-16 (com adaptações).
+
+A respeito de aspectos linguísticos do texto precedente bem como das ideias nele veiculadas, julgue os próximos itens.
+No texto, a autora põe em xeque o conceito de direitos humanos e demonstra duvidar da sua real aplicabilidade desde seu surgimento no século XVIII, mesmo que tenham sido assegurados na Declaração dos Direitos do Homem e do Cidadão.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+51.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+ED
+Ederivania De Souza Dos Santos Carvalho
+22 de janeiro de 2025 às 09:50
+Segue comentário da prof do tec:
+
+Esta questão envolve análise textual. A afirmativa estará correta se trouxer algo que o texto menciona, ainda que com outras palavras, ou se apresentar uma conclusão (uma inferência) que possa ser extraída das ideias do texto. Em outras palavras, o texto pode não trazer literalmente o que está no item, mas as informações do texto precisam permitir que se chegue àquela conclusão. Além disso, é preciso restringir-se ao que está no texto ou que pode ser concluído a partir dele. Não podemos cometer extrapolações, não há margem para suposições de qualquer tipo.
+ Precisamos julgar o item abaixo:
+→ No texto, a autora põe em xeque o conceito de direitos humanos e demonstra duvidar da sua real aplicabilidade desde seu surgimento no século XVIII, mesmo que tenham sido assegurados na Declaração dos Direitos do Homem e do Cidadão.
+ A autora questiona a intenção da promulgação da Declaração dos Direitos do Homem e do Cidadão, considerando que o contexto sociocultural da época apontam para a garantia dos direitos de um grupo restrito de pessoas, excluindo muitas categorias sociais (crianças, mulheres, prisioneiros, estrangeiros, escravizados, negros livres etc.). Não há, no texto, esse questionamento sobre o conceito de direitos humanos, mas apenas sobre a abrangência da lei no seu surgimento. Assim, item ERRADO.
+Reportar abuso
+Ajudou (0) Não ajudou
+Camila Mesquita De Brito Krutschok
+2 de janeiro de 2025 às 16:09
+Fiquie na dúvida sobre o que seria ''por em xeque''
+Reportar abuso
+Ajudou (0) Não ajudou
+3
+Q3418338
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+Texto CB4A1-I
+
+Existem desde previsões de que a inteligência artificial (IA) substituirá os seres humanos e eliminará uma lista de profissões até alegações de que ela contribuirá para “o uso humano dos seres humanos” (parafraseando-se o subtítulo do livro de 1954 do matemático considerado fundador da cibernética, Norbert Wiener), liberando-os para usarem melhor o tempo enquanto assume as tarefas repetitivas.
+Um grupo de pesquisadores de diversos países produziu a publicação Inteligência Liberada — um argumento para a IA na educação, para demonstrar os benefícios da IA para a educação.
+É importante, nesse ponto, definir o que é a IA aplicada na educação — algo que vem sendo estudado no meio acadêmico há mais de três décadas. Para os autores da publicação mencionada, IA corresponde a “sistemas de computador que foram projetados para interagir com o mundo por meio de capacidades (por exemplo, percepção visual e reconhecimento de fala) e comportamentos inteligentes (por exemplo, avaliar as informações disponíveis e, em seguida, tomar a ação mais sensata para atingir um objetivo declarado) que seriam considerados essencialmente humanos”.
+Um dos objetivos do uso da IA na educação é abrir a chamada “caixa-preta do aprendizado”, ou, em outras palavras, contribuir para uma compreensão mais profunda e detalhada de como o aprendizado realmente acontece (por exemplo, como é influenciado pelo contexto socioeconômico e físico dos alunos ou por tecnologia).
+Nesse contexto, a IA na educação oferece a possibilidade de uma aprendizagem mais personalizada, flexível, inclusiva e envolvente. Além disso, as ferramentas fornecem informações não apenas sobre o que está sendo aprendido, mas também como está sendo aprendido e como os alunos estão se sentindo. Ainda, a IA pode ajudar os professores a criar ambientes de aprendizagem colaborativa e a atender as necessidades de seus alunos por meio de técnicas de mineração de dados educacionais para “rastrear” o comportamento dos alunos.
+
+Internet: <observatoriodeeducacao.institutounibanco.org.br> (com adaptações).
+
+A respeito do texto CB4A1-I e das ideias nele veiculadas, julgue os itens que se seguem.
+Depreende-se da leitura do texto que os pesquisadores participantes da publicação mencionada no segundo parágrafo acreditam que, nos próximos anos, a IA gerará benefícios só para a educação.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+87.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+MP
+Miguel Pereira Barros
+11 de outubro de 2024 às 08:13
+A assertiva extrapola o texto trabalhado, uma vez que a ideia trazida pelo autor recai sobre os usos da IA na educação, mas não limita seus usos somente em torno desse campo. Gabarito: falso.
+Reportar abuso
+Ajudou (23) Não ajudou
+Testes Testes
+12 de fevereiro de 2025 às 11:11
+Errado
+Reportar abuso
+Ajudou (0) Não ajudou
+4
+Q3554660
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Medicina do Trabalho - 2024
+Texto associado
+Texto CB1A1-III
+Aprendemos desde cedo que a linguagem verbal serve para comunicar e frequentemente dizemos que o importante é a comunicação. Quando se fala em comunicação, muitas vezes, pensamos que se está falando na transmissão de informações. Comunicar não se limita, entretanto, a transmitir informações. Realmente, há momentos em que desejamos apenas fornecer uma informação, mas, muito frequentemente, temos outros objetivos, como: dar uma ordem, expressar um sentimento, fazer um pedido, exercer algum tipo de influência, fazer o outro mudar de opinião...
+O ser humano vive em sociedade, isto é, fazemos parte de grupos sociais e agimos em conjunto com nossos semelhantes; interagimos. Na verdade, é para interagir que nos comunicamos, falamos e escrevemos. Por isso, não podemos nos esquecer de que a comunicação, ou a interação, envolve mais do que simplesmente informação; envolve, sobretudo, alguma forma de ação sobre o outro.
+Ana Lúcia Tinoco Cabral. A força das palavras.
+São Paulo: Editora Contexto, 2010, p. 10-11 (com adaptações).
+Considerando os aspectos textuais e linguísticos do texto CB1A1-III, bem como as ideias nele veiculadas, julgue os itens seguintes.
+Para atingir o seu propósito comunicativo, a autora constrói seu texto combinando as tipologias expositiva e narrativa.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+72.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alberto Oliveira
+29 de janeiro de 2025 às 20:01
+Narração tem que ter PENTE: personagem, enredo, narração, tempo e espaço.
+Reportar abuso
+Ajudou (0) Não ajudou
+5
+Q3177983
+Raciocínio Lógico Lógica Proposicional - (Lógica de Primeira Ordem)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão de T.I - Segurança da Informação - 2024
+Texto associado
+Entre os serviços prestados pelo INPI, estão o registro de marca, o de patente e o de programa de computador. Considere que as empresas Alfa, Beta e Gama tenham solicitado, cada uma, apenas um dos serviços citados, que os serviços tenham sido diferentes para cada empresa e que haja prazos para as solicitações serem respondidas, sendo estes diferentes para cada tipo de serviço. Além disso, considere verdadeira cada proposição a seguir.
+
+I “A empresa Beta fez uma solicitação de registro de patente.”
+II “A solicitação de marca é respondida em 15 dias.”
+III “A solicitação da empresa Gama será respondida em 10 dias.”
+
+Essas informações estão logicamente reunidas na tabela-verdade a seguir. Note que, se o relacionamento entre o elemento da linha e o da coluna for verdadeiro, a letra V aparecerá no cruzamento da relação. A letra F indica que o relacionamento é falso.
+
+
+serviço
+prazo
+registro de marca
+registro de patente
+registro de programa de
+computador
+10 dias
+15 dias
+30 dias
+empresa
+Alfa
+
+F
+
+
+
+
+Beta
+F
+V
+F
+
+
+
+Gama
+
+F
+
+V
+
+
+prazo
+10 dias
+F
+
+
+
+
+
+15 dias
+V
+F
+F
+
+
+
+30 dias
+F
+
+
+
+
+
+
+A partir dessa situação hipotética, bem como considerando a tabela-verdade precedente e seu completo preenchimento, julgue os itens que se seguem.
+A proposição “A solicitação da empresa Beta será atendida no prazo de 30 dias, e a empresa Alfa solicitou o registro de programa de computador.” é verdadeira.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+64.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Dieime Aparecida De Moraes Da Silva
+18 de março de 2024 às 10:29
+Errado.
+Entre os serviços prestados pelo INPI, estão o registro de marca, registro de patente e registro de programa de computador.
+Beta → registro de patente → 30 dias
+Alfa → registro de marca → 15 dias
+Gama → registro de programa → 10 dias
+Logo, a proposição “A solicitação da empresa Beta será atendida no prazo de 30 dias, e a empresa Alfa solicitou o registro de programa de computador" é falsa porque a Alfa solicitou o registro de marca.
+Reportar abuso
+Ajudou (73) Não ajudou
+Maria
+17 de abril de 2024 às 10:05
+Na Conjunção "e" as duas proposições têm que ser verdadeiras. A solicitação de Beta será atendida em 30 dias= verdade. A empresa Alfa solicitou registro de programa de computador=falso. Logo, resultado falso.
+
+Reportar abuso
+Ajudou (39) Não ajudou
+Dieison Pereira Barbosa
+25 de março de 2024 às 09:16
+🤯
+Reportar abuso
+Ajudou (35) Não ajudou
+AI
+Allef Inacio Nascimento
+9 de abril de 2024 às 13:58
+O ponto chave está na proposição:
+III “A solicitação da empresa Gama será respondida em 10 dias.”
+
+Se a empresa Gama será respondida em 10 dias, ela não fez a solicitação de marca, como sabemos que a Beta fez o registro de patente, sobra apenas o registro de computador para a Gama. Após isso é só eliminar o restante das opções enquanto preenche o quadro
+Reportar abuso
+Ajudou (29) Não ajudou
+Andre Fellipe Libanio Vieira
+29 de julho de 2024 às 21:22
+Quem costuma jogar sudoku resolveu essa questão sem nem precisar estudar lógica de fato
+
+Reportar abuso
+Ajudou (19) Não ajudou
+Página 1 de 4
+6
+Q3134080
+Raciocínio Lógico Negação de Proposições compostas
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Técnico - Área Financeiro - 2024
+Texto associado
+P1: “Todo profissional competente tem criatividade ou sensibilidade social.”
+P2: “Todo profissional competente tem criatividade e sensibilidade social.”
+
+Considerando as proposições lógicas P1 e P2, julgue os itens subsequentes.
+A negação da proposição P1 pode ser expressa corretamente como “Existe ao menos um profissional competente sem criatividade e sem sensibilidade social.”.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Mykaele - Polícia Federal
+23 de abril de 2024 às 11:07
+TODO A é B = A--> B
+a negação de TODO é Particular negativa (“algum A não é B” )
+
+P1: “Todo profissional competente tem criatividade ou sensibilidade social.”
+P1 = Se o profissional é competente então tem criatividade ou sensibilidade social
+~P1 = Existe ao menos um profissional competente (negação do todo) sem criatividade e sem sensibilidade social ( negação de " tem criatividade ou sensibilidade social")
+
+Correto.
+Reportar abuso
+Ajudou (47) Não ajudou
+Breno
+3 de fevereiro de 2024 às 16:49
+Questão correta, na verdade.
+
+Se fizer o modo inverso, trocando OU pelo E, dá para analisar melhor.
+Modo hipotético para reflexão:
+
+Todo profissional competente é sem criatividade e sem sensibilidade social.
+
+A negação da frase acima aceitar uma pessoa que fosse criativa ou com resp social. De modo que ficaria da seguinte forma sua negação:
+
+
+“Existe ao menos profissional competente que tem criatividade ou sensibilidade social.”
+Reportar abuso
+Ajudou (22) Não ajudou
+AB
+Ana Beatriz
+5 de junho de 2024 às 15:07
+Camila, a questão não se trata de equivalência
+Reportar abuso
+Ajudou (8) Não ajudou
+Fabricio Zebende Gomes
+2 de fevereiro de 2024 às 12:45
+Ate a Maia concorda que a questao esta errada.
+Portanto, a resposta correta é 'Errado'.
+
+Reportar abuso
+Ajudou (7) Não ajudou
+Camilla Bruna Dias De Souza
+6 de abril de 2024 às 08:58
+Equivalência do "v"(ou):
+Inverte e nega a 1° e mantém a 2°; e troca pelo "---->"(se...então): ~q----->p
+
+Equivalência:
+TODO= NENHUM NÃO
+NENHUM= TODO NÃO
+ALGUM= (NÃO TEM)
+Resposta: "Se nenhum profissional não tem sensibilidade social então é competente."
+
+GABARITO: ERRADO
+Fonte: https://www.qconcursos.com/questoes-de-concursos/questoes/7c9c34a8-bf?from_omniauth=true&provider=google_one_tap
+Reportar abuso
+Ajudou (5) Não ajudou
+Página 1 de 2
+7
+Q3549119
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Tecnologia da Informação - 2024
+Texto associado
+Texto CB1A1-II
+
+A palavra ficção nos remete a histórias inventadas (total ou parcialmente). Pode ser uma fantasia, que envolva monstros, heróis ou fantasmas, pode ser uma ficção científica, que envolva tecnologias que vão muito além daquelas que existem hoje, e também pode ser um romance comum, totalmente realista, mas com enredo, personagens ou ambientes inventados.
+Dessa forma, uma matéria jornalística jamais poderia ser considerada ficcional, já que um dos pilares do jornalismo é a busca pela verdade e a publicização das informações com precisão e veracidade. Um jornal que noticiasse ficções estaria ferindo um de seus princípios mais fundamentais.
+Apesar de essa definição de ficção ser bem popular, os críticos e teóricos de cinema franceses Jacques Aumont e Michel Marie afirmam que a ficção é uma forma de discurso que faz referência a personagens ou a ações que só existem na imaginação daquele que a escreve ou lê. Segundo eles, a ficção não é uma mentira, mas um simulacro da realidade, uma das possíveis maneiras de se representar o real.
+Assim, podemos dizer que todo relato é uma tentativa de representar a realidade por meio de palavras. Um relato de um acontecimento não é o próprio acontecimento em si. Os fatos ficam no passado, depois que acontecem. Qualquer tentativa de retomá-los no presente, por meio de uma história, será uma representação, será uma construção da mente de uma pessoa. Logo, será uma ficção.
+
+Lucia Mascarenhas de Miranda. A fronteira entre fato e ficção.
+In: Ciência Hoje, outubro de 2024.
+Internet: <cienciahoje.org.br> (com adaptações).
+
+A respeito dos aspectos linguísticos do texto CB1A1-II, julgue os itens que se seguem.
+Na organização das ideias do primeiro parágrafo do texto, o conteúdo do segmento “mas com enredo, personagens ou ambientes inventados” se opõe à informação anterior segundo a qual a ficção pode ser representada por uma fantasia, uma ficção científica, ou um romance comum.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+73.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Roberto
+17 de janeiro de 2025 às 17:03
+Faz oposição a "totalmente realista".
+Reportar abuso
+Ajudou (1) Não ajudou
+8
+Q3312347
+Administração de Recursos Materiais Noções da Gestão de Compras
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Analista Administrativo - 2024
+Texto associado
+Julgue os itens seguintes, relativos às compras no setor público.
+São três os critérios a serem negociados com os fornecedores em uma compra eficiente: preço, prazo de entrega e condições de pagamento.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+48.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Carlos Eduardo
+4 de agosto de 2024 às 11:20
+A quantidade e a qualidade deveriam ser consideradas também.
+Reportar abuso
+Ajudou (41) Não ajudou
+Jemima Raulino Da Conceição
+13 de agosto de 2024 às 15:24
+GABARITO: ERRADO
+
+Um dos documentos primordiais do departamento de compras é o cadastro de fornecedor e a ficha de material, quando então existem condições de escolher o fornecedor ou prováveis fornecedores de determinado material. Por meio desse cadastro é que se realizará a seleção dos fornecedores que atendam às quatro condições básicas de uma boa compra: preço, prazo, qualidade e condições de pagamento.
+Dias, Marco Aurélio P. Administração de Materiais: Princípios, Conceitos e Gestão. Disponível em: Minha Biblioteca, (7th edição). Grupo GEN, 2023. Fonte: QC
+.......................................................................................................................................................................
+.......................................................................................................................................................................
+Bem sei, SENHOR, eu que tudo podes, e que nenhum dos teus propósitos pode ser impedido.
+Jó 42:2 Bíblia Sagrada
+
+Reportar abuso
+Ajudou (32) Não ajudou
+TL
+Thairine Lisboa Monteiro
+19 de setembro de 2024 às 15:25
+Há inúmeras relações de diferentes autores sobre os principais fatores que devem ser considerados
+na negociação, porém podemos listar alguns que são costumeiramente mencionados.
+
+⇒ Fatores a serem negociados entre a organização e seus fornecedores.
+▪ Preços;
+▪ Prazos de entrega;
+▪ Qualidade;
+▪ Capacidade (volume);
+▪ Condições de Pagamento;
+▪ Fatores pós-venda;
+▪ Condições de reajuste dos preços ofertados;
+▪ Garantias contratuais e suas extensões;
+▪ Critério de inspeção e garantias de qualidade;
+▪ Custos do transporte;
+▪ Custo das embalagens ou introdução de embalagens especiais;
+▪ Acréscimos ou reduções de quantidades.
+
+Fonte: Resenhando Ponto Juris
+Reportar abuso
+Ajudou (22) Não ajudou
+Erivelton Junio Bernardo
+26 de novembro de 2024 às 22:29
+Dessa maneira, finalmente chegamos aos três atributos essenciais em uma Gestão de Compras eficiente: preço econômico, qualidade e celeridade ENAP
+Reportar abuso
+Ajudou (6) Não ajudou
+Tales Gonçalves Malheiros
+20 de fevereiro de 2025 às 16:53
+o tripé é preço, qualidade e rapidez
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+9
+Q3312318
+Administração de Recursos Materiais Classificação quanto à Aplicação
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Apoio Administrativo - 2024
+Texto associado
+Julgue os itens a seguir, relativos ao recebimento e à armazenagem de materiais na administração pública.
+O critério de armazenagem por agrupamento baseia-se na influência que um material pode ter sobre o outro, de modo que devam ser mantidos em ambientes distintos.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+65.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Clara Aleixo Leandro
+2 de agosto de 2024 às 12:33
+Correto quanto a afirmação de que o critério de armazenagem por agrupamento baseia-se na influência que um material pode ter sobre o outro, contudo, errado quanto ao generalizar que eles devem ser mantidos em ambientes distintos, aqueles que forem semelhantes entre si devem ser armazenados juntos, e os distintos de forma separada.
+Reportar abuso
+Ajudou (102) Não ajudou
+Gustavo Augusto Miranda Cardoso
+27 de novembro de 2024 às 14:51
+Conceito de armazenagem por compatibilidade
+Reportar abuso
+Ajudou (17) Não ajudou
+Lucas Medeiros
+20 de janeiro de 2025 às 08:10
+Armazenagem por compatibilidade.
+Reportar abuso
+Ajudou (4) Não ajudou
+10
+Q3554316
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área: Administrativa - 2024
+Texto associado
+Texto CB1A1-I
+
+O aforismo “o cliente sempre tem razão” é bastante conhecido e muito citado como argumento econômico. Justifica-se para manter a fidelidade dos consumidores a marcas e a lojas a fim de evitar que a insatisfação individual se torne uma indesejada propaganda negativa.
+Será que, sob a ótica jurídica, a afirmativa corresponde à realidade? Não! O cliente (consumidor) só tem razão quando o direito, a lei, lhe dá amparo.
+Invariavelmente, baseando-se em critério pessoal do que seria justo como solução para problema de consumo, o consumidor realmente acredita que possui o direito que alega e, dentro da sua lógica, passa a exigir determinado comportamento do fornecedor.
+A expressão direito do consumidor tem sentido de conjunto de normas que regulam as relações entre consumidores e fornecedores; não significa necessariamente que o consumidor tem sempre direito de exigir a satisfação dos seus interesses.
+Para ilustrar, cite-se o exemplo, recorrente, de uma pessoa que acredita poder, em qualquer circunstância, trocar um produto que acabou de adquirir simplesmente porque, chegando em casa, percebeu que não era exatamente aquilo que queria, preferia de outra cor ou até haver gastado o dinheiro com algo mais interessante. Para a lei, a troca ou devolução do dinheiro pago só é possível em situações bem concretas: promessa do vendedor de trocar ou devolver o dinheiro (art. 30 do Código de Defesa do Consumidor); vício do produto (art. 18); compra fora do estabelecimento físico (art. 49).
+Daí a importância de que toda pessoa tenha uma noção básica de quais são os seus direitos e de como exigir a sua observância. Como é possível exigir respeito a sua condição de consumidor se não houver uma consciência mínima dos direitos?
+
+Leonardo Bessa. O cliente – nem sempre – tem razão! In: Metrópoles. 20/06/2024.
+Internet: <www.metropoles.com> (com adaptações).
+
+A respeito das ideias veiculadas no texto CB1A1-I, julgue os itens subsequentes.
+De acordo com o texto, ao reclamar seus direitos, os consumidores brasileiros usam um critério pessoal de justiça derivado de sua falta de conhecimento acerca das leis, dos seus direitos e de como eles devem ser observados.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+33.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Joana Gabrielle
+14 de fevereiro de 2025 às 10:41
+" Invariavelmente, baseando-se em critério pessoal do que seria justo como solução para problema de consumo, o consumidor realmente acredita que possui o direito que alega e, dentro da sua lógica, passa a exigir determinado comportamento do fornecedor" (...) "Daí a importância de que toda pessoa tenha uma noção básica de quais são os seus direitos e de como exigir a sua observância". Acho que esse gabarito está errado. Pois claramente o autor associa a falta de conhecimentos dos direitos dos consumidores com o achismo do que é justo para a solução de seus problemas.
+
+Bem, marquei como CERTA.
+Reportar abuso
+Ajudou (1) Não ajudou
+Alberto Oliveira
+30 de janeiro de 2025 às 19:21
+Em nenhum momento o texto afirma que a justiça pessoal dos consumidores deriva da sua falta de conhecimento sobre a lei. Extrapolou!
+Reportar abuso
+Ajudou (1) Não ajudou
+M
+Mika
+12 de fevereiro de 2025 às 10:27
+... Será que, sob a ótica jurídica, a afirmativa corresponde à realidade? Não! O cliente (consumidor) só tem razão quando o direito, a lei, lhe dá amparo.
+Reportar abuso
+Ajudou (0) Não ajudou
+J
+Janeina
+5 de janeiro de 2025 às 22:46
+Essa questão teve recurso? Foi dada como certa no gabarito preliminar.
+Reportar abuso
+Ajudou (0) Não ajudou
+11
+Q3554473
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Medicina do Trabalho - 2024
+Texto associado
+Texto CB1A1-II
+A palavra ficção nos remete a histórias inventadas (total ou parcialmente). Pode ser uma fantasia, que envolva monstros, heróis ou fantasmas, pode ser uma ficção científica, que envolva tecnologias que vão muito além daquelas que existem hoje, e também pode ser um romance comum, totalmente realista, mas com enredo, personagens ou ambientes inventados.
+Dessa forma, uma matéria jornalística jamais poderia ser considerada ficcional, já que um dos pilares do jornalismo é a busca pela verdade e a publicização das informações com precisão e veracidade. Um jornal que noticiasse ficções estaria ferindo um de seus princípios mais fundamentais.
+Apesar de essa definição de ficção ser bem popular, os críticos e teóricos de cinema franceses Jacques Aumont e Michel Marie afirmam que a ficção é uma forma de discurso que faz referência a personagens ou a ações que só existem na imaginação daquele que a escreve ou lê. Segundo eles, a ficção não é uma mentira, mas um simulacro da realidade, uma das possíveis maneiras de se representar o real.
+Assim, podemos dizer que todo relato é uma tentativa de representar a realidade por meio de palavras. Um relato de um acontecimento não é o próprio acontecimento em si. Os fatos ficam no passado, depois que acontecem. Qualquer tentativa de retomá-los no presente, por meio de uma história, será uma representação, será uma construção da mente de uma pessoa. Logo, será uma ficção.
+Lucia Mascarenhas de Miranda. A fronteira entre fato e ficção. In: Ciência Hoje, outubro de 2024. Internet: (com adaptações)
+Julgue os itens a seguir com base nas ideias apresentadas no texto CB1A1-II.
+
+De acordo com o texto, dada a natureza do jornalismo, matérias jornalísticas de natureza ficcional são inconcebíveis considerando-se a definição popular de ficção.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+59.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+RD
+Reginaldo Da Silva Ferreira
+3 de fevereiro de 2025 às 18:57
+Final do 2º Parágrafo: "Um jornal que noticiasse ficções estaria ferindo um de seus princípios mais fundamentais."
+Reportar abuso
+Ajudou (0) Não ajudou
+12
+Q3163388
+Raciocínio Lógico Negação de Proposições compostas
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Pesquisador - Área: Saúde Avançada - Manufatura Aditiva, Simulação Computacional - 2024
+Texto associado
+Julgue os itens a seguir, considerando a proposição P: Eu topo assumir o cargo, mas só se meu salário aumentar em 100%.
+A negação da proposição P pode ser escrita como: Ou eu topo assumir o cargo, ou meu salário aumenta em 100%.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+35.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ana
+7 de maio de 2024 às 13:31
+O "mas" tem valor de bicondicional, ou seja, "mas só se" = "se, somente se"! O "mas" nem sempre significa "e", lembrem sempre de olhar o contexto"
+Reportar abuso
+Ajudou (112) Não ajudou
+Felipe Almeida Valentim
+10 de abril de 2024 às 14:48
+o "mas" em proposição logica não equivale ao "e"? se for, o item esta errado... Professores apareçam!
+Reportar abuso
+Ajudou (49) Não ajudou
+Isabella De Lima Santos
+3 de março de 2024 às 12:23
+Eu topo assumir o cargo, mas só se meu salário aumentar em 100%. = Eu topo assumir o cargo somente se meu salário aumentar em 100%.
+Para negar a bicondicional existem 3 possibilidades, na questão foi utilizada a troca da bicondicional para a disjunção exclusiva.
+Reportar abuso
+Ajudou (39) Não ajudou
+Jose Portela
+22 de março de 2024 às 18:30
+Se for levar em consideração a análise da Maia (IA) então o gabarito está errado.
+
+Reportar abuso
+Ajudou (19) Não ajudou
+Rodrigo Reinaux
+8 de maio de 2024 às 00:23
+Me parece que o que pegou na questão foi identificar o conectivo. Nesse caso não seria o "mas", e sim o "SÓ se", que seria um Bicondicional, o que nos leva a uma das 3 regras de negação - nesse caso ele usou a troca pela Disjunção exlcusiva (ou...ou...).
+Reportar abuso
+Ajudou (11) Não ajudou
+Página 1 de 4
+13
+Q3543643
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - STJ - Analista Judiciário - Área: Judiciária - 2024
+Texto associado
+A escravidão levou consigo ofícios e aparelhos, como terá sucedido a outras instituições sociais. Não cito alguns aparelhos senão por se ligarem a certo ofício. Um deles era o ferro ao pescoço, outro o ferro ao pé; havia também a máscara de folha-de-flandres. A máscara fazia perder o vício da embriaguez aos escravos, por lhes tapar a boca. Tinha só três buracos, dois para ver, um para respirar, e era fechada atrás da cabeça por um cadeado. Com o vício de beber, perdiam a tentação de furtar, porque geralmente era dos vinténs do senhor que eles tiravam com que matar a sede, e aí ficavam dois pecados extintos, e a sobriedade e a honestidade certas. Era grotesca tal máscara, mas a ordem social e humana nem sempre se alcança sem o grotesco, e alguma vez o cruel. Os funileiros as tinham penduradas, à venda, na porta das lojas. Mas não cuidemos de máscaras.
+O ferro ao pescoço era aplicado aos escravos fujões. Imaginai uma coleira grossa, com a haste grossa também à direita ou à esquerda, até ao alto da cabeça e fechada atrás com chave. Pesava, naturalmente, mas era menos castigo que sinal. Escravo que fugia assim, onde quer que andasse, mostrava um reincidente, e com pouco era pego.
+Há meio século, os escravos fugiam com frequência. Eram muitos, e nem todos gostavam da escravidão.
+Quem perdia um escravo por fuga dava algum dinheiro a quem lho levasse. Punha anúncios nas folhas públicas, com os sinais do fugido, o nome, a roupa, o defeito físico, se o tinha, o bairro por onde andava e a quantia de gratificação. Quando não vinha a quantia, vinha promessa: “gratificar-se-á generosamente”, ou “receberá uma boa gratificação”. Muita vez o anúncio trazia em cima ou ao lado uma vinheta, figura de preto, descalço, correndo, vara ao ombro, e na ponta uma trouxa. Protestava-se com todo o rigor da lei contra quem o açoitasse.
+Ora, pegar escravos fugidios era um ofício do tempo. Não seria nobre, mas, por ser instrumento da força com que se mantêm a lei e a propriedade, trazia esta outra nobreza implícita das ações reivindicadoras. Ninguém se metia em tal ofício por desfastio ou estudo; a pobreza, a necessidade de uma achega, a inaptidão para outros trabalhos, o acaso, e alguma vez o gosto de servir, também, ainda que por outra via, davam o impulso ao homem que se sentia bastante rijo para pôr ordem à desordem.
+
+Machado de Assis. Pai contra Mãe. In: Machado de Assis. Relíquias da casa velha, 1906 (com adaptações).
+
+Machado de Assis inicia o conto Pai contra Mãe — escrito em 1906 e publicado na coletânea Relíquias da casa velha —, mencionando “ofícios e aparelhos” da escravidão no Brasil. O conto aborda a história de Cândido Neves, personagem que trabalhava na captura de escravos fugidios. Considerando o fragmento desse conto apresentado anteriormente, julgue os itens a seguir.
+A crítica do autor à sociedade escravagista da época fica explícita na observação sobre a venda de máscaras de ferro em lojas especializadas do ramo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+58.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+K
+Kalynara
+12 de dezembro de 2024 às 14:34
+Não são lojas especializadas no ramo. Apenas lojas!
+Reportar abuso
+Ajudou (3) Não ajudou
+Vesio
+3 de janeiro de 2025 às 17:16
+Extrapolou. Cuida-se apenas de uma curiosidade sobre o elemento, hoje, grotesco.
+Reportar abuso
+Ajudou (3) Não ajudou
+Carlos Daniel Lima De Oliveira
+1 de fevereiro de 2025 às 19:06
+Era grotesca tal máscara, mas a ordem social e humana nem sempre se alcança sem o grotesco, e alguma vez o cruel. Os funileiros as tinham penduradas, à venda, na porta das lojas. Mas não cuidemos de máscaras.
+Aqui o autor não critica a sociedade escravagista, só expressa sua opinião a respeito da mascará. Fica ainda mais nítido que não há crítica quando ele informa que "a ordem social e humana nem sempre se alcança sem o grotesco".
+
+Fonte: QC
+
+Reportar abuso
+Ajudou (0) Não ajudou
+14
+Q3232462
+Administração de Recursos Materiais Cadastro e Seleção de Fornecedores
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Suprimentos de Bens e Serviços Júnior - Área Administração - 2024
+Texto associado
+As empresas compradoras de matéria-prima necessitam ter um cadastro de fornecedores alinhados aos bons resultados das entregas. Logo, ter uma carteira de fornecedores que apresente um histórico dos materiais já fornecidos, com um sistema de informação que apresente, principalmente, os indicadores de desempenho de preço, técnica, retorno econômico e desconto, fortalece o processo de escolha de seus fornecedores. Considerando a seleção e a avaliação de fornecedores, julgue os itens subsequentes.
+Caso o departamento de compras de uma empresa privada necessite adquirir uma nova matéria-prima, os procedimentos realizados para pesquisar, identificar e cadastrar o fornecedor incluem-se entre as atividades de seleção e avaliação do fornecedor.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+24.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Claudirene Rodrigues Dos Santos
+8 de agosto de 2024 às 14:30
+Pesquisar, identificar e cadastrar o fornecedor incluem-se entre as atividades de identificação e seleção do fornecedor.
+Reportar abuso
+Ajudou (48) Não ajudou
+Isak Lyan
+28 de maio de 2024 às 14:50
+Empresa privada difere do método da pública
+Reportar abuso
+Ajudou (25) Não ajudou
+Ana Luiza Cruciol Ramos
+25 de setembro de 2024 às 10:11
+Na iniciativa privada a avaliação do fornecedor inclui: qualidade, quantidade,
+timing (momento oportuno), serviço, preço, estabilidade financeira, modo de
+administração.
+
+Fonte: material gran (aula avaliação de fornecedores 1,Wiliam Couto)
+Reportar abuso
+Ajudou (20) Não ajudou
+MS
+Michael Santos Azevedo
+6 de agosto de 2024 às 08:30
+Pesquisar, identificar e cadastrar não integram a avaliação de fornecedores.
+Reportar abuso
+Ajudou (17) Não ajudou
+Joao Junior Almeida De Oliveira
+15 de agosto de 2024 às 22:30
+O objetivo do cadastro de fornecedores é qualificar e avaliar o desempenho desses, buscando uma base confiável de informações, qualidade, preço e prazo.
+Por conseguinte, o gestor deve AVALIAR os fornecedores de acordo com: habilidade técnica, capacidade de produção, confiabilidade, serviço pós venda, localização.
+Outro ponto importante é: SELEÇÃO de fornecedores, que consiste em: estabilidade, habilidade de negociação, experiência no fornecimento, atuação no mercado.
+Portanto, CADASTRO DE FORNECEDORE não está incluído entre as atividades de avaliação, conforme afirmou a questão.
+
+fonte qconcurso
+Reportar abuso
+Ajudou (10) Não ajudou
+Página 1 de 2
+15
+Q3519030
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCDF - Auditor de Controle Externo - Área Tecnologia da Informação - 2024
+Texto associado
+Magi Richani is the founder of San Francisco-based Nobell Foods, a startup company developing a new kind of cheese made from soybeans. She says plant-based cheese not only accommodates people who can’t consume dairy, but it also could be key to more sustainable food production worldwide. “The reality is that when you raise an animal for food, it’s not just the animals, you are actually growing crops, you are clearing land, and you’re raising the animal for years so it builds biomass,” Richani explained. “It’s an extremely inefficient supply chain.”
+Nobell is particularly focused on creating plant-based casein, which is a protein produced when a cow gives birth and is present in the milk for its offspring. It is the ingredient that gives dairy cheese its unique stretchy texture. If Nobell is able to go to market and have the kind of impact it’s hoping to, then plant-based cheese could help us stretch toward a more sustainable future.
+
+Internet: <newsweek.com> (adapted).
+
+Based on the ideas presented in the previous text as well as its linguistic aspects, judge the following items.
+According to the text, Nobell Foods works to implement a more efficient supply chain for the production of dairy cheese.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+50.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Bianca Damacena
+12 de janeiro de 2025 às 10:22
+Não é dairy cheese e sim plant-based cheese
+Reportar abuso
+Ajudou (3) Não ajudou
+Tiago De Barros
+10 de fevereiro de 2025 às 13:41
+Template: E.
+
+Nobell Foods is producing a new kind of cheese made of soybeans (tofu).
+Reportar abuso
+Ajudou (0) Não ajudou
+16
+Q3221258
+Administração de Recursos Materiais Classificação Pela Importância Operacional - Classificação XYZ
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+Amélia trabalha na área de administração de recursos materiais de uma organização e acaba de receber diversos itens para organizar no estoque, nos quais se incluem resmas de papel.
+
+Considerando essa situação hipotética, julgue os itens seguintes, acerca da classificação de materiais.
+Os itens relacionados à indispensabilidade ou ao grau de dificuldade de sua obtenção no mercado devem ser classificados segundo sua importância operacional.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+82.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Leonardo Marcelo Alves
+13 de maio de 2024 às 12:09
+Correto. A IMPORTÂNCIA OPERACIONAL aprecia a imprescindibilidade ou o grau de dificuldade para se obter o material, mas não fornece a análise econômica dos estoques.
+Os materiais são classificados em:
+X - Materiais de aplicação não importante, com similares na organização;
+Y - Materiais de média importância para a organização, com ou sem similar;
+Z - Materiais de tal importância que, sem similar na organização, sua falta causa paralisação da produção.
+Fonte: Gran Cursos
+Reportar abuso
+Ajudou (45) Não ajudou
+Emanuelle Nunes Barbosa
+7 de janeiro de 2025 às 14:51
+Eu jurava que era classificado com Material crítico.
+Reportar abuso
+Ajudou (3) Não ajudou
+Cristiane De Bortoli Andrade Goncalves
+6 de janeiro de 2025 às 18:28
+Jesus... acabei de fazer outra questão que ligava a importância operacional à curva ABC. Alguém pode explicar isso... estou confusa.
+Reportar abuso
+Ajudou (2) Não ajudou
+Verônica Mendonça
+10 de fevereiro de 2025 às 18:00
+A importância operacional de um item é definida com base em fatores como sua indispensabilidade e a dificuldade de obtenção no mercado.
+🔹 Itens essenciais e difíceis de obter → Alta importância operacional, exigindo planejamento e controle rigoroso.
+🔹 Itens facilmente substituíveis e de fácil aquisição → Baixa importância operacional, demandando menor controle.
+💡 Exemplo:
+Em uma fábrica de automóveis, os chips eletrônicos são críticos e podem ter dificuldades de fornecimento, sendo classificados como itens de alta importância operacional.
+Já os parafusos comuns são facilmente encontrados e substituídos, tendo baixa importância operacional.
+
+Reportar abuso
+Ajudou (1) Não ajudou
+17
+Q3221264
+Administração de Recursos Materiais Classificação Pelo Valor do Consumo - Classificação ABC
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAPES - Analista - Área: Ciência e Tecnologia - 2024
+Texto associado
+Amélia trabalha na área de administração de recursos materiais de uma organização e acaba de receber diversos itens para organizar no estoque, nos quais se incluem resmas de papel.
+
+Considerando essa situação hipotética, julgue os itens seguintes, acerca da classificação de materiais.
+Ao classificar os materiais para organizá-los no estoque, Amélia deve utilizar a metodologia da curva ABC, que estabelece a importância dos materiais em função do valor expresso pela quantidade do item a ser armazenado em determinado período.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+31.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Leonardo Marcelo Alves
+13 de maio de 2024 às 12:14
+ERRO: valor expresso pela quantidade do item a ser armazenado (...)
+
+Na curva ABC o valor é determinado pelo percentual de consumo, sendo mais importantes aqueles itens que tem o percentual maior (A - 80% / B- 15% C- 5%).
+
+créditos: Lorena Reis (QC)
+Reportar abuso
+Ajudou (89) Não ajudou
+Manuella O Nascimento
+16 de maio de 2024 às 11:38
+ERRADO
+Ao classificar os materiais para organizá-los no estoque, Amélia PODE utilizar a metodologia da curva ABC.
+Não existe regra de melhor método ou apenas um a ser aplicado.
+Reportar abuso
+Ajudou (31) Não ajudou
+Juliano
+19 de novembro de 2024 às 21:12
+ERRADO
+
+A classificação ABC é uma ferramenta importante para a gestão de estoques, mas a quantidade de um item não é o fator determinante para sua classificação. O valor do item, em relação ao estoque total, é o principal critério.
+
+
+Reportar abuso
+Ajudou (22) Não ajudou
+Debora Lopes Bezerra Arcanjo Costa
+3 de julho de 2024 às 14:01
+expresso pelo valor de consumo ou de demanda
+Reportar abuso
+Ajudou (13) Não ajudou
+Clistina Carvalho
+10 de dezembro de 2024 às 20:32
+A curva ABC tem Relação com a gestão do estoque do valor investido, a classificação para organização seria com relação as especificações, normas, se e perecível....
+Reportar abuso
+Ajudou (3) Não ajudou
+Página 1 de 2
+18
+Q3175499
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Julgue os itens que se seguem, referentes a logística, logística reversa e canais reversos de distribuição.
+Em um canal reverso de reuso, há uma extensão do uso de um produto de pós-consumo, com uma função diferente daquela para a qual ele foi concebido e com algum tipo de remanufatura.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+33.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+EG
+Erick Grund Gomes Dos Reis
+19 de junho de 2024 às 17:23
+Reuso - Os canais reversos de reuso são definidos como aqueles em que se tem a extensão do uso de um produto de pós-consumo ou de seu componente, com a mesma função para o qual foi originalmente concebido, ou seja, sem nenhum tipo de remanufatura.
+Reportar abuso
+Ajudou (76) Não ajudou
+MB
+Matheus Bertolino Motta
+13 de fevereiro de 2025 às 18:09
+Reuso é seria a reutilização sem nenhuma alteração físico-química. Por exemplo, quando se utiliza uma garrafa de refrigerante para guardar água, só se deu um uso diferente do original, mas não alterou nenhuma característica.
+Reportar abuso
+Ajudou (2) Não ajudou
+Ana Loiola
+7 de janeiro de 2025 às 10:29
+(Comentário para que eu consiga identificar meu erro posteriormente)
+
+Achava que havia tratamentos diferentes para produtos apenas devolvidos sem uso e produtos utilizados.
+Reportar abuso
+Ajudou (1) Não ajudou
+19
+Q3177966
+Raciocínio Lógico Negação da proposição disjuntiva exclusiva
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Tecnologista - Área: Propriedade Industrial Língua Inglesa - 2024
+Texto associado
+Ao comentar em uma rede social a respeito de informações veiculadas por um jornalista, certo internauta escreveu: “Ou o jornalista é muito mal informado ou age de má-fé. Em minha opinião, as duas coisas.”
+
+Com base no texto precedente e nos aspectos de lógica sentencial, julgue os itens seguintes.
+A negação da proposição “Ou o jornalista é muito mal informado ou age de má-fé” pode ser corretamente expressa por “O jornalista é muito mal informado se, e somente se, age de má-fé”.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+72.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+VS
+Vitor Santana Eggert
+8 de maio de 2024 às 10:12
+Negação da Disjunção exclusiva sempre será o SE E SOMENTE SE, negando ou não.
+
+Reportar abuso
+Ajudou (70) Não ajudou
+M
+Marcos
+5 de maio de 2024 às 08:31
+4. NEGAÇÃO DA BICONDICIONAL.
+A negação da bicondicional é logicamente equivalente negar p ou q
+~( p ↔ q) Ξ ~p ↔ q Ξ p ↔ ~q Ξ p V q
+
+Isto está no material do curso.
+Reportar abuso
+Ajudou (19) Não ajudou
+Apf Almeida O+
+17 de janeiro de 2025 às 15:53
+NEGAÇÃO DA DISJUNÇÃO EXCLUSIVA, SÃO QUATRO POSSIBILIDADES:
+1)TROCA-SE A DISJUNÇÃO PELA BICONDICIONAL E VICE-VERSA.
+MANTÉM AS DUAS PROPOSIÇÕES.
+NEGA AS DUAS PROPOSIÇÕES.
+2) MANTÉM O CONECTIVO
+MANTÉM A PRIMEIRA, NEGA A SEGUNDA
+NEGA A SEGUNA, MANTÉM A PRIMEIRA.
+
+
+
+Reportar abuso
+Ajudou (9) Não ajudou
+Essena
+19 de agosto de 2024 às 12:46
+C
+Reportar abuso
+Ajudou (1) Não ajudou
+JD
+Jacqueline De Oliveira
+11 de fevereiro de 2025 às 20:54
+Nao entendi, a Maia diz que esta incorreta, os comentarios diz que esta correta. Meu raciocinio foi o mesmo que o da Maia.
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+20
+Q3548952
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Tecnologia da Informação - 2024
+Texto associado
+Texto CB1A1-I
+
+O aforismo “o cliente sempre tem razão” é bastante conhecido e muito citado como argumento econômico. Justifica-se para manter a fidelidade dos consumidores a marcas e a lojas a fim de evitar que a insatisfação individual se torne uma indesejada propaganda negativa.
+Será que, sob a ótica jurídica, a afirmativa corresponde à realidade? Não! O cliente (consumidor) só tem razão quando o direito, a lei, lhe dá amparo.
+Invariavelmente, baseando-se em critério pessoal do que seria justo como solução para problema de consumo, o consumidor realmente acredita que possui o direito que alega e, dentro da sua lógica, passa a exigir determinado comportamento do fornecedor.
+A expressão direito do consumidor tem sentido de conjunto de normas que regulam as relações entre consumidores e fornecedores; não significa necessariamente que o consumidor tem sempre direito de exigir a satisfação dos seus interesses.
+Para ilustrar, cite-se o exemplo, recorrente, de uma pessoa que acredita poder, em qualquer circunstância, trocar um produto que acabou de adquirir simplesmente porque, chegando em casa, percebeu que não era exatamente aquilo que queria, preferia de outra cor ou até haver gastado o dinheiro com algo mais interessante. Para a lei, a troca ou devolução do dinheiro pago só é possível em situações bem concretas: promessa do vendedor de trocar ou devolver o dinheiro (art. 30 do Código de Defesa do Consumidor); vício do produto (art. 18); compra fora do estabelecimento físico (art. 49).
+Daí a importância de que toda pessoa tenha uma noção básica de quais são os seus direitos e de como exigir a sua observância. Como é possível exigir respeito a sua condição de consumidor se não houver uma consciência mínima dos direitos?
+
+Leonardo Bessa. O cliente – nem sempre – tem razão! In: Metrópoles. 20/06/2024.
+Internet: <www.metropoles.com> (com adaptações).
+
+A respeito das ideias veiculadas no texto CB1A1-I, julgue os itens subsequentes.
+O direito do consumidor é um conjunto de normas que regulamenta, entre outras ações, o comportamento do fornecedor conforme os anseios e desejos dos consumidores.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+66.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Dayane Amancio De Azevedo
+3 de janeiro de 2025 às 15:35
+ERRADO
+"O direito do consumidor é um conjunto de normas e leis que estabelecem as regras para a relação entre consumidores e fornecedores de produtos e serviços. O objetivo dessas leis e normas é proteger os interesses dos consumidores e assegurar que eles recebam produtos e serviços de qualidade.
+Fonte: https://www.jusbrasil.com.br/artigos/direito-do-consumidor-conheca-seus-direitos-e-proteja-se/1783175525#:~:text=1.,compras%20com%20seguran%C3%A7a%20e%20confian%C3%A7a.
+Reportar abuso
+Ajudou (3) Não ajudou

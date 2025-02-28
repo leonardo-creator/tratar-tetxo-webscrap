@@ -1,0 +1,1040 @@
+1
+Q3555626
+Tecnologia da Informação Business Intelligence (Análise de dados)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Técnico Judiciário - Área Programação de Sistemas - 2024
+Texto associado
+Julgue os itens a seguir, a respeito de técnicas de ingestão de dados, análise de dados e Big Data.
+Na abordagem ETL, os dados são carregados no mesmo estado em que foram extraídos e são transformados no estágio posterior ao carregamento.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+91.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Bruno Ribeiro De Oliveira
+20 de dezembro de 2024 às 10:28
+Essa afirmação está errada no contexto da abordagem ETL.
+Explicação:
+Na abordagem ETL (Extract, Transform, Load), os dados são extraídos, transformados (processados e preparados), e depois carregados no sistema de destino. A transformação ocorre antes do carregamento, garantindo que os dados já estejam limpos, padronizados e no formato necessário quando chegam ao destino.
+Se os dados fossem carregados primeiro e transformados depois, estaríamos descrevendo uma abordagem chamada ELT (Extract, Load, Transform). Essa abordagem é usada em alguns cenários, especialmente com data lakes ou data warehouses modernos que têm alta capacidade de processamento e podem transformar dados após o carregamento.
+Portanto:
+ETL: Transformação ocorre antes do carregamento.
+ELT: Transformação ocorre depois do carregamento.
+
+Fonte: Chat GPT
+Reportar abuso
+Ajudou (2) Não ajudou
+2
+Q3134417
+Raciocínio Lógico Negação de Proposições compostas
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Analista de Geotecnologia - 2024
+Texto associado
+Em um jogo investigativo, um dos objetivos é coletar pistas para descobrir o culpado de um crime. Em determinada ambientação, cinco senhores, cada um usando um chapéu de determinada cor — branco, cáqui, preto, verde e vermelho —, participavam de um jantar, quando a luz da mansão apagou. Passado o apagão, foi constatado que o senhor de chapéu cáqui estava morto. Em uma etapa do jogo, já haviam sido coletados os seguintes depoimentos dos outros quatro cavalheiros:
+Senhor de chapéu verde: “O senhor de chapéu vermelho é inocente.”
+Senhor de chapéu vermelho: “Se o senhor de chapéu preto e o senhor de chapéu verde são inocentes, então o senhor de chapéu branco mentiu em seu depoimento.”
+Senhor de chapéu branco: “O senhor de chapéu preto é inocente.”
+Senhor de chapéu preto: “O senhor de chapéu verde mentiu em seu depoimento.”
+
+Sabendo que apenas um dos depoentes mentiu e que apenas um dos senhores assassinou o senhor de chapéu cáqui, julgue os itens seguintes.
+A proposição sentencial ~P ˅ Q → ~R corresponde, logicamente, à negativa do depoimento do senhor de chapéu vermelho.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+80.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Pedro Igor Rodrigues Pianco
+5 de março de 2024 às 22:47
+Se o senhor de chapéu preto (P) e o senhor de chapéu verde são inocentes (Q), então o senhor de chapéu branco mentiu em seu depoimento (~R)
+(P^Q) --> ~R
+A negação da proposição é feito através da regra do MANE, mantém a primeira (P^Q), troca o --> por ^, nega o segundo (R)
+P^Q^R
+Reportar abuso
+Ajudou (36) Não ajudou
+Josiclezio Alves Da Silva
+11 de março de 2024 às 08:15
+a negação seria (P^Q)^~R
+Reportar abuso
+Ajudou (17) Não ajudou
+G
+Glauton
+27 de fevereiro de 2024 às 20:43
+Buguei nessa.
+Reportar abuso
+Ajudou (15) Não ajudou
+GQ
+Guimarielle Quintanilha
+12 de março de 2024 às 23:18
+“Se o senhor de chapéu preto E o senhor de chapéu verde são inocentes, então o senhor de chapéu branco mentiu em seu depoimento.” = Se A e B, então C => NEGAÇÃO da CONDICIONAL = MANE => A e B e ~C
+
+** MANE = MANTEM o primeiro e NEGA o segundo
+Reportar abuso
+Ajudou (14) Não ajudou
+Nilson Lisboa Da Cruz Filho
+25 de fevereiro de 2024 às 11:05
+Seria: (P ∧ Q) → ~R.
+Não: ~P ˅ Q → ~R
+Reportar abuso
+Ajudou (8) Não ajudou
+Página 1 de 2
+3
+Q3543794
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - STJ - Analista Judiciário - Área Suporte em Tecnologia da Informação - 2024
+Texto associado
+Por quase dois séculos, apesar da controvérsia provocada pela Revolução Francesa, a Declaração dos Direitos do Homem e do Cidadão encarnou a promessa de direitos humanos universais. Em 1948, quando as Nações Unidas adotaram a Declaração Universal dos Direitos Humanos, seu artigo 1.º dizia: “Todos os seres humanos nascem livres e iguais em dignidade e direitos”. Em 1789, o artigo 1.º da Declaração dos Direitos do Homem e do “Os permanecem livres e iguais em direitos”. Cidadão já havia proclamado: homens nascem e permanecem livres e iguais em direitos”.
+As origens dos documentos não nos dizem necessariamente nada de significativo sobre as suas consequências. Importa realmente que o esboço tosco de Jefferson tenha passado por 86 alterações feitas por ele mesmo, pelo Comitê dos Cinco ou pelo Congresso? A Declaração da Independência dos Estados Unidos da América (EUA) não tinha natureza constitucional. Declarava simplesmente intenções, e passaram-se quinze anos antes que os estados finalmente ratificassem uma Bill of Rights, muito diferente, em 1791. A Declaração dos Direitos do Homem e do Cidadão afirmava salvaguardar as liberdades individuais, mas não impediu o surgimento de um governo francês que reprimiu os direitos, e futuras constituições francesas — houve muitas delas — formularam declarações diferentes ou passaram sem nenhuma declaração.
+Ainda mais perturbador é que aqueles que, com tanta confiança, declaravam, no final do século XVIII, que os direitos eram universais vieram a demonstrar que tinham algo muito menos inclusivo em mente. As pessoas não ficaram surpresas por eles considerarem que as crianças, os insanos, os prisioneiros ou os estrangeiros eram incapazes ou indignos de plena participação no processo político, pois pensavam da mesma maneira. Mas eles também excluíam aqueles sem propriedade, os escravos, os negros livres, em alguns casos as minorias religiosas e, sempre e por toda parte, as mulheres. Em anos recentes, essas limitações a “todos os homens” provocaram muitos comentários, e alguns estudiosos até questionaram se as declarações tinham um verdadeiro significado de emancipação.
+Os fundadores, os que estruturaram e os que redigiram as declarações, têm sido julgados elitistas, racistas e misóginos por sua incapacidade de considerar todos verdadeiramente iguais em direitos.
+Como é que esses homens, vivendo em sociedades construídas sobre a escravidão, a subordinação e a subserviência aparentemente natural, chegaram a imaginar homens nada parecidos com eles, e, em alguns casos, também mulheres, como iguais? Se pudéssemos compreender como isso veio a acontecer, compreenderíamos melhor o que os direitos humanos significam para nós hoje em dia.
+
+Lynn Hunt. A invenção dos direitos humanos: uma história. Tradução de Rosaura Eichenberg.
+São Paulo: Companhia das Letras, 2009, p. 15-16 (com adaptações).
+
+A respeito de aspectos linguísticos do texto precedente bem como das ideias nele veiculadas, julgue os próximos itens.
+Dada a polissemia do vocábulo homem, seria possível interpretar que os direitos previstos no artigo 1.º da Declaração dos Direitos do Homem e do Cidadão abrangeriam um grupo restrito de pessoas.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+55.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ruthi Gabriella
+30 de dezembro de 2024 às 16:39
+homens brancos, com poderes, esse grupo sempre.
+Reportar abuso
+Ajudou (0) Não ajudou
+4
+Q3543795
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - STJ - Analista Judiciário - Área Suporte em Tecnologia da Informação - 2024
+Texto associado
+Por quase dois séculos, apesar da controvérsia provocada pela Revolução Francesa, a Declaração dos Direitos do Homem e do Cidadão encarnou a promessa de direitos humanos universais. Em 1948, quando as Nações Unidas adotaram a Declaração Universal dos Direitos Humanos, seu artigo 1.º dizia: “Todos os seres humanos nascem livres e iguais em dignidade e direitos”. Em 1789, o artigo 1.º da Declaração dos Direitos do Homem e do “Os permanecem livres e iguais em direitos”. Cidadão já havia proclamado: homens nascem e permanecem livres e iguais em direitos”.
+As origens dos documentos não nos dizem necessariamente nada de significativo sobre as suas consequências. Importa realmente que o esboço tosco de Jefferson tenha passado por 86 alterações feitas por ele mesmo, pelo Comitê dos Cinco ou pelo Congresso? A Declaração da Independência dos Estados Unidos da América (EUA) não tinha natureza constitucional. Declarava simplesmente intenções, e passaram-se quinze anos antes que os estados finalmente ratificassem uma Bill of Rights, muito diferente, em 1791. A Declaração dos Direitos do Homem e do Cidadão afirmava salvaguardar as liberdades individuais, mas não impediu o surgimento de um governo francês que reprimiu os direitos, e futuras constituições francesas — houve muitas delas — formularam declarações diferentes ou passaram sem nenhuma declaração.
+Ainda mais perturbador é que aqueles que, com tanta confiança, declaravam, no final do século XVIII, que os direitos eram universais vieram a demonstrar que tinham algo muito menos inclusivo em mente. As pessoas não ficaram surpresas por eles considerarem que as crianças, os insanos, os prisioneiros ou os estrangeiros eram incapazes ou indignos de plena participação no processo político, pois pensavam da mesma maneira. Mas eles também excluíam aqueles sem propriedade, os escravos, os negros livres, em alguns casos as minorias religiosas e, sempre e por toda parte, as mulheres. Em anos recentes, essas limitações a “todos os homens” provocaram muitos comentários, e alguns estudiosos até questionaram se as declarações tinham um verdadeiro significado de emancipação.
+Os fundadores, os que estruturaram e os que redigiram as declarações, têm sido julgados elitistas, racistas e misóginos por sua incapacidade de considerar todos verdadeiramente iguais em direitos.
+Como é que esses homens, vivendo em sociedades construídas sobre a escravidão, a subordinação e a subserviência aparentemente natural, chegaram a imaginar homens nada parecidos com eles, e, em alguns casos, também mulheres, como iguais? Se pudéssemos compreender como isso veio a acontecer, compreenderíamos melhor o que os direitos humanos significam para nós hoje em dia.
+
+Lynn Hunt. A invenção dos direitos humanos: uma história. Tradução de Rosaura Eichenberg.
+São Paulo: Companhia das Letras, 2009, p. 15-16 (com adaptações).
+
+A respeito de aspectos linguísticos do texto precedente bem como das ideias nele veiculadas, julgue os próximos itens.
+O questionamento feito pela autora no segundo parágrafo constitui um recurso de linguagem utilizado para verificar o entendimento do leitor quanto à argumentação por ela desenvolvida no texto.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+50.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ruthi Gabriella
+30 de dezembro de 2024 às 16:42
+O questionamento feito pela autora no segundo parágrafo não tem o objetivo de verificar o entendimento do leitor. Trata-se, na verdade, de um recurso argumentativo utilizado pela autora para problematizar as origens e as consequências das declarações de direitos. A intenção é suscitar reflexão sobre o contexto e as limitações históricas dessas declarações, e não avaliar a compreensão do leitor.
+
+Reportar abuso
+Ajudou (1) Não ajudou
+5
+Q3178955
+Administração Geral Estrutura Organizacional
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Técnico Ministerial - Área Assistente Administrativo - 2024
+Texto associado
+Julgue os itens seguintes, relativos a organizações modernas e a suas estruturas e critérios de departamentalização.
+A estrutura de uma organização é composta pelos sistemas de responsabilidades, de autoridades, de decisões e de comunicações.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+84.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Guilherme Quelemes De Sousa Paz
+9 de abril de 2024 às 14:12
+cada dia mais próximo de surtar estudando, boa tarde
+Reportar abuso
+Ajudou (341) Não ajudou
+Danielle Souza
+27 de abril de 2024 às 08:06
+
+Quatro componentes da estrutura organizacional:
+
+SISTEMA DE RESPONSABILIDADE: Departamentalização, linha e assessoria, descrição das atividades;
+SISTEMA DE AUTORIDADE: Amplitude de controle, níveis hierárquicos, delegação, centralização/descentralização;
+SISTEMA DE COMUNICAÇÃO: O que comunicar, como comunicar, quando comunicar, de quem/para quem;
+SISTEMA DE DECISÃO: dado, informação, decisão, ação
+Reportar abuso
+Ajudou (289) Não ajudou
+Felipe Dos Santos Silva
+16 de maio de 2024 às 13:41
+Eu acabo de sair de uma aula em que o professor fala que existe o sistema de autoridade, de responsabilidade e de comunicação + coordenação + integração. E só não falou do de decisão. Que frustrante! 😤
+Reportar abuso
+Ajudou (211) Não ajudou
+Patricia Ferreira Neto
+2 de junho de 2024 às 14:37
+Gabarito "Certo"
+
+Sistemas Componentes da Estrutura Organizacional
+- Sistemas de Autoridade
+- Decorre da hierarquia
+- Direito de fazer algo
+- Capacidade de dar ordens e exigir o cumprimento
+- Níveis de hierarquia
+- Amplitude de controle
+- Centralização x Descentralização
+- Sistemas de Responsabilidade
+- Dever de fazer algo
+- Cumprir ordens
+- Divisão de trabalho (especialização)
+- Departamentalização
+- Linha e Staff
+- Sistemas de Comunicação + Coordenação + Integração
+- Estabelece fluxos de comunicação
+Reportar abuso
+Ajudou (47) Não ajudou
+Maria De Lourdes Vieira Bizerra
+31 de maio de 2024 às 11:36
+assisti a mesma aula que vc, Felipe. `@´
+Reportar abuso
+Ajudou (36) Não ajudou
+Página 1 de 7
+6
+Q3123956
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MMA - Analista Ambiental - 2024
+Texto associado
+Texto CB1A1
+Hoje, a crise hídrica é política — o que significa dizer não inevitável ou necessária, nem além da nossa capacidade de consertá-la — e, logo, opcional, na prática. Esse é um dos motivos para ser, não obstante, terrível como parábola climática: um recurso abundante torna-se escasso pela falta de infraestrutura, pela poluição e pela urbanização e desenvolvimento descuidados. A crise de abastecimento de água não é inevitável, mas presenciamos uma, de um modo ou de outro, e não estamos fazendo muita coisa para resolvê-la. Algumas cidades perdem mais água por vazamentos do que a que é entregue nas casas: mesmo nos Estados Unidos da América (EUA), vazamentos e roubos respondem por uma perda estimada de 16% da água doce; no Brasil, a estimativa é de 40%. Em ambos os casos, assim como por toda parte, a escassez se desenrola tão patentemente sobre o pano de fundo das desigualdades entre pobres e ricos que o drama resultante da competição pelo recurso dificilmente pode ser chamado, de fato, de competição; o jogo está tão arranjado que a escassez de água mais parece um instrumento para aprofundar a desigualdade. O resultado global é que pelo menos 2,1 bilhões de pessoas no mundo não têm acesso a água potável segura, e 4,5 bilhões não dispõem de saneamento.
+David Wallace-Wells. A terra inabitável: uma história do futuro. São Paulo: Cia das Letras, 2019. (com adaptações).
+Com base nas ideias veiculadas no texto CB1A1, julgue os itens a seguir.
+No texto, os exemplos das taxas de vazamentos e roubos no abastecimento de água em cidades dos EUA e do Brasil ilustram a inação diante da crise hídrica.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+83.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Larissa
+25 de janeiro de 2024 às 17:44
+inação =
+ausência de ação
+Reportar abuso
+Ajudou (59) Não ajudou
+Nadine
+26 de janeiro de 2024 às 15:19
+"...e não estamos fazendo muita coisa para resolvê-la..."
+Reportar abuso
+Ajudou (34) Não ajudou
+Patricia Ferreira Neto
+3 de maio de 2024 às 07:24
+Gabarito "Certo"
+
+"Esse é um dos motivos para ser, não obstante, terrível como parábola climática: um recurso abundante torna-se escasso pela falta de infraestrutura, pela poluição e pela urbanização e desenvolvimento descuidados. A crise de abastecimento de água não é inevitável, mas presenciamos uma, de um modo ou de outro, e não estamos fazendo muita coisa para resolvê-la."
+Reportar abuso
+Ajudou (9) Não ajudou
+Fabiana Da Silva Campos
+8 de março de 2024 às 11:56
+Não considerei inação pq eles estão fazendo (não muita coisa) mas estão. Pensei errado?
+Reportar abuso
+Ajudou (8) Não ajudou
+Eduardo Bittar
+23 de maio de 2024 às 14:18
+A inação está perfeitamente descrita no texto. Gabarito: C
+Reportar abuso
+Ajudou (3) Não ajudou
+Página 1 de 3
+7
+Q3193043
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Analista - Área: Administração de Banco de Dados - 2024
+Texto associado
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), julgue os itens subsequentes.
+Encarregado é a pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+74.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+EB
+Elivelton Bezerra Dos Santos
+6 de julho de 2024 às 23:08
+Errado.
+
+Encarregado: pessoa indicada pelo controlador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD).
+Quem realiza o tratamento dos dados é o operador.
+Reportar abuso
+Ajudou (37) Não ajudou
+Eliana Ribeiro Dos Santos
+5 de janeiro de 2025 às 17:26
+ERRADO.
+Art. 5º Para os fins desta Lei, considera-se:
+VIII - encarregado: pessoa indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD)
+Reportar abuso
+Ajudou (3) Não ajudou
+Sara Sangi Miranda
+23 de fevereiro de 2025 às 14:30
+quem realiza o tratamento de dados pessoais em nome do controlador é o OPERADOR
+Reportar abuso
+Ajudou (1) Não ajudou
+8
+Q3163450
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CTI - Pesquisador - Área: Saúde Avançada - Manufatura Aditiva, Simulação Computacional - 2024
+Texto associado
+Com base nas Leis n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais — LGPD) e n.º 14.129/2021, bem como na Instrução Normativa SGD/ME n.º 94/2022, julgue os itens a seguir.
+A LGPD se aplica, entre outros casos, ao tratamento de dados realizado para fins exclusivos de segurança pública ou defesa nacional.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+77.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daniel Andrade
+29 de fevereiro de 2024 às 22:39
+Art. 4º Esta Lei não se aplica ao tratamento de dados pessoais: III - realizado para fins exclusivos de segurança pública, defesa nacional, segurança do Estado ou atividades de investigação e repressão de infrações penais.
+Reportar abuso
+Ajudou (82) Não ajudou
+Bianca Nascimento
+25 de abril de 2024 às 15:54
+Art. 4º Esta Lei não se aplica ao tratamento de dados pessoais:
+I - realizado por pessoa natural para fins exclusivamente particulares e não econômicos;
+II - realizado para fins exclusivamente:
+a) jornalístico e artísticos; ou
+b) acadêmicos, aplicando-se a esta hipótese os arts. 7º e 11 desta Lei;
+III - realizado para fins exclusivos de:
+a) segurança pública;
+b) defesa nacional;
+c) segurança do Estado; ou
+d) atividades de investigação e repressão de infrações penais; ou
+Reportar abuso
+Ajudou (38) Não ajudou
+JD
+Júlia Da Costa
+21 de março de 2024 às 09:57
+De acordo com o artigo 4° da lei, a LGPD NÃO SE APLICA nos casos se realizado para fins exclusivos de seg. pública/ defesa nacional/ seg. do Estado ou ativ. de repressão e de investigação de infrações penais. Ou seja, nesses casos previstos, não há regulamentação pela LGPD do trat. de dados.
+Reportar abuso
+Ajudou (7) Não ajudou
+GS
+Grethen Silva Damasceno
+17 de março de 2024 às 02:08
+Art. 4º Esta Lei NÃO se aplica ao tratamento de dados pessoais: III - realizado para fins exclusivos de: a) segurança pública; b) defesa nacional; c) segurança do Estado; ou d) atividades de investigação e repressão de infrações penais;
+Reportar abuso
+Ajudou (4) Não ajudou
+Aline Quiroga Neves
+3 de fevereiro de 2025 às 15:00
+Não se aplica para fins exclusivos de:
+segurança pública, segurança de Estado, defesa nacional, atividades de investigação ou repressão.
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+9
+Q3238109
+Administração de Recursos Materiais Distribuição
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+Em relação aos procedimentos de armazenagem e movimentação de cargas, julgue os itens seguintes.
+A movimentação de cargas de uma única origem para um único destino, conhecida como distribuição física um para um, reduz os custos individuais de movimentação de itens e causa menor impacto no valor do frete ao consumidor final.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+74.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+VF
+Vitor Ferreira
+22 de novembro de 2024 às 11:45
+Item CERTO, segundo CEBRASPE e MAIA.
+
+No entanto, com a redução dos custos individuais de movimentação de itens, causaria MAIOR impacto no valor do frete ao consumidor final.
+Há uma dúbia interpretação nesse item, mas creio em que ambos, levaria o consumidor a arcar com os custos de busca do produto na loja. Já que não existe a possibilidade de entrega do produto na casa do cliente. E na suposição do transporte ser de combustível à refinaria de determinada cidade, o dono do posto teria que pagar frete para ir buscar o combustível na refinaria, o que ele transferiria ao consumidor final.
+Reportar abuso
+Ajudou (4) Não ajudou
+Andre Luis Santos De Jesus
+20 de fevereiro de 2025 às 20:54
+Cabe recurso nessa
+Reportar abuso
+Ajudou (0) Não ajudou
+10
+Q3266478
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE GO - Analista - Área: Informática - 2024
+Texto associado
+Com base na Lei de Acesso à Informação (Lei n.º 12.527/2011) e na Lei Geral de Proteção de Dados Pessoais — LGPD (Lei n.º 13.709/2018), julgue os itens que se seguem.
+Para os fins da LGPD, o consentimento do titular dos dados para o tratamento destes não será válido se for equívoco.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+76.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Leonardo Marcelo Alves
+15 de maio de 2024 às 09:51
+LGPD
+
+Art. 5º XII - consentimento: manifestação livre, informada e inequívoca pela qual o titular concorda com o tratamento de seus dados pessoais para uma finalidade determinada;
+
+Resposta C
+
+Reportar abuso
+Ajudou (42) Não ajudou
+Laiane Ricardo De Araujo
+20 de maio de 2024 às 13:14
+significado de equivoco = engano, erro, interpretação ambígua.
+Reportar abuso
+Ajudou (11) Não ajudou
+MB
+Mateus Bezerra Fernandes
+20 de fevereiro de 2025 às 09:11
+Complementando os comentários do Leonardo Marcelo e da Laiane Ricardo:
+Lei nº 13.709/2018 (LGPD) --> Art. 8º, $ 3º: É VEDADO o tratamento de dados pessoais mediante vício de consentimento.
+Reportar abuso
+Ajudou (0) Não ajudou
+11
+Q3312081
+Língua Portuguesa Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Analista Legislativo - 2024
+Texto associado
+Maniçoba, 19 de junho de 1911. Minha mãe: Aqui cheguei em paz e salvamento, graças a Nosso Senhor Jesus Cristo. Isto aqui é bom como o diabo: acorda-se às cinco da manhã, leva-se o dia lendo, fumando, comendo e rezando; dorme-se às nove da noite. Uma vida de anjo. Quando chegar aí — está compreendendo? — hei de ter o corpo pesando 70 quilos e a alma leve de pecados, tão leve como os vagons que levam material para a construção da estrada de ferro de Palmeira. Fui visitar o tal Lajedo das Cobras, segundo a senhora insinuou-me, e não vi nada que se parecesse com cobras. Tenha a bondade de dizer-me onde ficam esses bichos, sempre tenho vontade de admirá-los. Só se são umas listas pretas que há em cima da pedra. Mas quem lhe meteu na cabeça que aquilo eram cobras, hem? Nem semelhança, minha senhora! Ali nunca houve cobras nem nada. Isto agora está seco, sabe? Um pouquinho seco. A água do Ipanema tem assim uns tons de verde-paris: é mesmo da cor do açude daí. Por aqui nada de novo, tudo na santa paz do senhor... não, há uma coisa de novo: o Siriaco, o velho Siriaco, o impagável, o incomensurável Siriaco. Diga a meu pai que lhe não escrevo porque nesta carta vai tudo o que é preciso dizer. Adeus. Lembranças às meninas, a tia Ju, etc. Recomendações à família do sr. Antero, a d. Iaiá, e mais a algumas pessoas conhecidas. O filho e amigo Graciliano. NB: Mando dizer ao Antônio Panta que guarde todos os meus Malhos. Não se esqueça deste recado. Lembranças a d. Anatólia.
+
+Graciliano Ramos. Cartas. Rio de Janeiro: Record, 2013 (com adaptações).
+
+Julgue os itens que se seguem, relativos aos sentidos e a aspectos linguísticos do texto precedente.
+Entende-se do texto que o emissor da carta se encontra na localidade de Maniçoba, onde pretende cometer muitos “pecados”.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+35.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+SR
+Sérgio Ricardo Araújo Filho
+10 de julho de 2024 às 05:23
+"a alma leve de pecados, tão leve como os vagons que levam material para a construção da estrada de ferro de Palmeira.''
+Aqui contém uma ironia, vai voltar leve com os vagons pesados que levam material de construção, ou seja, vai voltar pesado de pecados.
+
+Fonte: QC
+Reportar abuso
+Ajudou (40) Não ajudou
+DK
+Devid Kaue Santos Silva
+1 de julho de 2024 às 13:06
+No texto o autor deixa claro no início que está em maniçoba porém também deixa claro que
+— hei de ter o corpo pesando 70 quilos e 'a alma leve de pecados'
+portanto não conclui-se que 'pretende cometer muitos pecados'
+Reportar abuso
+Ajudou (26) Não ajudou
+L
+Luan
+10 de agosto de 2024 às 21:14
+Gabarito oficial da banca: ERRADO
+Fonte: www.cebraspe.org.br/concursos/camara_municipal_maceio_24
+Reportar abuso
+Ajudou (9) Não ajudou
+Luiz Fernando Rodrigues De Rezende
+4 de julho de 2024 às 11:46
+Questão com gabarito errado, fica difícil responder questões assim aqui
+Reportar abuso
+Ajudou (3) Não ajudou
+Claudirene Rodrigues Dos Santos
+1 de setembro de 2024 às 09:57
+Maniçoba, 19 de junho de 1911.
+
+... Quando chegar aí — está compreendendo? — hei de ter o corpo pesando 70 quilos e a alma leve de pecados, tão leve como os vagons que levam material para a construção da estrada de ferro de Palmeira.
+
+Ou seja, vai chegar com a alma pesada de tantos pecados que irá cometer.
+Reportar abuso
+Ajudou (2) Não ajudou
+Página 1 de 2
+12
+Q3554345
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área: Administrativa - 2024
+Texto associado
+Texto CB1A1-II
+
+A palavra ficção nos remete a histórias inventadas (total ou parcialmente). Pode ser uma fantasia, que envolva monstros, heróis ou fantasmas, pode ser uma ficção científica, que envolva tecnologias que vão muito além daquelas que existem hoje, e também pode ser um romance comum, totalmente realista, mas com enredo, personagens ou ambientes inventados.
+Dessa forma, uma matéria jornalística jamais poderia ser considerada ficcional, já que um dos pilares do jornalismo é a busca pela verdade e a publicização das informações com precisão e veracidade. Um jornal que noticiasse ficções estaria ferindo um de seus princípios mais fundamentais.
+Apesar de essa definição de ficção ser bem popular, os críticos e teóricos de cinema franceses Jacques Aumont e Michel Marie afirmam que a ficção é uma forma de discurso que faz referência a personagens ou a ações que só existem na imaginação daquele que a escreve ou lê. Segundo eles, a ficção não é uma mentira, mas um simulacro da realidade, uma das possíveis maneiras de se representar o real.
+Assim, podemos dizer que todo relato é uma tentativa de representar a realidade por meio de palavras. Um relato de um acontecimento não é o próprio acontecimento em si. Os fatos ficam no passado, depois que acontecem. Qualquer tentativa de retomá-los no presente, por meio de uma história, será uma representação, será uma construção da mente de uma pessoa. Logo, será uma ficção.
+
+Lucia Mascarenhas de Miranda. A fronteira entre fato e ficção.
+In: Ciência Hoje, outubro de 2024.
+Internet: <cienciahoje.org.br> (com adaptações).
+
+
+A respeito dos aspectos linguísticos do texto CB1A1-II, julgue os itens que se seguem.
+Na organização das ideias do primeiro parágrafo do texto, o conteúdo do segmento “mas com enredo, personagens ou ambientes inventados” se opõe à informação anterior segundo a qual a ficção pode ser representada por uma fantasia, uma ficção científica, ou um romance comum.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+74.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ashely
+5 de janeiro de 2025 às 13:56
+o MAS foi usado como aditivo e não adversativo
+Reportar abuso
+Ajudou (2) Não ajudou
+Ruthi Gabriella
+5 de janeiro de 2025 às 17:28
+Jamais, uma ficção pode ter de tudo.
+Reportar abuso
+Ajudou (0) Não ajudou
+13
+Q3391987
+Legislação Federal Do Tratamento de Dados Pessoais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEPLAG CE - Analista de Gestão Pública – Área: Ciência da Computação ou afins na área da Tecnologia da Informação e Comunicação Inglês - 2024
+Texto associado
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD), julgue os itens a seguir.
+Na realização de estudos em saúde pública, todos os envolvidos poderão ter acesso a bases de dados pessoais, podendo estes ser tratados por entidades públicas, privadas, civis e militares em qualquer esfera.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+69.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jussara Cristiane Dos Santos
+16 de setembro de 2024 às 12:47
+Incorreto.
+A Lei Geral de Proteção de Dados Pessoais (LGPD) estabelece que o tratamento de dados pessoais sensíveis para a realização de estudos em saúde pública deve ser realizado exclusivamente por entidades públicas.
+Isso está previsto no artigo 11, inciso II, alínea “e” da LGPD. Portanto, entidades privadas, civis e militares não têm acesso irrestrito a essas bases de dados.
+Reportar abuso
+Ajudou (42) Não ajudou
+Thiago Angelo Da Cruz
+28 de janeiro de 2025 às 18:02
+Dados sensíveis em saúde pública só podem ser tratados por entidades públicas
+Reportar abuso
+Ajudou (5) Não ajudou
+EB
+Elano Bezerra
+13 de fevereiro de 2025 às 10:31
+Art. 13. Na realização de estudos em saúde pública, os órgãos de pesquisa poderão ter acesso a bases de dados pessoais, que serão tratados exclusivamente dentro do órgão e estritamente para a finalidade de realização de estudos e pesquisas e mantidos em ambiente controlado e seguro, conforme práticas de segurança previstas em regulamento específico e que incluam, sempre que possível, a anonimização ou pseudonimização dos dados, bem como considerem os devidos padrões éticos relacionados a estudos e pesquisas.
+Reportar abuso
+Ajudou (1) Não ajudou
+14
+Q3175504
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Acerca de logística, julgue os itens que se seguem.
+Recomenda-se o modal rodoviário para o transporte de grandes volumes de produtos de baixo valor agregado por longas distâncias.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+65.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Douglas Oliveira
+21 de março de 2024 às 06:57
+Modal aquaviário
+Reportar abuso
+Ajudou (22) Não ajudou
+Ana Claudia Machado
+21 de fevereiro de 2025 às 18:49
+Errada.
+
+Modal ferroviário ou aquaviário.
+Reportar abuso
+Ajudou (1) Não ajudou
+15
+Q3554708
+Administração Geral Departamentalização Funcional
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Analista Judiciário - Área Engenharia Elétrica - 2024
+Texto associado
+Acerca das funções da administração, do processo decisório e dos tipos de departamentalização na administração pública, julgue os itens que se seguem.
+A departamentalização funcional potencializa o surgimento de atrito entre os colaboradores do departamento, o que é considerado uma desvantagem em relação a outros tipos de departamentalização.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+87.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+B
+Bruno
+17 de janeiro de 2025 às 15:39
+potencializa atrito entre os departamentos e não entre os colaboradores do mesmo departamento.
+Reportar abuso
+Ajudou (12) Não ajudou
+Concurseiraresiliente
+5 de fevereiro de 2025 às 19:40
+A afirmação não está correta. Na departamentalização funcional, os colaboradores são agrupados de acordo com suas especialidades (exemplo: financeiro, marketing, produção). Isso pode gerar atritos entre departamentos devido à falta de comunicação e ao foco excessivo em objetivos específicos da área, mas não necessariamente dentro do próprio departamento.
+O principal problema desse modelo é o isolamento entre setores, dificultando a colaboração entre diferentes áreas da empresa, o que pode gerar conflitos interdepartamentais, não internos ao departamento.
+Reportar abuso
+Ajudou (3) Não ajudou
+16
+Q3555217
+Língua Portuguesa Verbos
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TSE-UNIF - Técnico Judiciário - Área Administrativa - Agente de Polícia Judicial - 2024
+Texto associado
+Quando eu cheguei à seção onde tinha de votar, achei três mesários e cinco eleitores. Os eleitores falavam do tempo. Contavam os maiores verões que temos tido; um deles opinava que o verão, em si mesmo, não era mau, mas que as febres é que o tornavam detestável. A quanto não ia a amarela? Chegaram mais três eleitores, depois um, depois sete, que, pelo ar, pareciam da mesma casa. Os minutos iam com aquele vagar do costume quando a gente está com pressa. Mais três eleitores. Nove horas e meia. Os conhecidos faziam roda. Uns falavam mal dos gelados, outros tratavam do câmbio.
+Nove e três quartos. Trinta e cinco eleitores. Alguns almoçados. Os almoçados interpretavam o regulamento eleitoral diferentemente dos que o não eram. Daí algumas conversações particulares à meia voz, dizendo uns que a chamada devia começar às dez horas em ponto, outros que antes.
+— Meus senhores, vai começar a chamada — disse o presidente da mesa.
+Eram dez horas menos um minuto. Havia quarenta e sete eleitores. Abriram-se as urnas, que foram mostradas aos eleitores, a fim de que eles vissem que não havia nada dentro. Os cinco mesários já estavam sentados, com os livros, papéis e penas. O presidente fez esta advertência:
+— Previno aos senhores eleitores que as cédulas que contiverem nomes riscados e substituídos não serão apuradas; é disposição da lei nova.
+Quis protestar contra a lei nova. Pareceu-me opressiva da liberdade eleitoral. Pois eu escolho um nome, para presidente da República, suponhamos; ou senador, ou deputado que seja; em caminho, ao descer do bonde, acho que o nome não é tão bom como o outro, e não posso entrar numa loja, abrir a cédula e trocar o voto?
+— Antônio José Pereira — chamava o mesário.
+— Está na Europa — dizia um eleitor, explicando o silêncio.
+— Pôncio Pilatos!
+— Morreu, senhor; está no Credo.
+Tinha começado a chamada e prosseguia lentamente para não dar lugar a reclamações. Nove décimos dos eleitores não respondiam por isto ou por aquilo.
+— Padre Diogo Antônio Feijó! — prosseguia o mesário.
+Pausa.
+— Padre Diogo Antônio Feijó!
+Pausa.
+Eu gemia em silêncio. Consultei o relógio; faltavam sete minutos para as onze, e ainda não começara o meu quarteirão. Quis espairecer, levantei-me, fui até a porta, onde achei dois eleitores, fumando e falando de moças bonitas. Conhecia-os; eram do meu quarteirão.
+Enfim, começou o meu quarteirão; respirei, mas respirei cedo, porque a lista era quase toda composta de abstencionistas, e os nomes dos ausentes ou mortos gastam mais tempo, pela necessidade de esperar que os donos apareçam. Chegou a minha vez. Votei e corri a almoçar. Relevem a vulgaridade da ação. Tartufo, neste ponto, emendaria o seu próprio autor:
+“Ah! Pour être électeur, je n’en suis pas moins homme [Ah! Um eleitor, mas nem por isso menos homem].”
+Machado de Assis. Gazeta de Notícias. Rio de Janeiro, 4 de março de 1894 (com adaptações).
+Acerca das características do texto precedente, bem como das ideias nele veiculadas e de seus aspectos linguísticos, julgue os itens seguintes.
+
+O vocábulo “vagar” (sexto período do primeiro parágrafo) classifica-se como verbo e foi empregado para expressar a ideia de vagueza.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+74.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Lorena Campos De Assis Campos De Assis
+2 de janeiro de 2025 às 09:57
+Por gentileza, me corrijam se eu estiver enganada. Mas no meu entendimento "VAGAR" foi empregado como SUBSTANTIVO.
+Os minutos iam com aquele vagar do costume quando a gente está com pressa.
+aquele -pronome demonstrativo que acompanha o substantivo vagar
+do costume - locução adjetiva que caracteriza o substantivo vagar
+
+Reportar abuso
+Ajudou (30) Não ajudou
+Vitor Martinez
+23 de dezembro de 2024 às 19:47
+"VAGAR" FOI EMPREGADO COMO ADJETIVO CARACTERIZANDO O SUBSTANTIVO "COSTUME"
+Reportar abuso
+Ajudou (11) Não ajudou
+PV
+Paulo Victor Silva De Freitas
+20 de fevereiro de 2025 às 18:19
+Acredito que tenha sido por conta deveria ser usado vagareza em vez de vagueza.
+Reportar abuso
+Ajudou (1) Não ajudou
+MA
+Marcos Andre Martins Dos Santos
+24 de fevereiro de 2025 às 10:47
+vagar é caracterizado como adjectivo porque caracteriza o substantivo os minutos.
+Reportar abuso
+Ajudou (0) Não ajudou
+A
+Adriana
+1 de fevereiro de 2025 às 16:16
+VAGAR - subs - lentidão
+Reportar abuso
+Ajudou (0) Não ajudou
+17
+Q3236482
+Administração de Recursos Materiais Tipos de Demanda
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Auditor Fiscal de Posturas - 2024
+Texto associado
+Com referência a indicadores de desempenho, reformas administrativas e boas práticas na administração pública, julgue os itens seguintes.
+Na gestão de materiais e estoques, o consumo sazonal apresenta variações significativas da demanda, a exemplo de produtos que se tornam obsoletos devido a inovações tecnológicas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+57.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Pedro Henrique De Almeida Antunes
+25 de maio de 2024 às 18:50
+Sazonal significa que os produtos aparecem em época específica do ano, como ovos de Páscoa.
+Reportar abuso
+Ajudou (26) Não ajudou
+Fernando Santos Cardoso
+7 de junho de 2024 às 11:33
+Por favor tirem esse robo do ar.
+Reportar abuso
+Ajudou (12) Não ajudou
+Gilmar Gil
+24 de dezembro de 2024 às 16:55
+ERRADO
+Na evolução de consumo do tipo sazonal, este oscila de maneira regular em relação a causas específicas ao longo de um periodo. 
+Apresenta picos de consumo em épocas conhecidas, exigindo um estoque de antecipação.
+Ex.: sorvete, no verão
+Na evolução de consumo do tipo tendência, a quantidade de material está crescendo ou caindo com o tempo. Não há expectativa de que volte a um tempo normal, o normal é o crescer e diminuir.
+Ex.: materiais que se tornam obsoletos devido a inovações tecnológicas, tais como disquetes.
+Reportar abuso
+Ajudou (5) Não ajudou
+Claudirene Rodrigues Dos Santos
+2 de agosto de 2024 às 17:55
+O comentário da Maia está correto.
+Reportar abuso
+Ajudou (1) Não ajudou
+M
+Maria
+24 de fevereiro de 2025 às 22:42
+ A afirmação do item está incorreta, pois confunde dois conceitos distintos: consumo sazonal e obsolescência tecnológica. O consumo sazonal refere-se a variações na demanda de produtos em diferentes épocas do ano, influenciado por fatores como clima, festividades, entre outros. Já a obsolescência tecnológica diz respeito à perda de utilidade ou desuso de produtos devido ao surgimento de novas tecnologias, não estando diretamente relacionada com padrões sazonais. Portanto, o item está de acordo com o gabarito da banca ao ser marcado como 'Errado'.
+
+MAIA DO GRAN, desta vez a MAIA tá certa ok , deixem de implicar com a bichinha
+Reportar abuso
+Ajudou (0) Não ajudou
+18
+Q3419042
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Ministerial - Área Direito - 2024
+Texto associado
+No que tange ao processo administrativo, às licitações e contratos administrativos, à Lei de Acesso à Informação e à Lei Geral de Proteção de Dados Pessoais, julgue os itens seguintes.
+Dada a autodeterminação informativa, um dos princípios fundamentais do regime legal de proteção de dados no Brasil, os titulares de dados devem ter a capacidade de decidir quais informações suas serão usadas e de que forma o serão.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+79.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Aline Quiroga Neves
+3 de fevereiro de 2025 às 15:02
+Autodeterminação informativa é um Fundamento.
+Reportar abuso
+Ajudou (14) Não ajudou
+Larissa Ramos Anciens
+15 de fevereiro de 2025 às 09:46
+Quem errou, na verdade acertou. AUTODETERMINAÇÃO INFORMATIVA É UM FUNDAMENTO, E NÃO UM PRINCÍPIO.
+Reportar abuso
+Ajudou (7) Não ajudou
+19
+Q3391867
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEPLAG CE - Analista de Gestão Pública – Área: Ciência da Computação ou afins na área da Tecnologia da Informação e Comunicação Inglês - 2024
+Texto associado
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD) e no entendimento jurisprudencial do Supremo Tribunal Federal (STF), julgue os itens a seguir.
+Segundo a jurisprudência do STF, o compartilhamento de dados pessoais entre órgãos e entidades da administração pública deve se limitar ao mínimo necessário para o atendimento da finalidade informada.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+88.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ana Luiza
+17 de outubro de 2024 às 17:11
+Certo, pois:
+
+Art. 6º As atividades de tratamento de dados pessoais deverão observar a boa-fé e os seguintes princípios:
+
+[...]
+
+III - necessidade: limitação do tratamento ao mínimo necessário para a realização de suas finalidades, com abrangência dos dados pertinentes, proporcionais e não excessivos em relação às finalidades do tratamento de dados;
+Reportar abuso
+Ajudou (10) Não ajudou
+MB
+Mateus Bezerra Fernandes
+25 de fevereiro de 2025 às 09:52
+CERTO.
+
+ADI 6649
+Órgão julgador: Tribunal Pleno
+Relator: Min. Gilmar Mendes
+Julgamento: 15/09/2022 | Publicação: 19/06/2023
+
+O compartilhamento de dados pessoais entre órgãos e entidades da Administração Pública, pressupõe: a) eleição de propósitos legítimos, específicos e explícitos para o tratamento de dados (art. 6º, inciso I, da Lei 13.709/2018); b) compatibilidade do tratamento com as finalidades informadas (art. 6º, inciso II); c) limitação do compartilhamento ao mínimo necessário para o atendimento da finalidade informada (art. 6º, inciso III); bem como o cumprimento integral dos requisitos, garantias e procedimentos estabelecidos na Lei Geral de Proteção de Dados, no que for compatível com o setor público.
+
+
+Reportar abuso
+Ajudou (1) Não ajudou
+JO
+Juliana Oliveira De Almeida
+14 de fevereiro de 2025 às 16:34
+ADI 6649Órgão julgador: Tribunal PlenoRelator(a): Min. GILMAR MENDESJulgamento: 15/09/2022Publicação: 19/06/2023
+
+Reportar abuso
+Ajudou (1) Não ajudou
+20
+Q3238123
+Administração de Recursos Materiais Inventários
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Logística de Transporte Júnior - Área Controle - 2024
+Texto associado
+No que se refere ao controle de inventários e às decisões de políticas de estoques, julgue os próximos itens.
+Para obter confiabilidade no processo de inventário, o fator preponderante é a eficiência da tecnologia da informação utilizada, independentemente da qualificação dos inventariantes.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+94.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Vitória Pereira Silva
+11 de fevereiro de 2025 às 17:56
+A confiabilidade no processo de inventário depende tanto da eficiência da tecnologia da informação quanto da qualificação dos inventariantes. JUSTIFICATIVA: * Tecnologia da informação (TI): A TI desempenha um papel fundamental no processo de inventário, automatizando tarefas, agilizando a coleta de dados, reduzindo erros e fornecendo informações precisas e atualizadas sobre o estoque. * Qualificação dos inventariantes: A qualificação dos inventariantes é essencial para garantir a correta utilização da tecnologia, a interpretação precisa dos dados, a identificação de problemas e a tomada de decisões estratégicas. A confiabilidade do processo de inventário é um fator crítico para o sucesso de qualquer organização, pois permite o controle eficiente do estoque, a prevenção de perdas, a otimização do planejamento e a tomada de decisões estratégicas.
+Reportar abuso
+Ajudou (2) Não ajudou

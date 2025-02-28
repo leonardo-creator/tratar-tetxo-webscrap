@@ -1,0 +1,995 @@
+1
+Q3134277
+Administração de Recursos Materiais Armazenagem, Distribuição e Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Administrativo - 2024
+Texto associado
+No que concerne aos conceitos relacionados a entrada, armazenagem, saída e conferência, bem como aos critérios e às técnicas de armazenagem, julgue os itens subsequentes.
+São as seguintes as atividades principais da entrada: identificação de produtos, triagem e armazenagem vertical.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+72.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Jacqueline Cristina Silva
+6 de fevereiro de 2024 às 21:46
+As atividades principais da entrada de materiais em um processo de armazenagem geralmente incluem:
+Recebimento: Esta etapa envolve a verificação dos materiais recebidos em relação aos documentos de remessa, inspeção de qualidade e aceitação dos materiais.
+Identificação de produtos: Durante o recebimento, os materiais são identificados e registrados para garantir a rastreabilidade.
+Triagem: Os materiais recebidos podem passar por uma triagem inicial para separar itens defeituosos, danificados ou não conformes.
+Armazenagem: Após a inspeção e triagem, os materiais são armazenados nos locais apropriados no estoque.
+A "armazenagem vertical" mencionada na afirmativa não é uma atividade típica da entrada de materiais, mas sim uma técnica de armazenagem que pode ser utilizada para otimizar o espaço de armazenamento.
+Reportar abuso
+Ajudou (155) Não ajudou
+Ashely
+8 de novembro de 2024 às 16:57
+errada, a armazenagem vertical não é considerada uma atividade principal da entrada.
+Reportar abuso
+Ajudou (6) Não ajudou
+Felipe Camelo Dos Santos
+3 de janeiro de 2025 às 07:27
+Armazenagem vertical não é uma etapa do processo de entrada, a armazenagem sim.
+Reportar abuso
+Ajudou (1) Não ajudou
+Alexandre Miranda Da Silva
+18 de dezembro de 2024 às 10:20
+A afirmativa está ERRADA. As atividades principais relacionadas à entrada de materiais geralmente incluem a identificação dos produtos, a triagem (separação dos materiais) e a conferência, mas não a armazenagem vertical. A armazenagem vertical faz parte das atividades de armazenamento, não da entrada.
+As atividades de entrada se concentram na recepção e verificação inicial dos materiais, enquanto a armazenagem vertical é uma técnica específica utilizada na etapa de armazenamento propriamente dita.
+Reportar abuso
+Ajudou (1) Não ajudou
+2
+Q3232472
+Administração de Recursos Materiais Recebimento dos Materiais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Petrobras - Técnico de Suprimentos de Bens e Serviços Júnior - Área Administração - 2024
+Texto associado
+Julgue os itens a seguir, relativos a gestão e fiscalização de contratos.
+Na chegada de materiais comprados por uma empresa privada, cabe ao seu setor de recepção proceder apenas à conferência da nota fiscal e do pedido de compra.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+91.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Ingrid Sampaio
+1 de novembro de 2024 às 09:19
+ERRADO!
+Apenas - restringiu
+
+Na checagem inicial verifica-se:
+• autorização da compra;
+• cumprimento do prazo de entrega;
+• correspondência entre o documento de compra e a nota fiscal; e
+• cadastramento de informações.
+
+Fonte: Estratégia Concursos
+Reportar abuso
+Ajudou (51) Não ajudou
+3
+Q3418774
+Administração de Recursos Materiais Incorporação
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Ministerial - Área Administração - 2024
+Texto associado
+Julgue os itens subsecutivos, acerca do patrimônio imobiliário e mobiliário das organizações.
+O conhecimento, as patentes e as logomarcas registradas de uma organização constituem recursos incorpóreos dela.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+90.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Marcelo Vidal De Lima
+29 de janeiro de 2025 às 15:42
+Os recursos podem ser divididos em duas categorias, a saber:
+
+• recursos tangíveis (corpóreos): são os bens físicos de uma organização, tais como material de expediente, maquinário, material de limpeza etc.; e
+
+• recursos intangíveis (incorpóreos): são os bens imateriais, ou não físicos, tais como conhecimento, patentes, logomarcas registradas, reputação no mercado etc.
+
+Fonte: Enap Didáticos - Gestão de materiais: https://repositorio.enap.gov.br/bitstream/1/2268/1/Enap%20Did%C3%A1ticos%20-%20Gest%C3%A3o%20de%20Materiais.pdf
+Reportar abuso
+Ajudou (1) Não ajudou
+4
+Q3392788
+Administração de Recursos Materiais Modalidades de Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - SEPLAG CE - Analista de Gestão Pública – Área: Governança e Gestão Corporativa Inglês - 2024
+Texto associado
+Na figura a seguir, que representa a gestão logística da cadeia produtiva de roupa de tecido do tipo jeans, as caixas e as setas numeradas indicam, respectivamente, os atores e os fluxos dos subsistemas logísticos.
+
+
+A partir das informações precedentes, e considerando aspectos de gestão logística e patrimonial a elas relacionados, julgue os itens que se seguem.
+Considere que o fornecedor indicado pela seta 2.1 esteja situado em Belém, no estado do Pará (região Norte), e tenha optado pelo modo de transporte aquaviário para enviar 100 toneladas da matéria-prima a uma fábrica localizada em Porto Alegre, no estado do Rio Grande do Sul (região Sul). Nesse caso, o fornecer buscou, para a operação, proporcionar o menor custo de transporte, já que o modal escolhido permite a movimentação de grandes volumes para distâncias superiores a 1,5 mil quilômetros, tendo a variável tempo, nessa escolha, importância secundária.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+72.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriele Viana
+10 de dezembro de 2024 às 14:34
+CERTO.
+O modal aquaviário é indicado para o transporte de grandes quantidades por longas distâncias e o tempo é um fator segundário, tendo em vista a lentidão do modal.
+Reportar abuso
+Ajudou (30) Não ajudou
+N
+Nathalia
+29 de janeiro de 2025 às 11:06
+Hacmony, não para uma carga dessa magnitude. O custo do rodoviário seria muito superior por conta de outros fatores (tamanho do caminhão, combustível, etc). 100 toneladas não é 'nada' num navio, mas é muita coisa num caminhão.
+Reportar abuso
+Ajudou (1) Não ajudou
+HA
+Hacmony Amaro Dos Santos Junior
+16 de janeiro de 2025 às 15:53
+mas o menor custo de transporte não seria o rodoviário?
+Reportar abuso
+Ajudou (1) Não ajudou
+5
+Q3175471
+Administração de Recursos Materiais Armazenagem, Distribuição e Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Julgue os seguintes itens, que versam sobre armazenagem e distribuição de materiais.
+Os paletes permitem a formação da carga unitária.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+83.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Ana Paula Tobias
+28 de maio de 2024 às 15:39
+A unitização, carga unitizada ou unitária nada mais é do que a junção de várias cargas em um só volume, facilitando o armazenamento, movimentação e transporte.
+Reportar abuso
+Ajudou (44) Não ajudou
+6
+Q3418376
+Administração de Recursos Materiais Gestão Patrimonial
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista Administrativo - Área Administração - 2024
+Texto associado
+Julgue os itens a seguir, relativos às atividades básicas da administração de material e patrimônio nas organizações.
+Cabem ao setor de administração patrimonial o estabelecimento de procedimentos formais das atividades de gestão patrimonial e a realização da avaliação dos bens móveis e imóveis da organização.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+96.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jemima Raulino Da Conceição
+24 de setembro de 2024 às 18:50
+GABARITO: CERTO
+
+Sim, cabe ao setor de administração patrimonial o estabelecimento de procedimentos formais para a gestão patrimonial e a avaliação dos bens móveis e imóveis da organização.
+
+Essas responsabilidades incluem:Criação de políticas e procedimentos para a aquisição, utilização, manutenção, e alienação de bens.Avaliação periódica dos bens, tanto móveis (equipamentos, veículos, mobiliário) quanto imóveis (terrenos, edifícios), para garantir que seu valor contábil reflita a realidade.
+
+Controle do inventário patrimonial, garantindo o registro adequado de todos os bens e monitorando seu estado de conservação e localização.Realização de depreciação ou reavaliação de ativos, seguindo as normas contábeis aplicáveis. Fonte: ChatGPT
+.....................................................................................................................................................................
+.....................................................................................................................................................................
+Sejam fortes e corajosos,
+pois o Senhor, o seu Deus, vai com vocês;
+nunca os deixará, nunca os abandonará".
+Deuteronômio 31:6
+
+Reportar abuso
+Ajudou (7) Não ajudou
+Romulo Augusto Rezende Linhares
+11 de janeiro de 2025 às 14:09
+
+LEI No 4.320, DE 17 DE MARÇO DE 1964
+Estatui Normas Gerais de Direito Financeiro para elaboração e contrôle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal.
+
+CAPÍTULO III
+Da Contabilidade Patrimonial e Industrial
+Art. 94. Haverá registros analíticos de todos os bens de caráter permanente, com indicação dos elementos necessários para a perfeita caracterização de cada um dêles e dos agentes responsáveis pela sua guarda e administração.
+Art. 95 A contabilidade manterá registros sintéticos dos bens móveis e imóveis.
+Art. 96. O levantamento geral dos bens móveis e imóveis terá por base o inventário analítico de cada unidade administrativa e os elementos da escrituração sintética na contabilidade.
+
+
+A redação acima é a que consta na lei 4320, hoje.
+
+Alguém sabe informar de onde a Maia tirou a redação que usou no comentário?
+
+Veja o que a Maia escreveu:
+
+Fundamentação: De acordo com a Lei nº 4.320/1964, que estabelece normas gerais de direito financeiro para a elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal, a administração patrimonial é responsável pela gestão dos bens públicos. Art. 94. O controle dos bens móveis e imóveis será feito: I - quanto à sua utilização, pelos órgãos incumbidos de sua guarda; II - quanto à sua movimentação, pelos órgãos incumbidos de sua administração; III - quanto à sua avaliação, pelos órgãos incumbidos de sua contabilidade.
+
+Não encontrei a redação acima em nenhuma pesquisa que eu fiz.
+
+Alguém pode ajudar?
+Reportar abuso
+Ajudou (1) Não ajudou
+7
+Q3128971
+Administração de Recursos Materiais Inventários
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+A respeito de recursos materiais e patrimoniais, julgue os itens subsequentes.
+Os inventários físicos podem ser utilizados tanto para o controle de materiais de consumo quanto para o controle de bens patrimoniais.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+89.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Gabriele Viana
+31 de outubro de 2024 às 12:08
+Item certo.
+Quando o invetário é utilizado para materiais de consumo é feito no almoxarifado.
+Quando é utilizado em bens permanentes, é feito em toda a extensão da organização.
+Reportar abuso
+Ajudou (18) Não ajudou
+AC
+Antonio Carlos Silva Santos
+28 de janeiro de 2025 às 17:42
+Mas o inventariado não seria para bens permanentes e a listagem para bens de consumo?
+
+Reportar abuso
+Ajudou (1) Não ajudou
+8
+Q3143264
+Administração Financeira e Orçamentária - AFO Orçamento da Seguridade Social - OSS
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Contabilidade Língua Inglesa - 2024
+Texto associado
+Acerca do decreto de programação orçamentária e financeira, julgue o item que se segue.
+Até sessenta dias após a publicação da lei que dispõe sobre os orçamentos fiscal e da seguridade social da União, o Poder Executivo é obrigado a publicar a programação financeira e o cronograma de execução mensal de desembolso das despesas discricionárias, em consonância com os termos estabelecidos no plano plurianual.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+64.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+GM
+Gledson Merces Dos Santos
+16 de fevereiro de 2024 às 11:02
+A Maia tá bugada, dizendo que a questão está certa e dando a justificativa mostrando que tá errada, kkkkk.
+
+
+Art. 8º, § único, da Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal)
+Art. 8º Até trinta dias após a publicação dos orçamentos, o Poder Executivo estabelecerá a programação financeira e o cronograma de execução mensal de desembolso. Parágrafo único. Os recursos legalmente vinculados a finalidade específica serão utilizados exclusivamente para atender ao objeto de sua vinculação, ainda que em exercício diverso daquele em que ocorrer o ingresso.
+Reportar abuso
+Ajudou (665) Não ajudou
+Rosa
+24 de fevereiro de 2024 às 17:36
+Gente, a Maia enlouqueceu, já é a terceira resposta em desacordo que vejo. Voltem com os comentários dos Professores por favor!!!!!!
+Reportar abuso
+Ajudou (175) Não ajudou
+Jarilene Bella Flor
+19 de fevereiro de 2024 às 14:53
+30 dias, cuidado maia! não confunda seus pequenos gafanhotos.
+Reportar abuso
+Ajudou (131) Não ajudou
+Elis
+29 de março de 2024 às 09:56
+Esta muito complicado estudar pelo gran questões. Os comentários dos professores sobre as questões estão escassos. A Maia não esta atendendo a necessidade
+A explicação dos professores são de extrema importância para conseguirmos tirar duvidas e entendermos melhor o assunto.
+As questões estão muito repetidas.
+Não existe um indicador sobre questões feitas. Sempre fica aparecendo as mesmas questões para o aluno resolver, a gente fica em um limbo constante, sempre fazendo as mesmas questões, não há evolução
+Quando colocamos o filtro de questões sobre determinado assunto de aula para praticar, o filtro não direciona, vem tudo misturado com outros assuntos que não foram estudados, se perde MUITO tempo procurando questões. Pra mim esta é péssimo. Infelizmente vou ter que gastar $$$$ mais em busca de outra plataforma de questões de concurso mais eficiente. O chato é pagar uma assinatura ilimitada, pagar mentoria e a plataforma não entregar o desejado.
+
+Reportar abuso
+Ajudou (89) Não ajudou
+Alipi Emilio Ribeiro Lopes
+22 de fevereiro de 2024 às 15:49
+Item errado
+
+De acordo com o Art. 8 da LRF
+
+Até trinta dias após a publicação dos orçamentos, o Poder Executivo estabelecerá a programação financeira e o cronograma de execução mensal de desembolso.
+
+
+Até sessenta dias após a publicação da lei que dispõe sobre os orçamentos fiscal e da seguridade social da União, o Poder Executivo é obrigado a publicar a programação financeira e o cronograma de execução mensal de desembolso das despesas discricionárias, em consonância com os termos estabelecidos no plano plurianual (Lei das Diretrizes Orçamentárias - LDO) .
+Reportar abuso
+Ajudou (70) Não ajudou
+Página 1 de 10
+9
+Q3418329
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Analista de Tecnologia da Informação - Área Segurança da Informação - 2024
+Texto associado
+O setor público enfrenta o desafio particular de oferecer serviços públicos cada vez melhores a uma população gradualmente mais bem informada, mais consciente de seus direitos e com expectativas crescentes quanto ao papel do Estado. Devido aos recursos limitados, desenvolver serviços públicos inovadores tem sido visto crescentemente como fator fundamental para sustentar um alto nível de serviços para cidadãos e negócios, bem como para enfrentar desafios sociais e aprimorar o bem-estar social da população.
+Diante desse cenário, o discurso científico sobre inovação em compras públicas ganhou maior atenção nas últimas décadas. A União Europeia reconheceu as compras públicas como instrumento de inovação e de provimento de mercados pioneiros para novos produtos, definindo-as como compras de bens e serviços que ainda não existem, que precisam ser aperfeiçoados ou que requerem pesquisa e inovação para atender às necessidades especificadas pelos usuários.
+As compras públicas representam grande parte da execução da despesa pública. Entre países da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), a média de gastos públicos representa 12% do GDP (equivalente ao PIB) por ano. No Brasil, anualmente o governo federal gasta, em média, 5% do PIB em compras apenas de bens e serviços. Quando se incluem nos cálculos as despesas efetuadas por estados, municípios e estatais, o percentual chega próximo a 15% do PIB, ou R$ 900 bilhões.
+
+Internet: http://www.realp.unb.br/jspui/ (com adaptações).
+
+Considerando as ideias e os aspectos linguísticos do texto apresentado, julgue os itens que se seguem.
+Entende-se da leitura do texto que o desenvolvimento de serviços públicos inovadores é considerado essencial para o enfrentamento de desafios sociais e o aprimoramento do bem-estar social da população.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+91.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Andre2
+15 de setembro de 2024 às 17:15
+"... desenvolver serviços públicos inovadores tem sido visto crescentemente como fator fundamental para sustentar um alto nível de serviços para cidadãos e negócios, bem como para enfrentar desafios sociais e aprimorar o bem-estar social da população."
+Reportar abuso
+Ajudou (12) Não ajudou
+Patricia Ferreira Neto
+11 de outubro de 2024 às 15:02
+Gabarito "certo"
+
+"Devido aos recursos limitados, desenvolver serviços públicos inovadores tem sido visto crescentemente como fator fundamental para sustentar um alto nível de serviços para cidadãos e negócios, bem como para enfrentar desafios sociais e aprimorar o bem-estar social da população."
+Reportar abuso
+Ajudou (1) Não ajudou
+Alberto Oliveira
+28 de janeiro de 2025 às 23:39
+Fundamental=essencial
+Reportar abuso
+Ajudou (0) Não ajudou
+10
+Q3436687
+Língua Inglesa Sinônimos | Synonymous
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Text I
+Despite the tricky and life-threatening relationship between Paleolithic humans and the megafauna that comprised so much of their environment, twentieth-century scholars tended to claim cave art as evidence of an unalloyed triumph for our species. It was a “great spiritual symbol,” of a time when “man had just emerged from a purely zoological existence, when instead of being dominated by animals, he began to dominate them.” But the child-like and highly stylized stick figures found in caves do not radiate triumph. By the standards of our own time, they are excessively self-effacing and, compared to the animals portrayed around them, pathetically weak.
+While twentieth-century archeologists tended to solemnize prehistoric art as “magico-religious” or “shamanic,” today’s more secular viewers sometimes detect a vein of sheer silliness. India’s Mesolithic rock art portrays few human stick figures; those that are portrayed have been described by modern viewers as “comical,” “animalized” and “grotesque.” As Judith Thurman wrote about the artists, “despite their penchant for naturalism, rarely did they choose to depict human beings, and then did so with a crudeness that smacks of mockery.”
+But who are they mocking, other than themselves and, by extension, their distant descendants, ourselves? Of course, our reactions to Paleolithic art may bear no connection to the intentions or feelings of the artists. Yet there are reasons to believe that Paleolithic people had a sense of humor not all that dissimilar from our own.
+Barbara Ehrenreich. The Humanoid Stain. Later on.
+Internet: <https://leisureguy.ca> (adapted).
+Judge whether the following items about text I are right (C) or wrong (E).
+In the expressions “unalloyed triumph” (first sentence of the text) and “sheer silliness” (first sentence of the second paragraph), the adjectives “unalloyed” and “sheer” convey similar meanings.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+50.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Ingrid Lis Nery Esteves
+28 de janeiro de 2025 às 21:37
+As duas palavras significam "puro", "completo".
+Reportar abuso
+Ajudou (1) Não ajudou
+11
+Q3192542
+Legislação Federal Leis
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Analista de Infraestrutura de Tecnologia da Informação - 2024
+Texto associado
+Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), julgue os itens subsequentes.
+Encarregado é a pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+81.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+CE
+Carlos Eduardo Fanbsfecff
+23 de maio de 2024 às 16:41
+Art. 5o Para os fins desta Lei, considera-se:
+
+VIII - encarregado: pessoa indicada pelo controlador e operador para atuar como canal de comunicação entre o
+controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD);
+Reportar abuso
+Ajudou (60) Não ajudou
+Leonardo Marcelo Alves
+26 de maio de 2024 às 20:42
+Complementando, a questão trouxe, na verdade, a definição de Operador: pessoa natural ou jurídica de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador.
+
+fonte:
+Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais)
+Reportar abuso
+Ajudou (35) Não ajudou
+@douglasericpsi
+4 de junho de 2024 às 13:08
+VIII - ENCARREGADO: pessoa indicada pelo controlador e operador para atuar como Canal de Comunicação entre o Controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD);
+
+obs.: foco na letra C
+Reportar abuso
+Ajudou (25) Não ajudou
+Priscila Ingrid Gomes
+4 de setembro de 2024 às 22:49
+Art. 5º Para os fins desta Lei, considera-se:
+VII - operador: pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador
+VIII - encarregado: pessoa indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD)
+Reportar abuso
+Ajudou (8) Não ajudou
+Aline Quiroga Neves
+3 de fevereiro de 2025 às 15:06
+Operador: realiza o tratamento de dados pessoais
+Controlador: decide sobre o tratamento de dados pessoais
+Encarregado: canal de comunicação entre controlador, titular, ANPD.
+Reportar abuso
+Ajudou (0) Não ajudou
+Página 1 de 2
+12
+Q3518017
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCDF - Auditor de Controle Externo - Área: Psicologia - 2024
+Texto associado
+O conceito de discriminação usualmente leva à sensação de medida negativa, que causa prejuízo a alguém. Trata-se, efetivamente, do conceito de discriminação sob o aspecto prejudicial, ou, do ponto de vista jurídico, ilícito, do instituto.
+Em breve síntese, a discriminação consiste em tratar de maneira diferente determinada pessoa por motivo não justificável. A discriminação vedada é aquela que, como regra, encontra proibição legal e causa prejuízo à pessoa discriminada.
+O caput do artigo 5.º da Constituição Federal de 1988 dispõe que “Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à igualdade, à segurança e à propriedade”.
+Esse dispositivo revela a importância do status da igualdade entre as pessoas e, consequentemente, entre os trabalhadores. Evidentemente, conduta em sentido contrário constitui ilícito, excepcionadas as hipóteses de ações afirmativas.
+Explica-se: a discriminação, por si só, não é necessariamente medida reprovável. Pode constituir, inclusive, ação afirmativa a que os sujeitos podem estar obrigados pelo direito. Exemplo disso é a discriminação em favor das pessoas com deficiência, ao se estabelecer cota mínima a ser preenchida por elas.
+No âmbito das relações de trabalho, algumas situações são mais comuns no que se refere à discriminação: discriminação pelo sexo, pela idade, pela etnia, pela orientação sexual. Nesse contexto, a conduta discriminatória que não pode ser admitida é aquela que trata de maneira distinta os trabalhadores, sem qualquer justificativa ou causa lícita para tanto, preterindo determinada classe de pessoas por motivos totalmente injustificáveis e que não guardam qualquer relação com o tipo de trabalho desenvolvido.
+Internet: <https://enciclopediajuridica. pucsp.br> (com adaptações).
+Acerca de aspectos linguísticos do texto apresentado e das ideias nele veiculadas, julgue os itens que se seguem.
+Embora o texto trate de discriminação em geral, observa-se que a organização de suas ideias progride no sentido de enfocar o tema em um contexto mais específico, o das relações trabalhistas.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+69.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Erveson Alan Costa Santos
+22 de novembro de 2024 às 19:58
+A afirmativa está certa.
+No texto, há uma progressão temática que parte de um conceito mais amplo de discriminação, aplicável a diversas situações gerais, e avança para um enfoque mais específico no contexto das relações trabalhistas. Esse movimento é observado nos parágrafos iniciais, que introduzem o conceito de discriminação, e nos últimos parágrafos, que detalham como ela se manifesta e é tratada dentro das relações de trabalho. Assim, a organização das ideias progride de maneira clara, passando do geral para o específico.
+Reportar abuso
+Ajudou (5) Não ajudou
+LS
+Luan S.
+25 de novembro de 2024 às 23:54
+Mais do que o último parágrafo, o que me fez perceber o enfoque nas relações trabalhista foi o quarto parágrafo, quando diz: "Esse dispositivo revela a importância do  status  da igualdade entre as pessoas e, consequentemente, entre os trabalhadores."
+Reportar abuso
+Ajudou (1) Não ajudou
+@douglasericpsi
+24 de novembro de 2024 às 16:44
+CERTO
+'Esse dispositivo revela a importância do status da igualdade entre as pessoas e, consequentemente, entre os trabalhadores. Evidentemente, conduta em sentido contrário constitui ilícito, excepcionadas as hipóteses de ações afirmativas.
+
+Explica-se: a discriminação, por si só, não é necessariamente medida reprovável. Pode constituir, inclusive, ação afirmativa a que os sujeitos podem estar obrigados pelo direito. Exemplo disso é a discriminação em favor das pessoas com deficiência, ao se estabelecer cota mínima a ser preenchida por elas.
+
+No âmbito das relações de trabalho, algumas situações são mais comuns no que se refere à discriminação: discriminação pelo sexo, pela idade, pela etnia, pela orientação sexual. Nesse contexto, a conduta discriminatória que não pode ser admitida é aquela que trata de maneira distinta os trabalhadores, sem qualquer justificativa ou causa lícita para tanto, preterindo determinada classe de pessoas por motivos totalmente injustificáveis e que não guardam qualquer relação com o tipo de trabalho desenvolvido.'
+Reportar abuso
+Ajudou (0) Não ajudou
+13
+Q3407347
+Língua Inglesa Falso Cognatos | False Cognates
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Cachoeiro de Itapemirim - Professor de Educação Básica - Área: Inglês - 2024
+Texto associado
+About cognate words and false cognates, as well as pedagogic trends, judge the items that follow.
+The words experiences and report are two examples of cognates in English and Portuguese.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+59.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+RV
+Reinaldo Veloso Silva Junior
+21 de janeiro de 2025 às 20:24
+Report = Relatório
+Reportar abuso
+Ajudou (1) Não ajudou
+14
+Q3255375
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANVISA - Especialista em Regulação e Vigilância Sanitária - Área: 3 - 2024
+Texto associado
+Julgue os próximos itens, relativos ao princípio da transparência e prestação de contas (accountability), à Lei n.º 12.527/2011 (Lei de Acesso à Informação – LAI) e à Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD).
+Considere que a ANVISA, por meio de contrato com a empresa holandesa Y, tenha produzido uma série de estudos afetos ao remédio A. Considere, ainda, que, no âmbito desse contrato, tenham sido coletados inúmeros dados pessoais sensíveis de pessoas que participaram dos referidos estudos. Considere, por fim, que todos esses dados estejam localizados na Holanda. Nessa situação, considerando que a operação de tratamento dos dados tenha sido realizada na sede da ANVISA, em Brasília, é correto afirmar que os dados pessoais em questão estão abrangidos pela LGPD.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+93.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+WM
+Wilson Montalvao Mattos Neto
+30 de julho de 2024 às 13:48
+Art. 3º Esta Lei aplica-se a qualquer operação de tratamento realizada por pessoa natural ou por pessoa jurídica de direito público ou privado, independentemente do meio, do país de sua sede ou do país onde estejam localizados os dados, desde que:
+I - a operação de tratamento seja realizada no território nacional;
+II - a atividade de tratamento tenha por objetivo a oferta ou o fornecimento de bens ou serviços ou o tratamento de dados de indivíduos localizados no território nacional; ou (Redação dada pela Lei nº 13.853, de 2019) Vigência
+III - os dados pessoais objeto do tratamento tenham sido coletados no território nacional.
+Reportar abuso
+Ajudou (45) Não ajudou
+Thiago Marcos Da Silva Reis
+6 de fevereiro de 2025 às 14:35
+se foi operado no Brasil======= vai abranger a LGPD sim
+Reportar abuso
+Ajudou (0) Não ajudou
+15
+Q3539990
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Prefeitura de Mossoró - Analista - Área: Contabilidade - 2024
+Texto associado
+Texto CB1A2-I
+
+Segundo nosso modo de ver, a evolução sociocultural é gerada por uma série de revoluções tecnológicas correspondentes a inovações prodigiosas no aparelho produtivo ou militar. Essas inovações, ao ativar as sociedades onde amadurecem, provocam sua expansão na forma de um processo civilizatório no curso do qual tanto aquelas sociedades como todas as que caem sob sua influência transitam de uma a outra etapa evolutiva. Cada etapa corresponde a uma formação econômico-social, vale dizer, a uma combinação específica de modos de produção com certas formas de ordenação da vida social e com conteúdos ideológicos correspondentes. O processo pode ser descrito como uma ruptura provocada pelas contradições entre as inovações acumuladas nas forças produtivas materiais da sociedade e nas relações de produção preexistentes, ruptura esta que aciona o trânsito de uma formação econômico-social a outra.
+
+Darcy Ribeiro. O dilema da América Latina: estruturas de poder e forças insurgentes. Petrópolis: Vozes, 1983, p. 25 (com adaptações).
+
+Em relação a aspectos linguísticos do texto CB1A2-I e às ideias nele apresentadas, julgue os próximos itens.
+No texto, o autor apresenta uma visão evolutiva das transformações na sociedade, argumentando que um próximo passo é alcançado apenas após uma ruptura causada por inovações inseridas no processo de produção.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+69.6% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Acassio
+4 de janeiro de 2025 às 14:45
+ERRADO
+Em nenhuma parte do texto o autor restringe, de modo absoluto, que o próximo passo é alcançado apenas após uma ruptura causada por inovações inseridas no processo de produção
+Reportar abuso
+Ajudou (4) Não ajudou
+16
+Q3123973
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MMA - Analista Ambiental - 2024
+Texto associado
+
+Internet: <www.reddit.com> (adapted).
+
+Considering the ideas and linguistic aspects of the cartoon above, judge the following item.
+The product that the company is testing on animals are sunglasses, which could make them feel more self-confident.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+79.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Stephani
+9 de março de 2024 às 17:12
+Achei difícil essa questão, porque pode até ser extrapolação minha, mas os animais não vão ter essa sensação de autoconfiança..
+Reportar abuso
+Ajudou (6) Não ajudou
+Kedren
+26 de agosto de 2024 às 18:44
+stepahni tenha senso de humor
+Reportar abuso
+Ajudou (3) Não ajudou
+Otávio M. Silva
+11 de fevereiro de 2025 às 15:02
+Achei que usar os óculos seriam consequência dos experimentos. Se não for isso não tem graça.
+Reportar abuso
+Ajudou (0) Não ajudou
+17
+Q3175502
+Administração de Recursos Materiais Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Administração Língua Espanhola - 2024
+Texto associado
+Acerca de logística, julgue os itens que se seguem.
+Os elementos físicos de um sistema de transporte são compostos por infraestrutura, veículos e equipamentos de controle, programação e sistemas de comunicação.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+67.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Ana Beatriz Dos Santos
+24 de março de 2024 às 19:23
+programação e sistemas são elementos físicos??
+Reportar abuso
+Ajudou (42) Não ajudou
+TI
+Tatiana Iris Lima De Holanda
+1 de julho de 2024 às 16:24
+Acredito que sim Ana pois é como se ele estivesse dizendo "equipamentos de controle e equipamentos de programação" que, por serem equipamentos, dão a ideia de serem elementos físicos, além de "sistemas de comunicação" que podem ser aqueles rádio comunicadores
+Reportar abuso
+Ajudou (14) Não ajudou
+AA
+Athedhiones Andrade Silva
+8 de agosto de 2024 às 06:36
+Ja deram uma olhada na resposta da Maia, sistemas são softwares, seira uma extrapolação pensarmos que "quiseram dizer" equipamentos de sistema e de programação. GABARITO ERRADO.
+Reportar abuso
+Ajudou (5) Não ajudou
+ED
+Ederivania De Souza Dos Santos Carvalho
+6 de janeiro de 2025 às 11:01
+Segue comentário do prof do tec:
+
+Na lição de Hoel, Garber e Sadek (2011).
+(...) sistemas de transporte é o conjunto de vários componentes que trabalham inter-relacionados, cada qual com funções diferentes para alcançarem um objetivo comum. No caso dos transportes, esses componentes são elementos físicos, recursos humanos e normas operacionais. Como destaque, os elementos físicos são compostos por infraestrutura, veículos, equipamentos, sistemas de controle, comunicação e localização. Dentro do sistema de transportes, a infraestrutura, uma ramificação dos elementos físicos, é uma parte inseparável do conjunto e que não pode deixar de funcionar.
+Sendo assim, os elementos físicos de um sistema de transporte, conforme elucidado por Hoel, Garber e Sadek (2011), compreendem a infraestrutura, os veículos e os equipamentos. A infraestrutura é descrita como as partes fixas do sistema de transporte, que incluem vias, terminais e estações, caracterizando-se por sua estaticidade e imobilidade. Os veículos, por sua vez, são os elementos móveis que operam dentro da infraestrutura, realizando o transporte de pessoas ou bens. Os equipamentos de controle, a programação e os sistemas de comunicação são essenciais para o funcionamento e gestão do sistema de transporte, permitindo a operação coordenada e segura dos veículos dentro da infraestrutura.
+Embora os sistemas de controle, programação e comunicação possam não ser estritamente considerados como elementos físicos por alguns, eles são indubitavelmente componentes tangíveis que interagem diretamente com a infraestrutura e os veículos, como dispositivos de sinalização, sistemas de monitoramento e softwares de programação de rotas. Portanto, sua inclusão no contexto da questão está correta e reflete o funcionamento integrado de um sistema de transporte. A infraestrutura sem os veículos é inútil, e ambos sem sistemas de controle e comunicação não podem funcionar adequadamente, ressaltando a interdependência entre esses componentes dentro do sistema de transporte.
+ Fonte: HOEL, L. A; GARBER, N. J; SADEK, A. W. Engenharia de Infraestrutura de Transportes - Uma integração multimodal. Tradução All Tasks. São Paulo: Cengage Learning, 2011.
+Reportar abuso
+Ajudou (4) Não ajudou
+Lucas Medeiros
+11 de fevereiro de 2025 às 08:38
+Cebraspe também incluindo elementos de concordância nessa questão, pessoal. Equipamentos de controle e programação, sistemas de comunicação (pensei logo em telefone entre outros).
+Reportar abuso
+Ajudou (1) Não ajudou
+18
+Q3270943
+Legislação Federal Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD)
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANTT - Especialista em Regulação de Serviços de Transportes Terrestres - 2024
+Texto associado
+Com base no previsto na Lei n.º 12.527/2011, Lei de Acesso à Informação (LAI), e na Lei n.º 13.709/2018, Lei Geral de Proteção de Dados Pessoais (LGPD), julgue os próximos itens.
+Conforme a LGPD, o tratamento de dados pessoais sensíveis poderá ocorrer sem fornecimento de consentimento do titular, nas hipóteses em que for indispensável para a garantia da prevenção à fraude e à segurança do titular, nos processos de identificação e autenticação de cadastro em sistemas eletrônicos.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+Última resposta em 28/02/2025:
+Certa
+i
+73.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jose Gilvan Guilherme Silva
+24 de julho de 2024 às 19:49
+CORRETO
+Art. 11. O tratamento de dados pessoais sensíveis somente poderá ocorrer nas seguintes hipóteses:
+II - sem fornecimento de consentimento do titular, nas hipóteses em que for indispensável para:
+
+g) garantia da prevenção à fraude e à segurança do titular, nos processos de identificação e autenticação de cadastro em sistemas eletrônicos, resguardados os direitos mencionados no art. 9º desta Lei e exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais.
+Reportar abuso
+Ajudou (36) Não ajudou
+CE
+Carlos Eduardo Fanbsfecff
+15 de julho de 2024 às 19:18
+Art. 11, II, g.
+Reportar abuso
+Ajudou (2) Não ajudou
+JB
+Jorge Bento
+11 de fevereiro de 2025 às 15:57
+fdp do legislador não mencionou nesse trecho o responsável legal do titular....
+Reportar abuso
+Ajudou (0) Não ajudou
+19
+Q3177731
+Administração de Recursos Materiais Inventários
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Engenharia Civil Língua Inglesa - 2024
+Texto associado
+Acerca da movimentação de materiais e do inventário de risco, julgue os itens a seguir.
+As organizações contratadas devem fornecer ao contratante o inventário de riscos ocupacionais específicos das atividades que são realizadas em suas dependências ou em local previamente convencionado em contrato.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+21.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Marcos Roberto Maria Da Costa
+12 de março de 2024 às 21:52
+A questão gera interpretação dúbia ao citar "suas", pois poderia estar se referindo às instalações da contratante, conforme disposto na NR01 "1.5.8.4 As organizações contratadas devem fornecer ao contratante o Inventário de Riscos Ocupacionais específicos de suas atividades que são realizadas nas dependências da contratante ou local previamente convencionado em contrato"
+Reportar abuso
+Ajudou (43) Não ajudou
+Rodrigo Moreira Da Silva
+28 de maio de 2024 às 10:51
+Duas outras regras previstas na NR 01 são específicas:
+1.5.8.3 As organizações contratantes devem fornecer às contratadas informações sobre os riscos ocupacionais sob sua gestão e que possam impactar nas atividades das contratadas.
+1.5.8.4 As organizações contratadas devem fornecer ao contratante o Inventário de Riscos Ocupacionais específicos de suas atividades que são realizadas nas dependências da contratante ou local previamente convencionado em contrato.
+A NR 01 foi publicada pela Portaria SEPRT nº 6.730/2020 e entrou em vigor em 03 de janeiro de 2022.
+Fonte: CNI - Confederação Nacional da Indústria
+https://conexaotrabalho.portaldaindustria.com.br/noticias/detalhe/seguranca-e-saude-do-trabalho/geral/conheca-regras-da-nr-01-para-o-compartilhamento-de-informacoes-sobre-riscos-ocupacionais-entre-o-contratante-e-contratada/
+Reportar abuso
+Ajudou (20) Não ajudou
+ED
+Ederivania De Souza Dos Santos Carvalho
+6 de janeiro de 2025 às 11:09
+Segue comentário do prof do tec:
+
+A questão se baseia na NR1 que trata das disposições gerais e gerenciamento de riscos ocupacionais, neste contexto devemos considerar que a questão está ERRADA, conforme podemos ver no seguinte subitem:
+NR1 - 1.5.8.4 As organizações contratadas devem fornecer ao contratante o Inventário de Riscos Ocupacionais específicos de suas atividades que são realizadas nas dependências da contratante ou local previamente convencionado em contrato.
+ O principal erro da questão está na parte em que está escrito “em suas dependências”, dando a entender que caberá a contratada fornecer ao contratante o inventário de riscos ocupacional referente atividades realizadas nas dependências da contratada, essa afirmação está em desacordo com a normativa, afinal o inventário de riscos deverá levar em consideração as atividades realizadas pela contratada nas dependências da contratante.
+ Outro erro, porém menos evidente, está na parte em que é escrito “específicos das atividades” ocorreu uma alteração do texto normativo que resultou na mudança de sentido, enquanto na normativa fica claro que o inventário de riscos ocupacionais se refere diretamente às atividades realizadas pela contratada, na questão, da forma em que está escrito dá a entender que o inventário de riscos ocupacionais deverá ser das atividades da contratante e da contratada de forma conjunta.
+ O texto poderia ser reescrito da seguinte forma sem alterar o sentido da normativa:
+“As organizações contratadas devem fornecer ao contratante o inventário de riscos ocupacionais específicos das atividades realizadas pela contratada que são realizadas nas dependências da contratante ou em local previamente convencionado em contrato.”
+ Gabarito: ERRADO
+Reportar abuso
+Ajudou (13) Não ajudou
+Cristiane De Bortoli Andrade Goncalves
+6 de janeiro de 2025 às 18:19
+Questão bizarra!!!
+Reportar abuso
+Ajudou (5) Não ajudou
+20
+Q3419645
+Administração de Recursos Materiais Conceito de Logística
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - TCE AC - Técnico de Controle Externo - Área: Instrutivo - 2024
+Texto associado
+Acerca da gestão de estoques nas organizações, julgue os itens que se seguem.
+O fator ciclicidade na determinação de estoques relaciona-se ao comportamento das alterações do consumo que se repetem dentro de um intervalo curto de tempo, geralmente um ano.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+45.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Eurydiana Megali
+25 de setembro de 2024 às 15:03
+
+O correto seria Sazonalidade e não ciclicidade.
+
+Gurgel e Francischini (2013) afirmam que as demandas podem ser classificadas também quanto ao seu comportamento ao logo do tempo, podendo ser classificadas como demanda constante, cuja quantidade consumida não varia significativamente ao longo do tempo, e demanda variável, cuja quantidade consumida se altera significativamente ao longo do tempo, aumentando ou diminuindo de acordo com as necessidades dos clientes.
+Em relação à demanda variável, podemos acrescentar dentre suas características alguns fatores determinantes:
+Tendência – mostra a direção básica do consumo, que pode ser de aumento, diminuição ou estacionária.
+Sazonalidade – mostra o comportamento das alterações do consumo, que se repetem dentro de um intervalo curto de tempo, geralmente um ano.
+Ciclicidade – mostra o comportamento das alterações do consumo, que se repetem dentro de um intervalo longo de tempo, geralmente décadas.
+
+
+Reportar abuso
+Ajudou (50) Não ajudou
+MR
+Marcelo Rodrigues De Morais
+19 de setembro de 2024 às 09:41
+A questão está correta e o corretor deu como errado.
+Análise dos Itens:
+Item E: Este item corresponde ao gabarito da banca
+Análise do Item: De acordo com o gabarito da banca, a afirmação está correta. O fator ciclicidade realmente se refere ao comportamento das alterações do consumo que se repetem dentro de um intervalo curto de tempo, geralmente um ano. Este conceito é importante na gestão de estoques, pois permite prever e planejar a reposição de produtos de acordo com padrões de consumo cíclicos.
+Fundamentação: Art. 3º, § 1º, da Lei nº 8.666/1993:
+'Para os fins desta Lei, considera-se:
+I - ciclo de consumo: o período de tempo em que se verifica a repetição de padrões de consumo de bens ou serviços, geralmente em intervalos anuais.'
+Ajudou (0) Não ajudou
+
+Reportar abuso
+Ajudou (14) Não ajudou
+T
+Thais
+22 de janeiro de 2025 às 16:43
+O fator ciclicidade na determinação de estoques relaciona-se ao comportamento das alterações do consumo que se repetem dentro de um intervalo de tempo, sendo esse intervalo curto ou não, ainda assim, se caracterizado como um ciclo na determinação do estoque, geralmente de um ano e não exclusivamente na duração de um ano.
+Reportar abuso
+Ajudou (0) Não ajudou

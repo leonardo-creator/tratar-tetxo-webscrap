@@ -1,0 +1,1015 @@
+1
+Q3340533
+Administração de Recursos Materiais Administração dos Almoxarifados
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Técnico Judiciário - Área: Administrativa - 2024
+Texto associado
+Julgue os itens que se seguem, relativos a classificação de materiais, gestão de estoques e armazenagem e recebimento.
+Materiais estocáveis são aqueles cuja compra e cuja armazenagem são permitidas a partir da solicitação direta do usuário, mesmo que inexista a regularidade para consumo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+Última resposta em 28/02/2025:
+Errada
+i
+79.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Nayara Silva Da Conceicao
+17 de outubro de 2024 às 11:25
+Descrição de materiais não estocáveis.
+Reportar abuso
+Ajudou (18) Não ajudou
+2
+Q3178993
+Administração de Recursos Materiais Material Permanente e Material de Consumo
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Técnico Ministerial - Área Assistente Administrativo - 2024
+Texto associado
+No que se refere a classificação de materiais nas organizações, julgue os itens que se seguem.
+Lápis, canetas, borrachas e clipes podem ser classificados como materiais de consumo geral.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+95.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Rodrigo Delfino Vieira Dos Santos
+14 de abril de 2024 às 17:15
+Os materiais de estoque podem ser classificados quanto à aplicação:
+• Materiais produtivos: compreendem todo material ligado direta ou indiretamente ao
+processo produtivo (matéria-prima, produtos em fabricação, produtos acabados etc.;
+
+• Matérias-primas: materiais básicos e insumos que constituem os itens iniciais e
+fazem parte do processo produtivo (pão em uma hamburgueria);
+
+• Produtos em fabricação (intermediário): também conhecidos como materiais em processamento são os que estão sendo processados ao longo do processo produtivo.
+Não estão mais no almoxarifado porque já não são mais matérias-primas, nem no estoque final porque ainda não são produtos acabados.
+
+• Produtos acabados: produtos já prontos (cadeira, computador).
+
+• Materiais de manutenção: materiais aplicados em manutenção com utilização
+repetitiva (óleo, ferramentas etc.);
+
+• Materiais improdutivos: materiais não incorporados ao produto no processo produtivo
+da empresa (materiais de limpeza etc.);
+
+• Materiais de consumo geral: materiais de consumo, não aplicados em manutenção,
+mas em diversos setores da empresa (material de escritório).
+Reportar abuso
+Ajudou (38) Não ajudou
+Veronica
+27 de junho de 2024 às 17:16
+A afirmação está correta. Lápis, canetas, borrachas e clipes são exemplos típicos de materiais de consumo geral nas organizações. Materiais de consumo geral são aqueles que têm um uso contínuo e relativamente constante dentro da organização, sendo consumidos ao longo do tempo e geralmente repostos com frequência. Esses itens não são considerados itens de estoque crítico e, portanto, suas quantidades em estoque não precisam ser monitoradas tão rigorosamente quanto materiais de maior valor ou importância estratégica.
+Reportar abuso
+Ajudou (2) Não ajudou
+Julia Gabrielle Medeiros Ferreira
+14 de abril de 2024 às 19:02
+Essa questão se refere à material permanente ou de consumo? Os quais podem ter durabilidade superior ou inferior a 2 anos?
+Reportar abuso
+Ajudou (0) Não ajudou
+3
+Q3178995
+Administração de Recursos Materiais Classificação de Materiais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - MPE TO - Técnico Ministerial - Área Assistente Administrativo - 2024
+Texto associado
+No que se refere a classificação de materiais nas organizações, julgue os itens que se seguem.
+A classificação de materiais nas organizações pode ser realizada por tipo e demanda, por criticidade, por perecibilidade e por periculosidade.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+92.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Claudineia Ferreira Da Silva Alves
+2 de abril de 2024 às 21:36
+Os principais tipos de classificação são:
+Tipo de Demanda
+Criticidade
+Aplicação
+Perecibilidade
+Periculosidade
+Possibilidade de fazer ou comprar
+Tipos de estocagem
+Dificuldade de aquisição
+Mercado fornecedor
+Valor do consumo ou ABC
+Importância Operacional ou XYZ
+Permanentes ou de Consumo
+Fonte: Estratégia Concursos
+Reportar abuso
+Ajudou (85) Não ajudou
+4
+Q3255318
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANVISA - Especialista em Regulação e Vigilância Sanitária - Área: 4 - 2024
+Texto associado
+Devemos salientar mais uma vez o caráter essencial dos sentimentos negativos. Manifestações populares e mudança social advêm do acúmulo de muitos cidadãos irritados e ofendidos. Ocultar sentimentos negativos sob o tapete do pensamento positivo significa estigmatizar e tornar vexaminosa a estrutura emocional do mal-estar social e da instabilidade. Alguns dirão que optamos por privar trabalhadores dos benefícios da ciência do bem-estar em troca do aceno de uma ideia vaga de consciência coletiva. A felicidade, como alguns empiristas ferrenhos afirmarão, é o único bem tangível em que podemos pôr as mãos aqui e agora. Nossa resposta e nossa objeção final podem ser encontradas na famosa refutação do utilitarismo do filósofo Robert Nozick. Em 1974, ele pediu a seus leitores que participassem de um experimento mental que consistia em imaginar que estamos conectados a uma máquina que nos proporciona qualquer experiência prazerosa. Nossos cérebros seriam estimulados a acreditar que estaríamos vivendo a vida que desejamos. A pergunta de Nozick, então, era: dada a possibilidade de escolha, você preferiria a máquina prazerosa à vida real (e presumivelmente mais infeliz)? Uma resposta a essa questão parece hoje ainda mais relevante do que antes, sobretudo agora que a ciência da felicidade e as tecnologias virtuais se tornam tão predominantes. Nossa resposta, assim como a de Nozick, é a de que o prazer e a busca da felicidade não podem superar a realidade e a busca por conhecimento — o pensamento crítico sobre nós mesmos e sobre o mundo que nos rodeia. Uma “máquina da experiência” do tipo que Nozick imaginou tem hoje seu equivalente em uma indústria da felicidade que pretende nos controlar: ela não apenas borra e confunde a capacidade de conhecer as condições que moldam nossa existência, mas também faz que essas condições em si sejam irrelevantes. Conhecimento e justiça, e não felicidade, continuam a ser o propósito moral revolucionário da vida.
+
+Edgar Cabanas e Eva Illouiz. Happycracia: fabricando cidadãos felizes. São Paulo: Ubu, 2022, p. 274-275 (com adaptações).
+
+Acerca das ideias e de aspectos linguísticos do texto apresentado, julgue os itens a seguir.
+De acordo com a concepção defendida no texto, a felicidade não é o propósito moral revolucionário da vida.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+78.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Daniel Silva
+9 de maio de 2024 às 16:53
+CERTO
+Conhecimento e justiça, e não felicidade, continuam a ser o propósito moral revolucionário da vida .
+Reportar abuso
+Ajudou (27) Não ajudou
+Gabriel Silva
+1 de setembro de 2024 às 20:07
+Conhecimento e justiça, e não felicidade, continuam a ser o propósito moral revolucionário da vida.
+Reportar abuso
+Ajudou (3) Não ajudou
+HG
+Helmer Gedeon Mendes Ferreira
+7 de agosto de 2024 às 16:47
+CERTO. NAO A FELICIDADE, MAS SIM O CONHECIMENTO...
+Reportar abuso
+Ajudou (1) Não ajudou
+5
+Q3134263
+Administração de Recursos Materiais Giro de Estoque
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Administrativo - 2024
+Texto associado
+No que se refere à gestão de estoques e aos indicadores de gestão de estoque, julgue os próximos itens.
+O giro de estoques, técnica utilizada na gestão de estoques, indica o número de vezes que o estoque médio é vendido ou usado em determinado período.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+82.3% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Jacqueline Cristina Silva
+6 de fevereiro de 2024 às 21:56
+O giro de estoques é uma técnica utilizada na gestão de estoques para medir a eficiência com que o estoque é utilizado ao longo de um determinado período de tempo. Ele indica o número de vezes que o estoque médio é vendido ou utilizado durante esse período.
+
+Reportar abuso
+Ajudou (43) Não ajudou
+Camilla Bruna Dias De Souza
+18 de março de 2024 às 11:20
+Certo
+Reportar abuso
+Ajudou (1) Não ajudou
+6
+Q3134260
+Administração de Recursos Materiais Administração de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Administrativo - 2024
+Texto associado
+No que se refere à gestão de estoques e aos indicadores de gestão de estoque, julgue os próximos itens.
+A função básica do estoque é a de regular o fluxo de negócios da organização, para atender a demandas internas (consumo) e externas (venda), sempre com foco no cliente.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+78.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Karine
+21 de março de 2024 às 10:53
+O estoque é necessário para que o processo de produção-venda da empresa opere com um número mínimo de preocupações e desníveis. Os estoques podem ser de: matéria-prima, produtos em fabricação e produtos acabados. O setor de controle de estoque acompanha e controla o nível de estoque e o investimento financeiro envolvido.
+Reportar abuso
+Ajudou (20) Não ajudou
+LB
+Luana Barbara Alves
+25 de fevereiro de 2024 às 17:59
+Como assim regular o fluxo de negócios da organização?
+Reportar abuso
+Ajudou (7) Não ajudou
+Caroline Machado Costa
+18 de março de 2024 às 13:09
+Ia marcar "certa", mas esse fluxo de negócios me deixou encucada. Não seria fluxo de materiais, insumos... ?
+Reportar abuso
+Ajudou (3) Não ajudou
+LG
+Luciano Gonzaga Jaime
+29 de dezembro de 2024 às 14:47
+Fluxo de negócios da organização = processo de produção e venda
+Reportar abuso
+Ajudou (2) Não ajudou
+Camilla Bruna Dias De Souza
+6 de fevereiro de 2024 às 14:49
+Certo.
+Reportar abuso
+Ajudou (0) Não ajudou
+7
+Q3312349
+Administração de Recursos Materiais Centralização ou Descentralização
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - Câmara de Maceio - Analista Administrativo - 2024
+Texto associado
+Julgue os itens seguintes, relativos às compras no setor público.
+O sistema descentralizado de compras pode ocasionar pouca uniformidade da qualidade dos materiais comprados.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+75.4% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Jemima Raulino Da Conceição
+13 de agosto de 2024 às 15:38
+GABARITO: CERTO
+A descentralização pode levar a uma maior variação nos fornecedores, falta de padronização nos processos de compra e menor controle central, resultando em variações na qualidade dos materiais adquiridos. Fonte: QC
+.......................................................................................................................................
+.......................................................................................................................................
+Os que semeiam em lágrimas segarão com alegria.
+Aquele que leva a preciosa semente, andando e chorando,
+voltará, sem dúvida, com alegria,
+trazendo consigo os seus molhos.
+Salmos 126:5,6 I (Bíblia Sagrada)
+Reportar abuso
+Ajudou (33) Não ajudou
+8
+Q3435941
+Legislação Federal Do Tratamento de Dados Pessoais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANATEL - Especialista em Regulação de Serviços Públicos de Telecomunicações - Área: Ciências de Dados - 2024
+Texto associado
+Em relação ao tratamento e à qualidade dos dados no sistema de gerenciamento de informações, julgue os itens subsequentes.
+De acordo com a Lei Geral de Proteção de Dados Pessoais (LGPD), os dados pessoais devem ser retidos por um período de cinco anos, mesmo após a conclusão do seu processamento, desde que sejam cumpridos os limites técnicos das atividades em questão.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+68.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+L
+Leticia
+22 de outubro de 2024 às 19:23
+Art. 16. Os dados pessoais serão eliminados após o término de seu tratamento, no âmbito e nos limites técnicos das atividades, autorizada a conservação para as seguintes finalidades:
+I - cumprimento de obrigação legal ou regulatória pelo controlador;
+II - estudo por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;
+III - transferência a terceiro, desde que respeitados os requisitos de tratamento de dados dispostos nesta Lei; ou
+IV - uso exclusivo do controlador, vedado seu acesso por terceiro, e desde que anonimizados os dados.
+
+Reportar abuso
+Ajudou (66) Não ajudou
+9
+Q3129843
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área Gestão Orçamentária e Financeira - 2024
+Texto associado
+Businesses are starting to introduce new options for tipping at self-checkout machines, putting even more pressure on customers amid rising inflation costs. Despite having zero interaction with employees during transactions, self-checkout machines at places such as coffee shops, bakeries, airports, and sports stadiums are giving customers the option to leave the typical 20% tip, according to a report from the Wall Street Journal.
+Business owners believe that the prompt for a tip can boost staff pay and increase gratuities — but customers are questioning where and to whom the extra cash is going, considering self-checkout is done by the customers themselves. “They’re cutting labor costs by doing self-checkout. So what’s the point of asking for a tip? And where is it going?” are some of the questions customers ask. But tipping researchers claim this is a way for companies to put the responsibility of paying employees on the customer rather than increasing employee salaries themselves. Self-tipping is viewed by many customers as a way to guilt-trip the person into tipping on something when they typically wouldn’t.
+Many companies told the Journal that these tipping prompts are optional, and the extra gratuity is split between all employees. However, experts say that tips at a self-checkout machine might never even get to an actual employee since protections for tipped workers in the federal Fair Labor Standards Act don’t extend to machines.
+
+Internet: <https://nypost.com> (adapted).
+
+According to the previous text, judge the following items.
+Tipping at self-checkout machines have become mandatory in most places like coffee shops, bakeries, airports, and sports stadiums.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+63.1% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Henrique
+16 de agosto de 2024 às 11:36
+"option to leave the typical 20% tip" ou seja não é mandatório
+Reportar abuso
+Ajudou (4) Não ajudou
+Felipe Menegate Nascimento
+9 de janeiro de 2025 às 16:59
+during transactions, self-checkout machines at places such as coffee shops, bakeries, airports, and sports stadiums are giving customers the option to leave the typical 20% tip, according to a report from the Wall Street Journal.
+
+
+Reportar abuso
+Ajudou (0) Não ajudou
+Lais Batista Alvarenga Veludo
+10 de abril de 2024 às 05:55
+What the fuck?
+
+Reportar abuso
+Ajudou (0) Não ajudou
+10
+Q3129846
+Língua Inglesa Outros
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Gestão e Acompanhamento de Projetos e Programas em CT&I - 2024
+Texto associado
+A lawyer used ChatGPT to prepare a court filing. It went horribly awry.
+A lawyer who relied on ChatGPT to prepare a court filing on behalf of a man suing an airline is now all too familiar with the artificial intelligence (AI) tool’s shortcomings — including its propensity to invent facts.
+Roberto Mata sued Colombian airline Avianca last year, alleging that a metal food and beverage cart injured his knee on a flight to Kennedy International Airport in New York. When Avianca asked a Manhattan judge to dismiss the lawsuit based on the statute of limitations, his lawyer submitted a brief based on research done by ChatGPT.
+While ChatGPT can be useful to professionals in numerous industries, including the legal profession, it has proved itself to be both limited and unreliable. In this case, the AI invented court cases that didn’t exist, and asserted that they were real. The fabrications were revealed when Avianca’s lawyers approached the case’s judge, saying they couldn’t locate the cases cited in Mata’s lawyers’ brief in legal databases.
+“It seemed clear when we didn’t recognize any of the cases in their opposition brief that something was amiss,” said the airline’s lawyer. And soon they figured it was some sort of chatbot of some kind. On the other hand, the passenger’s lawyer said that it was the first time he’d used ChatGPT for work and, therefore, he was unaware of the possibility that its content could be false.
+
+Internet: <www.cbsnews.com> (adapted).
+
+Based on the preceding text, judge the items that follow.
+The sentence “And soon they figured it was some sort of chatbot” can be correctly rephrased as And, before long, they realized it was some form of chatbot.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+65.7% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Felipe Menegate Nascimento
+9 de janeiro de 2025 às 16:58
+C - Certo
+A frase "And soon they figured it was some sort of chatbot" pode ser reescrita corretamente como "And, before long, they realized it was some form of chatbot". Ambas as versões têm o mesmo significado, com "soon" sendo substituído por "before long" e "figured" sendo substituído por "realized", mantendo o sentido geral da frase.
+Reportar abuso
+Ajudou (1) Não ajudou
+11
+Q3143168
+Língua Inglesa Tradução
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Pesquisador - Área: Sensores e Biossensores Língua Inglesa - 2024
+Texto associado
+Considering the grammatical aspects of Portuguese and English, judge the following item.
+The English translation of the Portuguese sentence Quanto mais você adia o despertador, menos você quer se levantar da cama is How much more you snooze your alarm, how much less you want to get out of bed.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+52.2% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Felipe Menegate Nascimento
+9 de janeiro de 2025 às 15:02
+The English translation of the Portuguese sentence "Quanto mais você adia o despertador, menos você quer se levantar da cama" would be:
+"The more you snooze the alarm, the less you want to get out of bed."
+The original English translation you provided, "How much more you snooze your alarm, how much less you want to get out of bed," is not grammatically correct in English. In this case, the comparative structure requires the use of "the more... the less" to express the relationship between the two actions.
+Reportar abuso
+Ajudou (2) Não ajudou
+12
+Q3143173
+Língua Inglesa Outros
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - INPI - Pesquisador - Área: Processamento de Sinais Língua Inglesa - 2024
+Texto associado
+Using your phone while on the toilet poses significant health risks, as warned by an expert, Dr. Sethi. Despite being a common habit, mindlessly scrolling or using your phone in the bathroom can lead to severe consequences. Dr. Sethi, a Harvard-trained stomach doctor, highlights that this practice, particularly during bowel movements, causes extended sitting that strains the rectum and anus, potentially resulting in hemorrhoids, anal fissures, and rectal prolapse.
+Furthermore, using phones in the bathroom makes them a breeding ground for bacteria, surpassing the hygiene levels of a public toilet seat. Dr. Sethi emphasizes the importance of avoiding phone usage while on the toilet or, if unavoidable, suggests disinfecting the phone afterward. Research spanning over a decade has consistently shown that phones harbor a significant amount of germs, including fecal matter.
+Despite these health warnings, over 65% of adults take their phones into the bathroom, with Spain having the highest usage rates (nearly 80%) and Germany the lowest (just under 55%). Interestingly, younger age groups, particularly those aged 26-41 and 18-25, are most likely to engage in this unhygienic behavior. Apart from health concerns, there’s the practical risk of dropping the phone into the toilet, with a fifth of respondents in the United States admitting to this mishap.
+
+Internet: <www.mirror.co.uk> (adapted).
+
+Based on the previous text, judge the following items.
+It would change the meaning of the first sentence of the text if in the excerpt “on the toilet” the preposition “on” was replaced by in.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+67.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Felipe Menegate Nascimento
+9 de janeiro de 2025 às 15:00
+A frase “Using your phone while on the toilet poses significant health risks, as warned by an expert, Dr. Sethi” pode ser interpretada de maneira diferente dependendo da preposição usada. A preposição "on" em inglês, no contexto dessa frase, sugere que a pessoa está sentada na superfície do vaso sanitário, ou seja, ela está em cima dele, usando o telefone durante esse momento. Isso dá a ideia de que o ato de usar o telefone ocorre enquanto a pessoa está fisicamente nesse ambiente.
+Por outro lado, se a preposição "on" for substituída por "in", a frase se torna “Using your phone while in the toilet poses significant health risks”, e o significado da frase muda. "In" implica que a pessoa está dentro do ambiente do banheiro — não necessariamente no vaso sanitário, mas dentro do espaço do banheiro em si, o que é mais geral e menos específico. A mudança de "on" para "in" amplia o contexto, tornando a frase mais focada no local (o banheiro) do que na posição da pessoa (no vaso sanitário).
+Reportar abuso
+Ajudou (1) Não ajudou
+13
+Q3340530
+Administração de Recursos Materiais Classificação de Materiais
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Técnico Judiciário - Área: Administrativa - 2024
+Texto associado
+Julgue os itens que se seguem, relativos a classificação de materiais, gestão de estoques e armazenagem e recebimento.
+Definem-se como materiais em processamento os itens iniciais necessários para a produção de bens ou serviços.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+73.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Anita Carla De Moura
+27 de agosto de 2024 às 10:28
+Matérias primas: materiais básicos e insumos que constituem os itens iniciais e fazem parte do processo produtivo (pão em uma hamburgueria);
+
+Portanto, gabarito ERRADO
+Reportar abuso
+Ajudou (50) Não ajudou
+Aline Ferreira De Sousa
+23 de setembro de 2024 às 21:32
+Materiais em processamento (também conhecidos como "work-in-process" ou WIP) referem-se aos itens que já começaram a ser trabalhados na produção, mas ainda não estão finalizados. Os itens iniciais necessários para a produção de bens ou serviços são chamados de matérias-primas. Portanto, a definição apresentada no item está incorreta.
+Reportar abuso
+Ajudou (37) Não ajudou
+Maria Das Dores Araujo Dos Santos
+13 de janeiro de 2025 às 14:16
+Errado! Correto seria MATÉRIA PRIMA
+
+Reportar abuso
+Ajudou (1) Não ajudou
+Desterro Silva
+15 de dezembro de 2024 às 14:42
+Gabarito ERRADO, pois, itens iniciais constituem-se como MATÉRIAS PRIMAS.
+
+MATERIAIS EM PROCESSAMENTO são itens incluídos em processo.
+Reportar abuso
+Ajudou (0) Não ajudou
+R
+Ric
+22 de setembro de 2024 às 21:52
+errado!!!
+Reportar abuso
+Ajudou (0) Não ajudou
+14
+Q3180794
+Língua Inglesa Língua Inglesa - Compreensão e Interpretação de Texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - ANAC - Especialista em Regulação de Aviação Civil - Área 3 - 2024
+Texto associado
+Drones are an integral part of the defense and supply-chain industry. However, their prowess and versatility extend beyond these sectors. As the demand for UAVs (unmanned aerial vehicles) continues to increase, the drone market is now estimated to be valued at over 127 billion dollars.
+These uncrewed aircrafts can potentially develop numerous sectors, including transport and travel, exponentially. This is primarily due to their remarkable evolution of collision-avoidance technologies through computer vision and artificial intelligence, allowing them to operate autonomously.
+The dynamic innovation of drone transportation can positively impact emergency services by decreasing emergency response time, offering valuable data from inaccessible regions, and identifying victims via thermal imaging.
+Though the concept of a UAV emerges from being “unmanned,” its autonomous power can be used to create functional, personal transportation. Well-known companies like Uber, Airbus, and Boeing are constantly working on developing self-flying drones that can take people from one place to another.
+In conclusion, drone transportation has a lot of untapped potential beyond supply chain and security surveillance. Whether it is for emergencies, luxury, or space exploration, the future is optimistic for the travel industry.
+Internet: <www.skygrid.com> (adapted).
+Based on the previous text, judge the following items.
+In the context of drones, as presented in the text, the words “uncrewed” (first sentence of the second paragraph) and ‘unmanned’ (first sentence of the fourth paragraph) convey the same idea.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+73.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Yasmin Mabilia
+7 de agosto de 2024 às 18:04
+Não entendi , porque o significado seria o mesmo?
+Reportar abuso
+Ajudou (1) Não ajudou
+Crisley Rios
+13 de janeiro de 2025 às 15:42
+Certo.
+
+Certo. No contexto do texto sobre drones, as palavras "uncrewed" (primeira frase do segundo parágrafo) e "unmanned" (primeira frase do quarto parágrafo) transmitem a mesma ideia.
+
+Justificativa:
+
+* Ambas as palavras ("uncrewed" e "unmanned") significam "não tripulado" ou "sem piloto a bordo".
+* O texto se refere a drones como "unmanned aerial vehicles" (UAVs) no início do segundo parágrafo, onde UAV já esclarece o significado de "uncrewed" usado na frase seguinte.
+* Não há nenhuma indicação no texto de que as palavras tenham significados diferentes.
+
+Portanto, com base no contexto do texto, "uncrewed" e "unmanned" são sinônimos ao descrever drones.
+
+Fonte: Gemini
+Reportar abuso
+Ajudou (0) Não ajudou
+15
+Q3134261
+Administração de Recursos Materiais Administração de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Assistente Administrativo - 2024
+Texto associado
+No que se refere à gestão de estoques e aos indicadores de gestão de estoque, julgue os próximos itens.
+O giro de estoques é um indicador utilizado para medir quanto tempo uma empresa pode continuar vendendo ou usando os itens estocados com base em seu nível de estoque atual, em unidade de tempo.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+47.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Nélio
+2 de fevereiro de 2024 às 12:39
+ERRADO
+
+A questão traz o conceito de o que é Cobertura de Estoque, que é um indicador usado para medir quanto tempo uma empresa pode continuar vendendo seus produtos com base em seu nível atual de estoque. Por sua vez, o giro de estoque é uma ferramenta que aponta a circulação das mercadorias, ou seja, quantas vezes elas foram vendidas e repostas completamente no armazém.
+Reportar abuso
+Ajudou (181) Não ajudou
+Gisele Ramos
+6 de fevereiro de 2024 às 21:05
+O giro de estoque é uma ferramenta que aponta a circulação das mercadorias, ou seja, quantas vezes elas foram vendidas e repostas completamente no armazém. Ele é um indicador muito importante para avaliar se a gestão do estoque é eficiente, mostrando se há equilíbrio entre compras e vendas dos produtos. Quanto mais eles forem vendidos, maior é o giro de estoque.
+Reportar abuso
+Ajudou (38) Não ajudou
+Camilla Bruna Dias De Souza
+18 de março de 2024 às 11:23
+Errado
+Giro de estoque é quantas vezes as mercadorias foram vendidas e repostas.
+Reportar abuso
+Ajudou (11) Não ajudou
+J.a.m.s 1985
+22 de julho de 2024 às 17:14
+o giro de estoque está ligado diretamente ao tempo que o estoque é renovado, logo a questão está errada, pois não tem nada haver com o tempo que a empresa continua vendendo.
+Reportar abuso
+Ajudou (2) Não ajudou
+Tav_cruz
+16 de janeiro de 2025 às 23:59
+giro e quantas vezes rodou. cobertura é quanto tempo o estoque cobre a produção
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 2
+16
+Q3134424
+Direito Administrativo Licitações
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CAU - Jornalista - 2024
+Texto associado
+Determinada autarquia federal pretende firmar contrato administrativo para a contratação de estudo e serviços técnicos de arquitetura especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização.
+A partir dessa situação hipotética, julgue os itens que se seguem.
+Na situação apresentada, será aplicada a Lei de Licitações e Contratos.
+C
+Certo
+E
+Errado
+Responder
+Certa!
+86.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rafael Menezes
+4 de março de 2024 às 15:52
+Atenção! Não se aplica mais a Lei nº 8.666/93 desde o dia 31.12.2023.
+
+Atualmente as Licitações e contratos administrativos são regidos pela Lei nº 14.133/2021. Esta lei é aplicada para as Autarquias e existe menção específica
+
+Art. 1º Esta Lei estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios, e abrange:
+I - os órgãos dos Poderes Legislativo e Judiciário da União, dos Estados e do Distrito Federal e os órgãos do Poder Legislativo dos Municípios, quando no desempenho de função administrativa;
+II - os fundos especiais e as demais entidades controladas direta ou indiretamente pela Administração Pública.
+Reportar abuso
+Ajudou (118) Não ajudou
+CE
+Carlos Eduardo Fanbsfecff
+10 de junho de 2024 às 14:43
+É preciso se ater ao seguinte, muito importante: A lei 14.133 disciplina licitações e também CONTRATOS administrativos. Por ser autarquia, a lei 14.133 se aplica sim, ainda que a hipótese apontada seja de inexigibilidade.Tal autarquia pode contratar diretamente, deverá fazê-lo nos termos da lei 14.133.
+Reportar abuso
+Ajudou (93) Não ajudou
+Caio Lopes
+4 de abril de 2024 às 17:14
+Certo
+Lei 14.133/21
+Art. 1° Esta Lei estabelece normas gerais de licitação e contratação para
+as Administrações Públicas diretas, autárquicas e fundacionais da União,
+dos Estados, do Distrito Federal e dos Municípios, e abrange:
+I – os órgãos dos Poderes Legislativo e Judiciário da União, dos Estados
+e do Distrito Federal e os órgãos do Poder Legislativo dos Municípios,
+quando no desempenho de função administrativa;
+II – os fundos especiais e as demais entidades controladas direta ou
+indiretamente pela Administração Pública.
+
+§ 1° Não são abrangidas por esta Lei as empresas públicas, as sociedades
+de economia mista e as suas subsidiárias, regidas pela Lei no
+13.303, de 30 de junho de 2016, ressalvado o disposto no art. 178 desta Lei.
+
+Reportar abuso
+Ajudou (48) Não ajudou
+T
+Thayss
+6 de junho de 2024 às 16:49
+mas gente...
+Não seria o caso de inexigibilidade de licitação?
+Reportar abuso
+Ajudou (43) Não ajudou
+Paulo Sérgio Dias Santos
+20 de fevereiro de 2024 às 15:06
+Certo, De acordo com a Lei 8.666/93, que institui normas para licitações e contratos da Administração Pública, a contratação de serviços técnicos de natureza predominantemente intelectual deve ser precedida de licitação, salvo nos casos de inexigibilidade, como é o caso de serviços de notória especialização.
+Lei 8.666/93
+Art. 13. Para os fins desta Lei, considera-se serviço técnico profissional especializado os trabalhos relativos a: V - estudos técnicos, planejamentos e projetos básicos ou executivos; Art. 25. É inexigível a licitação quando houver inviabilidade de competição, em especial: II - para a contratação de serviços técnicos enumerados no art. 13 desta Lei, de natureza singular, com profissionais ou empresas de notória especialização, vedada a inexigibilidade para serviços de publicidade e divulgação.
+Reportar abuso
+Ajudou (19) Não ajudou
+Página 1 de 4
+17
+Q3340385
+Administração Financeira e Orçamentária - AFO Orçamento na Constituição Federal de 1988
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNJ - Técnico Judiciário - Área: Administrativa - 2024
+Texto associado
+Acerca do orçamento público, julgue os itens a seguir.
+A Constituição Federal de 1988 recuperou o vínculo entre o planejamento e o orçamento público por meio do plano plurianual, estabelecendo que as unidades orçamentárias são integrantes do sistema de planejamento e orçamento da União e, assim, responsáveis pela formalização, perante o órgão setorial, da proposta de alteração da estrutura programática sob a responsabilidade de suas unidades administrativas.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+34.9% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Rhebert Cingano Ferreira
+11 de julho de 2024 às 11:45
+Gabarito: ERRADO
+
+Questão sobre a Lei 10.180/2001 que fala do SPOF.
+A Unidades Orçamentárias (UO) não integram o Sistema de Planejamento e Orçamento (SPOF).
+Os que integram são: Órgão Central (Ministério da Fazenda); Órgãos Setoriais (AGU/ Casa Civil/ Vice-Presidência/ Ministérios) e Órgãos Específicos (SOF/ SEST/ SEPLAN).
+As UOs não integram, mas se sujeitam as normas desses outros citados.
+
+O restante da afirmativa, que são responsáveis pela formalização... está CORRETO.
+Reportar abuso
+Ajudou (107) Não ajudou
+Márcio
+23 de novembro de 2024 às 20:54
+Afirmação:
+A Constituição Federal de 1988 recuperou o vínculo entre o planejamento e o orçamento público por meio do plano plurianual, estabelecendo que as unidades orçamentárias são integrantes do sistema de planejamento e orçamento da União e, assim, responsáveis pela formalização, perante o órgão setorial, da proposta de alteração da estrutura programática sob a responsabilidade de suas unidades administrativas.
+
+Análise Detalhada:
+Vínculo entre Planejamento e Orçamento:
+Correto: A Constituição Federal de 1988, em seus artigos 165 a 169, reforçou o vínculo entre o planejamento e o orçamento público, instituindo instrumentos como o Plano Plurianual (PPA), a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA).
+Estabelecimento de que as Unidades Orçamentárias são Integrantes do Sistema de Planejamento e Orçamento da União:
+Impreciso: A Constituição não especifica que as unidades orçamentárias são integrantes formais do sistema de planejamento e orçamento da União. Na verdade, a Constituição atribui ao Poder Executivo Federal a responsabilidade pela elaboração do PPA, LDO e LOA, sem detalhar o papel específico das unidades orçamentárias nesse processo.
+Responsabilidade pela Formalização de Propostas de Alteração da Estrutura Programática:
+Incorreto: A responsabilidade pela proposta de alteração da estrutura programática não é atribuída diretamente às unidades orçamentárias pela Constituição Federal. Essa atribuição é definida em normas infraconstitucionais, como a Lei nº 10.180/2001, que organiza e disciplina os sistemas de planejamento e de orçamento federal.
+Detalhe Importante: A Lei nº 10.180/2001 estabelece que o Sistema de Planejamento e de Orçamento Federal é integrado por órgãos centrais e setoriais, mas não menciona as unidades orçamentárias como responsáveis diretas pela formalização de propostas de alteração da estrutura programática.
+Além disso, a estrutura programática é definida pelo órgão central de planejamento, geralmente o Ministério da Economia (antigo Ministério do Planejamento), cabendo às unidades orçamentárias a execução das ações programáticas estabelecidas.
+Conclusão sobre a Afirmativa:
+A afirmativa atribui à Constituição Federal disposições que não estão expressas em seu texto.
+Especificamente, a Constituição não estabelece que as unidades orçamentárias são responsáveis pela formalização, perante o órgão setorial, da proposta de alteração da estrutura programática.
+Portanto, a afirmativa está incorreta, pois atribui à Constituição uma determinação que não existe em seu texto.
+Referências Legais:
+Constituição Federal de 1988:
+Artigo 165:
+Estabelece que leis de iniciativa do Poder Executivo disporão sobre o plano plurianual, as diretrizes orçamentárias e os orçamentos anuais.
+Não menciona unidades orçamentárias como integrantes formais do sistema de planejamento e orçamento da União.
+Lei nº 10.180/2001:
+Organiza e disciplina os sistemas de planejamento e de orçamento federal.
+Define que o Sistema de Planejamento e de Orçamento Federal é integrado por:
+Órgão central: Ministério do Planejamento (atualmente Ministério da Economia).
+Órgãos setoriais: unidades dentro dos Ministérios e entidades da Administração Pública Federal.
+As unidades orçamentárias são vinculadas aos órgãos setoriais, mas não têm a atribuição constitucional de formalizar propostas de alteração da estrutura programática.
+Considerações Finais:
+Erro na Atribuição Constitucional: A afirmativa incorretamente atribui à Constituição Federal uma determinação que não está prevista em seu texto.
+Papel das Unidades Orçamentárias: Embora as unidades orçamentárias participem do processo de planejamento e execução orçamentária, suas atribuições específicas são definidas em legislações infraconstitucionais e normativos internos, não diretamente pela Constituição.
+Resposta Correta: Diante disso, a questão deve ser considerada errada, conforme apontado pelo CEBRASPE.
+Recomendação:
+Ao estudar temas relacionados ao direito financeiro e orçamentário, é importante diferenciar o que está estabelecido na Constituição Federal daquilo que é regulamentado por leis complementares, ordinárias e normas infralegais.
+Sempre verifique a fonte primária (no caso, o texto constitucional) para confirmar se determinada atribuição ou responsabilidade está realmente prevista ali.
+
+Reportar abuso
+Ajudou (13) Não ajudou
+K
+Kalynara
+16 de janeiro de 2025 às 10:08
+Além das unidades orçamentárias não serem integrantes do sistema de planejamento e orçamento da União, ainda pesa na assertiva o fato de estas não poderem alterar a estrutura programática. As unidades orçamentárias (UOs) são as menores partes de um órgão público, que recebem recursos do orçamento para realizar suas atividades.
+Reportar abuso
+Ajudou (2) Não ajudou
+18
+Q3436389
+Língua Portuguesa Sentidos do texto
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - IRBr - Terceiro Secretário da Carreira de Diplomata - 2024
+Texto associado
+Texto V
+Quando os jornais anunciaram para o dia 1.º deste mês uma parede de açougueiros, a sensação que tive foi muito diversa da de todos os meus concidadãos. Vós ficastes aterrados; eu agradeci o acontecimento ao céu. Boa ocasião para converter esta cidade ao vegetarismo.
+Não sei se sabem que eu era carnívoro por educação e vegetariano por princípio. Criaram-me a carne, mais carne, ainda carne, sempre carne. Quando cheguei ao uso da razão e organizei o meu código de princípios, incluí nele o vegetarismo; mas era tarde para a execução. Fiquei carnívoro. Era a sorte humana; foi a minha. Não importa, o homem é carnívoro.
+Deus, ao contrário, é vegetariano. Para mim, a questão do paraíso terrestre explica-se clara e singelamente pelo vegetarismo. Deus criou o homem para os vegetais, e os vegetais para o homem.
+Enfim, chegou o dia 1.º de março; quase todos os açougues amanheceram sem carne. Chamei a família; com um discurso mostrei-lhe que a superioridade do vegetal sobre o animal era tão grande, que devíamos aproveitar a ocasião e adotar o são e fecundo princípio vegetariano. Ervas, ervas santas, puras, em que não há sangue; todas as variedades das plantas, que não berram nem esperneiam, quando lhes tiram a vida. Convenci a todos; não tivemos almoço nem jantar, mas dois banquetes. Nos outros dias a mesma cousa.
+O vegetarismo é pai dos simples. Os vegetarianos não se batem; têm horror ao sangue. Eu não me dou por apóstolo único desta grande doutrina. Creio até que os temos aqui, anteriores a mim, e, — singular aproximação! — no próprio conselho municipal. Só assim explico a nota jovial que entra em alguns debates sobre assuntos graves e gravíssimos.
+Machado de Assis. Carnívoros e vegetarianos. In: A Semana, 1892 (com adaptações).
+Considerando as ideias e os aspectos linguísticos do texto V, julgue (C ou E) os itens subsequentes.
+Evidencia-se na narrativa que o movimento paredista desencadeia um afastamento do narrador em relação à infância, o que o leva a uma crítica a hábitos adquiridos em seu percurso no sistema educacional e, ao mesmo tempo, a uma defesa da racionalidade humana.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+66.5% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Alvaro Lincoln
+14 de outubro de 2024 às 14:25
+Errado, em momento nenhum o autor fala sobre infância, houve extrapolação
+Reportar abuso
+Ajudou (9) Não ajudou
+Gilmar Gil
+16 de janeiro de 2025 às 23:25
+Errado
+"evidencia-se" refere-se a "compreenção" e não "interpretação" do texto.
+Evidência pode ser usada para referir-se a: 
+Uma indicação de que uma proposição é verdadeira
+Um indício de que algo existe
+Uma prova, testemunho, comprovação
+Uma característica de algo que é claro e certo
+Uma condição de destaque de uma pessoa ou coisa
+
+Reportar abuso
+Ajudou (0) Não ajudou
+N
+Nvtesanctec
+9 de novembro de 2024 às 21:30
+O termo "evidencia-se" seria compreensão ? Que estaria claro no texto e por isso errado ? Se caso fosse "infere-se (interpretação) seria "certo" o gabarito? Quem entendeu poderia me explicar?
+Reportar abuso
+Ajudou (0) Não ajudou
+19
+Q3128921
+Administração de Recursos Materiais Armazenagem, Distribuição e Transporte
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+Acerca da armazenagem, da gestão de estoques e da gestão de transportes, julgue os itens subsequentes.
+O custo de aquisição de estoques corresponde ao custo de capital para manter a mercadoria somado ao custo de ocupação do espaço no armazém.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+43.8% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+Comentário em vídeo
+
+Comentar
+Manuella O Nascimento
+30 de janeiro de 2024 às 16:46
+ERRADO
+O custo de aquisição de estoques abrange o preço de compra dos itens e também
+outros custos associados à aquisição, como impostos, frete e despesas relacionadas.
+Reportar abuso
+Ajudou (101) Não ajudou
+Matheus Pereira Costa
+31 de janeiro de 2024 às 15:52
+Custo Total = Custo de armazenagem + Custo do pedido
+Reportar abuso
+Ajudou (54) Não ajudou
+RF
+Raiane Fontineles Da Silva
+17 de janeiro de 2025 às 18:30
+O custo de ARMAZENAGEM de estoques corresponde ao custo de capital para manter a mercadoria somado ao custo de ocupação do espaço no armazém.
+Reportar abuso
+Ajudou (1) Não ajudou
+20
+Q3128959
+Administração de Recursos Materiais Avaliação de Estoques
+Ano: 2024
+Banca: Centro de Seleção e de Promoção de Eventos UnB - CESPE CEBRASPE
+Prova: CESPE/CEBRASPE - CNPq - Analista - Área: Administração e Recursos Logísticos - 2024
+Texto associado
+No que se refere à gestão de insumos, julgue os itens a seguir.
+Em um contexto inflacionário, o método de avaliação de estoque “último a entrar, primeiro a sair” (UEPS) é o que resulta em maior valor dos estoques.
+C
+Certo
+E
+Errado
+Responder
+Errada!Opção correta:
+E
+58.0% acertaram
+Comentários
+Marcadores
+Anotações
+Estatísticas
+Reportar Erro
+Escolha quais comentários gostaria de ver
+Maia
+Alunos
+
+Comentar
+Matheus Pereira Costa
+31 de janeiro de 2024 às 15:55
+É o contrario no contexto inflacionário, o valor do estoque no metodo UEPS é menor por isso que no Brasil é proibido a utilização desse metodo de avaliação de estoque pois gerá menos receita provindas de impostos sobre as empresas, sendo liberado no brasil apenas o PEPS (esse inclusive é o mais indicado para regimes deflacionario) e o da media movel ponderada
+Reportar abuso
+Ajudou (125) Não ajudou
+Manuella O Nascimento
+6 de maio de 2024 às 16:02
+ERRADO
+Método UEPS não vai aumentar o valor do estoque, tendo em vista que os produtos mais caros vão chegar e já serem vendidos.
+Já os produtos antigos (mais baratos), ficarão no estoque, mantendo o valor.
+Reportar abuso
+Ajudou (40) Não ajudou
+CO
+Claudecy Oliveira Araujo
+9 de janeiro de 2025 às 12:05
+Entendi, mas pensava que fosse o contrário, pois o produto antigo foi adquerido mais barato, agora ele vale mais por conta da inflação. O último a entrar, por sua vez, já entra inflacionado.
+
+Reportar abuso
+Ajudou (4) Não ajudou
+RF
+Raiane Fontineles Da Silva
+17 de janeiro de 2025 às 19:05
+(UEPS) resulta no menor valor dos estoques e maior custo das mercadorias vendidas (CMV).
+Reportar abuso
+Ajudou (1) Não ajudou
+Daniel
+5 de janeiro de 2025 às 16:10
+Se entrou por último e já saiu, num contexto inflacionário, não dá para ver, nos estoques os valores mais recentes, que são justamente os valores mais atualizados e portanto mais altos. Nesse contexto, os mais antigos são mais baratos e os mais novos (os que entraram por último), mais caros.
+Reportar abuso
+Ajudou (1) Não ajudou
+Página 1 de 2
